@@ -1,0 +1,13 @@
+In file included from work/lesson02-completion/20261009/build-02/binding/vnpy_ctp/api/vnctp/vnctptd/vnctptd.cpp:4:
+In file included from work/lesson02-completion/20261009/build-02/binding/vnpy_ctp/api/vnctp/vnctptd/vnctptd.h:6:
+work/lesson02-completion/20261009/build-02/binding/vnpy_ctp/api/vnctp/vnctp.h:181:13: warning: ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+  181 |     *pout = "\0";
+      |             ^
+work/lesson02-completion/20261009/build-02/binding/vnpy_ctp/api/vnctp/vnctp.h:189:15: warning: variable length arrays in C++ are a Clang extension [-Wvla-cxx-extension]
+  189 |     char temp[length];
+      |               ^~~~~~
+work/lesson02-completion/20261009/build-02/binding/vnpy_ctp/api/vnctp/vnctp.h:189:15: note: read of non-const variable 'length' is not allowed in a constant expression
+work/lesson02-completion/20261009/build-02/binding/vnpy_ctp/api/vnctp/vnctp.h:188:9: note: declared here
+  188 |     int length = gb2312.size() * 2 + 1;
+      |         ^
+2 warnings generated.

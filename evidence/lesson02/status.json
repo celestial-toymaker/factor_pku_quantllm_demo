@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "assignment": "第二讲作业",
+  "checked_utc": "2026-10-09T05:14:22.950876+00:00",
+  "source_study": {
+    "repositories": 3,
+    "pages": 8,
+    "manifest": "../../docs/veighna/source_manifest.json"
+  },
+  "simnow": {
+    "live_acceptance": "PASS",
+    "instrument": "T2612",
+    "exchange": "CFFEX",
+    "quantity": 1,
+    "trigger": "LastPrice > 109.0",
+    "plan_hash": "61cb0c814d202d1b52d71b182675e1f327f88b7baad0b3cc97308b2724e357f4",
+    "trade_date": "2026-10-09",
+    "provider_time_zone": "Asia/Shanghai",
+    "fills": [
+      {
+        "leg": "OPEN",
+        "side": "BUY",
+        "quantity": 1,
+        "price": 109.42,
+        "time": "13:04:12",
+        "order_ref": "2",
+        "order_sys_id": "388242",
+        "trade_id": "251873"
+      },
+      {
+        "leg": "CLOSE",
+        "side": "SELL",
+        "quantity": 1,
+        "price": 109.415,
+        "time": "13:04:12",
+        "order_ref": "3",
+        "order_sys_id": "388243",
+        "trade_id": "251874"
+      }
+    ],
+    "final_long": 0,
+    "final_short": 0,
+    "active_orders": 0,
+    "read_only_reconciliation": "PASS",
+    "independent_broker_query": "PASS",
+    "md_callbacks": 39,
+    "sampled_quote_observations": {
+      "IF2612": 20,
+      "T2612": 17
+    },
+    "all_last_quotes_fresh": true,
+    "freshness_seconds": {
+      "local_min": 0,
+      "local_max": 3,
+      "source_min": -1,
+      "source_max": 3
+    },
+    "net_profit_cny": null,
+    "net_profit_unavailable_reason": "Functional lifecycle acceptance; no exact per-fill commission settlement export in this evidence."
+  },
+  "verification": {
+    "python": "3.13.5",
+    "ctp_tests": 77,
+    "factor_tests": 33,
+    "fresh_installation": "PASS",
+    "native_compilation": "PASS",
+    "native_api_import": "PASS",
+    "offline_simulation": "PASS",
+    "frozen_runtime_hashes_match": true,
+    "new_factor_portfolio_evaluations": 0,
+    "current_offline_verification": "../independence/offline-verification.json"
+  },
+  "factor": {
+    "metrics_sha256": "7e359b00625178d5a9f7c7f6b54f72b5dd1c8485de2b4570b86c363e75df0426",
+    "method_selected": "NET_K20_A02",
+    "validation_qualified": false,
+    "research_outcome": "NO_FACTOR_PASSED",
+    "final_sessions": 7,
+    "independent_untouched_sample": false
+  },
+  "publication": {
+    "authorized": true,
+    "acceptance_scope": "Recorded coursework requirements; not a profitability or production-system claim."
+  }
+}

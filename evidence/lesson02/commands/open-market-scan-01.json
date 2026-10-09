@@ -1,0 +1,39 @@
+{
+  "run_id": "open-market-scan-01",
+  "started_utc": "2026-10-09T04:22:40.564675+00:00",
+  "finished_utc": "2026-10-09T04:22:50.366230+00:00",
+  "cwd": "$WORK/private",
+  "argv": [
+    "$WORK/.venv/bin/python",
+    "-m",
+    "ctp_assignment.cli",
+    "inspect",
+    "--simnow",
+    "--config",
+    "$WORK/private/simnow.json",
+    "--native-dir",
+    "$WORK/build-02/native",
+    "--symbols",
+    "IF2612",
+    "T2612",
+    "--output",
+    "$WORK/logs/open-market-scan-01.json"
+  ],
+  "exit_code": 0,
+  "source_sha256": {
+    "projects/ctp_assignment/scripts/build_native.py": "f1aa47efbb8fe6f5497a1f61ebdd8091497232ae33e5c5027653129a87dd557e",
+    "projects/ctp_assignment/scripts/fetch_sources.py": "4829219d7f9862f1f895885537e9967b733023f1420147e242ecd7ed207c417a",
+    "projects/ctp_assignment/src/ctp_assignment/__init__.py": "19e0b94a150b336c106356a85be5b7b136c7f72b67e6948dad7121370865b61f",
+    "projects/ctp_assignment/src/ctp_assignment/cli.py": "824f368f5ca84c022e79993494268e32bb461f46cd050d6c99cd11c0d6e1e0cf",
+    "projects/ctp_assignment/src/ctp_assignment/core.py": "cd1816cf75112a92aae2844c0469eb8453e4f2ba8155c0031da4216eb5bb3895",
+    "projects/ctp_assignment/src/ctp_assignment/market.py": "5e5d37875dbbd0dd5ffd4810b11100de2c51912a5d5d49603593b54ee484f706",
+    "projects/ctp_assignment/src/ctp_assignment/native.py": "932bc220f950c098f91580bf667e8548c05d3c77cf3622523a471d0de79f327a",
+    "projects/ctp_assignment/src/ctp_assignment/runner.py": "4c4409aa8db3b18c02efbbd5bb25035d379a1743e542f601cb663aab9041105c",
+    "projects/ctp_assignment/src/ctp_assignment/security.py": "d70f43f5e247852dd71d5d662daeede360eda11d336b7241845dd7cd09bed333",
+    "projects/ctp_assignment/tests/test_adapter.py": "659671c7356220c63ed4e994e8af131454ddcda78807764934d5b8f61e6b9167",
+    "projects/ctp_assignment/tests/test_lifecycle.py": "0fa37a092b91510917d7805a92e65dfb7da0c6f4c2cf554c2c40dd1b7b56b843",
+    "projects/ctp_assignment/tests/test_market.py": "285beddfe5fe738564dc2ea95f41bc888c75aee6756d0a7eb21fc97963c79f48",
+    "projects/ctp_assignment/tests/test_runner.py": "114d3432ac3fb9bcb1482e5a937501060d6b8b9a6e38c049251ff29b1ddd2d68"
+  },
+  "raw_output": "private; excluded from publication"
+}

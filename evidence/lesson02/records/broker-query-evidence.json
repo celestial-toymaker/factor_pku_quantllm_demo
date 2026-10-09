@@ -1,0 +1,208 @@
+{
+  "mode": "SIMNOW",
+  "orders_sent": 0,
+  "instrument": "T2612",
+  "started_utc": "2026-10-09T05:05:41.657999+00:00",
+  "completed_queries": [
+    "orders",
+    "trades",
+    "positions"
+  ],
+  "active_orders": 0,
+  "orders": [
+    {
+      "InstrumentID": "T2612",
+      "ExchangeID": "CFFEX",
+      "OrderRef": "2",
+      "FrontID": 1,
+      "SessionID": 1976489937,
+      "OrderSysID": "      388242",
+      "Direction": "0",
+      "CombOffsetFlag": "0",
+      "LimitPrice": 109.42,
+      "VolumeTotalOriginal": 1,
+      "VolumeTraded": 1,
+      "OrderStatus": "0",
+      "OrderSubmitStatus": "0",
+      "InsertDate": "20261009",
+      "InsertTime": "13:04:12"
+    },
+    {
+      "InstrumentID": "T2612",
+      "ExchangeID": "CFFEX",
+      "OrderRef": "3",
+      "FrontID": 1,
+      "SessionID": 1976489937,
+      "OrderSysID": "      388243",
+      "Direction": "1",
+      "CombOffsetFlag": "1",
+      "LimitPrice": 109.415,
+      "VolumeTotalOriginal": 1,
+      "VolumeTraded": 1,
+      "OrderStatus": "0",
+      "OrderSubmitStatus": "0",
+      "InsertDate": "20261009",
+      "InsertTime": "13:04:12"
+    }
+  ],
+  "trades": [
+    {
+      "InstrumentID": "T2612",
+      "ExchangeID": "CFFEX",
+      "OrderRef": "2",
+      "OrderSysID": "      388242",
+      "TradeID": "      251873",
+      "TradingDay": "20261009",
+      "TradeDate": "20261009",
+      "TradeTime": "13:04:12",
+      "Direction": "0",
+      "OffsetFlag": "0",
+      "Price": 109.42,
+      "Volume": 1
+    },
+    {
+      "InstrumentID": "T2612",
+      "ExchangeID": "CFFEX",
+      "OrderRef": "3",
+      "OrderSysID": "      388243",
+      "TradeID": "      251874",
+      "TradingDay": "20261009",
+      "TradeDate": "20261009",
+      "TradeTime": "13:04:12",
+      "Direction": "1",
+      "OffsetFlag": "1",
+      "Price": 109.415,
+      "Volume": 1
+    }
+  ],
+  "long": 0,
+  "short": 0,
+  "attributed_order_count": 2,
+  "attributed_trade_count": 2,
+  "verified": true,
+  "completed_utc": "2026-10-09T05:05:45.111143+00:00",
+  "callback_trace": [
+    {
+      "api": "MD",
+      "event": "onFrontConnected",
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRspUserLogin",
+      "request_id": 0,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onFrontConnected",
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspAuthenticate",
+      "request_id": 2,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspUserLogin",
+      "request_id": 3,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRtnOrder",
+      "count": 3
+    },
+    {
+      "api": "TD",
+      "event": "onRtnInstrumentStatus",
+      "count": 20
+    },
+    {
+      "api": "TD",
+      "event": "onRtnTrade",
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRtnOrder",
+      "count": 2
+    },
+    {
+      "api": "TD",
+      "event": "onRtnInstrumentStatus",
+      "count": 10
+    },
+    {
+      "api": "TD",
+      "event": "onRtnOrder",
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRtnTrade",
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRtnInstrumentStatus",
+      "count": 1045
+    },
+    {
+      "api": "TD",
+      "event": "onRspSettlementInfoConfirm",
+      "request_id": 4,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryOrder",
+      "request_id": 5,
+      "last": false,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryOrder",
+      "request_id": 5,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryTrade",
+      "request_id": 6,
+      "last": false,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryTrade",
+      "request_id": 6,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInvestorPosition",
+      "request_id": 7,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "stage": "final",
+  "created_utc": "2026-10-09T01:34:52.058747+00:00",
+  "download_complete": true,
+  "bars": 1046857,
+  "symbols": 300,
+  "first_date": "2007-12-28",
+  "last_date": "2026-09-30",
+  "duplicates": 0,
+  "invalid_ohlc": 0,
+  "unit_failures": 0,
+  "cached_member_rows_missing": 0,
+  "amount_relative_error_quantiles": null,
+  "corporate_actions": 388,
+  "findings_count": 0,
+  "material_findings": [],
+  "warnings": [
+    {
+      "symbol": "605499.SSE",
+      "date": "2026-09-24",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=114.45; supplied_preclose=111.48; explained_reference=111.45; disclosed_cash_bonus=True"
+    }
+  ],
+  "integrity_pass": true,
+  "fingerprints_sha256": "c23c7640d6f0287da8e232478815a90ed203393865bc8359a8efb7300f351b38",
+  "raw_prices": "BaoStock adjustflag=3; CNY per share; volume shares; amount CNY",
+  "redistribution": "Unverified: raw inputs withheld from release; anonymous noncommercial research access only",
+  "final_outcomes_read": true
+}

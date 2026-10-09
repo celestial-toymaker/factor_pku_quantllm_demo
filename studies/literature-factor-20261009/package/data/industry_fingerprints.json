@@ -1,0 +1,38 @@
+[
+  {
+    "path": "private/downloads/industry/2018.csv",
+    "rows": 3555,
+    "max_update": "2017-12-25",
+    "sha256": "2660bd799631ab0cb8a199bf8a6c807577840b53dd291580a8b6183ced873153"
+  },
+  {
+    "path": "private/downloads/industry/2019.csv",
+    "rows": 3665,
+    "max_update": "2018-12-24",
+    "sha256": "c3088d38a41b365712edf5dc796cf83dd4b36461a7ab5dfb5c6d957938fd7614"
+  },
+  {
+    "path": "private/downloads/industry/2020.csv",
+    "rows": 3864,
+    "max_update": "2019-12-23",
+    "sha256": "94e2c8d8072cf9ad6d14082bfa4a4bb39d38a145baca467100b200c286c99536"
+  },
+  {
+    "path": "private/downloads/industry/2021.csv",
+    "rows": 4259,
+    "max_update": "2020-12-28",
+    "sha256": "7c630030aa88a6e485d7e94f013609c33dc09676f9b07acb2b3230718d153e5b"
+  },
+  {
+    "path": "private/downloads/industry/2022.csv",
+    "rows": 4686,
+    "max_update": "2021-11-15",
+    "sha256": "9edbc6a542d0588bbf93599901e18a08816bc59ea7a8e042ade6b33f2c71590e"
+  },
+  {
+    "path": "private/downloads/industry/2023.csv",
+    "rows": 4930,
+    "max_update": "2022-08-01",
+    "sha256": "25040607fe8d61e0e2af0a681ca625b3a0a89d93c4d8790465e16993039f0abd"
+  }
+]

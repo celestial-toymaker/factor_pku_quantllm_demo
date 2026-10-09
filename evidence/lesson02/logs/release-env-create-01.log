@@ -1,0 +1,3 @@
+Using CPython 3.13.5 interpreter at: /opt/miniconda3/bin/python3.13
+Creating virtual environment at: work/lesson02-completion/20261009/release-env
+Activate with: source work/lesson02-completion/20261009/release-env/bin/activate

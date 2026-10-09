@@ -1,0 +1,54 @@
+{
+  "all_unchanged": true,
+  "checks": {
+    "NET_K05_A02": {
+      "mean_net_active": true,
+      "turnover": true,
+      "primary": true,
+      "folds": true,
+      "overlap": true,
+      "incremental_over_existing": true
+    },
+    "NET_K05_A04": {
+      "mean_net_active": true,
+      "turnover": true,
+      "primary": true,
+      "folds": true,
+      "overlap": true,
+      "incremental_over_existing": true
+    },
+    "NET_K10_A02": {
+      "mean_net_active": true,
+      "turnover": true,
+      "primary": true,
+      "folds": true,
+      "overlap": true,
+      "incremental_over_existing": true
+    },
+    "NET_K10_A04": {
+      "mean_net_active": true,
+      "turnover": true,
+      "primary": true,
+      "folds": true,
+      "overlap": true,
+      "incremental_over_existing": true
+    },
+    "NET_K20_A02": {
+      "mean_net_active": true,
+      "turnover": true,
+      "primary": true,
+      "folds": true,
+      "overlap": true,
+      "incremental_over_existing": true
+    },
+    "NET_K20_A04": {
+      "mean_net_active": true,
+      "turnover": true,
+      "primary": true,
+      "folds": true,
+      "overlap": true,
+      "incremental_over_existing": true
+    }
+  },
+  "correction_affects": "Diagnostic forward labels, IC distributions/groups and dependent qualification diagnostics; no primary return change"
+}

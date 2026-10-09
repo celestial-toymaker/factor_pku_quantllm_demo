@@ -1,0 +1,176 @@
+{
+  "mode": "SIMNOW",
+  "orders_sent": 0,
+  "status": "QUOTES_RECEIVED",
+  "login": "PASS",
+  "trading_day": "20261009",
+  "contract_queries": {
+    "IF2612": {
+      "returned_rows": 1,
+      "exact_match": true
+    },
+    "T2612": {
+      "returned_rows": 1,
+      "exact_match": true
+    }
+  },
+  "ticks": {
+    "IF2612": 20,
+    "T2612": 17
+  },
+  "last_quotes": {
+    "IF2612": {
+      "instrument": "IF2612",
+      "last": 4225.4,
+      "bid": 4225.6,
+      "ask": 4225.8,
+      "lower_limit": 3812.4,
+      "upper_limit": 4659.6,
+      "source_age_seconds": -0.77,
+      "continuous_trading": true,
+      "fresh": true,
+      "tick": 0.2
+    },
+    "T2612": {
+      "instrument": "T2612",
+      "last": 109.42,
+      "bid": 109.42,
+      "ask": 109.425,
+      "lower_limit": 107.175,
+      "upper_limit": 111.545,
+      "source_age_seconds": -0.77,
+      "continuous_trading": true,
+      "fresh": true,
+      "tick": 0.005
+    }
+  },
+  "subscription_callbacks": 2,
+  "all_last_quotes_fresh": true,
+  "last_completed_or_pending_stage": "TD_reqQryInstrument",
+  "callback_trace": [
+    {
+      "api": "MD",
+      "event": "onFrontConnected",
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRspUserLogin",
+      "request_id": 0,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onFrontConnected",
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspAuthenticate",
+      "request_id": 2,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspUserLogin",
+      "request_id": 3,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRtnOrder",
+      "count": 3
+    },
+    {
+      "api": "TD",
+      "event": "onRtnInstrumentStatus",
+      "count": 20
+    },
+    {
+      "api": "TD",
+      "event": "onRtnTrade",
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRtnOrder",
+      "count": 2
+    },
+    {
+      "api": "TD",
+      "event": "onRtnInstrumentStatus",
+      "count": 10
+    },
+    {
+      "api": "TD",
+      "event": "onRtnOrder",
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRtnTrade",
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRtnInstrumentStatus",
+      "count": 1045
+    },
+    {
+      "api": "TD",
+      "event": "onRspSettlementInfoConfirm",
+      "request_id": 4,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInstrument",
+      "request_id": 5,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInstrument",
+      "request_id": 6,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRspSubMarketData",
+      "request_id": 0,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRtnDepthMarketData",
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRspSubMarketData",
+      "request_id": 0,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRtnDepthMarketData",
+      "count": 38
+    }
+  ]
+}

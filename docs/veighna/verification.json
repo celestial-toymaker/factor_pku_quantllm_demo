@@ -1,0 +1,42 @@
+{
+  "scope": "source-study wiki and navigation only",
+  "checked_on": "2026-10-09",
+  "official_repositories": 3,
+  "original_source_files_verified": 12,
+  "original_archives_verified": 3,
+  "markdown_pages": 8,
+  "source_line_links_checked": 30,
+  "local_links_checked": 32,
+  "footnote_definitions_checked": 31,
+  "source_originals_unchanged": true,
+  "publication_paths": [
+    "docs/veighna/events-and-data.md",
+    "docs/veighna/index.md",
+    "docs/veighna/orders-and-reconciliation.md",
+    "docs/veighna/reading-guide.md",
+    "docs/veighna/source_manifest.json",
+    "docs/veighna/strategy-applications.md",
+    "docs/veighna/verification.json",
+    "docs/veighna/vnpy-ctastrategy.md",
+    "docs/veighna/vnpy-ctp.md",
+    "docs/veighna/vnpy.md",
+    "README.md",
+    "studies/literature-factor-20261009/README.md",
+    "studies/literature-factor-20261009/COURSE_COMMENT.md"
+  ],
+  "document_sha256": {
+    "docs/veighna/events-and-data.md": "629b7c359d7fe1dee41ac6a51e8a28a8d63b951601f5a28476e0ed0e55c72059",
+    "docs/veighna/index.md": "c7390b945f922f8388edd79a03e8faed5ea13649e3f314f3c4ca2b830ca4abb5",
+    "docs/veighna/orders-and-reconciliation.md": "a985c9ec98d5f7720a77e38b999b42ba09262502af390759c8b3f79cebfb7ed4",
+    "docs/veighna/reading-guide.md": "b3936188eefe1a6d544472c9ef5ddd6d3b7833a3714879c0325f5ada479539e1",
+    "docs/veighna/source_manifest.json": "4ee6b2fcb2c08d968c2012eeecc283676474a4b10eb21bfed68b1ff7f523bef6",
+    "docs/veighna/strategy-applications.md": "b82ef756f24aea577a5e894986eb7ca67c59a0fa0e9107dec55f3aaa83725d83",
+    "docs/veighna/vnpy-ctastrategy.md": "165f1a11b55434366ec9a9d890f1daba3160a746f206d0a84e5f1d8f5fc0e845",
+    "docs/veighna/vnpy-ctp.md": "6251a46d7c42b0a232624064252e0ced99ed89085fd96d70bb5cdb90ffec3fcd",
+    "docs/veighna/vnpy.md": "fd8c7ec7bc2a89a6abacb406059a8c937a4b0610c3852e5350bca7a46a9082bd",
+    "README.md": "9c99df92db066d160e26902553d3fc9b61fa9b903d25f7c99961b1676200df2c",
+    "studies/literature-factor-20261009/README.md": "ad95f7a5aba274526f97655f891bf272a7bf2ed482013609676547d1a915fae8",
+    "studies/literature-factor-20261009/COURSE_COMMENT.md": "25eab34a6b46fe517ee7df5159aba3cb2d640e0e01f52b096c9e1090bbbb22d8"
+  },
+  "result": "PASS"
+}

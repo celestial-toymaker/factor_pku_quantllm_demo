@@ -1,0 +1,33 @@
+{
+  "rows": 2668723,
+  "symbols": 819,
+  "min_date": "2007-09-24",
+  "max_date": "2024-01-10",
+  "duplicates": 0,
+  "membership_intervals": 995,
+  "member_count_min": 298,
+  "member_count_median": 300.0,
+  "member_count_max": 300,
+  "missing_by_field": {
+    "date": 0,
+    "open": 0,
+    "high": 0,
+    "low": 0,
+    "close": 0,
+    "volume": 0,
+    "amount": 0,
+    "open_interest": 0,
+    "vwap": 90890,
+    "symbol": 0,
+    "eligible_member": 0
+  },
+  "nonpositive_ohlc_rows": 0,
+  "nonpositive_volume_rows": 90890,
+  "absolute_next_stored_price_jump_over_25pct": 24,
+  "ohlc_subcent_fraction": 0.9975759942114637,
+  "monetary_amount_over_volume_close_quantiles": {
+    "0.01": 0.790708899287815,
+    "0.5": 7.312326942025923,
+    "0.99": 74.67990569646878
+  }
+}

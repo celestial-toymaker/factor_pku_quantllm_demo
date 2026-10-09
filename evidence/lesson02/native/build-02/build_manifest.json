@@ -1,0 +1,35 @@
+{
+  "sdk": "v6.7.13_MacOS_20260529",
+  "sdk_archives": {
+    "thostmduserapi_se.framework.zip": "90c4e21a961172383ee1656159f0113dbe108568fb13f960ecb00418f434e1c4",
+    "thosttraderapi_se.framework.zip": "49547e93b01bca9ac2e1fedae8d13f16d76c93498dba637c528a49cdb1e78e1c"
+  },
+  "binding_commit": "1be9bfb5292208e5c258cc769c90be4abe83f9a9",
+  "python": "3.13.5 | packaged by Anaconda, Inc. | (main, Jun 12 2025, 11:23:37) [Clang 14.0.6 ]",
+  "architecture": "arm64",
+  "outputs": {
+    "thostmduserapi_se.framework/Versions/A/Headers/ThostFtdcMdApi.h": "462726bbb749356fc555d51dd07384267ec312c6e06999c8150916ebfb5ef852",
+    "thostmduserapi_se.framework/Versions/A/Headers/ThostFtdcUserApiDataType.h": "8382452bcf0bb7616024e0cdc280bbd76dc2e80937c71f4fc0ade809cbef63e7",
+    "thostmduserapi_se.framework/Versions/A/Headers/ThostFtdcUserApiStruct.h": "56b3bdaef5f0cc9ddbf5df31c7e089fa99252553120a87f192415e4be42e6bf7",
+    "thostmduserapi_se.framework/Versions/A/Resources/Info.plist": "5be634de17bfb3c607c2d87ffce5b89ed95bd378f76b24d1411b91facdb77169",
+    "thostmduserapi_se.framework/Versions/A/Resources/demo.txt": "4afffbcd512f209c4f848eb29267e8ca74fd96ebea5d5a9ab2d514c9a3567dd8",
+    "thostmduserapi_se.framework/Versions/A/Resources/package.des": "263758e71aa6c5373e139609bea6ce55a4fe8927687e1baeace6a7d863b9120f",
+    "thostmduserapi_se.framework/Versions/A/Resources/readme.txt": "3bd5445cd5f1389639f9e1d888404f318c6d18393497f88931566ab5273fb0ad",
+    "thostmduserapi_se.framework/Versions/A/_CodeSignature/CodeResources": "9b726fffd32590d70c2571dfb73d8ef6a56ef5826d542a838e6d5830970c0e01",
+    "thostmduserapi_se.framework/Versions/A/thostmduserapi_se": "0807ef14c6af71995e7096036f864498e7b75de22a641a679adfabbd3e371816",
+    "thosttraderapi_se.framework/Versions/A/Headers/ThostFtdcTraderApi.h": "0941868f8f36ec648a26b5dc6b5f53983211b472b1a38e2fd7ebe84193c8a9ea",
+    "thosttraderapi_se.framework/Versions/A/Headers/ThostFtdcUserApiDataType.h": "8382452bcf0bb7616024e0cdc280bbd76dc2e80937c71f4fc0ade809cbef63e7",
+    "thosttraderapi_se.framework/Versions/A/Headers/ThostFtdcUserApiStruct.h": "56b3bdaef5f0cc9ddbf5df31c7e089fa99252553120a87f192415e4be42e6bf7",
+    "thosttraderapi_se.framework/Versions/A/Resources/Info.plist": "5b25159ee8a5f6dba0bdc1c9702c3bea58e5a75b4e35f21fc682afa1dd9e93e9",
+    "thosttraderapi_se.framework/Versions/A/Resources/demo.txt": "4afffbcd512f209c4f848eb29267e8ca74fd96ebea5d5a9ab2d514c9a3567dd8",
+    "thosttraderapi_se.framework/Versions/A/Resources/package.des": "263758e71aa6c5373e139609bea6ce55a4fe8927687e1baeace6a7d863b9120f",
+    "thosttraderapi_se.framework/Versions/A/Resources/readme.txt": "3bd5445cd5f1389639f9e1d888404f318c6d18393497f88931566ab5273fb0ad",
+    "thosttraderapi_se.framework/Versions/A/_CodeSignature/CodeResources": "0e3bc332a97e64971777310e469e34549c933c88bfb566f63f3107e5bf2a84e4",
+    "thosttraderapi_se.framework/Versions/A/thosttraderapi_se": "b0e3c684afbfcd24fe0b476363aa9bd35c4d85012c3f9e98e2f9ca9f60afe9d0",
+    "vnctpmd.cpython-313-darwin.so": "5c776bcef0443c01d44cd7837efad32f303ee21440e12d4df812d0ad32e0d32c",
+    "vnctptd.cpython-313-darwin.so": "e83d28a2c3a1b7baaa8cdefce20e3c59d40ddd7bfd56c41e53bf2b075f987b49"
+  },
+  "patch": "macOS ReqUserLogin two-argument signature from 6.7.13 SDK",
+  "new_613_methods_exposed": false,
+  "network_connections": 0
+}

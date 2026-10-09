@@ -1,0 +1,21 @@
+{
+  "orders_sent": 0,
+  "instrument": "T2612",
+  "margin": [
+    {
+      "InstrumentID": "T2612",
+      "ExchangeID": "",
+      "HedgeFlag": "1"
+    }
+  ],
+  "commission": [
+    {
+      "InstrumentID": "T2612",
+      "ExchangeID": "",
+      "HedgeFlag": null
+    }
+  ],
+  "account_currencies": [
+    "CNY"
+  ]
+}

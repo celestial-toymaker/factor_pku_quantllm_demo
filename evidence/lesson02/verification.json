@@ -1,0 +1,19 @@
+{
+  "result": "PASS",
+  "checked_utc": "2026-10-09T05:27:20.145364+00:00",
+  "base_commit": "cb7800ade7b881c439ae75c5abb8e6ceab31afa3",
+  "working_files_scanned": 365,
+  "reachable_history_blobs_scanned": 247,
+  "archive_members_scanned": 598,
+  "known_secret_matches": 0,
+  "common_secret_pattern_matches": 0,
+  "scan_scope": "Current tracked and non-ignored publication files, every locally reachable Git blob including origin/main, and all ZIP members in those trees.",
+  "markdown_local_links_checked": 112,
+  "frozen_runtime_files_verified": 7,
+  "factor_scientific_modules_unchanged": true,
+  "factor_metrics_unchanged": true,
+  "new_factor_evaluations": 0,
+  "live_evidence_verified": true,
+  "source_wiki_verification": "../../docs/veighna/verification.json",
+  "package_verification": "factor-package-validation.json"
+}

@@ -1,0 +1,450 @@
+{
+  "passed": true,
+  "accounts": 63,
+  "checks": [
+    {
+      "account": "NET_K05_A02_2018-01-01",
+      "sessions": 487,
+      "fills": 6697,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "NET_K05_A02_2020-01-01",
+      "sessions": 486,
+      "fills": 6885,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "NET_K05_A02_2022-01-01",
+      "sessions": 484,
+      "fills": 6177,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "NET_K05_A04_2018-01-01",
+      "sessions": 487,
+      "fills": 7471,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "NET_K05_A04_2020-01-01",
+      "sessions": 486,
+      "fills": 7967,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "NET_K05_A04_2022-01-01",
+      "sessions": 484,
+      "fills": 6956,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "NET_K10_A02_2018-01-01",
+      "sessions": 487,
+      "fills": 7407,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "NET_K10_A02_2020-01-01",
+      "sessions": 486,
+      "fills": 6918,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "NET_K10_A02_2022-01-01",
+      "sessions": 484,
+      "fills": 6120,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "NET_K10_A04_2018-01-01",
+      "sessions": 487,
+      "fills": 8250,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "NET_K10_A04_2020-01-01",
+      "sessions": 486,
+      "fills": 8051,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "NET_K10_A04_2022-01-01",
+      "sessions": 484,
+      "fills": 6986,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "NET_K20_A02_2018-01-01",
+      "sessions": 487,
+      "fills": 7330,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "NET_K20_A02_2020-01-01",
+      "sessions": 486,
+      "fills": 6804,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "NET_K20_A02_2022-01-01",
+      "sessions": 484,
+      "fills": 6084,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "NET_K20_A04_2018-01-01",
+      "sessions": 487,
+      "fills": 8239,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "NET_K20_A04_2020-01-01",
+      "sessions": 486,
+      "fills": 7922,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "NET_K20_A04_2022-01-01",
+      "sessions": 484,
+      "fills": 6921,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "ablation_existing_equal_rank_2018-01-01",
+      "sessions": 487,
+      "fills": 8721,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "ablation_existing_equal_rank_2020-01-01",
+      "sessions": 486,
+      "fills": 8332,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "ablation_existing_equal_rank_2022-01-01",
+      "sessions": 484,
+      "fills": 7523,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "ablation_momentum20_2018-01-01",
+      "sessions": 487,
+      "fills": 4685,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "ablation_momentum20_2020-01-01",
+      "sessions": 486,
+      "fills": 4270,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "ablation_momentum20_2022-01-01",
+      "sessions": 484,
+      "fills": 3911,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "ablation_permuted_leader_graph_2018-01-01",
+      "sessions": 487,
+      "fills": 7476,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "ablation_permuted_leader_graph_2020-01-01",
+      "sessions": 486,
+      "fills": 7168,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "ablation_permuted_leader_graph_2022-01-01",
+      "sessions": 484,
+      "fills": 6278,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "ablation_reversal5_2018-01-01",
+      "sessions": 487,
+      "fills": 9090,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "ablation_reversal5_2020-01-01",
+      "sessions": 486,
+      "fills": 8674,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "ablation_reversal5_2022-01-01",
+      "sessions": 484,
+      "fills": 7285,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "benchmark_2018-01-01",
+      "sessions": 487,
+      "fills": 989,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "benchmark_2020-01-01",
+      "sessions": 486,
+      "fills": 1112,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "benchmark_2022-01-01",
+      "sessions": 484,
+      "fills": 646,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "diagnostic_capacity_10m_2018-01-01",
+      "sessions": 487,
+      "fills": 8224,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "diagnostic_capacity_10m_2020-01-01",
+      "sessions": 486,
+      "fills": 8101,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "diagnostic_capacity_10m_2022-01-01",
+      "sessions": 484,
+      "fills": 7206,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "diagnostic_delay_plus_one_2018-01-01",
+      "sessions": 487,
+      "fills": 7357,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "diagnostic_delay_plus_one_2020-01-01",
+      "sessions": 486,
+      "fills": 6680,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "diagnostic_delay_plus_one_2022-01-01",
+      "sessions": 484,
+      "fills": 6090,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "diagnostic_friction_2x_2018-01-01",
+      "sessions": 487,
+      "fills": 7332,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "diagnostic_friction_2x_2020-01-01",
+      "sessions": 486,
+      "fills": 6774,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "diagnostic_friction_2x_2022-01-01",
+      "sessions": 484,
+      "fills": 6070,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "diagnostic_friction_3x_2018-01-01",
+      "sessions": 487,
+      "fills": 7291,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "diagnostic_friction_3x_2020-01-01",
+      "sessions": 486,
+      "fills": 6715,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "diagnostic_friction_3x_2022-01-01",
+      "sessions": 484,
+      "fills": 6017,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "diagnostic_transfer_2018-01-01",
+      "sessions": 487,
+      "fills": 3800,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "diagnostic_transfer_2020-01-01",
+      "sessions": 486,
+      "fills": 3647,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "diagnostic_transfer_2022-01-01",
+      "sessions": 484,
+      "fills": 3297,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "existing_baseline_2018-01-01",
+      "sessions": 487,
+      "fills": 8721,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "existing_baseline_2020-01-01",
+      "sessions": 486,
+      "fills": 8332,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "existing_baseline_2022-01-01",
+      "sessions": 484,
+      "fills": 7523,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "final_base",
+      "sessions": 7,
+      "fills": 119,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "final_benchmark_base",
+      "sessions": 7,
+      "fills": 201,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "final_benchmark_capacity_10m",
+      "sessions": 7,
+      "fills": 328,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "final_benchmark_delay_plus_one",
+      "sessions": 7,
+      "fills": 201,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "final_benchmark_friction_2x",
+      "sessions": 7,
+      "fills": 200,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "final_benchmark_friction_3x",
+      "sessions": 7,
+      "fills": 200,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "final_benchmark_transfer",
+      "sessions": 7,
+      "fills": 117,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "final_capacity_10m",
+      "sessions": 7,
+      "fills": 129,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "final_delay_plus_one",
+      "sessions": 7,
+      "fills": 118,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "final_friction_2x",
+      "sessions": 7,
+      "fills": 119,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "final_friction_3x",
+      "sessions": 7,
+      "fills": 119,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "account": "final_transfer",
+      "sessions": 7,
+      "fills": 67,
+      "passed": true,
+      "errors": []
+    }
+  ],
+  "market_bars_read": false,
+  "new_final_evaluation": false,
+  "scope": "Arithmetic on retained evaluated ledgers, not an independent test of the factor"
+}

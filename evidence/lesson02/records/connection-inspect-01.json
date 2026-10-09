@@ -1,0 +1,6 @@
+{
+  "mode": "SIMNOW",
+  "orders_sent": 0,
+  "status": "BLOCKED",
+  "reason": "CTP_REQUEST_TIMEOUT"
+}

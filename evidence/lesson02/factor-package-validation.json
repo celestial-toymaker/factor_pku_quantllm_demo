@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "errors": [],
+  "checksums_checked": 198,
+  "final_labels_read": false,
+  "publication_derivation": {
+    "original_freeze_verified": true,
+    "scientific_modules_unchanged": true,
+    "presentation_modules_changed": [
+      "report.py",
+      "verify.py"
+    ],
+    "empirical_values_changed": false
+  },
+  "archive_members": 200,
+  "archive_sha256": "e88ba20ae1d2ecf39ef425043cf1948330b82d1816cd0156e6e3aa04da130a69",
+  "archive_bytes": 5458167,
+  "original_private_archive_unchanged": true,
+  "new_portfolio_evaluations": 0
+}

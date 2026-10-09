@@ -1,0 +1,7 @@
+Using Python 3.13.5 environment at: work/lesson02-completion/20261009/fresh-env
+Resolved 1 package in 1ms
+   Building lesson02-ctp-assignment @ file://$REPO/projects/ctp_assignment
+      Built lesson02-ctp-assignment @ file://$REPO/projects/ctp_assignment
+Prepared 1 package in 353ms
+Installed 1 package in 1ms
+ + lesson02-ctp-assignment==0.1.0 (from file://$REPO/projects/ctp_assignment)

@@ -1,0 +1,21 @@
+{
+  "candidate_id": "NET_K20_A02",
+  "validation_qualified": false,
+  "selection_kind": "fallback",
+  "protocol_hash": "046e0813a1c63dacfce5a24f7106ecfc5898f5d31b7d75c1fba677340809dfef",
+  "metrics_hash": "ab10b8668a24d3c15f85fcb15835d94dcfa144c862d6c0e6027ecd897c39c172",
+  "code_hash": "c4703c6f0512c900d336b37cf3346da073f367daf51a5211dc89ed4dd2180c79",
+  "frozen_utc": "2026-10-09T01:17:07.677478+00:00",
+  "final_start_in_cash": true,
+  "final_sessions": [
+    "2026-09-21",
+    "2026-09-22",
+    "2026-09-23",
+    "2026-09-24",
+    "2026-09-28",
+    "2026-09-29",
+    "2026-09-30"
+  ],
+  "release_authorized": false,
+  "freeze_hash": "4301ac8a4ff3678abd541d2d5626a5c3ef08d2f16c4ed03a4acbc65c414a6cb1"
+}

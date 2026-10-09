@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "mode": "SIMNOW",
+  "plan": {
+    "instrument": "T2612",
+    "exchange": "CFFEX",
+    "trigger_price": 109.0,
+    "mode": "SIMNOW",
+    "quantity": 1,
+    "quote_age": 3.0,
+    "source_future_tolerance": 1.0,
+    "order_timeout": 10.0,
+    "cancel_timeout": 10.0,
+    "run_timeout": 120.0,
+    "max_close_attempts": 3
+  },
+  "plan_hash": "61cb0c814d202d1b52d71b182675e1f327f88b7baad0b3cc97308b2724e357f4",
+  "status": "RECONCILE_REQUIRED",
+  "live_acceptance": "NOT_PASSED",
+  "fills": {
+    "OPEN": 0,
+    "CLOSE": 0
+  },
+  "events": [
+    {
+      "seq": 1,
+      "kind": "plan_frozen",
+      "data": {
+        "plan_hash": "61cb0c814d202d1b52d71b182675e1f327f88b7baad0b3cc97308b2724e357f4",
+        "mode": "SIMNOW"
+      }
+    },
+    {
+      "seq": 2,
+      "kind": "session_ready",
+      "data": {
+        "trading_day": "20261009"
+      }
+    },
+    {
+      "seq": 3,
+      "kind": "stopped",
+      "data": {
+        "reason": "MARGIN_OR_FEE_QUERY_INCOMPLETE"
+      }
+    }
+  ],
+  "reason": "MARGIN_OR_FEE_QUERY_INCOMPLETE",
+  "cleanup_error_type": null,
+  "execution_kind": "bounded_simnow_run",
+  "callback_trace": [
+    {
+      "api": "MD",
+      "event": "onFrontConnected",
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRspUserLogin",
+      "request_id": 0,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onFrontConnected",
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspAuthenticate",
+      "request_id": 2,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspUserLogin",
+      "request_id": 3,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRtnInstrumentStatus",
+      "count": 1075
+    },
+    {
+      "api": "TD",
+      "event": "onRspSettlementInfoConfirm",
+      "request_id": 4,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInstrument",
+      "request_id": 5,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRspSubMarketData",
+      "request_id": 0,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRtnDepthMarketData",
+      "count": 2
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInstrumentMarginRate",
+      "request_id": 6,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRtnDepthMarketData",
+      "count": 3
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInstrumentCommissionRate",
+      "request_id": 7,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRtnDepthMarketData",
+      "count": 2
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryTradingAccount",
+      "request_id": 8,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    }
+  ]
+}

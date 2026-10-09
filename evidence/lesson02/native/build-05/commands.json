@@ -1,0 +1,84 @@
+[
+  {
+    "command": [
+      "ditto",
+      "-x",
+      "-k",
+      "$SDK/thostmduserapi_se.framework.zip",
+      "$WORK/build-05/native"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 0.03,
+    "log": "thostmduserapi_se-extract.log"
+  },
+  {
+    "command": [
+      "ditto",
+      "-x",
+      "-k",
+      "$SDK/thosttraderapi_se.framework.zip",
+      "$WORK/build-05/native"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 0.026,
+    "log": "thosttraderapi_se-extract.log"
+  },
+  {
+    "command": [
+      "clang++",
+      "-std=c++17",
+      "-O2",
+      "-shared",
+      "-fPIC",
+      "-arch",
+      "arm64",
+      "-mmacosx-version-min=11.0",
+      "-undefined",
+      "dynamic_lookup",
+      "-I/opt/miniconda3/include/python3.13",
+      "-I$WORK/fresh-env/lib/python3.13/site-packages/pybind11/include",
+      "-I$WORK/build-05/headers",
+      "-I$WORK/build-05/binding/vnpy_ctp/api/vnctp",
+      "-F$WORK/build-05/native",
+      "-framework",
+      "thostmduserapi_se",
+      "-liconv",
+      "-Wl,-rpath,@loader_path",
+      "$WORK/build-05/binding/vnpy_ctp/api/vnctp/vnctpmd/vnctpmd.cpp",
+      "-o",
+      "$WORK/build-05/native/vnctpmd.cpython-313-darwin.so"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 2.245,
+    "log": "vnctpmd-build.log"
+  },
+  {
+    "command": [
+      "clang++",
+      "-std=c++17",
+      "-O2",
+      "-shared",
+      "-fPIC",
+      "-arch",
+      "arm64",
+      "-mmacosx-version-min=11.0",
+      "-undefined",
+      "dynamic_lookup",
+      "-I/opt/miniconda3/include/python3.13",
+      "-I$WORK/fresh-env/lib/python3.13/site-packages/pybind11/include",
+      "-I$WORK/build-05/headers",
+      "-I$WORK/build-05/binding/vnpy_ctp/api/vnctp",
+      "-F$WORK/build-05/native",
+      "-framework",
+      "thosttraderapi_se",
+      "-liconv",
+      "-Wl,-rpath,@loader_path",
+      "$WORK/build-05/binding/vnpy_ctp/api/vnctp/vnctptd/vnctptd.cpp",
+      "-o",
+      "$WORK/build-05/native/vnctptd.cpython-313-darwin.so"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 8.275,
+    "log": "vnctptd-build.log"
+  }
+]

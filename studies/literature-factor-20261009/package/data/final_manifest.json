@@ -1,0 +1,20 @@
+{
+  "provider": "BaoStock plus separately attributed issuer action supplement",
+  "acquisition_date": "2026-10-09",
+  "requested_start": "2026-09-20",
+  "requested_end": "2026-10-07",
+  "necessary_history_start": "2007-12-28",
+  "last_actual_session": "2026-09-30",
+  "rows": 1046857,
+  "symbols": 300,
+  "final_sessions": 7,
+  "tradable_benchmark_target_names": 242,
+  "fees_and_account": "Frozen method/configuration; CNY1m and CNY10m diagnostic",
+  "fingerprints": "data/final_fingerprints.json",
+  "fingerprints_sha256": "c23c7640d6f0287da8e232478815a90ed203393865bc8359a8efb7300f351b38",
+  "integrity_pass": true,
+  "missing_provider_action": "data/final_action_supplement.json",
+  "redistribution": "Raw inputs and detailed price-bearing ledgers excluded from archive",
+  "private_work_root": "/Users/peter/qt/work/factor-discovery/20261009/private",
+  "prior_exposure": "Partial September exposure from student research; not untouched"
+}

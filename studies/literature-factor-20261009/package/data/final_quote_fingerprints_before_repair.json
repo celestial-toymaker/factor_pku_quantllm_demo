@@ -1,0 +1,1502 @@
+[
+  {
+    "path": "private/downloads/final/000001.SZSE/bars.csv",
+    "sha256": "e3b9d0c7d270a0b79f261a7c379c60dacef82f9a5a5c8c37615966db33f22522",
+    "bytes": 497944
+  },
+  {
+    "path": "private/downloads/final/000002.SZSE/bars.csv",
+    "sha256": "a5b021031334189a6f08d57e38a3675037ecf26c9ec745a1fb81f2fcb15e94cc",
+    "bytes": 489967
+  },
+  {
+    "path": "private/downloads/final/000063.SZSE/bars.csv",
+    "sha256": "49fcf290be01f6d4e9432d546e07a98a4a40ca39f9ce4d1580eae661680c3b23",
+    "bytes": 499188
+  },
+  {
+    "path": "private/downloads/final/000100.SZSE/bars.csv",
+    "sha256": "a00e2c52e9afadcfe5b532a8f4e9809a4274353981d8a962d075cc9db46c34db",
+    "bytes": 474751
+  },
+  {
+    "path": "private/downloads/final/000157.SZSE/bars.csv",
+    "sha256": "dc14a20feddaa690ebde68007e34f83efec85aa5b9401fbc45c17d1096110112",
+    "bytes": 480324
+  },
+  {
+    "path": "private/downloads/final/000166.SZSE/bars.csv",
+    "sha256": "7e476859f9cb8198b91cc50a8402589fe027ac8b2e5bafd3b960cb5c46f3b5ff",
+    "bytes": 297675
+  },
+  {
+    "path": "private/downloads/final/000301.SZSE/bars.csv",
+    "sha256": "6b0ac71ed9680ca3e47bf3ed08febd505e5289afc593f130265f57560d5375ff",
+    "bytes": 472857
+  },
+  {
+    "path": "private/downloads/final/000333.SZSE/bars.csv",
+    "sha256": "7c73073b38d03fdc1ac7f4128dc25ff532ff1c0fe558676a5b73aa9eda1f8c89",
+    "bytes": 347637
+  },
+  {
+    "path": "private/downloads/final/000338.SZSE/bars.csv",
+    "sha256": "9fb0bc65507391f0a87dee6fea7bca3a73722f371cbf2793e6d7658b25f4a190",
+    "bytes": 494352
+  },
+  {
+    "path": "private/downloads/final/000408.SZSE/bars.csv",
+    "sha256": "c5177b1d42774b9acd881d6f3a62cd2235bac8f6de2d0a034cb20565cf09b34c",
+    "bytes": 474814
+  },
+  {
+    "path": "private/downloads/final/000425.SZSE/bars.csv",
+    "sha256": "2c0ee78085fcbe56e1a9865e906433d6604939b558b0f9f33cb06608655c21d2",
+    "bytes": 481550
+  },
+  {
+    "path": "private/downloads/final/000538.SZSE/bars.csv",
+    "sha256": "5a060270a945ba14040b97c651f92d62cd0f09b220ca469b2277a113d1fd17f8",
+    "bytes": 492784
+  },
+  {
+    "path": "private/downloads/final/000568.SZSE/bars.csv",
+    "sha256": "3fb7c7fc60b55385c3be2256e48a9893db622aa02aea6f548796b9de18612c79",
+    "bytes": 504198
+  },
+  {
+    "path": "private/downloads/final/000596.SZSE/bars.csv",
+    "sha256": "530ff2d47393dc2bffb1056dabf5e7119455634c03c5c9c1c502e2db2e6c567d",
+    "bytes": 500145
+  },
+  {
+    "path": "private/downloads/final/000617.SZSE/bars.csv",
+    "sha256": "b56407d483645edd4d44fab133ca2cf2d40069ae223ee16cdd89c7ea4d96c60b",
+    "bytes": 478664
+  },
+  {
+    "path": "private/downloads/final/000625.SZSE/bars.csv",
+    "sha256": "a6ede1e22d61c6e6aef67746c09c293be331966633d779e1c038287edbef7b62",
+    "bytes": 488364
+  },
+  {
+    "path": "private/downloads/final/000630.SZSE/bars.csv",
+    "sha256": "6bf6e79965b878969140d15dd1a89c38cac2ea9dde24f8980b00fb37eaad4301",
+    "bytes": 480302
+  },
+  {
+    "path": "private/downloads/final/000651.SZSE/bars.csv",
+    "sha256": "f30b17d674371d37a670015354e961f896c661d4570dd45d1ea34b57c04177ce",
+    "bytes": 497070
+  },
+  {
+    "path": "private/downloads/final/000657.SZSE/bars.csv",
+    "sha256": "3112192712843a16ab17740478ee38986639d07a2b14efcd69042de0278d07fe",
+    "bytes": 462123
+  },
+  {
+    "path": "private/downloads/final/000708.SZSE/bars.csv",
+    "sha256": "0f8755a707a9a0d03c3a35c026878f857a08e8d3d44e13ff00b9cf7f92407a45",
+    "bytes": 483837
+  },
+  {
+    "path": "private/downloads/final/000725.SZSE/bars.csv",
+    "sha256": "0c87d3476f002fac3676e69977bd7aca9cac412e487fb6a66574b3e37897d921",
+    "bytes": 481298
+  },
+  {
+    "path": "private/downloads/final/000768.SZSE/bars.csv",
+    "sha256": "3301942f32d264ba09ba728594224fb8fe44b34ae0726b5e5b2e09a8cb166e22",
+    "bytes": 494071
+  },
+  {
+    "path": "private/downloads/final/000776.SZSE/bars.csv",
+    "sha256": "be28e5da98306d87a8f8a071031ad3d07913a6e85f980ff8c54afc105c8c0807",
+    "bytes": 487384
+  },
+  {
+    "path": "private/downloads/final/000792.SZSE/bars.csv",
+    "sha256": "9da17e15f74f9dce0423df735af0ff0b45f99f48954db427e278440a9f95e482",
+    "bytes": 482024
+  },
+  {
+    "path": "private/downloads/final/000807.SZSE/bars.csv",
+    "sha256": "77ba875390478205378d07b52036e3a093d43f940ef45e99b849cf968fab6703",
+    "bytes": 482025
+  },
+  {
+    "path": "private/downloads/final/000858.SZSE/bars.csv",
+    "sha256": "ebe83314c4b1411e958384843f970f5ee9e21b4f7617f99db816ee7f0eb2c0bf",
+    "bytes": 508425
+  },
+  {
+    "path": "private/downloads/final/000895.SZSE/bars.csv",
+    "sha256": "228010ce036e83244e92561870bd86f9ed7d3d9ccee72490b071be3fbecda2c5",
+    "bytes": 490769
+  },
+  {
+    "path": "private/downloads/final/000938.SZSE/bars.csv",
+    "sha256": "b71b43c6287c90d71be408a9b9909a493938272697b4b5331cae271e854cf8dd",
+    "bytes": 491498
+  },
+  {
+    "path": "private/downloads/final/000963.SZSE/bars.csv",
+    "sha256": "d2a77759c6b13db6131bcafa94b0147a8cc498c6416eb0b8a5f4d2771dd05a80",
+    "bytes": 492560
+  },
+  {
+    "path": "private/downloads/final/000975.SZSE/bars.csv",
+    "sha256": "2a9bd440797e2bed07c89a487d53ae3210db5fccf032d4fe4b5ba14fd4d93e50",
+    "bytes": 477704
+  },
+  {
+    "path": "private/downloads/final/000977.SZSE/bars.csv",
+    "sha256": "1ac1b8fee045bc38e23b091a0380333fb5ac75ff1b35b20eb60b833f37070381",
+    "bytes": 494084
+  },
+  {
+    "path": "private/downloads/final/000988.SZSE/bars.csv",
+    "sha256": "f993be3609677eddb700468ad1d39b9fc785ec34974505931200dfc3133f0af6",
+    "bytes": 494138
+  },
+  {
+    "path": "private/downloads/final/000999.SZSE/bars.csv",
+    "sha256": "791b75df2f8359f03a09c5e6bac13685505a059ce6c7155d81c439dd65f229e9",
+    "bytes": 490051
+  },
+  {
+    "path": "private/downloads/final/001280.SZSE/bars.csv",
+    "sha256": "925162a17a7413ecbdd1380c2a7dab21dabd8f394a639a78f8af4ee585a04ae4",
+    "bytes": 22278
+  },
+  {
+    "path": "private/downloads/final/001391.SZSE/bars.csv",
+    "sha256": "51ced49c99bd2a61b9c3f97c337f1cebe42c44caf5375981679e8338f37a5b94",
+    "bytes": 44568
+  },
+  {
+    "path": "private/downloads/final/001965.SZSE/bars.csv",
+    "sha256": "17973b4f96656e716208b3577841e1b790bb577bcf6e69d784bdd1e7324c7cf0",
+    "bytes": 222397
+  },
+  {
+    "path": "private/downloads/final/001979.SZSE/bars.csv",
+    "sha256": "82af43c36ece8e5f52a5b810c70977b3d60552916a063ab98a03a98e3cf5abae",
+    "bytes": 282921
+  },
+  {
+    "path": "private/downloads/final/002001.SZSE/bars.csv",
+    "sha256": "502397fa7715c8989778490cc14b3e1fb753bc95d41e69c22e409c0a4babb3c3",
+    "bytes": 496112
+  },
+  {
+    "path": "private/downloads/final/002027.SZSE/bars.csv",
+    "sha256": "6400f5911bd6a133bd5c3865defec4cacf9b6d08159ec5511b2fb3d4f3199eea",
+    "bytes": 476215
+  },
+  {
+    "path": "private/downloads/final/002028.SZSE/bars.csv",
+    "sha256": "df05fbd930365b452ae299d5155d58caac69a3f0c7d94b20ca6a9ff897e8a659",
+    "bytes": 495149
+  },
+  {
+    "path": "private/downloads/final/002049.SZSE/bars.csv",
+    "sha256": "d9d1f936c1e18c160523d181f23cb90d55dd897016a6aadddcf86340b11ade82",
+    "bytes": 490601
+  },
+  {
+    "path": "private/downloads/final/002050.SZSE/bars.csv",
+    "sha256": "097b44fdadbe5aeb75308a5d55b7e837c6f095da5c5410e3c36d36014256af7e",
+    "bytes": 490504
+  },
+  {
+    "path": "private/downloads/final/002074.SZSE/bars.csv",
+    "sha256": "32dc46706deb0b275f1d827179f0c87bc60e1facf147c7f906a10be125440138",
+    "bytes": 486376
+  },
+  {
+    "path": "private/downloads/final/002142.SZSE/bars.csv",
+    "sha256": "aca915eb33ac17d49f3410415c681d67b4806bd1cd6add833fa52c2dbea7a4e1",
+    "bytes": 494463
+  },
+  {
+    "path": "private/downloads/final/002179.SZSE/bars.csv",
+    "sha256": "544cf17a91c3b75ae1860017412abffc8ce23fa5e071a4bf3f2260f3c84ade40",
+    "bytes": 493789
+  },
+  {
+    "path": "private/downloads/final/002202.SZSE/bars.csv",
+    "sha256": "f52be81a869fd1ace66d04359d11344457882db48efb7d2b2ed504c261ce6f18",
+    "bytes": 493223
+  },
+  {
+    "path": "private/downloads/final/002230.SZSE/bars.csv",
+    "sha256": "c3c708ec8ac23f032a8bd5a7096e2850c9ea0720a6aaaa9bcaf27dbe28612696",
+    "bytes": 486990
+  },
+  {
+    "path": "private/downloads/final/002236.SZSE/bars.csv",
+    "sha256": "ad2957f2e88dd00a5d959f496ad1fe07e7ebb4339818ccdda9e20995d69e1dce",
+    "bytes": 486116
+  },
+  {
+    "path": "private/downloads/final/002241.SZSE/bars.csv",
+    "sha256": "3692fc9b41e2f4177586424d8b969b4274ca5a8296163421780d89635001f6b5",
+    "bytes": 486651
+  },
+  {
+    "path": "private/downloads/final/002304.SZSE/bars.csv",
+    "sha256": "d954928139f16aea7f8cd6d2fde9b7d061488fa0854d95ddd0338e7ea1780988",
+    "bytes": 456620
+  },
+  {
+    "path": "private/downloads/final/002311.SZSE/bars.csv",
+    "sha256": "2148a9194c16aecee6a66027805daa3df38932154fcc3c75524931e32a56f9f7",
+    "bytes": 441964
+  },
+  {
+    "path": "private/downloads/final/002352.SZSE/bars.csv",
+    "sha256": "ea59a316dc0b614bb85db5b15b06a8dc070e8bede4ad875da841938a5c4e374b",
+    "bytes": 437012
+  },
+  {
+    "path": "private/downloads/final/002353.SZSE/bars.csv",
+    "sha256": "8ffc0d2fb32ab395ed921d97247ae4c41ed54bf65fa81ef2568ccec8f9f3f336",
+    "bytes": 438115
+  },
+  {
+    "path": "private/downloads/final/002371.SZSE/bars.csv",
+    "sha256": "c9c69ad677c3ccf1413c1f049d6f2229e4e2dc79e13762fd8e5a51dc535c4b97",
+    "bytes": 442966
+  },
+  {
+    "path": "private/downloads/final/002384.SZSE/bars.csv",
+    "sha256": "41739d6ff03de8fd5e731b9f548e44cf244be2199f12fb2f40af57d3ffa53f36",
+    "bytes": 431810
+  },
+  {
+    "path": "private/downloads/final/002415.SZSE/bars.csv",
+    "sha256": "31587a0ac232936709c0b63543b1471fb94bf5f8d0cbb1d0cfdba9f7bbf17dbb",
+    "bytes": 433886
+  },
+  {
+    "path": "private/downloads/final/002422.SZSE/bars.csv",
+    "sha256": "cd83c8eab25954a830283f6e753273cccc62b7188d7ef74390a5ee4b5f75a6dc",
+    "bytes": 431518
+  },
+  {
+    "path": "private/downloads/final/002460.SZSE/bars.csv",
+    "sha256": "57576c1264a65bdce40c0778132bde3619d6024f2f7045181a2b373af157eef5",
+    "bytes": 429442
+  },
+  {
+    "path": "private/downloads/final/002463.SZSE/bars.csv",
+    "sha256": "09a0778b84b9f70b5fbb59b2e935dd58538b77f4ccf4d8f936239fa9c9ca1777",
+    "bytes": 418731
+  },
+  {
+    "path": "private/downloads/final/002466.SZSE/bars.csv",
+    "sha256": "4643d2c9c001cfd68e7a3b4864e67ec8bdd91ab22b7ee9feed76a41f3a34733c",
+    "bytes": 425583
+  },
+  {
+    "path": "private/downloads/final/002475.SZSE/bars.csv",
+    "sha256": "f60f90a79c88beda3eaecf0291150fbde96fdb08dfb82b87731bb0a2f85021f1",
+    "bytes": 425664
+  },
+  {
+    "path": "private/downloads/final/002493.SZSE/bars.csv",
+    "sha256": "33860dad6dc2cee10a076bafb5bb149448a2aee7e8c0a3072ded7fe97277e32c",
+    "bytes": 415850
+  },
+  {
+    "path": "private/downloads/final/002532.SZSE/bars.csv",
+    "sha256": "8acf2e2a9e7d8bf7b86742be98a3382cc78414e9f476bc8d8abf45d0c5d15f1a",
+    "bytes": 402631
+  },
+  {
+    "path": "private/downloads/final/002558.SZSE/bars.csv",
+    "sha256": "1da832416bfee3644a20049b1ea7a7e9f70f9efc3b92c600fd4ee5b8de9dac23",
+    "bytes": 401161
+  },
+  {
+    "path": "private/downloads/final/002594.SZSE/bars.csv",
+    "sha256": "30e9cd7c98ee9e3ddeab44e14deb544806d7dcd8cf7fabc1f6ca2c9f84c33d0a",
+    "bytes": 412294
+  },
+  {
+    "path": "private/downloads/final/002600.SZSE/bars.csv",
+    "sha256": "2b358d2a26613967608a9272d6efa6f84893fe75830f7962c8b8b6e5e69ea8a1",
+    "bytes": 389426
+  },
+  {
+    "path": "private/downloads/final/002602.SZSE/bars.csv",
+    "sha256": "df67bb3738f1c6a7f08efc5b554fa26307ac7feb007e040e4ff28b3d50ec42ae",
+    "bytes": 383094
+  },
+  {
+    "path": "private/downloads/final/002625.SZSE/bars.csv",
+    "sha256": "d1fef46d9a4d7b7203b59218d8c8eac1d9fc5cb8072a90b11e57639e81bfb322",
+    "bytes": 383810
+  },
+  {
+    "path": "private/downloads/final/002648.SZSE/bars.csv",
+    "sha256": "f7e2756d1455807df79cf02854f6f36b7c28f0393297fbd7a2b97a5a8f57cb0d",
+    "bytes": 388489
+  },
+  {
+    "path": "private/downloads/final/002709.SZSE/bars.csv",
+    "sha256": "703c1e1d8d0d5a6abbdaf16aa8fdcd10e5a43abe6f59a66c079728a5a91fb229",
+    "bytes": 337809
+  },
+  {
+    "path": "private/downloads/final/002714.SZSE/bars.csv",
+    "sha256": "cd61b882a4ca2d5d2d10e47a5df7cd49765738af286579b6e10c3c99c4e148c0",
+    "bytes": 337630
+  },
+  {
+    "path": "private/downloads/final/002736.SZSE/bars.csv",
+    "sha256": "306b013489cd946c6fec126fddbfee55288a3a8ce5584998725a3595f8766358",
+    "bytes": 307557
+  },
+  {
+    "path": "private/downloads/final/002837.SZSE/bars.csv",
+    "sha256": "5b32c3f20e64936d68a5fd4d8ecabbd208ea443b2fe8428c6fe5a66cafe2e351",
+    "bytes": 256632
+  },
+  {
+    "path": "private/downloads/final/002916.SZSE/bars.csv",
+    "sha256": "6974fca657c85cc3d9b85c5340f57dbd2084ff357b0f3db7bdf3b3f87b73e497",
+    "bytes": 238361
+  },
+  {
+    "path": "private/downloads/final/002920.SZSE/bars.csv",
+    "sha256": "0e90604e924018224b8fcaada05a7d8f995dc7139527f2197a9939e713f18cb3",
+    "bytes": 236486
+  },
+  {
+    "path": "private/downloads/final/002938.SZSE/bars.csv",
+    "sha256": "f26c48181404f3ec883bdfb2e7ffddc37185a95f88451748d13be1be84499c94",
+    "bytes": 213288
+  },
+  {
+    "path": "private/downloads/final/003816.SZSE/bars.csv",
+    "sha256": "2c73d1e7415aafebe0b30b1ee3697d40df809fcbfd3ffa26ee511abf23147729",
+    "bytes": 180770
+  },
+  {
+    "path": "private/downloads/final/300014.SZSE/bars.csv",
+    "sha256": "c660d7590f23aecf6a42b6462061a4bc36fd63865117b52483f6185d46526e85",
+    "bytes": 449130
+  },
+  {
+    "path": "private/downloads/final/300015.SZSE/bars.csv",
+    "sha256": "29c915f049cdf9ea8b777ad71bc10f3bf3394b659ba2464368118d3846e53a5e",
+    "bytes": 446607
+  },
+  {
+    "path": "private/downloads/final/300033.SZSE/bars.csv",
+    "sha256": "8652d04798914bad15a41cb6a361c04ff523406c0d9069725d748189f7f3edac",
+    "bytes": 449970
+  },
+  {
+    "path": "private/downloads/final/300059.SZSE/bars.csv",
+    "sha256": "1c741294f142885a3e8c352b82e72ecc24ec2650f705580658ddfdbceef49d14",
+    "bytes": 441877
+  },
+  {
+    "path": "private/downloads/final/300122.SZSE/bars.csv",
+    "sha256": "330cb2dcf38036a328314fc24dc6a10933775229efc51780dc854498b4a4260a",
+    "bytes": 422963
+  },
+  {
+    "path": "private/downloads/final/300124.SZSE/bars.csv",
+    "sha256": "1de791f91ee34f9ff6520b54831fd8d7c5dabbeef262bc335625f3bdc77419c3",
+    "bytes": 423636
+  },
+  {
+    "path": "private/downloads/final/300251.SZSE/bars.csv",
+    "sha256": "15199a7fe8b2e2ffb82802f9344216a8e0cc53a648f98d0f5fd14a48178bc92c",
+    "bytes": 393420
+  },
+  {
+    "path": "private/downloads/final/300274.SZSE/bars.csv",
+    "sha256": "490ea27d9cf20b524e281dd9e05d6cbc66522a17748d322a7bed43b52b159a02",
+    "bytes": 398046
+  },
+  {
+    "path": "private/downloads/final/300308.SZSE/bars.csv",
+    "sha256": "1dd71717f6485ce829c4a31ff45b8274b7ecd98315f36db8a8fb8fb5c2f9d318",
+    "bytes": 382188
+  },
+  {
+    "path": "private/downloads/final/300316.SZSE/bars.csv",
+    "sha256": "a288ea6b3ff70c7af9a12ed03255a31483372f6e056344b01e6170ca7df93b7b",
+    "bytes": 378325
+  },
+  {
+    "path": "private/downloads/final/300394.SZSE/bars.csv",
+    "sha256": "4b969e965a3bc3c093b6dd8b6c3f1ce38a48b07273b217488f400b06a2e3de07",
+    "bytes": 309664
+  },
+  {
+    "path": "private/downloads/final/300408.SZSE/bars.csv",
+    "sha256": "d0a85ae4b074e80feb0da18d4bd0fdac9af5db27a48823627bd993218e9aadb0",
+    "bytes": 314207
+  },
+  {
+    "path": "private/downloads/final/300413.SZSE/bars.csv",
+    "sha256": "be6f1e08f32d6f3ebf16de05f1f238c564cdaa44785b3848bdbe105e54e5f6bd",
+    "bytes": 304348
+  },
+  {
+    "path": "private/downloads/final/300418.SZSE/bars.csv",
+    "sha256": "cdd225c8c7fc59908878aab4e6ce613c9e2ac81b81b1f43107b0b8a87bd7ae16",
+    "bytes": 311412
+  },
+  {
+    "path": "private/downloads/final/300433.SZSE/bars.csv",
+    "sha256": "028706ba150a7006ea2fd7e91c583067bc274de95e6a1471fb24b5e1167c547d",
+    "bytes": 306224
+  },
+  {
+    "path": "private/downloads/final/300442.SZSE/bars.csv",
+    "sha256": "7ee36502067b625ca8f258349d5110dcef7b96c14e244f2f7ed48f4586ef3d26",
+    "bytes": 299725
+  },
+  {
+    "path": "private/downloads/final/300450.SZSE/bars.csv",
+    "sha256": "a97e7da16a42fea987d39905ac84cf87032385e83b48d1fdd2de745efc2d446c",
+    "bytes": 299929
+  },
+  {
+    "path": "private/downloads/final/300476.SZSE/bars.csv",
+    "sha256": "0133fa974627caa403440dca7fdab1168aa3fa61abbf0f9a21d007d6a11ebfe7",
+    "bytes": 301876
+  },
+  {
+    "path": "private/downloads/final/300498.SZSE/bars.csv",
+    "sha256": "8973113f189cebc0d34e48c28ff723581a373626cd91f8e3f23cc6f3e6a0f4d1",
+    "bytes": 290605
+  },
+  {
+    "path": "private/downloads/final/300502.SZSE/bars.csv",
+    "sha256": "f92e9c7d7e8b21dd83c18c6e6fef33398872616658f8721e27db709a572fa0ed",
+    "bytes": 284755
+  },
+  {
+    "path": "private/downloads/final/300628.SZSE/bars.csv",
+    "sha256": "5925948bd693159d8947d53c4edc6fd963c62899841ba207f1bc551b32afac1d",
+    "bytes": 253067
+  },
+  {
+    "path": "private/downloads/final/300661.SZSE/bars.csv",
+    "sha256": "ae9b347d159d751665e9a817f84e10b6193d5a15ccc0b0fc58888d0e03c01522",
+    "bytes": 251788
+  },
+  {
+    "path": "private/downloads/final/300750.SZSE/bars.csv",
+    "sha256": "1b5e18742a11b475e36e452003d5302f4c14f5967b5798499e612af2f3003b51",
+    "bytes": 230986
+  },
+  {
+    "path": "private/downloads/final/300760.SZSE/bars.csv",
+    "sha256": "b33fcbf7f3c1dbf6972e8451803d4c9965a85f69ae5103419df8fd6e7dd2426a",
+    "bytes": 220896
+  },
+  {
+    "path": "private/downloads/final/300803.SZSE/bars.csv",
+    "sha256": "318f97e9768034385c97fff9d625b0220fddd68b6bbce725c4879fc8e2a07b86",
+    "bytes": 183557
+  },
+  {
+    "path": "private/downloads/final/300832.SZSE/bars.csv",
+    "sha256": "74ec5a32c9859c937f3e8ab3c915fe5739a1674a16697cbce3e7e58b97d20ef7",
+    "bytes": 169592
+  },
+  {
+    "path": "private/downloads/final/300866.SZSE/bars.csv",
+    "sha256": "e2ff739beec4ac5967cd146c53201c77c4c0e65654d7243c2c58bbba65306b92",
+    "bytes": 164050
+  },
+  {
+    "path": "private/downloads/final/300896.SZSE/bars.csv",
+    "sha256": "404a83ab8d8d4b323977376817fac86937df7185ed6f7140284fbccac4b83a75",
+    "bytes": 165472
+  },
+  {
+    "path": "private/downloads/final/300999.SZSE/bars.csv",
+    "sha256": "27e8d746b3729d1b8dbde25dbd2cc7bcca344170338b77045c90987701246a8d",
+    "bytes": 158490
+  },
+  {
+    "path": "private/downloads/final/301165.SZSE/bars.csv",
+    "sha256": "691a24f3ef5395b3631a2d4b088c45bb0c309cc21524edb4a5df05bdcd209965",
+    "bytes": 102809
+  },
+  {
+    "path": "private/downloads/final/301236.SZSE/bars.csv",
+    "sha256": "b1e8c080c4ab50c37d1503dcd095677ec6ada992931922240759240730eb1a71",
+    "bytes": 121524
+  },
+  {
+    "path": "private/downloads/final/301269.SZSE/bars.csv",
+    "sha256": "97ed423f084d6d72f7978e14b1ec7b730b971c76bcfca9e33e23d1db29f24855",
+    "bytes": 113019
+  },
+  {
+    "path": "private/downloads/final/301308.SZSE/bars.csv",
+    "sha256": "a62301e3eae99f6fd09614b329b309bbce7f783b4899d08cbfe54f9b5580519e",
+    "bytes": 112184
+  },
+  {
+    "path": "private/downloads/final/302132.SZSE/bars.csv",
+    "sha256": "36528ca57d73e1ef26fbbd43d61eff8bb8311831bfa3451d868184f4dadb9192",
+    "bytes": 417243
+  },
+  {
+    "path": "private/downloads/final/600000.SSE/bars.csv",
+    "sha256": "a5fa401edb600d2a77a3cbe62aa26e395b558d165e63fa6e06d5bb7a45b10359",
+    "bytes": 491074
+  },
+  {
+    "path": "private/downloads/final/600009.SSE/bars.csv",
+    "sha256": "4a046de166b84b44ae7e3f44e5f8066059c78538229336308d942416dccd25db",
+    "bytes": 495828
+  },
+  {
+    "path": "private/downloads/final/600010.SSE/bars.csv",
+    "sha256": "5174f5efd1098a0a342e929d598645ff840df090308e2fa9a9021ef0109417a1",
+    "bytes": 477855
+  },
+  {
+    "path": "private/downloads/final/600011.SSE/bars.csv",
+    "sha256": "d45d1909fef9349248d5826146f6b2a2f0e8c16da2b550b3e311d9c338d2eed8",
+    "bytes": 474863
+  },
+  {
+    "path": "private/downloads/final/600015.SSE/bars.csv",
+    "sha256": "80b527f10a634f1d66c458c86e942c200531977a948063ddf8f4bc3313f83374",
+    "bytes": 483554
+  },
+  {
+    "path": "private/downloads/final/600016.SSE/bars.csv",
+    "sha256": "abf90937202a3b4f90e90db054423c8d9a829d17a1befbc074149dec1cab0516",
+    "bytes": 480314
+  },
+  {
+    "path": "private/downloads/final/600018.SSE/bars.csv",
+    "sha256": "89156cc315b740f89724822012a6f82a03cb0f4e79ede0c4e06763ad53bf0d1e",
+    "bytes": 472623
+  },
+  {
+    "path": "private/downloads/final/600019.SSE/bars.csv",
+    "sha256": "e7cfabbb86b86db2fbc6fa773a69240be78ebfb26e9ef76e4a21c9698ab313ec",
+    "bytes": 475908
+  },
+  {
+    "path": "private/downloads/final/600023.SSE/bars.csv",
+    "sha256": "3568a60c9bf14300666aa7c1cdd648d19f884f6df30f1c0f29d06c6da0ecbaef",
+    "bytes": 323938
+  },
+  {
+    "path": "private/downloads/final/600025.SSE/bars.csv",
+    "sha256": "b1c85be800a52ec8fdd3608264dd40cce22e9412ad1ec96d6bd83311a25b73b3",
+    "bytes": 223543
+  },
+  {
+    "path": "private/downloads/final/600026.SSE/bars.csv",
+    "sha256": "038b34c68467b52420874dd19eb6db57fd855bf7c0d46204923dbb1b5b0f3145",
+    "bytes": 480030
+  },
+  {
+    "path": "private/downloads/final/600027.SSE/bars.csv",
+    "sha256": "efcdbadc6a03118f59aa42fe67e4f983f092311f522022ed258035cc1806b982",
+    "bytes": 473454
+  },
+  {
+    "path": "private/downloads/final/600028.SSE/bars.csv",
+    "sha256": "ba75311582af76353f828af794ff984a3aa9a03cf8767282e3190fb29bc65a9e",
+    "bytes": 481344
+  },
+  {
+    "path": "private/downloads/final/600029.SSE/bars.csv",
+    "sha256": "992e32d9a36adf52116de17a7229cd7f2a386a738b42f96113cda83c2f0409b8",
+    "bytes": 477667
+  },
+  {
+    "path": "private/downloads/final/600030.SSE/bars.csv",
+    "sha256": "21b1fb5c805462d1345de2da692565dd00a681cbf0234d6a70d447ddd13bb379",
+    "bytes": 503753
+  },
+  {
+    "path": "private/downloads/final/600031.SSE/bars.csv",
+    "sha256": "baf23cd9e6b51d06460f995a9e6b28b65cb6877482e9e7c12c760dfaaa852ca6",
+    "bytes": 493234
+  },
+  {
+    "path": "private/downloads/final/600036.SSE/bars.csv",
+    "sha256": "79154ce1bcde8d570e9bbec8971ea0e96a7e7c1c4d9cca5758d997c0bdd4871f",
+    "bytes": 501926
+  },
+  {
+    "path": "private/downloads/final/600039.SSE/bars.csv",
+    "sha256": "360055dba38770cdc5b4699c6d018a3853d89e048232b6098c55f41e7e8f8fe2",
+    "bytes": 473758
+  },
+  {
+    "path": "private/downloads/final/600048.SSE/bars.csv",
+    "sha256": "f5d49872607dc3394148e481882ec361680621d0af7a1f53a5293045ae474b61",
+    "bytes": 494270
+  },
+  {
+    "path": "private/downloads/final/600050.SSE/bars.csv",
+    "sha256": "3b2214cc42df4d2094194b043698116073b69d03a685407898653b4fd3ab7d8c",
+    "bytes": 478257
+  },
+  {
+    "path": "private/downloads/final/600061.SSE/bars.csv",
+    "sha256": "d764ee4b974f5c07ca9bf8b23f598f196c5fe2ee4623a22cd45bd12dd3ad400b",
+    "bytes": 478953
+  },
+  {
+    "path": "private/downloads/final/600066.SSE/bars.csv",
+    "sha256": "81d877430eb8d2daad41b42fe6bcc90be6c5e1cb839fb1edf69d53fb21fa3145",
+    "bytes": 493408
+  },
+  {
+    "path": "private/downloads/final/600085.SSE/bars.csv",
+    "sha256": "9085112e0777ea230a845b02758a78229f5143682feda35e1c6410b4acb9a4ae",
+    "bytes": 495350
+  },
+  {
+    "path": "private/downloads/final/600089.SSE/bars.csv",
+    "sha256": "adc46db3750c5530685dc0e1256fca248d1177ad017db8bc95513b618ff012b7",
+    "bytes": 490771
+  },
+  {
+    "path": "private/downloads/final/600104.SSE/bars.csv",
+    "sha256": "02a99b71bfa147d12a42f9bc6744e74e0a0ed38b585466235dfa11a7eda2edc9",
+    "bytes": 496904
+  },
+  {
+    "path": "private/downloads/final/600111.SSE/bars.csv",
+    "sha256": "646a430531efb2625d6c403ba5cf012a6744838b6153a6fe4443a33be108f67e",
+    "bytes": 500281
+  },
+  {
+    "path": "private/downloads/final/600115.SSE/bars.csv",
+    "sha256": "6a947926a02f8c4859bce4cea260dee2c0b948841fa5b3bc1876122b8317b74f",
+    "bytes": 474769
+  },
+  {
+    "path": "private/downloads/final/600118.SSE/bars.csv",
+    "sha256": "b9820959b952f65c46bdb81fe5ec5497368bf9f3b50fb11826af936ec209a647",
+    "bytes": 496467
+  },
+  {
+    "path": "private/downloads/final/600150.SSE/bars.csv",
+    "sha256": "f199fb327c78faf9cb60e7f6824d05469c5a897a4a74fd34f67346cd556d9769",
+    "bytes": 494694
+  },
+  {
+    "path": "private/downloads/final/600160.SSE/bars.csv",
+    "sha256": "b54ba4b1d2d61101c9236322b728ec1bc95031f8a65984557be0f21eea120751",
+    "bytes": 486827
+  },
+  {
+    "path": "private/downloads/final/600176.SSE/bars.csv",
+    "sha256": "5047d43575eb3e664a38c477a84958fcc2c01208e2d01153e553deaa6547b1ab",
+    "bytes": 490791
+  },
+  {
+    "path": "private/downloads/final/600183.SSE/bars.csv",
+    "sha256": "85c758232f9e4dca55fea58eb8a35b6d499f147152a97d44c804c31fa9f35cac",
+    "bytes": 488509
+  },
+  {
+    "path": "private/downloads/final/600188.SSE/bars.csv",
+    "sha256": "46742a597678f0fd81cdc777223fb8ede0cb551eb002f7a0ff0a320f18f70d12",
+    "bytes": 493071
+  },
+  {
+    "path": "private/downloads/final/600196.SSE/bars.csv",
+    "sha256": "41846983045b8f15e4608e1e19813a3458afe550b9ec41b5264966cc977cdcf7",
+    "bytes": 496459
+  },
+  {
+    "path": "private/downloads/final/600219.SSE/bars.csv",
+    "sha256": "58642bde97d638b67de74dc585fc342773dc86eda797028ca35415689cc011d3",
+    "bytes": 475898
+  },
+  {
+    "path": "private/downloads/final/600221.SSE/bars.csv",
+    "sha256": "012f1a734f2375c56ef81b952bdf937ddf4ac417139a0ef63d05845d166d6de9",
+    "bytes": 472399
+  },
+  {
+    "path": "private/downloads/final/600233.SSE/bars.csv",
+    "sha256": "2e5b5519b70908fd29168b19f29248f1384f349fb6930800a849957b6a6ded26",
+    "bytes": 487356
+  },
+  {
+    "path": "private/downloads/final/600276.SSE/bars.csv",
+    "sha256": "3f362666a6eab43a4ca0cb6e6bd5faeb7f8f3b0718ca5bd5c74b93d8cdf29d29",
+    "bytes": 497744
+  },
+  {
+    "path": "private/downloads/final/600309.SSE/bars.csv",
+    "sha256": "293484ea6d0524067d24816d61896ca529df92bcfea00944d6fe76f75f349b4e",
+    "bytes": 496668
+  },
+  {
+    "path": "private/downloads/final/600346.SSE/bars.csv",
+    "sha256": "da5f12a9b99c489c64ef24f610720aa9d4646fd10e7a95fbb89900b7be903afa",
+    "bytes": 478463
+  },
+  {
+    "path": "private/downloads/final/600362.SSE/bars.csv",
+    "sha256": "7eb62ed0ccb462e5144f15e3443384c219eb21aa8fbe79797654c26916219d7d",
+    "bytes": 498229
+  },
+  {
+    "path": "private/downloads/final/600372.SSE/bars.csv",
+    "sha256": "364633fbd382b93d7dfa3d2738e1ab681e5ddbb4361e1ea63c13c5b7bede73c8",
+    "bytes": 482120
+  },
+  {
+    "path": "private/downloads/final/600406.SSE/bars.csv",
+    "sha256": "064e8f30064fd637ea945a04512bf75a1a30a1a3684fbf1a109394e03d0ac97f",
+    "bytes": 493942
+  },
+  {
+    "path": "private/downloads/final/600415.SSE/bars.csv",
+    "sha256": "54e8ea640213309d10f4550f76a49e90f28753e082570bbe092acd7b6539882b",
+    "bytes": 480607
+  },
+  {
+    "path": "private/downloads/final/600426.SSE/bars.csv",
+    "sha256": "9ff1f348aacfff3b2e87547f6745f8b5451cd39cd52705527fa91cea5c490cef",
+    "bytes": 491903
+  },
+  {
+    "path": "private/downloads/final/600436.SSE/bars.csv",
+    "sha256": "36ce9a5c119e5d76a722bff310328e14cae78c57548308a0608944a949cf20be",
+    "bytes": 503395
+  },
+  {
+    "path": "private/downloads/final/600438.SSE/bars.csv",
+    "sha256": "4c08c33a040b682746080bc6a29eb22b6d385c88d1edc73c530c3c5912ef5cb4",
+    "bytes": 484108
+  },
+  {
+    "path": "private/downloads/final/600460.SSE/bars.csv",
+    "sha256": "8f6edfab86b240dfe794215ede801cd16659918dc3c8e113dab8e25e67c17ce7",
+    "bytes": 486101
+  },
+  {
+    "path": "private/downloads/final/600482.SSE/bars.csv",
+    "sha256": "3f57c1b3c588bd0297cf48bf0bc218e17f5e46f9c262c9f41149526fcfaaa1ab",
+    "bytes": 488122
+  },
+  {
+    "path": "private/downloads/final/600489.SSE/bars.csv",
+    "sha256": "28cd75a16ba70b23815ddd796750d3cbe20f41e6770c6d19e33558c7ba3ed811",
+    "bytes": 490090
+  },
+  {
+    "path": "private/downloads/final/600515.SSE/bars.csv",
+    "sha256": "1e98c232cef9dcb8ab75a79c8cdd9c85b22f46101d06aeb2007874d000c5fd99",
+    "bytes": 467762
+  },
+  {
+    "path": "private/downloads/final/600519.SSE/bars.csv",
+    "sha256": "28d0315dc8dce5c2263e32996fe79388086c23d59cb30670d652701c3fb54e21",
+    "bytes": 528453
+  },
+  {
+    "path": "private/downloads/final/600522.SSE/bars.csv",
+    "sha256": "5651e1e3c6ab8ccaa2f8d98416f143116a4215d0bf1eabe4f758768e199baa4b",
+    "bytes": 491921
+  },
+  {
+    "path": "private/downloads/final/600547.SSE/bars.csv",
+    "sha256": "00530c5cb4f9da1e9b8e83a162b8ffdd36a949ca0765fd51d2a909325476d1c7",
+    "bytes": 495317
+  },
+  {
+    "path": "private/downloads/final/600549.SSE/bars.csv",
+    "sha256": "b3462c7aeac2abf60d54dce9f33b7bd16d87f83be01b509737d178456dae2a8a",
+    "bytes": 496154
+  },
+  {
+    "path": "private/downloads/final/600570.SSE/bars.csv",
+    "sha256": "9edf5ff6b7f376d87ec48b6175460b32f29e89fe2ad96bd709a538ce0a01c764",
+    "bytes": 496268
+  },
+  {
+    "path": "private/downloads/final/600584.SSE/bars.csv",
+    "sha256": "a824fc1b26a45902dd03bd4fe342de626ba54bc0982ede54e2530e4555bae1f2",
+    "bytes": 487179
+  },
+  {
+    "path": "private/downloads/final/600585.SSE/bars.csv",
+    "sha256": "f0fa09e8ef3c5e975a4976614a356e0e07ee3ac5e159f1beae54aabf41f09947",
+    "bytes": 499006
+  },
+  {
+    "path": "private/downloads/final/600588.SSE/bars.csv",
+    "sha256": "1d1c208dfc77ea58b8593ef65c4ed4f7a84ddca531d9851f5ab5dde95a35e6ad",
+    "bytes": 495547
+  },
+  {
+    "path": "private/downloads/final/600600.SSE/bars.csv",
+    "sha256": "64792d129fe2497af209287f7edee6eb926a2dbfa507cdd6aa25a0abecda17b2",
+    "bytes": 494646
+  },
+  {
+    "path": "private/downloads/final/600660.SSE/bars.csv",
+    "sha256": "46c6db9562356e29a7317bc387bae9ab06e9ced91e27b8e20e2c3255dd108033",
+    "bytes": 491397
+  },
+  {
+    "path": "private/downloads/final/600674.SSE/bars.csv",
+    "sha256": "c77341c0434a6df1c858c7f1b8f9044699c166cb70e682a8c404be67d99cb52b",
+    "bytes": 487280
+  },
+  {
+    "path": "private/downloads/final/600690.SSE/bars.csv",
+    "sha256": "cdfb07eb2f9cc9e9585aee881644fd1f38270155ad2fab7a3186573d5d0c43b0",
+    "bytes": 493827
+  },
+  {
+    "path": "private/downloads/final/600741.SSE/bars.csv",
+    "sha256": "24ef9992505fcd7c00cfc8c24be64be2ea3a184fb32ad1cea363308ad27a504d",
+    "bytes": 489609
+  },
+  {
+    "path": "private/downloads/final/600760.SSE/bars.csv",
+    "sha256": "35d99f9ae71b56d15ca2f96021b4c9658244af657ccfe0ff09e813a8ea80ac14",
+    "bytes": 484759
+  },
+  {
+    "path": "private/downloads/final/600795.SSE/bars.csv",
+    "sha256": "3fda5aacaa25cc8bf7f841697806aa4fe7ea91575d731ea98d9ed4bf18865e91",
+    "bytes": 475132
+  },
+  {
+    "path": "private/downloads/final/600803.SSE/bars.csv",
+    "sha256": "47e84268293468705236e7d6c67142ed7fd90d797b72b8f4673508002a1f134b",
+    "bytes": 485822
+  },
+  {
+    "path": "private/downloads/final/600809.SSE/bars.csv",
+    "sha256": "27f444cd2ce86d55584d44ebfa00119a96ab171a80858cc342550fde0fdf2438",
+    "bytes": 502326
+  },
+  {
+    "path": "private/downloads/final/600845.SSE/bars.csv",
+    "sha256": "56c5eaa38a74b898c7b49fde2480fb1fd155f2b17c73f5aa27ab5229ddd5cb0c",
+    "bytes": 489691
+  },
+  {
+    "path": "private/downloads/final/600875.SSE/bars.csv",
+    "sha256": "0f4bb565ab0734f521e9220ab967b7a1d188ae1d77bec11e2b33635888eacbca",
+    "bytes": 491987
+  },
+  {
+    "path": "private/downloads/final/600886.SSE/bars.csv",
+    "sha256": "fd1d764a51f40687bbcbd15696baad31b414a3c46418cb33f60380211b87114f",
+    "bytes": 478801
+  },
+  {
+    "path": "private/downloads/final/600887.SSE/bars.csv",
+    "sha256": "f95a7902ef543bdb071adbd5833a14dd59bbb686a10d33d448d901780095ea2f",
+    "bytes": 499067
+  },
+  {
+    "path": "private/downloads/final/600893.SSE/bars.csv",
+    "sha256": "44a7e13c3255448ae2b444f8a51cf1a19c4b4449de0ec18f4106d086eed77638",
+    "bytes": 488731
+  },
+  {
+    "path": "private/downloads/final/600900.SSE/bars.csv",
+    "sha256": "7f07ebd39862a7917c49c4e7c716e5741c7e4e2590986ce4141281e88ee58c4c",
+    "bytes": 485348
+  },
+  {
+    "path": "private/downloads/final/600905.SSE/bars.csv",
+    "sha256": "6d1757235d96814586037ea6c747b9ca6c90acb64e4771d2684be0a080af60dd",
+    "bytes": 135943
+  },
+  {
+    "path": "private/downloads/final/600918.SSE/bars.csv",
+    "sha256": "6a88d7d855c8e2a02399c62f3b017d56e48d9982e522e689be79098ac7130aae",
+    "bytes": 162265
+  },
+  {
+    "path": "private/downloads/final/600919.SSE/bars.csv",
+    "sha256": "a101365f7ca643f9d738e0dbb0b61457554e52525c87faf74b132a25c13e1473",
+    "bytes": 261495
+  },
+  {
+    "path": "private/downloads/final/600926.SSE/bars.csv",
+    "sha256": "0b79aa3c44c8519b4bc9c2a9973561475f5efafa466bcd593e920b064211dc7a",
+    "bytes": 261402
+  },
+  {
+    "path": "private/downloads/final/600930.SSE/bars.csv",
+    "sha256": "d32215df8f74d7b00e1f91095404318bb049123fb55575e2a96487fd07293cb1",
+    "bytes": 31332
+  },
+  {
+    "path": "private/downloads/final/600938.SSE/bars.csv",
+    "sha256": "e1a0c6512eb5bc4ebbbefb30c5ee44e8f1f4c41bc02b5811c9463dcdc9edd00e",
+    "bytes": 119007
+  },
+  {
+    "path": "private/downloads/final/600941.SSE/bars.csv",
+    "sha256": "2c9de5302d01a430cb9daaaa55b2ca1b652ad71daa12fbe58351d587fc1e82bb",
+    "bytes": 128272
+  },
+  {
+    "path": "private/downloads/final/600958.SSE/bars.csv",
+    "sha256": "b5b910efd98ef50cc25627990c94f3d393a490fd1e3f9e859686b6044b02c493",
+    "bytes": 301648
+  },
+  {
+    "path": "private/downloads/final/600989.SSE/bars.csv",
+    "sha256": "327ebfc1411b6e8d7e69a2299da202449b17dc74a9093dc560044cb856b9691f",
+    "bytes": 195644
+  },
+  {
+    "path": "private/downloads/final/600999.SSE/bars.csv",
+    "sha256": "38066d8bb1f89058e49b1c0a29ba0e287c1c15bd1cebecaf3fcb75c71cfb619b",
+    "bytes": 447428
+  },
+  {
+    "path": "private/downloads/final/601006.SSE/bars.csv",
+    "sha256": "b0a63553acf537849d596ad4ebdf361e6e58f0898e47a5b35edbc76cb480f937",
+    "bytes": 479066
+  },
+  {
+    "path": "private/downloads/final/601009.SSE/bars.csv",
+    "sha256": "29cf289202f2f642698b9e0b9eb17b37bded93f71318e5b3196c3a0c41bb1b58",
+    "bytes": 486082
+  },
+  {
+    "path": "private/downloads/final/601012.SSE/bars.csv",
+    "sha256": "3ffe365b96e0a47a52399e042eb19382f7df9c1d06d9b519d2e653eff9f8b127",
+    "bytes": 384664
+  },
+  {
+    "path": "private/downloads/final/601018.SSE/bars.csv",
+    "sha256": "f50f287c0bd34e4ae2dc5b402776e76a3530d329c61c4f83f6ea6763cf81475c",
+    "bytes": 400791
+  },
+  {
+    "path": "private/downloads/final/601021.SSE/bars.csv",
+    "sha256": "4ca4ca4f5fb498c018146bfb7e619fc3dfef7c7c31425d246f379b0bb1a1cfd8",
+    "bytes": 308209
+  },
+  {
+    "path": "private/downloads/final/601058.SSE/bars.csv",
+    "sha256": "7f160b2f0305cbc50a691ab7a3ed09d1d773d14e54463adb34c3d98e76cbab77",
+    "bytes": 392326
+  },
+  {
+    "path": "private/downloads/final/601059.SSE/bars.csv",
+    "sha256": "f08d63106e17f4add9151b88ff35045aa999dbd5705cbb5ab5d256bc395cb731",
+    "bytes": 96804
+  },
+  {
+    "path": "private/downloads/final/601066.SSE/bars.csv",
+    "sha256": "60db5701c13d8d287c81e18b4893165b34d671ab82e4eb6f0f79ad41da54b6ef",
+    "bytes": 220338
+  },
+  {
+    "path": "private/downloads/final/601077.SSE/bars.csv",
+    "sha256": "e8188865981914c2e7c29f82cecb5d7c2e4ab3b041bc144b0f21cdaf06d0ae2f",
+    "bytes": 175755
+  },
+  {
+    "path": "private/downloads/final/601088.SSE/bars.csv",
+    "sha256": "f6278796e5fc4e3b0a04d2f01fb298fabfee6bb369d0f0f7be0debe8b5f3653f",
+    "bytes": 497847
+  },
+  {
+    "path": "private/downloads/final/601100.SSE/bars.csv",
+    "sha256": "4d3456584c6425aade4f600ddbd33143c823c8eff39a4f3f4254d454e183facc",
+    "bytes": 391839
+  },
+  {
+    "path": "private/downloads/final/601111.SSE/bars.csv",
+    "sha256": "86b6587e6c89695ba961ecb8dc98c4f7c007461cd6121c62c5eede4eaff12d08",
+    "bytes": 479533
+  },
+  {
+    "path": "private/downloads/final/601117.SSE/bars.csv",
+    "sha256": "9cb3a12e2fcf0c7588553da7f532e19f66358d780128a3c10eb5a8bae588cef4",
+    "bytes": 426043
+  },
+  {
+    "path": "private/downloads/final/601127.SSE/bars.csv",
+    "sha256": "0ee75bd3b39eaa1614493bc21f4fabcd37ebefd935a3141eb74a3501e9116f4e",
+    "bytes": 273687
+  },
+  {
+    "path": "private/downloads/final/601136.SSE/bars.csv",
+    "sha256": "39993131bd0e99dc7fa015c7b42f1dec3ba0a0fd2a859a20f77a17ea0f1fb24b",
+    "bytes": 100739
+  },
+  {
+    "path": "private/downloads/final/601138.SSE/bars.csv",
+    "sha256": "73236bbf82672417e8ad491f5320fc81caddcfa1f7689c9addd068ce9417585a",
+    "bytes": 222041
+  },
+  {
+    "path": "private/downloads/final/601166.SSE/bars.csv",
+    "sha256": "ca41377eb7a91da8a2d6811f79d1e8bd7016afd172fb7896e033de0ff1582bea",
+    "bytes": 501449
+  },
+  {
+    "path": "private/downloads/final/601169.SSE/bars.csv",
+    "sha256": "951348ec6202676a971cf717970a0842c23d0ff4fcbbcaf35377f968ca762789",
+    "bytes": 481358
+  },
+  {
+    "path": "private/downloads/final/601186.SSE/bars.csv",
+    "sha256": "6df693021759e31203d1fb0323896331a4ae54224c6bef71961cb311ccd21880",
+    "bytes": 478018
+  },
+  {
+    "path": "private/downloads/final/601211.SSE/bars.csv",
+    "sha256": "13fbc9e5fe4ecf4f6404c323db7f008aeb3cabe8d298f87eb5c571d2d63bdd45",
+    "bytes": 300243
+  },
+  {
+    "path": "private/downloads/final/601225.SSE/bars.csv",
+    "sha256": "0dd23494a0ca9924e675d62c976725dbd0d7a49d60a36ab4b22c94abab20ffc4",
+    "bytes": 329903
+  },
+  {
+    "path": "private/downloads/final/601229.SSE/bars.csv",
+    "sha256": "a9df4e40a5bea8ef985d6ff3295d20e47ad42f45c32ad4d5c4f59ac86940e7a9",
+    "bytes": 254433
+  },
+  {
+    "path": "private/downloads/final/601238.SSE/bars.csv",
+    "sha256": "28d579ca0e298fd07a36fe788e3dff8722d28b562bad9af6b7e737cdf8c89239",
+    "bytes": 375570
+  },
+  {
+    "path": "private/downloads/final/601288.SSE/bars.csv",
+    "sha256": "28ccf53578e2e3ebf391b6ca5c17e69db78cdf759e0f699e8652248c4b337410",
+    "bytes": 415966
+  },
+  {
+    "path": "private/downloads/final/601318.SSE/bars.csv",
+    "sha256": "2809a8e3620ae2f9bb4ef5491ef124fc00b5d137906880e25f4f4a9dcf03070f",
+    "bytes": 502264
+  },
+  {
+    "path": "private/downloads/final/601319.SSE/bars.csv",
+    "sha256": "3c10689b534956324fa8a64589221556bc4fa7547c11966913b6ddd0d396da14",
+    "bytes": 200345
+  },
+  {
+    "path": "private/downloads/final/601328.SSE/bars.csv",
+    "sha256": "5e206794ee66295d6c7c9165bfd6a8faa89596e4b519c2b4acb2686ff0914ac5",
+    "bytes": 478654
+  },
+  {
+    "path": "private/downloads/final/601336.SSE/bars.csv",
+    "sha256": "3a7f37e57cebe188f133db36ed975944fc16b0a1023057a770795e969368c178",
+    "bytes": 392161
+  },
+  {
+    "path": "private/downloads/final/601360.SSE/bars.csv",
+    "sha256": "37ca5ba3577a94edc2a14e85593177481d435b499eea67b0a47457f085f56706",
+    "bytes": 380578
+  },
+  {
+    "path": "private/downloads/final/601377.SSE/bars.csv",
+    "sha256": "d92159caa5d0b5f2c4754cf1ed8079fc5bf5dd3a36619547c1a47794040fb855",
+    "bytes": 410828
+  },
+  {
+    "path": "private/downloads/final/601390.SSE/bars.csv",
+    "sha256": "61f4aa60c6bfddb51a89b0ff55e990375ab8ba9585a452f567edd4aef7950ce0",
+    "bytes": 476714
+  },
+  {
+    "path": "private/downloads/final/601398.SSE/bars.csv",
+    "sha256": "cb05d6f9d39c82d2a8d5435eaf903c1e33a346ec07b8e58b41ddd54fe534ef6c",
+    "bytes": 480590
+  },
+  {
+    "path": "private/downloads/final/601456.SSE/bars.csv",
+    "sha256": "366f09b180128445d8188c9786385f2b46dad8f8d84dc973d1ec0da38a3e21f6",
+    "bytes": 162021
+  },
+  {
+    "path": "private/downloads/final/601600.SSE/bars.csv",
+    "sha256": "9c4955db7b9c0b1d6305c2654b72a7a943cfaa584dbc0cc791d662266b0fa041",
+    "bytes": 479710
+  },
+  {
+    "path": "private/downloads/final/601601.SSE/bars.csv",
+    "sha256": "21a91a1857f3399e251943ee2bc4d3417ac73c6f2ac106cadec90d6c632d3c32",
+    "bytes": 500029
+  },
+  {
+    "path": "private/downloads/final/601607.SSE/bars.csv",
+    "sha256": "d7226543f28949ec70641ba4b1c806231c592a4878f639124f0cad68c8918759",
+    "bytes": 492900
+  },
+  {
+    "path": "private/downloads/final/601618.SSE/bars.csv",
+    "sha256": "90bb0aef52213b2dc90b3bd87c0cfe2db1708336e25c3a722db9ede67b14d1e3",
+    "bytes": 430881
+  },
+  {
+    "path": "private/downloads/final/601628.SSE/bars.csv",
+    "sha256": "525e1c80fdef7b8d31d461b02f7822728414f46a38574bf53b3797a845e9c231",
+    "bytes": 498477
+  },
+  {
+    "path": "private/downloads/final/601633.SSE/bars.csv",
+    "sha256": "04407cca0a7a6feb47bfef02e7d22729c08e1b3d46a88357d8fc649696b84c81",
+    "bytes": 394068
+  },
+  {
+    "path": "private/downloads/final/601658.SSE/bars.csv",
+    "sha256": "e92e7a0ace26eb736cd22e6c8f81421ab59d95e1006cb00ffc8ac8ae8d0acdab",
+    "bytes": 174136
+  },
+  {
+    "path": "private/downloads/final/601668.SSE/bars.csv",
+    "sha256": "33835e3f05b8b22f78a98f175dda0076270ca4cf56d43eb31eef8b7021274621",
+    "bytes": 440938
+  },
+  {
+    "path": "private/downloads/final/601669.SSE/bars.csv",
+    "sha256": "36de2ecc313e42f76e1a6bedbb5a35e6bdedabd498eb03744a9e458a3eaec96c",
+    "bytes": 379089
+  },
+  {
+    "path": "private/downloads/final/601688.SSE/bars.csv",
+    "sha256": "4c850c278280866431070d75425ea891f196fc828a1948b87343ac2dee40bd5a",
+    "bytes": 440147
+  },
+  {
+    "path": "private/downloads/final/601689.SSE/bars.csv",
+    "sha256": "adc526e1ee35d6ce5561938bc0e2a3a9ac23a86f806d581e5587a5b737e4c0a1",
+    "bytes": 305867
+  },
+  {
+    "path": "private/downloads/final/601698.SSE/bars.csv",
+    "sha256": "d9521b566570dd9bd09a456bea076db73838a7f3cade5cebe05a39a00da9517b",
+    "bytes": 192969
+  },
+  {
+    "path": "private/downloads/final/601727.SSE/bars.csv",
+    "sha256": "22b89031087953394cf8b3727ca994e13510fe0d822ae98d02912a03297de60d",
+    "bytes": 446188
+  },
+  {
+    "path": "private/downloads/final/601728.SSE/bars.csv",
+    "sha256": "104ce05e3269125126537c093f2c7541a13edcf5c9bead58884529075566ae8e",
+    "bytes": 130685
+  },
+  {
+    "path": "private/downloads/final/601766.SSE/bars.csv",
+    "sha256": "ed8d561ab5b0613e6795f49720a4d8406043a20659792ded512b88bd36963992",
+    "bytes": 462452
+  },
+  {
+    "path": "private/downloads/final/601788.SSE/bars.csv",
+    "sha256": "97b1d39e164270e624131b818e3296cd5fb66d573ef1d0824a4d27f4f6d2df4e",
+    "bytes": 453330
+  },
+  {
+    "path": "private/downloads/final/601800.SSE/bars.csv",
+    "sha256": "8ab78eecf9f6249b61b378e4051532a03e1c7b43592aaf1e2db197ee92880e73",
+    "bytes": 376881
+  },
+  {
+    "path": "private/downloads/final/601816.SSE/bars.csv",
+    "sha256": "579da1a34501c7ebbec9475c5d363092d5f84ca709bbb4202d0fd11dab990c1f",
+    "bytes": 170753
+  },
+  {
+    "path": "private/downloads/final/601818.SSE/bars.csv",
+    "sha256": "e6d5890f78680b1232874a31a5d43b30a063b78cff7ff98dd26aba17ac32997c",
+    "bytes": 410808
+  },
+  {
+    "path": "private/downloads/final/601825.SSE/bars.csv",
+    "sha256": "ba21fc4f6c9992135a5cfa4b72f866ef9fb3b6489f156a169426b98c10e1160d",
+    "bytes": 129091
+  },
+  {
+    "path": "private/downloads/final/601838.SSE/bars.csv",
+    "sha256": "45c19cc12ba1c92a4f0e4186cbc4bd9d9ec72c23a0583247b91b7585424f6a10",
+    "bytes": 227291
+  },
+  {
+    "path": "private/downloads/final/601857.SSE/bars.csv",
+    "sha256": "542e0657ce9d56e07e9da1814a26bb21900dc63e58dda42a46e2ea4d77f28852",
+    "bytes": 484832
+  },
+  {
+    "path": "private/downloads/final/601868.SSE/bars.csv",
+    "sha256": "b071f308dcb7d442d6663b215f08739a78e59f74463fc5afdbb678e7ae5f50e9",
+    "bytes": 128382
+  },
+  {
+    "path": "private/downloads/final/601872.SSE/bars.csv",
+    "sha256": "c93fdb1ecce811540a82b721cff60b7bbee10deab75abdaba5a7f68769095413",
+    "bytes": 472174
+  },
+  {
+    "path": "private/downloads/final/601877.SSE/bars.csv",
+    "sha256": "68120bd8d6645f1c54c91ca440c5981ccc9725826af61a11d799cd7ff85f62a7",
+    "bytes": 436739
+  },
+  {
+    "path": "private/downloads/final/601878.SSE/bars.csv",
+    "sha256": "e352b95b59571b5ec6b9bcb23eafb12416913f0b42df8e848c514a0ae6dca2b7",
+    "bytes": 244295
+  },
+  {
+    "path": "private/downloads/final/601881.SSE/bars.csv",
+    "sha256": "baf192371c2da3d75857f9d2f9cc1fba39ddf80b4e9b5928cd5493531fa8bc65",
+    "bytes": 255751
+  },
+  {
+    "path": "private/downloads/final/601888.SSE/bars.csv",
+    "sha256": "a23705a9b816af5e72d8d476dab0459236814aaea8e32aab234c0bf1ada3e750",
+    "bytes": 452702
+  },
+  {
+    "path": "private/downloads/final/601898.SSE/bars.csv",
+    "sha256": "1f879715cb58f6c0e5be48cc058d3c897efa4fa29ff11eba3c991eaef087900a",
+    "bytes": 478638
+  },
+  {
+    "path": "private/downloads/final/601899.SSE/bars.csv",
+    "sha256": "5fae81aedca0ed7bb1078a92d888ac10376d00cfe1f03e7e3582b2729764c2cd",
+    "bytes": 478643
+  },
+  {
+    "path": "private/downloads/final/601901.SSE/bars.csv",
+    "sha256": "4f2e943ef3652ac3370ca11dc2dbdda3a0511ed53bd08646293b4e5375e9fb6d",
+    "bytes": 383662
+  },
+  {
+    "path": "private/downloads/final/601916.SSE/bars.csv",
+    "sha256": "a537995fa9d580f6e7ccc0796432c2efc86f5f78cedbe9fb27eaec4570035bb6",
+    "bytes": 173776
+  },
+  {
+    "path": "private/downloads/final/601919.SSE/bars.csv",
+    "sha256": "53068cbf0d76e1a59a81c65412ffba76c54d2c9098725c60c5d635914bbfdd12",
+    "bytes": 483781
+  },
+  {
+    "path": "private/downloads/final/601939.SSE/bars.csv",
+    "sha256": "3974baad16124975a72918af16a9f5441ab5ec5a07c586125f0484e62c193d2f",
+    "bytes": 478098
+  },
+  {
+    "path": "private/downloads/final/601985.SSE/bars.csv",
+    "sha256": "436e688f3e7e143a869727b09bd5d445abf98fe090a2ea1987f96786a936cdb3",
+    "bytes": 289583
+  },
+  {
+    "path": "private/downloads/final/601988.SSE/bars.csv",
+    "sha256": "2fb2d2085ca69b0bd4221757753da43bee9649bd02804205f4148110966248c9",
+    "bytes": 478325
+  },
+  {
+    "path": "private/downloads/final/601995.SSE/bars.csv",
+    "sha256": "d51cbab223e6f7bfb32a108ecea9a17c0184296e22b1c20ae31b465b523c98b2",
+    "bytes": 156572
+  },
+  {
+    "path": "private/downloads/final/601998.SSE/bars.csv",
+    "sha256": "8a333c5049cdba3e0cfc50ebedd90b8dd2c8f3eac68a6b1e763965b42bd695d4",
+    "bytes": 475138
+  },
+  {
+    "path": "private/downloads/final/603019.SSE/bars.csv",
+    "sha256": "9f5a5c889f0fd35892725de6c3f710e3f1e54a3572e82d223287510cdf722c79",
+    "bytes": 317672
+  },
+  {
+    "path": "private/downloads/final/603259.SSE/bars.csv",
+    "sha256": "e2ea7f6f7b6a8a9f9b532122001d08cf64ab171567591fe56880de9f577f03e8",
+    "bytes": 228310
+  },
+  {
+    "path": "private/downloads/final/603260.SSE/bars.csv",
+    "sha256": "ebfb03738bb2a1efe0f5fc7717363695904635a352f47cda1a0746d59f5d79d6",
+    "bytes": 236881
+  },
+  {
+    "path": "private/downloads/final/603288.SSE/bars.csv",
+    "sha256": "30c19f157d6f6479481a4945158fba4179f488e2615f0a73b797ec2e1032ef69",
+    "bytes": 337182
+  },
+  {
+    "path": "private/downloads/final/603296.SSE/bars.csv",
+    "sha256": "c6242b4585c8ca3ae37da554aebbfbb4747955ddbd8bf3e43eee2e5e6a1a7f7b",
+    "bytes": 83796
+  },
+  {
+    "path": "private/downloads/final/603369.SSE/bars.csv",
+    "sha256": "4072452504a9f43c125f6ec64013826e75e34534add7d090682f84c890712e5e",
+    "bytes": 323884
+  },
+  {
+    "path": "private/downloads/final/603392.SSE/bars.csv",
+    "sha256": "0ace66a03e1658403140da97ee385fefdbcd243ee788c3b9addcaab2271d57bd",
+    "bytes": 172871
+  },
+  {
+    "path": "private/downloads/final/603501.SSE/bars.csv",
+    "sha256": "c1bac6fafe2bb91e701dd79f299c11f2795caec06488fc97b2afe1933a6f4922",
+    "bytes": 252778
+  },
+  {
+    "path": "private/downloads/final/603799.SSE/bars.csv",
+    "sha256": "0622dcae46c0485f3a614c9b192b73489991a310095d5308c941449afc121e12",
+    "bytes": 312861
+  },
+  {
+    "path": "private/downloads/final/603893.SSE/bars.csv",
+    "sha256": "777e529285e7e201e2a722e63a3962981b5b403171fabaf9a180b52bbcabed14",
+    "bytes": 179290
+  },
+  {
+    "path": "private/downloads/final/603986.SSE/bars.csv",
+    "sha256": "ffca7803ec40a5db387ac2362b1ff897fd8ccbcc19af5b05b10438e97b497b8a",
+    "bytes": 274088
+  },
+  {
+    "path": "private/downloads/final/603993.SSE/bars.csv",
+    "sha256": "043b2e738a4d64a69cd55a5b87213e9a5c2bfd329a0012b90ea7ee69727720c7",
+    "bytes": 359497
+  },
+  {
+    "path": "private/downloads/final/605117.SSE/bars.csv",
+    "sha256": "530713b4878c2372dbeb5a4ae2a98123ef2d0ae862f74fa0b570d0554375c1c0",
+    "bytes": 147580
+  },
+  {
+    "path": "private/downloads/final/605499.SSE/bars.csv",
+    "sha256": "2ea651cab92f665adc475dbf07d5f53e13dfc2b08f0e2d8eca31946fc69af19e",
+    "bytes": 146922
+  },
+  {
+    "path": "private/downloads/final/688008.SSE/bars.csv",
+    "sha256": "0b307b2bfc5b96e637a0b72ddf655351c367d76172e1a7f9ca4ee4c15bd474e6",
+    "bytes": 192913
+  },
+  {
+    "path": "private/downloads/final/688009.SSE/bars.csv",
+    "sha256": "771160210239e5039d3df5ce5998214b144aa05ca79a6c9cf9117cf9a612a405",
+    "bytes": 182166
+  },
+  {
+    "path": "private/downloads/final/688012.SSE/bars.csv",
+    "sha256": "eab54494a5be9c9f18d2c9817250f7d7a709e62a3032c49db94d4da13fd070c3",
+    "bytes": 198831
+  },
+  {
+    "path": "private/downloads/final/688036.SSE/bars.csv",
+    "sha256": "71dece658c7ebdc1a76e0c85012888b0f865856bc809a074b7835253d4268f52",
+    "bytes": 188327
+  },
+  {
+    "path": "private/downloads/final/688041.SSE/bars.csv",
+    "sha256": "557e5f6002766e5041e0d1a7a0e746de973aa7353fb55493bc5a1c06cb39543e",
+    "bytes": 112811
+  },
+  {
+    "path": "private/downloads/final/688047.SSE/bars.csv",
+    "sha256": "03bdaf1cf40efcdf3158a5cacbfc16ed4284964032b4fc97821311e77ee45374",
+    "bytes": 116362
+  },
+  {
+    "path": "private/downloads/final/688072.SSE/bars.csv",
+    "sha256": "3f8cc7cad51301feec03560a8d8d2cd9c5eec155078b54943af036a7d07354d0",
+    "bytes": 122726
+  },
+  {
+    "path": "private/downloads/final/688082.SSE/bars.csv",
+    "sha256": "4f49390a17faf9fbbfb47a7cf29cc8de9e8e56b361a08055d0a9c2cd66a33fd9",
+    "bytes": 131958
+  },
+  {
+    "path": "private/downloads/final/688111.SSE/bars.csv",
+    "sha256": "ede03493b57ca09c18278e35e61440a0cd9c239f3b4f1eb646d0a5301e586e92",
+    "bytes": 190239
+  },
+  {
+    "path": "private/downloads/final/688126.SSE/bars.csv",
+    "sha256": "eb4ca224e9a99544c95a9ef71c5ad6e3733765f304c2cfe9e1760be30c305318",
+    "bytes": 171320
+  },
+  {
+    "path": "private/downloads/final/688183.SSE/bars.csv",
+    "sha256": "0508b0687d835b8df0931b5d4363d79564165dbd6d147dae859a78775dc23cb9",
+    "bytes": 147687
+  },
+  {
+    "path": "private/downloads/final/688223.SSE/bars.csv",
+    "sha256": "1757c3bdb9142c748613bf236b55e911d41ead16fffd99a84cc3ec114c53f7c2",
+    "bytes": 121118
+  },
+  {
+    "path": "private/downloads/final/688256.SSE/bars.csv",
+    "sha256": "72eca6632446f8530b091f9de5bc3307d9a89945d99d3a4dfe74e1daf5818fb3",
+    "bytes": 171705
+  },
+  {
+    "path": "private/downloads/final/688271.SSE/bars.csv",
+    "sha256": "998743726b0924d013812fed7f23e7370d98fa9f3c8564ca1806ca7e460ae3ae",
+    "bytes": 113272
+  },
+  {
+    "path": "private/downloads/final/688303.SSE/bars.csv",
+    "sha256": "6cf9dbab0ec9823f3fb76b8e5af175ddbca664b80ecd632512e7f720a8343591",
+    "bytes": 137354
+  },
+  {
+    "path": "private/downloads/final/688396.SSE/bars.csv",
+    "sha256": "aef0e96110a9ff31969d086a927940cb096f57a959e268f692baeafad0509d31",
+    "bytes": 174951
+  },
+  {
+    "path": "private/downloads/final/688472.SSE/bars.csv",
+    "sha256": "427329a5c410d4e61bf5be9403b22831458b990bcad133786d45bf1c5af11d5e",
+    "bytes": 87509
+  },
+  {
+    "path": "private/downloads/final/688506.SSE/bars.csv",
+    "sha256": "585bca39540ffe35b73fc5cd461a94299eaff511b6d74f2a79826dce15a853ec",
+    "bytes": 101363
+  },
+  {
+    "path": "private/downloads/final/688521.SSE/bars.csv",
+    "sha256": "40b93fffc04139e07aa9f6744e64ebeba5bb19f24e4793725f11685a2af2ff0e",
+    "bytes": 163315
+  },
+  {
+    "path": "private/downloads/final/688981.SSE/bars.csv",
+    "sha256": "20ec26788b0b400c6d0a7a73a4b3de4dd054e815b2c8c909e784b4406408c8a5",
+    "bytes": 167621
+  }
+]

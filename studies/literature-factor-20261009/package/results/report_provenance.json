@@ -1,0 +1,10 @@
+{
+  "metrics_sha256": "7e359b00625178d5a9f7c7f6b54f72b5dd1c8485de2b4570b86c363e75df0426",
+  "report_sources": [
+    "results/metrics.json",
+    "research/method.md",
+    "research/implementation_reference.md"
+  ],
+  "raw_market_files_read": false,
+  "final_labels_read": false
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "candidate_id": "NET_K05_A02",
+    "family": "cross_stock_empirical_lead_lag",
+    "leaders": 5,
+    "alpha": 0.2,
+    "complexity": 5,
+    "holding_sessions": 5,
+    "sign": 1,
+    "formula": "weighted mean of other stocks EWMA log returns; positive lag-one antisymmetric Pearson graph; expanding bimonthly refits",
+    "status": "registered"
+  },
+  {
+    "candidate_id": "NET_K05_A04",
+    "family": "cross_stock_empirical_lead_lag",
+    "leaders": 5,
+    "alpha": 0.4,
+    "complexity": 5,
+    "holding_sessions": 5,
+    "sign": 1,
+    "formula": "weighted mean of other stocks EWMA log returns; positive lag-one antisymmetric Pearson graph; expanding bimonthly refits",
+    "status": "registered"
+  },
+  {
+    "candidate_id": "NET_K10_A02",
+    "family": "cross_stock_empirical_lead_lag",
+    "leaders": 10,
+    "alpha": 0.2,
+    "complexity": 10,
+    "holding_sessions": 5,
+    "sign": 1,
+    "formula": "weighted mean of other stocks EWMA log returns; positive lag-one antisymmetric Pearson graph; expanding bimonthly refits",
+    "status": "registered"
+  },
+  {
+    "candidate_id": "NET_K10_A04",
+    "family": "cross_stock_empirical_lead_lag",
+    "leaders": 10,
+    "alpha": 0.4,
+    "complexity": 10,
+    "holding_sessions": 5,
+    "sign": 1,
+    "formula": "weighted mean of other stocks EWMA log returns; positive lag-one antisymmetric Pearson graph; expanding bimonthly refits",
+    "status": "registered"
+  },
+  {
+    "candidate_id": "NET_K20_A02",
+    "family": "cross_stock_empirical_lead_lag",
+    "leaders": 20,
+    "alpha": 0.2,
+    "complexity": 20,
+    "holding_sessions": 5,
+    "sign": 1,
+    "formula": "weighted mean of other stocks EWMA log returns; positive lag-one antisymmetric Pearson graph; expanding bimonthly refits",
+    "status": "registered"
+  },
+  {
+    "candidate_id": "NET_K20_A04",
+    "family": "cross_stock_empirical_lead_lag",
+    "leaders": 20,
+    "alpha": 0.4,
+    "complexity": 20,
+    "holding_sessions": 5,
+    "sign": 1,
+    "formula": "weighted mean of other stocks EWMA log returns; positive lag-one antisymmetric Pearson graph; expanding bimonthly refits",
+    "status": "registered"
+  },
+  {
+    "candidate_id": "UNUSED_07",
+    "status": "unused_reserved",
+    "p_one_sided": 1.0
+  },
+  {
+    "candidate_id": "UNUSED_08",
+    "status": "unused_reserved",
+    "p_one_sided": 1.0
+  },
+  {
+    "candidate_id": "UNUSED_09",
+    "status": "unused_reserved",
+    "p_one_sided": 1.0
+  },
+  {
+    "candidate_id": "UNUSED_10",
+    "status": "unused_reserved",
+    "p_one_sided": 1.0
+  },
+  {
+    "candidate_id": "UNUSED_11",
+    "status": "unused_reserved",
+    "p_one_sided": 1.0
+  },
+  {
+    "candidate_id": "UNUSED_12",
+    "status": "unused_reserved",
+    "p_one_sided": 1.0
+  },
+  {
+    "candidate_id": "UNUSED_13",
+    "status": "unused_reserved",
+    "p_one_sided": 1.0
+  },
+  {
+    "candidate_id": "UNUSED_14",
+    "status": "unused_reserved",
+    "p_one_sided": 1.0
+  },
+  {
+    "candidate_id": "UNUSED_15",
+    "status": "unused_reserved",
+    "p_one_sided": 1.0
+  },
+  {
+    "candidate_id": "UNUSED_16",
+    "status": "unused_reserved",
+    "p_one_sided": 1.0
+  },
+  {
+    "candidate_id": "UNUSED_17",
+    "status": "unused_reserved",
+    "p_one_sided": 1.0
+  },
+  {
+    "candidate_id": "UNUSED_18",
+    "status": "unused_reserved",
+    "p_one_sided": 1.0
+  }
+]

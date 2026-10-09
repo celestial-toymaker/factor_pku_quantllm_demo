@@ -1,0 +1,10 @@
+{
+  "quotes_unchanged": true,
+  "quote_files": 300,
+  "portfolio_data_reads": 1,
+  "portfolio_evaluations": 1,
+  "acquisition_gate_reservations": 2,
+  "frozen_method": "NET_K20_A02",
+  "single_method_preserved": true,
+  "audit_pass": true
+}

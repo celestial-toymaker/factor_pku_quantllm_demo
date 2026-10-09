@@ -1,0 +1,84 @@
+[
+  {
+    "command": [
+      "ditto",
+      "-x",
+      "-k",
+      "macOS_API_6.7.13/thostmduserapi_se.framework.zip",
+      "work/lesson02-completion/20261009/build-02/native"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 0.05,
+    "log": "thostmduserapi_se-extract.log"
+  },
+  {
+    "command": [
+      "ditto",
+      "-x",
+      "-k",
+      "macOS_API_6.7.13/thosttraderapi_se.framework.zip",
+      "work/lesson02-completion/20261009/build-02/native"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 0.026,
+    "log": "thosttraderapi_se-extract.log"
+  },
+  {
+    "command": [
+      "clang++",
+      "-std=c++17",
+      "-O2",
+      "-shared",
+      "-fPIC",
+      "-arch",
+      "arm64",
+      "-mmacosx-version-min=11.0",
+      "-undefined",
+      "dynamic_lookup",
+      "-I/opt/miniconda3/include/python3.13",
+      "-I$WORK/.venv/lib/python3.13/site-packages/pybind11/include",
+      "-Iwork/lesson02-completion/20261009/build-02/headers",
+      "-Iwork/lesson02-completion/20261009/build-02/binding/vnpy_ctp/api/vnctp",
+      "-Fwork/lesson02-completion/20261009/build-02/native",
+      "-framework",
+      "thostmduserapi_se",
+      "-liconv",
+      "-Wl,-rpath,@loader_path",
+      "work/lesson02-completion/20261009/build-02/binding/vnpy_ctp/api/vnctp/vnctpmd/vnctpmd.cpp",
+      "-o",
+      "work/lesson02-completion/20261009/build-02/native/vnctpmd.cpython-313-darwin.so"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 2.285,
+    "log": "vnctpmd-build.log"
+  },
+  {
+    "command": [
+      "clang++",
+      "-std=c++17",
+      "-O2",
+      "-shared",
+      "-fPIC",
+      "-arch",
+      "arm64",
+      "-mmacosx-version-min=11.0",
+      "-undefined",
+      "dynamic_lookup",
+      "-I/opt/miniconda3/include/python3.13",
+      "-I$WORK/.venv/lib/python3.13/site-packages/pybind11/include",
+      "-Iwork/lesson02-completion/20261009/build-02/headers",
+      "-Iwork/lesson02-completion/20261009/build-02/binding/vnpy_ctp/api/vnctp",
+      "-Fwork/lesson02-completion/20261009/build-02/native",
+      "-framework",
+      "thosttraderapi_se",
+      "-liconv",
+      "-Wl,-rpath,@loader_path",
+      "work/lesson02-completion/20261009/build-02/binding/vnpy_ctp/api/vnctp/vnctptd/vnctptd.cpp",
+      "-o",
+      "work/lesson02-completion/20261009/build-02/native/vnctptd.cpython-313-darwin.so"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 8.295,
+    "log": "vnctptd-build.log"
+  }
+]

@@ -1,0 +1,439 @@
+{
+  "schema_version": 1,
+  "mode": "SIMNOW",
+  "plan": {
+    "instrument": "T2612",
+    "exchange": "CFFEX",
+    "trigger_price": 109.0,
+    "mode": "SIMNOW",
+    "quantity": 1,
+    "quote_age": 3.0,
+    "source_future_tolerance": 1.0,
+    "order_timeout": 10.0,
+    "cancel_timeout": 10.0,
+    "run_timeout": 120.0,
+    "max_close_attempts": 3
+  },
+  "plan_hash": "61cb0c814d202d1b52d71b182675e1f327f88b7baad0b3cc97308b2724e357f4",
+  "status": "PASS",
+  "live_acceptance": "PASS",
+  "fills": {
+    "OPEN": 1,
+    "CLOSE": 1
+  },
+  "events": [
+    {
+      "seq": 1,
+      "kind": "plan_frozen",
+      "data": {
+        "plan_hash": "61cb0c814d202d1b52d71b182675e1f327f88b7baad0b3cc97308b2724e357f4",
+        "mode": "SIMNOW"
+      }
+    },
+    {
+      "seq": 2,
+      "kind": "session_ready",
+      "data": {
+        "trading_day": "20261009"
+      }
+    },
+    {
+      "seq": 3,
+      "kind": "stopped",
+      "data": {
+        "reason": "MARGIN_OR_FEE_QUERY_INCOMPLETE"
+      }
+    },
+    {
+      "seq": 4,
+      "kind": "restart",
+      "data": {}
+    },
+    {
+      "seq": 5,
+      "kind": "session_ready",
+      "data": {
+        "trading_day": "20261009"
+      }
+    },
+    {
+      "seq": 6,
+      "kind": "preflight",
+      "data": {
+        "contract_valid": true,
+        "margin_sufficient": true,
+        "fees_queried": true
+      }
+    },
+    {
+      "seq": 7,
+      "kind": "reconciled",
+      "data": {
+        "completed": [
+          "orders",
+          "trades",
+          "positions"
+        ],
+        "long": 0,
+        "short": 0,
+        "active_orders": 0,
+        "stable": true
+      }
+    },
+    {
+      "seq": 8,
+      "kind": "order_intent",
+      "data": {
+        "ref": "2",
+        "leg": "OPEN",
+        "volume": 1,
+        "offset": "OPEN",
+        "price": 109.42
+      }
+    },
+    {
+      "seq": 9,
+      "kind": "order_report",
+      "data": {
+        "ref": "2",
+        "status": "SUBMITTING",
+        "traded": 0
+      }
+    },
+    {
+      "seq": 10,
+      "kind": "order_report",
+      "data": {
+        "ref": "2",
+        "status": "SUBMITTING",
+        "traded": 0
+      }
+    },
+    {
+      "seq": 11,
+      "kind": "order_report",
+      "data": {
+        "ref": "2",
+        "status": "FILLED",
+        "traded": 1
+      }
+    },
+    {
+      "seq": 12,
+      "kind": "fill",
+      "data": {
+        "ref": "2",
+        "leg": "OPEN",
+        "volume": 1,
+        "price": 109.42
+      }
+    },
+    {
+      "seq": 13,
+      "kind": "order_intent",
+      "data": {
+        "ref": "3",
+        "leg": "CLOSE",
+        "volume": 1,
+        "offset": "CLOSE",
+        "price": 109.415
+      }
+    },
+    {
+      "seq": 14,
+      "kind": "order_report",
+      "data": {
+        "ref": "3",
+        "status": "SUBMITTING",
+        "traded": 0
+      }
+    },
+    {
+      "seq": 15,
+      "kind": "order_report",
+      "data": {
+        "ref": "3",
+        "status": "SUBMITTING",
+        "traded": 0
+      }
+    },
+    {
+      "seq": 16,
+      "kind": "order_report",
+      "data": {
+        "ref": "3",
+        "status": "FILLED",
+        "traded": 1
+      }
+    },
+    {
+      "seq": 17,
+      "kind": "fill",
+      "data": {
+        "ref": "3",
+        "leg": "CLOSE",
+        "volume": 1,
+        "price": 109.415
+      }
+    },
+    {
+      "seq": 18,
+      "kind": "order_report",
+      "data": {
+        "ref": "2",
+        "status": "FILLED",
+        "traded": 1
+      }
+    },
+    {
+      "seq": 19,
+      "kind": "order_report",
+      "data": {
+        "ref": "3",
+        "status": "FILLED",
+        "traded": 1
+      }
+    },
+    {
+      "seq": 20,
+      "kind": "reconciled",
+      "data": {
+        "completed": [
+          "orders",
+          "trades",
+          "positions"
+        ],
+        "long": 0,
+        "short": 0,
+        "active_orders": 0,
+        "stable": true
+      }
+    },
+    {
+      "seq": 21,
+      "kind": "restart",
+      "data": {}
+    },
+    {
+      "seq": 22,
+      "kind": "session_ready",
+      "data": {
+        "trading_day": "20261009"
+      }
+    },
+    {
+      "seq": 23,
+      "kind": "order_report",
+      "data": {
+        "ref": "2",
+        "status": "FILLED",
+        "traded": 0
+      }
+    },
+    {
+      "seq": 24,
+      "kind": "order_report",
+      "data": {
+        "ref": "2",
+        "status": "FILLED",
+        "traded": 0
+      }
+    },
+    {
+      "seq": 25,
+      "kind": "order_report",
+      "data": {
+        "ref": "2",
+        "status": "FILLED",
+        "traded": 1
+      }
+    },
+    {
+      "seq": 26,
+      "kind": "order_report",
+      "data": {
+        "ref": "3",
+        "status": "FILLED",
+        "traded": 0
+      }
+    },
+    {
+      "seq": 27,
+      "kind": "order_report",
+      "data": {
+        "ref": "3",
+        "status": "FILLED",
+        "traded": 0
+      }
+    },
+    {
+      "seq": 28,
+      "kind": "order_report",
+      "data": {
+        "ref": "3",
+        "status": "FILLED",
+        "traded": 1
+      }
+    },
+    {
+      "seq": 29,
+      "kind": "order_report",
+      "data": {
+        "ref": "2",
+        "status": "FILLED",
+        "traded": 1
+      }
+    },
+    {
+      "seq": 30,
+      "kind": "order_report",
+      "data": {
+        "ref": "3",
+        "status": "FILLED",
+        "traded": 1
+      }
+    },
+    {
+      "seq": 31,
+      "kind": "reconciled",
+      "data": {
+        "completed": [
+          "orders",
+          "trades",
+          "positions"
+        ],
+        "long": 0,
+        "short": 0,
+        "active_orders": 0,
+        "stable": true
+      }
+    }
+  ],
+  "reason": null,
+  "cleanup_error_type": null,
+  "execution_kind": "read_only_reconciliation",
+  "callback_trace": [
+    {
+      "api": "MD",
+      "event": "onFrontConnected",
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRspUserLogin",
+      "request_id": 0,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onFrontConnected",
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspAuthenticate",
+      "request_id": 2,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspUserLogin",
+      "request_id": 3,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRtnOrder",
+      "count": 3
+    },
+    {
+      "api": "TD",
+      "event": "onRtnInstrumentStatus",
+      "count": 20
+    },
+    {
+      "api": "TD",
+      "event": "onRtnTrade",
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRtnOrder",
+      "count": 2
+    },
+    {
+      "api": "TD",
+      "event": "onRtnInstrumentStatus",
+      "count": 10
+    },
+    {
+      "api": "TD",
+      "event": "onRtnOrder",
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRtnTrade",
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRtnInstrumentStatus",
+      "count": 1045
+    },
+    {
+      "api": "TD",
+      "event": "onRspSettlementInfoConfirm",
+      "request_id": 4,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryOrder",
+      "request_id": 5,
+      "last": false,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryOrder",
+      "request_id": 5,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryTrade",
+      "request_id": 6,
+      "last": false,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryTrade",
+      "request_id": 6,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInvestorPosition",
+      "request_id": 7,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "research/protocol.md": "dbcde388a08e5f3e31468cec5f46733a320c7e8bec02bbdcf28128fb075bedde",
+    "research/method.md": "1117be066f415937ac655a7477d0104cd3bb36e887b0ada054be46d9907b5c81",
+    "configs/research.yaml": "84fe1f909224a31eadf6e2bcd5770cf39ff6818cc7b1ba96a2d0677ee3186dbf",
+    "configs/candidate_registry.json": "8fb8eea601073075b55ea5ac7c06f75d6d79d8eb89d4742b7d3baa6d714dc8b8",
+    "data/data_manifest.json": "622a43dffb5d8d8d1e9343b91592391b29d32340ebd05f5c75c44e1bd0ca5f0a",
+    "data/history_fingerprints.json": "2e1ac44fcdb8142e24e00b106d6bba35325a591902a7a172cea55e32c298fdb0",
+    "data/industry_fingerprints.json": "2404d7a4c33479668bf30d5eef20cd2760cfcf46def9e10f49825a8e7c2035f0",
+    "results/history_data_audit.json": "386dec960981829eb0addea8ccf4503bb30aeac10e3500900dcf6c70a6a78308",
+    "research/exposure_ledger.json": "3ce9186336b207ddee2d1e4c6be610d8304dfcef56f80565094cc133bdbbe8e3",
+    "requirements.lock": "137b25cf5775657ff5474a5f8b27e365125d25ee01aae96256e05242804e4066",
+    "pyproject.toml": "114c6b0fddc098bcb76ae3942991080fc22619ad364ea8c9a76dee9f3338428d"
+  },
+  "code_hash": "f8f382fadb6e0f314936612a7c6b6352d981765c26bdad8226b02c39da50b36f",
+  "frozen_utc": "2026-10-09T01:03:58.990341+00:00",
+  "performance_examined": false
+}

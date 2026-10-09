@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "mode": "DRY_RUN",
+  "plan": {
+    "instrument": "SYNTHETIC",
+    "exchange": "SHFE",
+    "trigger_price": 100.0,
+    "mode": "DRY_RUN",
+    "quantity": 1,
+    "quote_age": 3.0,
+    "source_future_tolerance": 1.0,
+    "order_timeout": 10.0,
+    "cancel_timeout": 10.0,
+    "run_timeout": 120.0,
+    "max_close_attempts": 3
+  },
+  "plan_hash": "b18bf9f0a2c6f4f52f10a5dfe6c2724d2e344fc4a32dac5e0adabdeb3d4b3156",
+  "status": "OFFLINE_PASS",
+  "live_acceptance": "NOT_PASSED",
+  "fills": {
+    "OPEN": 1,
+    "CLOSE": 1
+  },
+  "events": [
+    {
+      "seq": 1,
+      "kind": "plan_frozen",
+      "data": {
+        "plan_hash": "b18bf9f0a2c6f4f52f10a5dfe6c2724d2e344fc4a32dac5e0adabdeb3d4b3156",
+        "mode": "DRY_RUN"
+      }
+    },
+    {
+      "seq": 2,
+      "kind": "session_ready",
+      "data": {
+        "trading_day": "SYNTHETIC_DAY"
+      }
+    },
+    {
+      "seq": 3,
+      "kind": "reconciled",
+      "data": {
+        "completed": [
+          "orders",
+          "trades",
+          "positions"
+        ],
+        "long": 0,
+        "short": 0,
+        "active_orders": 0,
+        "stable": true
+      }
+    },
+    {
+      "seq": 4,
+      "kind": "order_intent",
+      "data": {
+        "ref": "1",
+        "leg": "OPEN",
+        "volume": 1,
+        "offset": "OPEN",
+        "price": 101
+      }
+    },
+    {
+      "seq": 5,
+      "kind": "order_report",
+      "data": {
+        "ref": "1",
+        "status": "FILLED",
+        "traded": 1
+      }
+    },
+    {
+      "seq": 6,
+      "kind": "fill",
+      "data": {
+        "ref": "1",
+        "leg": "OPEN",
+        "volume": 1,
+        "price": 101
+      }
+    },
+    {
+      "seq": 7,
+      "kind": "order_intent",
+      "data": {
+        "ref": "2",
+        "leg": "CLOSE",
+        "volume": 1,
+        "offset": "CLOSE_TODAY",
+        "price": 100
+      }
+    },
+    {
+      "seq": 8,
+      "kind": "order_report",
+      "data": {
+        "ref": "2",
+        "status": "FILLED",
+        "traded": 1
+      }
+    },
+    {
+      "seq": 9,
+      "kind": "fill",
+      "data": {
+        "ref": "2",
+        "leg": "CLOSE",
+        "volume": 1,
+        "price": 100
+      }
+    },
+    {
+      "seq": 10,
+      "kind": "reconciled",
+      "data": {
+        "completed": [
+          "orders",
+          "trades",
+          "positions"
+        ],
+        "long": 0,
+        "short": 0,
+        "active_orders": 0,
+        "stable": true
+      }
+    }
+  ],
+  "hand_calculated_example": {
+    "multiplier": 10,
+    "gross_pnl": -10,
+    "fees": 4,
+    "net_pnl": -14,
+    "source": "synthetic"
+  }
+}

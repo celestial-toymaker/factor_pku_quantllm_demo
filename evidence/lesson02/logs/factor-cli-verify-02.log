@@ -1,0 +1,1 @@
+{"ok": true, "errors": [], "checksums_checked": 198, "final_labels_read": false, "publication_derivation": {"original_freeze_verified": true, "scientific_modules_unchanged": true, "presentation_modules_changed": ["report.py", "verify.py"], "empirical_values_changed": false}}

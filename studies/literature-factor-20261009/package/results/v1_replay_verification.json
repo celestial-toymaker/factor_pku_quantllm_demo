@@ -1,0 +1,6 @@
+{
+  "exact_metrics_except_created_time": true,
+  "historical_only": true,
+  "version": "v1; endpoint labels subsequently repaired",
+  "exit_code": 0
+}

@@ -1,0 +1,4340 @@
+{
+  "schema_version": 1,
+  "study_id": "literature-factor-20261009",
+  "created_utc": "2026-10-09T01:10:55.236772+00:00",
+  "research_outcome": "NO_FACTOR_PASSED",
+  "method_selected": "NET_K20_A02",
+  "validation_qualified": false,
+  "candidate_results": [
+    {
+      "candidate_id": "NET_K05_A02",
+      "family": "cross_stock_empirical_lead_lag",
+      "leaders": 5,
+      "alpha": 0.2,
+      "complexity": 5,
+      "holding_sessions": 5,
+      "sign": 1,
+      "formula": "weighted mean of other stocks EWMA log returns; positive lag-one antisymmetric Pearson graph; expanding bimonthly refits",
+      "status": "registered",
+      "evaluable": true,
+      "distinct": true,
+      "validation_qualified": false,
+      "mean_net_active": -0.0004965345915809517,
+      "turnover": 0.22018780413381472,
+      "primary": {
+        "n": 1457,
+        "mean": -0.0004965345915809517,
+        "se": 0.00011855303930759272,
+        "p_one_sided": 0.9999859468321554,
+        "ci95": [
+          -0.0007288985486238335,
+          -0.00026417063453806997
+        ],
+        "lag": 10
+      },
+      "p_one_sided": 0.9999859468321554,
+      "hac_sensitivity": {
+        "5": {
+          "n": 1457,
+          "mean": -0.0004965345915809517,
+          "se": 0.00012155038601205678,
+          "p_one_sided": 0.9999779625792491,
+          "ci95": [
+            -0.0007347733481645831,
+            -0.00025829583499732044
+          ],
+          "lag": 5
+        },
+        "20": {
+          "n": 1457,
+          "mean": -0.0004965345915809517,
+          "se": 0.00010607665317578633,
+          "p_one_sided": 0.9999985719341169,
+          "ci95": [
+            -0.0007044448318054929,
+            -0.00028862435135641057
+          ],
+          "lag": 20
+        }
+      },
+      "folds": [
+        {
+          "sessions": 487,
+          "first_date": "2018-01-02",
+          "last_date": "2019-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.3118241575159998,
+          "gross_same_fills_return": -0.1339817655999993,
+          "benchmark_net_return": -0.037831194795999945,
+          "relative_compounded_return": -0.28476600076626635,
+          "active": {
+            "n": 487,
+            "mean": -0.0006817139812699595,
+            "se": 0.0002576057873383094,
+            "p_one_sided": 0.9959316698240466,
+            "ci95": [
+              -0.001186621324453046,
+              -0.0001768066380868731
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.41806524851503524,
+          "mean_daily_turnover": 0.21666561525693576,
+          "fees_cny": 75040.90503600008,
+          "slippage_cny": 98532.50000000033,
+          "dividend_tax_reserve": 4268.98688,
+          "last_cash": 79030.84248400023,
+          "last_positions_value": 609145.0,
+          "last_receivables": 0.0,
+          "last_position_count": 51,
+          "failed_orders": 1228,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.17582971922683555,
+            "sharpe_cash_zero": -0.993769877479271,
+            "active_ir": -1.9012061948664059
+          }
+        },
+        {
+          "sessions": 486,
+          "first_date": "2020-01-02",
+          "last_date": "2021-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.02977840087460215,
+          "gross_same_fills_return": 0.19347829839999786,
+          "benchmark_net_return": 0.15699827668799782,
+          "relative_compounded_return": -0.16143211388115764,
+          "active": {
+            "n": 486,
+            "mean": -0.0003432972008884036,
+            "se": 0.00016175377647284587,
+            "p_one_sided": 0.983095580838679,
+            "ci95": [
+              -0.0006603346027751816,
+              -2.6259799001625706e-05
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.1735138082461407,
+          "mean_daily_turnover": 0.222875911729382,
+          "fees_cny": 92321.0395945997,
+          "slippage_cny": 123709.82000000024,
+          "dividend_tax_reserve": 7225.839679999999,
+          "last_cash": 70537.59912539787,
+          "last_positions_value": 899684.0,
+          "last_receivables": 0.0,
+          "last_position_count": 46,
+          "failed_orders": 1561,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.015553002878803679,
+            "sharpe_cash_zero": 0.003480472186159043,
+            "active_ir": -1.4307946949337906
+          }
+        },
+        {
+          "sessions": 484,
+          "first_date": "2022-01-04",
+          "last_date": "2023-12-29",
+          "capital": 1000000.0,
+          "net_return": -0.2821669457678003,
+          "gross_same_fills_return": -0.10329011919999997,
+          "benchmark_net_return": -0.09036966072280006,
+          "relative_compounded_return": -0.21085189968202256,
+          "active": {
+            "n": 484,
+            "mean": -0.00046407799880828984,
+            "se": 0.00018016125169150542,
+            "p_one_sided": 0.9950010727600443,
+            "ci95": [
+              -0.0008171940521236405,
+              -0.00011096194549293923
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.31339490086076127,
+          "mean_daily_turnover": 0.22103260928173699,
+          "fees_cny": 73762.82240780011,
+          "slippage_cny": 97547.48000000024,
+          "dividend_tax_reserve": 7566.524160000001,
+          "last_cash": 45794.054232199705,
+          "last_positions_value": 672039.0,
+          "last_receivables": 0.0,
+          "last_position_count": 47,
+          "failed_orders": 1559,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.1585331639491323,
+            "sharpe_cash_zero": -1.0243060983503995,
+            "active_ir": -1.7828742383654865
+          }
+        }
+      ],
+      "positive_folds": 0,
+      "incremental_over_existing": {
+        "n": 1457,
+        "mean": -5.7052067788102146e-05,
+        "se": 0.00016636719883350096,
+        "p_one_sided": 0.6341739060526566,
+        "ci95": [
+          -0.000383131777501764,
+          0.0002690276419255597
+        ],
+        "lag": 10
+      },
+      "mature_daily_rank_ic": {
+        "n": 1439,
+        "mean": 0.007094142836003207,
+        "se": 0.004313017974578642,
+        "p_one_sided": 0.050003357964552735,
+        "ci95": [
+          -0.0013593723941709313,
+          0.015547658066177346
+        ],
+        "lag": 10
+      },
+      "development_rank_ic": {
+        "n": 2182,
+        "mean": 0.006229842347098574,
+        "se": 0.003919909270394156,
+        "p_one_sided": 0.05599833861988554,
+        "ci95": [
+          -0.0014531798228739718,
+          0.013912864517071119
+        ],
+        "lag": 10
+      },
+      "development_account": null,
+      "development_account_reason": "Pre-2017 raw action/tradability ledger not obtained; only adjusted-price ordering diagnostic",
+      "overlap": {
+        "reversal5": {
+          "median_absolute_rho": 0.05457335455707498,
+          "rho_q05": -0.1511590875079366,
+          "rho_q95": 0.12343911354782552,
+          "mean_tail_jaccard": 0.1116012886389147,
+          "matched_dates": 1423,
+          "mean_common_count": 257.2086479066575
+        },
+        "momentum20": {
+          "median_absolute_rho": 0.05434491640009895,
+          "rho_q05": -0.1240029616382102,
+          "rho_q95": 0.14488400330038265,
+          "mean_tail_jaccard": 0.11854705687537993,
+          "matched_dates": 1423,
+          "mean_common_count": 257.2086479066575
+        },
+        "weak_close": {
+          "median_absolute_rho": 0.05539993198854354,
+          "rho_q05": -0.13852809824580667,
+          "rho_q95": 0.11732989634936945,
+          "mean_tail_jaccard": 0.11249019945248769,
+          "matched_dates": 1422,
+          "mean_common_count": 257.0706932052162
+        },
+        "gap_diff4": {
+          "median_absolute_rho": 0.0525534738374167,
+          "rho_q05": -0.1487330380644671,
+          "rho_q95": 0.1089828553463517,
+          "mean_tail_jaccard": 0.11338780740599061,
+          "matched_dates": 1423,
+          "mean_common_count": 257.2086479066575
+        },
+        "gap_diff4_amount": {
+          "median_absolute_rho": 0.05282888429455614,
+          "rho_q05": -0.14666262494189164,
+          "rho_q95": 0.11548941647212184,
+          "mean_tail_jaccard": 0.11389948490400588,
+          "matched_dates": 1423,
+          "mean_common_count": 257.2086479066575
+        },
+        "pv_anti5": {
+          "median_absolute_rho": 0.05119738912842361,
+          "rho_q05": -0.126391839093139,
+          "rho_q95": 0.12019976540889853,
+          "mean_tail_jaccard": 0.11387450499606458,
+          "matched_dates": 1423,
+          "mean_common_count": 257.18874399450925
+        },
+        "rev4_amount_highpos": {
+          "median_absolute_rho": 0.05584625757538148,
+          "rho_q05": -0.13605166816998565,
+          "rho_q95": 0.12001780746158174,
+          "mean_tail_jaccard": 0.11416853913993409,
+          "matched_dates": 1423,
+          "mean_common_count": 257.2086479066575
+        },
+        "strong_close_event": {
+          "median_absolute_rho": 0.04840178256533673,
+          "rho_q05": -0.09985680696436108,
+          "rho_q95": 0.10007460009105217,
+          "mean_tail_jaccard": 0.2015042672540891,
+          "matched_dates": 768,
+          "mean_common_count": 257.16129032258067
+        },
+        "liquidity_cv_abnormal": {
+          "median_absolute_rho": 0.05418133264871886,
+          "rho_q05": -0.13155647473834883,
+          "rho_q95": 0.13183131228762457,
+          "mean_tail_jaccard": 0.11267158945822467,
+          "matched_dates": 1423,
+          "mean_common_count": 257.2086479066575
+        },
+        "existing_equal_rank": {
+          "median_absolute_rho": 0.05375901927880608,
+          "rho_q05": -0.1482575449004837,
+          "rho_q95": 0.11317620226277167,
+          "mean_tail_jaccard": 0.11290207934193525,
+          "matched_dates": 1422,
+          "mean_common_count": 257.05078929306796
+        }
+      },
+      "ordering_diagnostics": {
+        "available": true,
+        "rank_ic": {
+          "n": 1405,
+          "mean": 0.0064478460705197456,
+          "se": 0.004365907460905745,
+          "p_one_sided": 0.06985621678400075,
+          "ci95": [
+            -0.002109332552855514,
+            0.015005024693895006
+          ],
+          "lag": 10
+        },
+        "rank_ir_unannualized": 0.07177247323057288,
+        "rank_ic_quantiles": {
+          "0.05": -0.14392730718245497,
+          "0.25": -0.05470677194815125,
+          "0.5": 0.007556483766850201,
+          "0.75": 0.06540252272970178,
+          "0.95": 0.1538224257580566
+        },
+        "industry_coverage_mean": 1.0,
+        "industry_coverage_min": 1.0,
+        "within_sector_rank_ic": {
+          "n": 1405,
+          "mean": 0.006886896277239925,
+          "se": 0.005117142450248534,
+          "p_one_sided": 0.08917575999750016,
+          "ci95": [
+            -0.0031427029252472016,
+            0.01691649547972705
+          ],
+          "lag": 10
+        },
+        "training_residual_rank_ic": {
+          "n": 1404,
+          "mean": 0.006892345951383901,
+          "se": 0.0043486410323633744,
+          "p_one_sided": 0.05648970056152414,
+          "ci95": [
+            -0.0016309904720483133,
+            0.015415682374816116
+          ],
+          "lag": 10
+        },
+        "sector_summary": {
+          "C15酒、饮料和精制茶制造业": {
+            "dates": 675,
+            "mean_rank_ic": 0.02498576838475443,
+            "mean_stocks": 10.16
+          },
+          "C26化学原料和化学制品制造业": {
+            "dates": 352,
+            "mean_rank_ic": -0.011782847669531587,
+            "mean_stocks": 10.3125
+          },
+          "C27医药制造业": {
+            "dates": 1405,
+            "mean_rank_ic": 0.0010270831444926178,
+            "mean_stocks": 15.456227758007117
+          },
+          "C32有色金属冶炼和压延加工业": {
+            "dates": 399,
+            "mean_rank_ic": 0.034239567137728216,
+            "mean_stocks": 10.032581453634085
+          },
+          "C36汽车制造业": {
+            "dates": 655,
+            "mean_rank_ic": 0.006231587303042811,
+            "mean_stocks": 10.375572519083969
+          },
+          "C38电气机械和器材制造业": {
+            "dates": 464,
+            "mean_rank_ic": 0.044645099871392965,
+            "mean_stocks": 12.775862068965518
+          },
+          "C39计算机、通信和其他电子设备制造业": {
+            "dates": 1405,
+            "mean_rank_ic": -0.005233225003925172,
+            "mean_stocks": 24.820640569395017
+          },
+          "D44电力、热力生产和供应业": {
+            "dates": 353,
+            "mean_rank_ic": 0.013651722803206073,
+            "mean_stocks": 10.0
+          },
+          "E48土木工程建筑业": {
+            "dates": 646,
+            "mean_rank_ic": 0.03149887874768128,
+            "mean_stocks": 10.753869969040247
+          },
+          "J66货币金融服务": {
+            "dates": 1405,
+            "mean_rank_ic": 0.03877328853777255,
+            "mean_stocks": 21.65693950177936
+          },
+          "J67资本市场服务": {
+            "dates": 1405,
+            "mean_rank_ic": -0.010024210179661687,
+            "mean_stocks": 24.318861209964414
+          },
+          "K70房地产业": {
+            "dates": 907,
+            "mean_rank_ic": -0.018704978917168498,
+            "mean_stocks": 13.835722160970231
+          }
+        },
+        "positive_sectors_min60dates": 8,
+        "breadth_pass": true,
+        "yearly": [
+          {
+            "year": 2018,
+            "rank_ic": {
+              "n": 211,
+              "mean": 0.004275988076152579,
+              "se": 0.010640456817548003,
+              "p_one_sided": 0.3438930434503797,
+              "ci95": [
+                -0.016579307286241508,
+                0.025131283438546665
+              ],
+              "lag": 10
+            },
+            "dates": 211
+          },
+          {
+            "year": 2019,
+            "rank_ic": {
+              "n": 236,
+              "mean": 0.010383850171829927,
+              "se": 0.009480938019392685,
+              "p_one_sided": 0.13670696292252543,
+              "ci95": [
+                -0.008198788346179734,
+                0.028966488689839587
+              ],
+              "lag": 10
+            },
+            "dates": 236
+          },
+          {
+            "year": 2020,
+            "rank_ic": {
+              "n": 243,
+              "mean": -0.006286710794845448,
+              "se": 0.0098888325917065,
+              "p_one_sided": 0.7375265344172344,
+              "ci95": [
+                -0.025668822674590187,
+                0.013095401084899292
+              ],
+              "lag": 10
+            },
+            "dates": 243
+          },
+          {
+            "year": 2021,
+            "rank_ic": {
+              "n": 237,
+              "mean": 0.007083531217397114,
+              "se": 0.008194040791878113,
+              "p_one_sided": 0.19366391266840371,
+              "ci95": [
+                -0.008976788734683987,
+                0.023143851169478216
+              ],
+              "lag": 10
+            },
+            "dates": 237
+          },
+          {
+            "year": 2022,
+            "rank_ic": {
+              "n": 242,
+              "mean": 0.02025902434167874,
+              "se": 0.01406900198850054,
+              "p_one_sided": 0.07493710333698077,
+              "ci95": [
+                -0.007316219555782315,
+                0.0478342682391398
+              ],
+              "lag": 10
+            },
+            "dates": 242
+          },
+          {
+            "year": 2023,
+            "rank_ic": {
+              "n": 236,
+              "mean": 0.0027652183830434722,
+              "se": 0.009977663578762518,
+              "p_one_sided": 0.3908359696389888,
+              "ci95": [
+                -0.016791002231331065,
+                0.02232143899741801
+              ],
+              "lag": 10
+            },
+            "dates": 236
+          }
+        ],
+        "quintile_mean_forward_returns": {
+          "q1_forward_return": -0.0006106483731441108,
+          "q2_forward_return": 0.00014376029834657568,
+          "q3_forward_return": 0.00021792195649475668,
+          "q4_forward_return": 0.00022380524024075024,
+          "q5_forward_return": 0.0002527303677768274
+        },
+        "group_returns_interpretation": "Overlapping next-open five-session adjusted-price labels, descriptive and unannualized; complete cutoff ties retained",
+        "unknown_industry_reason": "Annual snapshots may omit newly listed or newly classified members; missing groups remain unknown",
+        "control_projection": {
+          "available": true,
+          "training_start": "2008-01-01",
+          "training_end": "2017-12-31",
+          "observations": 545290,
+          "controls": [
+            "reversal5",
+            "momentum20",
+            "existing_equal_rank",
+            "liquidity_cv_abnormal"
+          ],
+          "coefficients": [
+            0.5149817381655534,
+            -0.029764118690010215,
+            0.006840824217012013,
+            -0.0035569018566862167,
+            0.0006254996286726003
+          ],
+          "outcomes_used": false,
+          "refit_in_validation": false
+        }
+      },
+      "sector_breadth_available": true,
+      "scored_breadth": {
+        "min": 184,
+        "median": 260.0,
+        "max": 279,
+        "sessions_below_200": 34,
+        "sessions": 1457
+      },
+      "holm_p": 1.0,
+      "qualification_failures": [
+        "Holm_5pct",
+        "two_positive_folds",
+        "incremental_account_HAC_lower_positive"
+      ]
+    },
+    {
+      "candidate_id": "NET_K05_A04",
+      "family": "cross_stock_empirical_lead_lag",
+      "leaders": 5,
+      "alpha": 0.4,
+      "complexity": 5,
+      "holding_sessions": 5,
+      "sign": 1,
+      "formula": "weighted mean of other stocks EWMA log returns; positive lag-one antisymmetric Pearson graph; expanding bimonthly refits",
+      "status": "registered",
+      "evaluable": true,
+      "distinct": true,
+      "validation_qualified": false,
+      "mean_net_active": -0.000585578580642899,
+      "turnover": 0.25698195064082247,
+      "primary": {
+        "n": 1457,
+        "mean": -0.000585578580642899,
+        "se": 0.00011852737501028574,
+        "p_one_sided": 0.9999996102877896,
+        "ci95": [
+          -0.000817892235663059,
+          -0.000353264925622739
+        ],
+        "lag": 10
+      },
+      "p_one_sided": 0.9999996102877896,
+      "hac_sensitivity": {
+        "5": {
+          "n": 1457,
+          "mean": -0.000585578580642899,
+          "se": 0.00012149908274526009,
+          "p_one_sided": 0.9999992808158276,
+          "ci95": [
+            -0.0008237167828236088,
+            -0.00034744037846218923
+          ],
+          "lag": 5
+        },
+        "20": {
+          "n": 1457,
+          "mean": -0.000585578580642899,
+          "se": 0.0001068950171071605,
+          "p_one_sided": 0.999999978500719,
+          "ci95": [
+            -0.0007950928141729336,
+            -0.00037606434711286445
+          ],
+          "lag": 20
+        }
+      },
+      "folds": [
+        {
+          "sessions": 487,
+          "first_date": "2018-01-02",
+          "last_date": "2019-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.33905678074600054,
+          "gross_same_fills_return": -0.13624362030000048,
+          "benchmark_net_return": -0.037831194795999945,
+          "relative_compounded_return": -0.3130693744390669,
+          "active": {
+            "n": 487,
+            "mean": -0.0007650007609594339,
+            "se": 0.00025750442825915495,
+            "p_one_sided": 0.9985149983136419,
+            "ci95": [
+              -0.0012697094403473774,
+              -0.0002602920815714902
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.42746546942205566,
+          "mean_daily_turnover": 0.24989527367871012,
+          "fees_cny": 85032.16050599974,
+          "slippage_cny": 114077.2300000003,
+          "dividend_tax_reserve": 3703.7699399999997,
+          "last_cash": 61583.219253999414,
+          "last_positions_value": 599360.0,
+          "last_receivables": 0.0,
+          "last_position_count": 53,
+          "failed_orders": 923,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.19287043262070702,
+            "sharpe_cash_zero": -1.1151098708724205,
+            "active_ir": -2.128252474653548
+          }
+        },
+        {
+          "sessions": 486,
+          "first_date": "2020-01-02",
+          "last_date": "2021-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.042251458767002203,
+          "gross_same_fills_return": 0.22394600199999726,
+          "benchmark_net_return": 0.15699827668799782,
+          "relative_compounded_return": -0.1722126466993268,
+          "active": {
+            "n": 486,
+            "mean": -0.00037031816619960666,
+            "se": 0.00015988360473937402,
+            "p_one_sided": 0.9897256008900768,
+            "ci95": [
+              -0.0006836900314887797,
+              -5.694630091043361e-05
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.17270442810638142,
+          "mean_daily_turnover": 0.2671407271979382,
+          "fees_cny": 109554.75036699939,
+          "slippage_cny": 149464.3500000003,
+          "dividend_tax_reserve": 7178.360399999999,
+          "last_cash": 107351.5412329978,
+          "last_positions_value": 850397.0,
+          "last_receivables": 0.0,
+          "last_position_count": 44,
+          "failed_orders": 1119,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.022135781082062378,
+            "sharpe_cash_zero": -0.034387369980674855,
+            "active_ir": -1.5379686079782153
+          }
+        },
+        {
+          "sessions": 484,
+          "first_date": "2022-01-04",
+          "last_date": "2023-12-29",
+          "capital": 1000000.0,
+          "net_return": -0.33479135205400123,
+          "gross_same_fills_return": -0.13706830810000115,
+          "benchmark_net_return": -0.09036966072280006,
+          "relative_compounded_return": -0.26870441846236204,
+          "active": {
+            "n": 484,
+            "mean": -0.0006211941996620881,
+            "se": 0.00018083638609271233,
+            "p_one_sided": 0.9997038513123777,
+            "ci95": [
+              -0.0009756335164038043,
+              -0.000266754882920372
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.361969126628478,
+          "mean_daily_turnover": 0.2539117983139434,
+          "fees_cny": 82302.26557399977,
+          "slippage_cny": 107520.90000000023,
+          "dividend_tax_reserve": 7899.878380000001,
+          "last_cash": 59608.647945998826,
+          "last_positions_value": 605600.0,
+          "last_receivables": 0.0,
+          "last_position_count": 46,
+          "failed_orders": 1203,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.19123742119377451,
+            "sharpe_cash_zero": -1.2763061489623913,
+            "active_ir": -2.3830747994348696
+          }
+        }
+      ],
+      "positive_folds": 0,
+      "incremental_over_existing": {
+        "n": 1457,
+        "mean": -0.00014609605685004937,
+        "se": 0.00016605683516759931,
+        "p_one_sided": 0.8105149494140849,
+        "ci95": [
+          -0.00047156745377854403,
+          0.00017937534007844529
+        ],
+        "lag": 10
+      },
+      "mature_daily_rank_ic": {
+        "n": 1439,
+        "mean": 0.00386626031930942,
+        "se": 0.003575390713090632,
+        "p_one_sided": 0.13977000741108803,
+        "ci95": [
+          -0.003141505478348219,
+          0.01087402611696706
+        ],
+        "lag": 10
+      },
+      "development_rank_ic": {
+        "n": 2182,
+        "mean": 0.007369998532525923,
+        "se": 0.0033793528434512303,
+        "p_one_sided": 0.014595758053757834,
+        "ci95": [
+          0.0007464669593615116,
+          0.013993530105690334
+        ],
+        "lag": 10
+      },
+      "development_account": null,
+      "development_account_reason": "Pre-2017 raw action/tradability ledger not obtained; only adjusted-price ordering diagnostic",
+      "overlap": {
+        "reversal5": {
+          "median_absolute_rho": 0.05330930600969229,
+          "rho_q05": -0.1477490820045231,
+          "rho_q95": 0.12486339097189866,
+          "mean_tail_jaccard": 0.11204118785442337,
+          "matched_dates": 1423,
+          "mean_common_count": 257.2086479066575
+        },
+        "momentum20": {
+          "median_absolute_rho": 0.059610698377936984,
+          "rho_q05": -0.13340947166285752,
+          "rho_q95": 0.1410998735867457,
+          "mean_tail_jaccard": 0.11642568032359991,
+          "matched_dates": 1423,
+          "mean_common_count": 257.2086479066575
+        },
+        "weak_close": {
+          "median_absolute_rho": 0.05211834468182862,
+          "rho_q05": -0.14254994799826556,
+          "rho_q95": 0.1156128939961892,
+          "mean_tail_jaccard": 0.1121232207814865,
+          "matched_dates": 1422,
+          "mean_common_count": 257.0706932052162
+        },
+        "gap_diff4": {
+          "median_absolute_rho": 0.05214014258370551,
+          "rho_q05": -0.14582569412539173,
+          "rho_q95": 0.11420623639852107,
+          "mean_tail_jaccard": 0.11274046803789403,
+          "matched_dates": 1423,
+          "mean_common_count": 257.2086479066575
+        },
+        "gap_diff4_amount": {
+          "median_absolute_rho": 0.05147881363361765,
+          "rho_q05": -0.1449845901165755,
+          "rho_q95": 0.12052119926139715,
+          "mean_tail_jaccard": 0.11375925467976584,
+          "matched_dates": 1423,
+          "mean_common_count": 257.2086479066575
+        },
+        "pv_anti5": {
+          "median_absolute_rho": 0.05175322014929103,
+          "rho_q05": -0.1250574940172561,
+          "rho_q95": 0.12025120421097234,
+          "mean_tail_jaccard": 0.11494818805719939,
+          "matched_dates": 1423,
+          "mean_common_count": 257.18874399450925
+        },
+        "rev4_amount_highpos": {
+          "median_absolute_rho": 0.05329420889124583,
+          "rho_q05": -0.13390163648228814,
+          "rho_q95": 0.12278253010395232,
+          "mean_tail_jaccard": 0.11427399041634625,
+          "matched_dates": 1423,
+          "mean_common_count": 257.2086479066575
+        },
+        "strong_close_event": {
+          "median_absolute_rho": 0.04825878808067259,
+          "rho_q05": -0.09689317050899152,
+          "rho_q95": 0.10124225745675068,
+          "mean_tail_jaccard": 0.2015042672540891,
+          "matched_dates": 768,
+          "mean_common_count": 257.16129032258067
+        },
+        "liquidity_cv_abnormal": {
+          "median_absolute_rho": 0.05500884155604191,
+          "rho_q05": -0.12759759633901724,
+          "rho_q95": 0.1394126127400593,
+          "mean_tail_jaccard": 0.11305684339786672,
+          "matched_dates": 1423,
+          "mean_common_count": 257.2086479066575
+        },
+        "existing_equal_rank": {
+          "median_absolute_rho": 0.054962334292839254,
+          "rho_q05": -0.14033460196600736,
+          "rho_q95": 0.12301377906463073,
+          "mean_tail_jaccard": 0.11265515671747027,
+          "matched_dates": 1422,
+          "mean_common_count": 257.05078929306796
+        }
+      },
+      "ordering_diagnostics": {
+        "available": true,
+        "rank_ic": {
+          "n": 1405,
+          "mean": 0.0030682301484596447,
+          "se": 0.003602619353293027,
+          "p_one_sided": 0.1971996146421368,
+          "ci95": [
+            -0.003992903783994688,
+            0.010129364080913977
+          ],
+          "lag": 10
+        },
+        "rank_ir_unannualized": 0.034823748001607875,
+        "rank_ic_quantiles": {
+          "0.05": -0.14946838193062492,
+          "0.25": -0.053073559726490874,
+          "0.5": 0.006966484757834882,
+          "0.75": 0.06425398049904221,
+          "0.95": 0.1439261856872367
+        },
+        "industry_coverage_mean": 1.0,
+        "industry_coverage_min": 1.0,
+        "within_sector_rank_ic": {
+          "n": 1405,
+          "mean": 0.0054697374484326275,
+          "se": 0.004172470107518851,
+          "p_one_sided": 0.0949438972970974,
+          "ci95": [
+            -0.002708303962304319,
+            0.013647778859169575
+          ],
+          "lag": 10
+        },
+        "training_residual_rank_ic": {
+          "n": 1404,
+          "mean": 0.0034159950972888066,
+          "se": 0.003592222058925099,
+          "p_one_sided": 0.17081689081958978,
+          "ci95": [
+            -0.003624760138204388,
+            0.010456750332782
+          ],
+          "lag": 10
+        },
+        "sector_summary": {
+          "C15酒、饮料和精制茶制造业": {
+            "dates": 675,
+            "mean_rank_ic": 0.014633109373992152,
+            "mean_stocks": 10.16
+          },
+          "C26化学原料和化学制品制造业": {
+            "dates": 352,
+            "mean_rank_ic": -0.003545325062243172,
+            "mean_stocks": 10.3125
+          },
+          "C27医药制造业": {
+            "dates": 1405,
+            "mean_rank_ic": -0.004841734129616119,
+            "mean_stocks": 15.456227758007117
+          },
+          "C32有色金属冶炼和压延加工业": {
+            "dates": 399,
+            "mean_rank_ic": 0.039283986622197696,
+            "mean_stocks": 10.032581453634085
+          },
+          "C36汽车制造业": {
+            "dates": 655,
+            "mean_rank_ic": -0.007564560490248456,
+            "mean_stocks": 10.375572519083969
+          },
+          "C38电气机械和器材制造业": {
+            "dates": 464,
+            "mean_rank_ic": 0.02380503835245214,
+            "mean_stocks": 12.775862068965518
+          },
+          "C39计算机、通信和其他电子设备制造业": {
+            "dates": 1405,
+            "mean_rank_ic": -0.003492140498156113,
+            "mean_stocks": 24.820640569395017
+          },
+          "D44电力、热力生产和供应业": {
+            "dates": 353,
+            "mean_rank_ic": 0.006508747130461471,
+            "mean_stocks": 10.0
+          },
+          "E48土木工程建筑业": {
+            "dates": 646,
+            "mean_rank_ic": 0.01985691852402812,
+            "mean_stocks": 10.753869969040247
+          },
+          "J66货币金融服务": {
+            "dates": 1405,
+            "mean_rank_ic": 0.03292972791333502,
+            "mean_stocks": 21.65693950177936
+          },
+          "J67资本市场服务": {
+            "dates": 1405,
+            "mean_rank_ic": -0.006702293879675052,
+            "mean_stocks": 24.318861209964414
+          },
+          "K70房地产业": {
+            "dates": 907,
+            "mean_rank_ic": -0.0043224197386821745,
+            "mean_stocks": 13.835722160970231
+          }
+        },
+        "positive_sectors_min60dates": 6,
+        "breadth_pass": true,
+        "yearly": [
+          {
+            "year": 2018,
+            "rank_ic": {
+              "n": 211,
+              "mean": -0.0011167598134407305,
+              "se": 0.008593673143819076,
+              "p_one_sided": 0.5516975591749111,
+              "ci95": [
+                -0.017960359175326117,
+                0.015726839548444657
+              ],
+              "lag": 10
+            },
+            "dates": 211
+          },
+          {
+            "year": 2019,
+            "rank_ic": {
+              "n": 236,
+              "mean": 0.0069410107843012455,
+              "se": 0.009384917517723221,
+              "p_one_sided": 0.22977377062376797,
+              "ci95": [
+                -0.011453427550436268,
+                0.02533544911903876
+              ],
+              "lag": 10
+            },
+            "dates": 236
+          },
+          {
+            "year": 2020,
+            "rank_ic": {
+              "n": 243,
+              "mean": -0.003796392935869282,
+              "se": 0.008000815582998711,
+              "p_one_sided": 0.6824285657430985,
+              "ci95": [
+                -0.019477991478546754,
+                0.011885205606808192
+              ],
+              "lag": 10
+            },
+            "dates": 243
+          },
+          {
+            "year": 2021,
+            "rank_ic": {
+              "n": 237,
+              "mean": 0.002636105219050852,
+              "se": 0.0062478427928201906,
+              "p_one_sided": 0.3365408067538042,
+              "ci95": [
+                -0.009609666654876722,
+                0.014881877092978425
+              ],
+              "lag": 10
+            },
+            "dates": 237
+          },
+          {
+            "year": 2022,
+            "rank_ic": {
+              "n": 242,
+              "mean": 0.01331397951587568,
+              "se": 0.011409082913555524,
+              "p_one_sided": 0.12161262249421984,
+              "ci95": [
+                -0.009047822994693146,
+                0.03567578202644451
+              ],
+              "lag": 10
+            },
+            "dates": 242
+          },
+          {
+            "year": 2023,
+            "rank_ic": {
+              "n": 236,
+              "mean": -6.692950090690582e-05,
+              "se": 0.0079277672940722,
+              "p_one_sided": 0.5033679962526613,
+              "ci95": [
+                -0.015605353397288416,
+                0.015471494395474603
+              ],
+              "lag": 10
+            },
+            "dates": 236
+          }
+        ],
+        "quintile_mean_forward_returns": {
+          "q1_forward_return": -0.00018732616686589448,
+          "q2_forward_return": 0.0001573889921135312,
+          "q3_forward_return": 0.0002726007863995174,
+          "q4_forward_return": -8.8742876877904e-05,
+          "q5_forward_return": 7.269270750477828e-05
+        },
+        "group_returns_interpretation": "Overlapping next-open five-session adjusted-price labels, descriptive and unannualized; complete cutoff ties retained",
+        "unknown_industry_reason": "Annual snapshots may omit newly listed or newly classified members; missing groups remain unknown",
+        "control_projection": {
+          "available": true,
+          "training_start": "2008-01-01",
+          "training_end": "2017-12-31",
+          "observations": 545290,
+          "controls": [
+            "reversal5",
+            "momentum20",
+            "existing_equal_rank",
+            "liquidity_cv_abnormal"
+          ],
+          "coefficients": [
+            0.5155130986253282,
+            -0.02162410823199365,
+            -0.0005802634385352486,
+            -0.009562979990640404,
+            0.004843865299390327
+          ],
+          "outcomes_used": false,
+          "refit_in_validation": false
+        }
+      },
+      "sector_breadth_available": true,
+      "scored_breadth": {
+        "min": 184,
+        "median": 260.0,
+        "max": 279,
+        "sessions_below_200": 34,
+        "sessions": 1457
+      },
+      "holm_p": 1.0,
+      "qualification_failures": [
+        "Holm_5pct",
+        "two_positive_folds",
+        "incremental_account_HAC_lower_positive"
+      ]
+    },
+    {
+      "candidate_id": "NET_K10_A02",
+      "family": "cross_stock_empirical_lead_lag",
+      "leaders": 10,
+      "alpha": 0.2,
+      "complexity": 10,
+      "holding_sessions": 5,
+      "sign": 1,
+      "formula": "weighted mean of other stocks EWMA log returns; positive lag-one antisymmetric Pearson graph; expanding bimonthly refits",
+      "status": "registered",
+      "evaluable": true,
+      "distinct": true,
+      "validation_qualified": false,
+      "mean_net_active": -0.0004240357189145867,
+      "turnover": 0.2261666831130881,
+      "primary": {
+        "n": 1457,
+        "mean": -0.0004240357189145867,
+        "se": 9.6233668019049e-05,
+        "p_one_sided": 0.9999947427643127,
+        "ci95": [
+          -0.0006126537082319227,
+          -0.00023541772959725064
+        ],
+        "lag": 10
+      },
+      "p_one_sided": 0.9999947427643127,
+      "hac_sensitivity": {
+        "5": {
+          "n": 1457,
+          "mean": -0.0004240357189145867,
+          "se": 9.639914815250111e-05,
+          "p_one_sided": 0.9999945561832629,
+          "ci95": [
+            -0.0006129780492934889,
+            -0.0002350933885356845
+          ],
+          "lag": 5
+        },
+        "20": {
+          "n": 1457,
+          "mean": -0.0004240357189145867,
+          "se": 9.1987904062041e-05,
+          "p_one_sided": 0.9999979836505479,
+          "ci95": [
+            -0.0006043320108761871,
+            -0.00024373942695298634
+          ],
+          "lag": 20
+        }
+      },
+      "folds": [
+        {
+          "sessions": 487,
+          "first_date": "2018-01-02",
+          "last_date": "2019-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.22102250891600073,
+          "gross_same_fills_return": -0.013766742100000395,
+          "benchmark_net_return": -0.037831194795999945,
+          "relative_compounded_return": -0.19039415238697166,
+          "active": {
+            "n": 487,
+            "mean": -0.00041457344810578105,
+            "se": 0.00013662401463415512,
+            "p_one_sided": 0.9987949717643225,
+            "ci95": [
+              -0.0006823565167887252,
+              -0.000146790379422837
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.36997029858681296,
+          "mean_daily_turnover": 0.2356672955705977,
+          "fees_cny": 85535.79523599998,
+          "slippage_cny": 117063.6000000003,
+          "dividend_tax_reserve": 4656.371579999999,
+          "last_cash": 98354.49108399931,
+          "last_positions_value": 680623.0,
+          "last_receivables": 0.0,
+          "last_position_count": 51,
+          "failed_orders": 1306,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.12124228290504058,
+            "sharpe_cash_zero": -0.5615908412587222,
+            "active_ir": -2.037157603943375
+          }
+        },
+        {
+          "sessions": 486,
+          "first_date": "2020-01-02",
+          "last_date": "2021-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.017958786949601957,
+          "gross_same_fills_return": 0.20930423239999763,
+          "benchmark_net_return": 0.15699827668799782,
+          "relative_compounded_return": -0.1512163562926202,
+          "active": {
+            "n": 486,
+            "mean": -0.00031929959261037494,
+            "se": 0.00017118087492418562,
+            "p_one_sided": 0.9689286424097634,
+            "ci95": [
+              -0.0006548141074617787,
+              1.6214922241028842e-05
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.1728160203263227,
+          "mean_daily_turnover": 0.22482172596475364,
+          "fees_cny": 93796.60286959946,
+          "slippage_cny": 126691.97000000015,
+          "dividend_tax_reserve": 6774.44648,
+          "last_cash": 124033.21305039799,
+          "last_positions_value": 858008.0,
+          "last_receivables": 0.0,
+          "last_position_count": 45,
+          "failed_orders": 1603,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.009352584126334662,
+            "sharpe_cash_zero": 0.03728272712622929,
+            "active_ir": -1.3595372509358896
+          }
+        },
+        {
+          "sessions": 484,
+          "first_date": "2022-01-04",
+          "last_date": "2023-12-29",
+          "capital": 1000000.0,
+          "net_return": -0.3076571154278007,
+          "gross_same_fills_return": -0.13117166330000052,
+          "benchmark_net_return": -0.09036966072280006,
+          "relative_compounded_return": -0.23887445847250333,
+          "active": {
+            "n": 484,
+            "mean": -0.0005387255603768496,
+            "se": 0.0001869759232602427,
+            "p_one_sided": 0.9980195330859427,
+            "ci95": [
+              -0.0009051983699669253,
+              -0.00017225275078677391
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.33171578685806724,
+          "mean_daily_turnover": 0.21795769738433488,
+          "fees_cny": 72344.95678779994,
+          "slippage_cny": 95537.48000000026,
+          "dividend_tax_reserve": 8603.01534,
+          "last_cash": 57313.88457219936,
+          "last_positions_value": 635029.0,
+          "last_receivables": 0.0,
+          "last_position_count": 48,
+          "failed_orders": 1608,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.17422549842717272,
+            "sharpe_cash_zero": -1.144248085127687,
+            "active_ir": -2.0505944033175565
+          }
+        }
+      ],
+      "positive_folds": 0,
+      "incremental_over_existing": {
+        "n": 1457,
+        "mean": 1.5446804878262896e-05,
+        "se": 0.0001482270946931332,
+        "p_one_sided": 0.4585011903200004,
+        "ci95": [
+          -0.00027507830072027816,
+          0.00030597191047680396
+        ],
+        "lag": 10
+      },
+      "mature_daily_rank_ic": {
+        "n": 1439,
+        "mean": 0.009305400938312017,
+        "se": 0.004418560027007391,
+        "p_one_sided": 0.017603026230355732,
+        "ci95": [
+          0.0006450232853775304,
+          0.017965778591246505
+        ],
+        "lag": 10
+      },
+      "development_rank_ic": {
+        "n": 2182,
+        "mean": 0.006949430639928975,
+        "se": 0.0041034684267020755,
+        "p_one_sided": 0.04517537396637495,
+        "ci95": [
+          -0.001093367476407093,
+          0.014992228756265043
+        ],
+        "lag": 10
+      },
+      "development_account": null,
+      "development_account_reason": "Pre-2017 raw action/tradability ledger not obtained; only adjusted-price ordering diagnostic",
+      "overlap": {
+        "reversal5": {
+          "median_absolute_rho": 0.057183944572185195,
+          "rho_q05": -0.15565561452852242,
+          "rho_q95": 0.1217470363314428,
+          "mean_tail_jaccard": 0.10922251594508428,
+          "matched_dates": 1457,
+          "mean_common_count": 260.23266986959504
+        },
+        "momentum20": {
+          "median_absolute_rho": 0.05903322954417845,
+          "rho_q05": -0.12249035414271779,
+          "rho_q95": 0.15627456485189317,
+          "mean_tail_jaccard": 0.11910775631775042,
+          "matched_dates": 1457,
+          "mean_common_count": 260.23266986959504
+        },
+        "weak_close": {
+          "median_absolute_rho": 0.05550760833538338,
+          "rho_q05": -0.14972421329495864,
+          "rho_q95": 0.12507227075002936,
+          "mean_tail_jaccard": 0.11251493328748866,
+          "matched_dates": 1456,
+          "mean_common_count": 260.08991077556624
+        },
+        "gap_diff4": {
+          "median_absolute_rho": 0.05396015724863132,
+          "rho_q05": -0.15775778692870607,
+          "rho_q95": 0.1174996096910958,
+          "mean_tail_jaccard": 0.11056867705703974,
+          "matched_dates": 1457,
+          "mean_common_count": 260.23266986959504
+        },
+        "gap_diff4_amount": {
+          "median_absolute_rho": 0.053568563003205116,
+          "rho_q05": -0.1516470925352514,
+          "rho_q95": 0.12345038326640136,
+          "mean_tail_jaccard": 0.11255519025929796,
+          "matched_dates": 1457,
+          "mean_common_count": 260.23266986959504
+        },
+        "pv_anti5": {
+          "median_absolute_rho": 0.05082171052729081,
+          "rho_q05": -0.12408099384880956,
+          "rho_q95": 0.12739683759732784,
+          "mean_tail_jaccard": 0.11562938407597996,
+          "matched_dates": 1457,
+          "mean_common_count": 260.21276595744683
+        },
+        "rev4_amount_highpos": {
+          "median_absolute_rho": 0.05279635126682699,
+          "rho_q05": -0.1378464329035903,
+          "rho_q95": 0.12412406487695142,
+          "mean_tail_jaccard": 0.11347367941633112,
+          "matched_dates": 1457,
+          "mean_common_count": 260.23266986959504
+        },
+        "strong_close_event": {
+          "median_absolute_rho": 0.04892438031825923,
+          "rho_q05": -0.09889994570270785,
+          "rho_q95": 0.10196394547628974,
+          "mean_tail_jaccard": 0.201606962564576,
+          "matched_dates": 782,
+          "mean_common_count": 260.18462594372
+        },
+        "liquidity_cv_abnormal": {
+          "median_absolute_rho": 0.05735481266956643,
+          "rho_q05": -0.13646937564361722,
+          "rho_q95": 0.1389784300380769,
+          "mean_tail_jaccard": 0.11264078497708399,
+          "matched_dates": 1457,
+          "mean_common_count": 260.23266986959504
+        },
+        "existing_equal_rank": {
+          "median_absolute_rho": 0.053612618120001954,
+          "rho_q05": -0.1562593306135981,
+          "rho_q95": 0.12601138238352466,
+          "mean_tail_jaccard": 0.11085524689676077,
+          "matched_dates": 1456,
+          "mean_common_count": 260.070006863418
+        }
+      },
+      "ordering_diagnostics": {
+        "available": true,
+        "rank_ic": {
+          "n": 1439,
+          "mean": 0.009305400938312017,
+          "se": 0.004418560027007391,
+          "p_one_sided": 0.017603026230355732,
+          "ci95": [
+            0.0006450232853775304,
+            0.017965778591246505
+          ],
+          "lag": 10
+        },
+        "rank_ir_unannualized": 0.10145976323845186,
+        "rank_ic_quantiles": {
+          "0.05": -0.13874664424129027,
+          "0.25": -0.050771321598316,
+          "0.5": 0.012379386797991448,
+          "0.75": 0.0680588519179865,
+          "0.95": 0.1575516674686811
+        },
+        "industry_coverage_mean": 1.0,
+        "industry_coverage_min": 1.0,
+        "within_sector_rank_ic": {
+          "n": 1439,
+          "mean": 0.012679787827155382,
+          "se": 0.0048534209166803295,
+          "p_one_sided": 0.004493523294484298,
+          "ci95": [
+            0.003167082830461937,
+            0.022192492823848827
+          ],
+          "lag": 10
+        },
+        "training_residual_rank_ic": {
+          "n": 1438,
+          "mean": 0.00979267121884476,
+          "se": 0.00438054027916797,
+          "p_one_sided": 0.012692469732988237,
+          "ci95": [
+            0.0012068122716755395,
+            0.018378530166013977
+          ],
+          "lag": 10
+        },
+        "sector_summary": {
+          "C15酒、饮料和精制茶制造业": {
+            "dates": 694,
+            "mean_rank_ic": 0.010569693616785487,
+            "mean_stocks": 10.15850144092219
+          },
+          "C26化学原料和化学制品制造业": {
+            "dates": 352,
+            "mean_rank_ic": 0.02999903561672087,
+            "mean_stocks": 10.3125
+          },
+          "C27医药制造业": {
+            "dates": 1439,
+            "mean_rank_ic": 0.016636412855585075,
+            "mean_stocks": 15.518415566365531
+          },
+          "C32有色金属冶炼和压延加工业": {
+            "dates": 441,
+            "mean_rank_ic": 0.026153064498048502,
+            "mean_stocks": 10.045351473922903
+          },
+          "C36汽车制造业": {
+            "dates": 691,
+            "mean_rank_ic": 0.009748103961397322,
+            "mean_stocks": 10.39507959479016
+          },
+          "C38电气机械和器材制造业": {
+            "dates": 478,
+            "mean_rank_ic": 0.057646868473228294,
+            "mean_stocks": 12.725941422594142
+          },
+          "C39计算机、通信和其他电子设备制造业": {
+            "dates": 1439,
+            "mean_rank_ic": -0.0038640620682955065,
+            "mean_stocks": 24.701876302988186
+          },
+          "D44电力、热力生产和供应业": {
+            "dates": 379,
+            "mean_rank_ic": 0.02528023575832127,
+            "mean_stocks": 10.0
+          },
+          "E48土木工程建筑业": {
+            "dates": 681,
+            "mean_rank_ic": 0.04085559013878984,
+            "mean_stocks": 10.807635829662262
+          },
+          "J66货币金融服务": {
+            "dates": 1439,
+            "mean_rank_ic": 0.03650577589813232,
+            "mean_stocks": 21.726893676164003
+          },
+          "J67资本市场服务": {
+            "dates": 1439,
+            "mean_rank_ic": -0.0007691879693674176,
+            "mean_stocks": 24.481584433634467
+          },
+          "K70房地产业": {
+            "dates": 941,
+            "mean_rank_ic": -0.013780766777301967,
+            "mean_stocks": 13.83740701381509
+          }
+        },
+        "positive_sectors_min60dates": 9,
+        "breadth_pass": true,
+        "yearly": [
+          {
+            "year": 2018,
+            "rank_ic": {
+              "n": 243,
+              "mean": 0.00996475935725524,
+              "se": 0.00974927660459558,
+              "p_one_sided": 0.15336621040789655,
+              "ci95": [
+                -0.009143822787752096,
+                0.029073341502262574
+              ],
+              "lag": 10
+            },
+            "dates": 243
+          },
+          {
+            "year": 2019,
+            "rank_ic": {
+              "n": 238,
+              "mean": 0.01733647391908219,
+              "se": 0.010029876365946868,
+              "p_one_sided": 0.04195080519674854,
+              "ci95": [
+                -0.0023220837581736722,
+                0.03699503159633805
+              ],
+              "lag": 10
+            },
+            "dates": 238
+          },
+          {
+            "year": 2020,
+            "rank_ic": {
+              "n": 243,
+              "mean": 0.002866400629731667,
+              "se": 0.00937290942459897,
+              "p_one_sided": 0.3798717650518567,
+              "ci95": [
+                -0.015504501842482313,
+                0.02123730310194565
+              ],
+              "lag": 10
+            },
+            "dates": 243
+          },
+          {
+            "year": 2021,
+            "rank_ic": {
+              "n": 237,
+              "mean": 0.01505945795620852,
+              "se": 0.008254157167822903,
+              "p_one_sided": 0.03404056204806324,
+              "ci95": [
+                -0.0011186900927243684,
+                0.03123760600514141
+              ],
+              "lag": 10
+            },
+            "dates": 237
+          },
+          {
+            "year": 2022,
+            "rank_ic": {
+              "n": 242,
+              "mean": 0.00986666783700502,
+              "se": 0.015059078522307454,
+              "p_one_sided": 0.256170360927231,
+              "ci95": [
+                -0.01964912606671759,
+                0.039382461740727626
+              ],
+              "lag": 10
+            },
+            "dates": 242
+          },
+          {
+            "year": 2023,
+            "rank_ic": {
+              "n": 236,
+              "mean": 0.0008033649511651602,
+              "se": 0.010357486612238861,
+              "p_one_sided": 0.4690875605538839,
+              "ci95": [
+                -0.019497308808823006,
+                0.02110403871115333
+              ],
+              "lag": 10
+            },
+            "dates": 236
+          }
+        ],
+        "quintile_mean_forward_returns": {
+          "q1_forward_return": -0.0005074008188384575,
+          "q2_forward_return": 0.00018395750435882654,
+          "q3_forward_return": 0.00014457589644162612,
+          "q4_forward_return": 0.0003583717896246205,
+          "q5_forward_return": 0.0007080729983648677
+        },
+        "group_returns_interpretation": "Overlapping next-open five-session adjusted-price labels, descriptive and unannualized; complete cutoff ties retained",
+        "unknown_industry_reason": "Annual snapshots may omit newly listed or newly classified members; missing groups remain unknown",
+        "control_projection": {
+          "available": true,
+          "training_start": "2008-01-01",
+          "training_end": "2017-12-31",
+          "observations": 565333,
+          "controls": [
+            "reversal5",
+            "momentum20",
+            "existing_equal_rank",
+            "liquidity_cv_abnormal"
+          ],
+          "coefficients": [
+            0.5163728788246714,
+            -0.03436040987277926,
+            0.00768759581750699,
+            -0.0008554208559596198,
+            -0.0012423206885273006
+          ],
+          "outcomes_used": false,
+          "refit_in_validation": false
+        }
+      },
+      "sector_breadth_available": true,
+      "scored_breadth": {
+        "min": 211,
+        "median": 262.0,
+        "max": 279,
+        "sessions_below_200": 0,
+        "sessions": 1457
+      },
+      "holm_p": 1.0,
+      "qualification_failures": [
+        "Holm_5pct",
+        "two_positive_folds",
+        "incremental_account_HAC_lower_positive"
+      ]
+    },
+    {
+      "candidate_id": "NET_K10_A04",
+      "family": "cross_stock_empirical_lead_lag",
+      "leaders": 10,
+      "alpha": 0.4,
+      "complexity": 10,
+      "holding_sessions": 5,
+      "sign": 1,
+      "formula": "weighted mean of other stocks EWMA log returns; positive lag-one antisymmetric Pearson graph; expanding bimonthly refits",
+      "status": "registered",
+      "evaluable": true,
+      "distinct": true,
+      "validation_qualified": false,
+      "mean_net_active": -0.0004505888453678608,
+      "turnover": 0.2651687257423898,
+      "primary": {
+        "n": 1457,
+        "mean": -0.0004505888453678608,
+        "se": 9.459817499441152e-05,
+        "p_one_sided": 0.9999990472069203,
+        "ci95": [
+          -0.0006360012683569074,
+          -0.0002651764223788142
+        ],
+        "lag": 10
+      },
+      "p_one_sided": 0.9999990472069203,
+      "hac_sensitivity": {
+        "5": {
+          "n": 1457,
+          "mean": -0.0004505888453678608,
+          "se": 9.682010733467001e-05,
+          "p_one_sided": 0.9999983712420947,
+          "ci95": [
+            -0.0006403562557438141,
+            -0.00026082143499190757
+          ],
+          "lag": 5
+        },
+        "20": {
+          "n": 1457,
+          "mean": -0.0004505888453678608,
+          "se": 8.962162704098282e-05,
+          "p_one_sided": 0.9999997517750558,
+          "ci95": [
+            -0.0006262472343681871,
+            -0.00027493045636753453
+          ],
+          "lag": 20
+        }
+      },
+      "folds": [
+        {
+          "sessions": 487,
+          "first_date": "2018-01-02",
+          "last_date": "2019-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.2780223817180002,
+          "gross_same_fills_return": -0.045038128799999466,
+          "benchmark_net_return": -0.037831194795999945,
+          "relative_compounded_return": -0.2496351842035397,
+          "active": {
+            "n": 487,
+            "mean": -0.0005706095389660566,
+            "se": 0.0001419051037239008,
+            "p_one_sided": 0.9999710321001034,
+            "ci95": [
+              -0.0008487435422649021,
+              -0.000292475535667211
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.3890791873993319,
+          "mean_daily_turnover": 0.27173683028119267,
+          "fees_cny": 96038.97867800038,
+          "slippage_cny": 132187.6000000003,
+          "dividend_tax_reserve": 4757.67424,
+          "last_cash": 60200.618281999836,
+          "last_positions_value": 661777.0,
+          "last_receivables": 0.0,
+          "last_position_count": 53,
+          "failed_orders": 980,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.15512478701974874,
+            "sharpe_cash_zero": -0.7626092937673135,
+            "active_ir": -2.679399370617119
+          }
+        },
+        {
+          "sessions": 486,
+          "first_date": "2020-01-02",
+          "last_date": "2021-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.006732751579599849,
+          "gross_same_fills_return": 0.2651142023999993,
+          "benchmark_net_return": 0.15699827668799782,
+          "relative_compounded_return": -0.14151363192717203,
+          "active": {
+            "n": 486,
+            "mean": -0.0002965139715956284,
+            "se": 0.00016384653298167248,
+            "p_one_sided": 0.9648292652792645,
+            "ci95": [
+              -0.0006176531762397065,
+              2.462523304844964e-05
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.16434866367789913,
+          "mean_daily_turnover": 0.2696450545036192,
+          "fees_cny": 111985.683499599,
+          "slippage_cny": 152457.17000000027,
+          "dividend_tax_reserve": 7404.100479999999,
+          "last_cash": 124629.24842040022,
+          "last_positions_value": 868638.0,
+          "last_receivables": 0.0,
+          "last_position_count": 45,
+          "failed_orders": 1123,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.0034967337372826535,
+            "sharpe_cash_zero": 0.06967365912829145,
+            "active_ir": -1.2416867522980322
+          }
+        },
+        {
+          "sessions": 484,
+          "first_date": "2022-01-04",
+          "last_date": "2023-12-29",
+          "capital": 1000000.0,
+          "net_return": -0.2894562519698003,
+          "gross_same_fills_return": -0.08615773190000009,
+          "benchmark_net_return": -0.09036966072280006,
+          "relative_compounded_return": -0.2188653815188224,
+          "active": {
+            "n": 484,
+            "mean": -0.00048453576865501694,
+            "se": 0.0001803484782025541,
+            "p_one_sided": 0.9963915248032565,
+            "ci95": [
+              -0.000838018785932023,
+              -0.0001310527513780109
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.32087914821137575,
+          "mean_daily_turnover": 0.2540650838243021,
+          "fees_cny": 83826.79844980004,
+          "slippage_cny": 110844.08000000018,
+          "dividend_tax_reserve": 8627.64162,
+          "last_cash": 58840.74803019971,
+          "last_positions_value": 651703.0,
+          "last_receivables": 0.0,
+          "last_position_count": 48,
+          "failed_orders": 1216,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.16299296942752362,
+            "sharpe_cash_zero": -1.0501210974858952,
+            "active_ir": -1.8254020044403036
+          }
+        }
+      ],
+      "positive_folds": 0,
+      "incremental_over_existing": {
+        "n": 1457,
+        "mean": -1.1106321575011218e-05,
+        "se": 0.0001454858370828341,
+        "p_one_sided": 0.5304255145495026,
+        "ci95": [
+          -0.0002962585622573661,
+          0.0002740459191073436
+        ],
+        "lag": 10
+      },
+      "mature_daily_rank_ic": {
+        "n": 1439,
+        "mean": 0.005954872643664339,
+        "se": 0.0036201895590649287,
+        "p_one_sided": 0.049994566890372044,
+        "ci95": [
+          -0.001140698892102921,
+          0.0130504441794316
+        ],
+        "lag": 10
+      },
+      "development_rank_ic": {
+        "n": 2182,
+        "mean": 0.008224423317757548,
+        "se": 0.0035448810389976655,
+        "p_one_sided": 0.010168155122326729,
+        "ci95": [
+          0.0012764564813221232,
+          0.015172390154192972
+        ],
+        "lag": 10
+      },
+      "development_account": null,
+      "development_account_reason": "Pre-2017 raw action/tradability ledger not obtained; only adjusted-price ordering diagnostic",
+      "overlap": {
+        "reversal5": {
+          "median_absolute_rho": 0.05815513487827251,
+          "rho_q05": -0.15895935833432429,
+          "rho_q95": 0.12958635782962535,
+          "mean_tail_jaccard": 0.11028756649372633,
+          "matched_dates": 1457,
+          "mean_common_count": 260.23266986959504
+        },
+        "momentum20": {
+          "median_absolute_rho": 0.06138562356718305,
+          "rho_q05": -0.13890276293081888,
+          "rho_q95": 0.15200155262507556,
+          "mean_tail_jaccard": 0.11737295435729357,
+          "matched_dates": 1457,
+          "mean_common_count": 260.23266986959504
+        },
+        "weak_close": {
+          "median_absolute_rho": 0.054665406003578554,
+          "rho_q05": -0.14882391231311104,
+          "rho_q95": 0.11984128226537577,
+          "mean_tail_jaccard": 0.11195360294180802,
+          "matched_dates": 1456,
+          "mean_common_count": 260.08991077556624
+        },
+        "gap_diff4": {
+          "median_absolute_rho": 0.05368588710197449,
+          "rho_q05": -0.15490709570986727,
+          "rho_q95": 0.11892438605047893,
+          "mean_tail_jaccard": 0.11077439190756799,
+          "matched_dates": 1457,
+          "mean_common_count": 260.23266986959504
+        },
+        "gap_diff4_amount": {
+          "median_absolute_rho": 0.053579675891997115,
+          "rho_q05": -0.15040907351391425,
+          "rho_q95": 0.12773282121101123,
+          "mean_tail_jaccard": 0.11281258450087633,
+          "matched_dates": 1457,
+          "mean_common_count": 260.23266986959504
+        },
+        "pv_anti5": {
+          "median_absolute_rho": 0.05235669440049002,
+          "rho_q05": -0.1266636069700643,
+          "rho_q95": 0.12626942607809932,
+          "mean_tail_jaccard": 0.1154967387888909,
+          "matched_dates": 1457,
+          "mean_common_count": 260.21276595744683
+        },
+        "rev4_amount_highpos": {
+          "median_absolute_rho": 0.0539759820095576,
+          "rho_q05": -0.1403044608010456,
+          "rho_q95": 0.13046742730129438,
+          "mean_tail_jaccard": 0.11362018695320622,
+          "matched_dates": 1457,
+          "mean_common_count": 260.23266986959504
+        },
+        "strong_close_event": {
+          "median_absolute_rho": 0.05046251102920207,
+          "rho_q05": -0.09859277661410605,
+          "rho_q95": 0.10252434789013051,
+          "mean_tail_jaccard": 0.201606962564576,
+          "matched_dates": 782,
+          "mean_common_count": 260.18462594372
+        },
+        "liquidity_cv_abnormal": {
+          "median_absolute_rho": 0.05949080758638304,
+          "rho_q05": -0.14141550604376674,
+          "rho_q95": 0.14157880140293538,
+          "mean_tail_jaccard": 0.11360144856687943,
+          "matched_dates": 1457,
+          "mean_common_count": 260.23266986959504
+        },
+        "existing_equal_rank": {
+          "median_absolute_rho": 0.05444525933700446,
+          "rho_q05": -0.1562120850612355,
+          "rho_q95": 0.12690407924539723,
+          "mean_tail_jaccard": 0.11104210616183172,
+          "matched_dates": 1456,
+          "mean_common_count": 260.070006863418
+        }
+      },
+      "ordering_diagnostics": {
+        "available": true,
+        "rank_ic": {
+          "n": 1439,
+          "mean": 0.005954872643664339,
+          "se": 0.0036201895590649287,
+          "p_one_sided": 0.049994566890372044,
+          "ci95": [
+            -0.001140698892102921,
+            0.0130504441794316
+          ],
+          "lag": 10
+        },
+        "rank_ir_unannualized": 0.06530358116488817,
+        "rank_ic_quantiles": {
+          "0.05": -0.14558459815021607,
+          "0.25": -0.053211388451489844,
+          "0.5": 0.0071736580369703385,
+          "0.75": 0.06709283394013531,
+          "0.95": 0.15244741353874586
+        },
+        "industry_coverage_mean": 1.0,
+        "industry_coverage_min": 1.0,
+        "within_sector_rank_ic": {
+          "n": 1439,
+          "mean": 0.011846802362136321,
+          "se": 0.004036583374055021,
+          "p_one_sided": 0.001668497339537187,
+          "ci95": [
+            0.0039350989489884795,
+            0.019758505775284162
+          ],
+          "lag": 10
+        },
+        "training_residual_rank_ic": {
+          "n": 1438,
+          "mean": 0.006272570206495104,
+          "se": 0.0035988726001434154,
+          "p_one_sided": 0.040673232507044334,
+          "ci95": [
+            -0.0007812200897859903,
+            0.013326360502776198
+          ],
+          "lag": 10
+        },
+        "sector_summary": {
+          "C15酒、饮料和精制茶制造业": {
+            "dates": 694,
+            "mean_rank_ic": 0.007656380360297393,
+            "mean_stocks": 10.15850144092219
+          },
+          "C26化学原料和化学制品制造业": {
+            "dates": 352,
+            "mean_rank_ic": 0.03446296193895353,
+            "mean_stocks": 10.3125
+          },
+          "C27医药制造业": {
+            "dates": 1439,
+            "mean_rank_ic": 0.011087239945847219,
+            "mean_stocks": 15.518415566365531
+          },
+          "C32有色金属冶炼和压延加工业": {
+            "dates": 441,
+            "mean_rank_ic": 0.03342243117289301,
+            "mean_stocks": 10.045351473922903
+          },
+          "C36汽车制造业": {
+            "dates": 691,
+            "mean_rank_ic": 0.003794054001878917,
+            "mean_stocks": 10.39507959479016
+          },
+          "C38电气机械和器材制造业": {
+            "dates": 478,
+            "mean_rank_ic": 0.03853268419167999,
+            "mean_stocks": 12.725941422594142
+          },
+          "C39计算机、通信和其他电子设备制造业": {
+            "dates": 1439,
+            "mean_rank_ic": 0.0011596972270190252,
+            "mean_stocks": 24.701876302988186
+          },
+          "D44电力、热力生产和供应业": {
+            "dates": 379,
+            "mean_rank_ic": -0.00038787412415538624,
+            "mean_stocks": 10.0
+          },
+          "E48土木工程建筑业": {
+            "dates": 681,
+            "mean_rank_ic": 0.014697425397595464,
+            "mean_stocks": 10.807635829662262
+          },
+          "J66货币金融服务": {
+            "dates": 1439,
+            "mean_rank_ic": 0.03100144443146102,
+            "mean_stocks": 21.726893676164003
+          },
+          "J67资本市场服务": {
+            "dates": 1439,
+            "mean_rank_ic": 0.003956837125102671,
+            "mean_stocks": 24.481584433634467
+          },
+          "K70房地产业": {
+            "dates": 941,
+            "mean_rank_ic": -0.0026283859288084087,
+            "mean_stocks": 13.83740701381509
+          }
+        },
+        "positive_sectors_min60dates": 10,
+        "breadth_pass": true,
+        "yearly": [
+          {
+            "year": 2018,
+            "rank_ic": {
+              "n": 243,
+              "mean": 0.0042268782443557655,
+              "se": 0.008488869011272267,
+              "p_one_sided": 0.30926603899298755,
+              "ci95": [
+                -0.012411305017737878,
+                0.020865061506449407
+              ],
+              "lag": 10
+            },
+            "dates": 243
+          },
+          {
+            "year": 2019,
+            "rank_ic": {
+              "n": 238,
+              "mean": 0.013276585317402735,
+              "se": 0.00987636725090993,
+              "p_one_sided": 0.08942921907423407,
+              "ci95": [
+                -0.006081094494380728,
+                0.0326342651291862
+              ],
+              "lag": 10
+            },
+            "dates": 238
+          },
+          {
+            "year": 2020,
+            "rank_ic": {
+              "n": 243,
+              "mean": 0.00500488478646606,
+              "se": 0.0074083467225135495,
+              "p_one_sided": 0.24965564722896394,
+              "ci95": [
+                -0.009515474789660496,
+                0.019525244362592616
+              ],
+              "lag": 10
+            },
+            "dates": 243
+          },
+          {
+            "year": 2021,
+            "rank_ic": {
+              "n": 237,
+              "mean": 0.009095668374296189,
+              "se": 0.006390173163232589,
+              "p_one_sided": 0.07731247631304962,
+              "ci95": [
+                -0.0034290710256396854,
+                0.02162040777423206
+              ],
+              "lag": 10
+            },
+            "dates": 237
+          },
+          {
+            "year": 2022,
+            "rank_ic": {
+              "n": 242,
+              "mean": 0.006677827338115077,
+              "se": 0.011657234283987815,
+              "p_one_sided": 0.28337369185126127,
+              "ci95": [
+                -0.01617035185850104,
+                0.02952600653473119
+              ],
+              "lag": 10
+            },
+            "dates": 242
+          },
+          {
+            "year": 2023,
+            "rank_ic": {
+              "n": 236,
+              "mean": -0.002566913594621257,
+              "se": 0.007814085178401323,
+              "p_one_sided": 0.6287325303181318,
+              "ci95": [
+                -0.01788252054428785,
+                0.012748693355045337
+              ],
+              "lag": 10
+            },
+            "dates": 236
+          }
+        ],
+        "quintile_mean_forward_returns": {
+          "q1_forward_return": -0.00014584926546439198,
+          "q2_forward_return": 0.00013535082029630783,
+          "q3_forward_return": 0.0001309835289899536,
+          "q4_forward_return": 0.00018200813012889648,
+          "q5_forward_return": 0.0005818834052849547
+        },
+        "group_returns_interpretation": "Overlapping next-open five-session adjusted-price labels, descriptive and unannualized; complete cutoff ties retained",
+        "unknown_industry_reason": "Annual snapshots may omit newly listed or newly classified members; missing groups remain unknown",
+        "control_projection": {
+          "available": true,
+          "training_start": "2008-01-01",
+          "training_end": "2017-12-31",
+          "observations": 565333,
+          "controls": [
+            "reversal5",
+            "momentum20",
+            "existing_equal_rank",
+            "liquidity_cv_abnormal"
+          ],
+          "coefficients": [
+            0.5170911983729934,
+            -0.02472586885659917,
+            -0.001342059495070369,
+            -0.008127742526509267,
+            0.003985739312250115
+          ],
+          "outcomes_used": false,
+          "refit_in_validation": false
+        }
+      },
+      "sector_breadth_available": true,
+      "scored_breadth": {
+        "min": 211,
+        "median": 262.0,
+        "max": 279,
+        "sessions_below_200": 0,
+        "sessions": 1457
+      },
+      "holm_p": 1.0,
+      "qualification_failures": [
+        "Holm_5pct",
+        "two_positive_folds",
+        "incremental_account_HAC_lower_positive"
+      ]
+    },
+    {
+      "candidate_id": "NET_K20_A02",
+      "family": "cross_stock_empirical_lead_lag",
+      "leaders": 20,
+      "alpha": 0.2,
+      "complexity": 20,
+      "holding_sessions": 5,
+      "sign": 1,
+      "formula": "weighted mean of other stocks EWMA log returns; positive lag-one antisymmetric Pearson graph; expanding bimonthly refits",
+      "status": "registered",
+      "evaluable": true,
+      "distinct": true,
+      "validation_qualified": false,
+      "mean_net_active": -0.00042177008128295787,
+      "turnover": 0.22534102850803525,
+      "primary": {
+        "n": 1457,
+        "mean": -0.00042177008128295787,
+        "se": 0.00010554803653071492,
+        "p_one_sided": 0.9999677892972297,
+        "ci95": [
+          -0.0006286442328831591,
+          -0.00021489592968275664
+        ],
+        "lag": 10
+      },
+      "p_one_sided": 0.9999677892972297,
+      "hac_sensitivity": {
+        "5": {
+          "n": 1457,
+          "mean": -0.00042177008128295787,
+          "se": 0.00010098134182185054,
+          "p_one_sided": 0.9999852124089381,
+          "ci95": [
+            -0.0006196935112537849,
+            -0.0002238466513121308
+          ],
+          "lag": 5
+        },
+        "20": {
+          "n": 1457,
+          "mean": -0.00042177008128295787,
+          "se": 0.00010592035738556137,
+          "p_one_sided": 0.9999658246176686,
+          "ci95": [
+            -0.0006293739817586582,
+            -0.00021416618080725758
+          ],
+          "lag": 20
+        }
+      },
+      "folds": [
+        {
+          "sessions": 487,
+          "first_date": "2018-01-02",
+          "last_date": "2019-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.18726638985400113,
+          "gross_same_fills_return": 0.02101655799999924,
+          "benchmark_net_return": -0.037831194795999945,
+          "relative_compounded_return": -0.1553107877222415,
+          "active": {
+            "n": 487,
+            "mean": -0.00032692635300848237,
+            "se": 0.00016085212944929195,
+            "p_one_sided": 0.9789467075664938,
+            "ci95": [
+              -0.0006421965267290946,
+              -1.1656179287870166e-05
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.3798909656979065,
+          "mean_daily_turnover": 0.23862812355867857,
+          "fees_cny": 85646.88025400013,
+          "slippage_cny": 117241.62000000024,
+          "dividend_tax_reserve": 5394.4475999999995,
+          "last_cash": 103330.61014599883,
+          "last_positions_value": 709403.0,
+          "last_receivables": 0.0,
+          "last_position_count": 51,
+          "failed_orders": 1375,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.10173937190138194,
+            "sharpe_cash_zero": -0.44725876396801867,
+            "active_ir": -1.5217765860312547
+          }
+        },
+        {
+          "sessions": 486,
+          "first_date": "2020-01-02",
+          "last_date": "2021-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.035487792537600815,
+          "gross_same_fills_return": 0.1839579363999988,
+          "benchmark_net_return": 0.15699827668799782,
+          "relative_compounded_return": -0.166366772625285,
+          "active": {
+            "n": 486,
+            "mean": -0.0003557324692158683,
+            "se": 0.00019435520688548412,
+            "p_one_sided": 0.9663990437228596,
+            "ci95": [
+              -0.0007366686747114172,
+              2.520373627968057e-05
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.20011480687626704,
+          "mean_daily_turnover": 0.22201416639394111,
+          "fees_cny": 91524.81165759944,
+          "slippage_cny": 120990.27000000014,
+          "dividend_tax_reserve": 6930.647280000001,
+          "last_cash": 150753.20746239918,
+          "last_positions_value": 813759.0,
+          "last_receivables": 0.0,
+          "last_position_count": 44,
+          "failed_orders": 1675,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.018561101815515513,
+            "sharpe_cash_zero": -0.013926838808044652,
+            "active_ir": -1.4674757157187102
+          }
+        },
+        {
+          "sessions": 484,
+          "first_date": "2022-01-04",
+          "last_date": "2023-12-29",
+          "capital": 1000000.0,
+          "net_return": -0.32170349797200004,
+          "gross_same_fills_return": -0.14934249929999988,
+          "benchmark_net_return": -0.09036966072280006,
+          "relative_compounded_return": -0.254316316486343,
+          "active": {
+            "n": 484,
+            "mean": -0.0005835121786678238,
+            "se": 0.00018980406722116078,
+            "p_one_sided": 0.9989449683625967,
+            "ci95": [
+              -0.0009555281504212989,
+              -0.0002114962069143487
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.3442098870926763,
+          "mean_daily_turnover": 0.21531218490842044,
+          "fees_cny": 70694.41853199991,
+          "slippage_cny": 93735.40000000023,
+          "dividend_tax_reserve": 7931.180140000001,
+          "last_cash": 46254.50202799992,
+          "last_positions_value": 632042.0,
+          "last_receivables": 0.0,
+          "last_position_count": 49,
+          "failed_orders": 1625,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.18299122298259796,
+            "sharpe_cash_zero": -1.2483069805789226,
+            "active_ir": -2.354244510750447
+          }
+        }
+      ],
+      "positive_folds": 0,
+      "incremental_over_existing": {
+        "n": 1457,
+        "mean": 1.77124425098917e-05,
+        "se": 0.00015250559174838043,
+        "p_one_sided": 0.45376964265840236,
+        "ci95": [
+          -0.00028119851731693395,
+          0.00031662340233671736
+        ],
+        "lag": 10
+      },
+      "mature_daily_rank_ic": {
+        "n": 1439,
+        "mean": 0.007658165870849911,
+        "se": 0.004578853043291947,
+        "p_one_sided": 0.04721214907950123,
+        "ci95": [
+          -0.0013163860940023052,
+          0.016632717835702127
+        ],
+        "lag": 10
+      },
+      "development_rank_ic": {
+        "n": 2182,
+        "mean": 0.01148673027065498,
+        "se": 0.004321244010212626,
+        "p_one_sided": 0.00392796437711649,
+        "ci95": [
+          0.0030170920106382323,
+          0.019956368530671727
+        ],
+        "lag": 10
+      },
+      "development_account": null,
+      "development_account_reason": "Pre-2017 raw action/tradability ledger not obtained; only adjusted-price ordering diagnostic",
+      "overlap": {
+        "reversal5": {
+          "median_absolute_rho": 0.05832552542948983,
+          "rho_q05": -0.1623225894443543,
+          "rho_q95": 0.11929852154470724,
+          "mean_tail_jaccard": 0.10848532046830563,
+          "matched_dates": 1457,
+          "mean_common_count": 260.66163349347977
+        },
+        "momentum20": {
+          "median_absolute_rho": 0.05988498152596263,
+          "rho_q05": -0.1295631338780032,
+          "rho_q95": 0.16357111339144564,
+          "mean_tail_jaccard": 0.11932505069361285,
+          "matched_dates": 1457,
+          "mean_common_count": 260.66163349347977
+        },
+        "weak_close": {
+          "median_absolute_rho": 0.05826114251675907,
+          "rho_q05": -0.16111304837809662,
+          "rho_q95": 0.13510819688475773,
+          "mean_tail_jaccard": 0.1123458409235424,
+          "matched_dates": 1456,
+          "mean_common_count": 260.5188743994509
+        },
+        "gap_diff4": {
+          "median_absolute_rho": 0.055426471705541464,
+          "rho_q05": -0.15948403611745202,
+          "rho_q95": 0.11799713001924761,
+          "mean_tail_jaccard": 0.11118381276391653,
+          "matched_dates": 1457,
+          "mean_common_count": 260.66163349347977
+        },
+        "gap_diff4_amount": {
+          "median_absolute_rho": 0.05540155422078994,
+          "rho_q05": -0.15361793751404454,
+          "rho_q95": 0.12486434087564359,
+          "mean_tail_jaccard": 0.11293784562389951,
+          "matched_dates": 1457,
+          "mean_common_count": 260.66163349347977
+        },
+        "pv_anti5": {
+          "median_absolute_rho": 0.05315727565926769,
+          "rho_q05": -0.12153855210113806,
+          "rho_q95": 0.12057729911822995,
+          "mean_tail_jaccard": 0.11676480040924382,
+          "matched_dates": 1457,
+          "mean_common_count": 260.6417295813315
+        },
+        "rev4_amount_highpos": {
+          "median_absolute_rho": 0.05630472254905864,
+          "rho_q05": -0.14469590813867717,
+          "rho_q95": 0.12194680914086557,
+          "mean_tail_jaccard": 0.11288637696353407,
+          "matched_dates": 1457,
+          "mean_common_count": 260.66163349347977
+        },
+        "strong_close_event": {
+          "median_absolute_rho": 0.04975367897380627,
+          "rho_q05": -0.09718903146182384,
+          "rho_q95": 0.09988421697950836,
+          "mean_tail_jaccard": 0.20155229649790596,
+          "matched_dates": 783,
+          "mean_common_count": 260.61358956760466
+        },
+        "liquidity_cv_abnormal": {
+          "median_absolute_rho": 0.06039936475884687,
+          "rho_q05": -0.14186746462302682,
+          "rho_q95": 0.14602069715876034,
+          "mean_tail_jaccard": 0.11316920404236439,
+          "matched_dates": 1457,
+          "mean_common_count": 260.66163349347977
+        },
+        "existing_equal_rank": {
+          "median_absolute_rho": 0.05385770422374553,
+          "rho_q05": -0.1556061373028248,
+          "rho_q95": 0.12245538803442618,
+          "mean_tail_jaccard": 0.11111909405266457,
+          "matched_dates": 1456,
+          "mean_common_count": 260.4989704873027
+        }
+      },
+      "ordering_diagnostics": {
+        "available": true,
+        "rank_ic": {
+          "n": 1439,
+          "mean": 0.007658165870849911,
+          "se": 0.004578853043291947,
+          "p_one_sided": 0.04721214907950123,
+          "ci95": [
+            -0.0013163860940023052,
+            0.016632717835702127
+          ],
+          "lag": 10
+        },
+        "rank_ir_unannualized": 0.07973455716206262,
+        "rank_ic_quantiles": {
+          "0.05": -0.15336825600612952,
+          "0.25": -0.057092751355278026,
+          "0.5": 0.009433246100829585,
+          "0.75": 0.07319330574525632,
+          "0.95": 0.16837840543349453
+        },
+        "industry_coverage_mean": 1.0,
+        "industry_coverage_min": 1.0,
+        "within_sector_rank_ic": {
+          "n": 1439,
+          "mean": 0.010217328874078778,
+          "se": 0.0050951942305290454,
+          "p_one_sided": 0.02246616465801403,
+          "ci95": [
+            0.00023074818224184945,
+            0.020203909565915706
+          ],
+          "lag": 10
+        },
+        "training_residual_rank_ic": {
+          "n": 1438,
+          "mean": 0.0082634477614978,
+          "se": 0.004529696348806037,
+          "p_one_sided": 0.034054654285230454,
+          "ci95": [
+            -0.0006147570821620311,
+            0.017141652605157633
+          ],
+          "lag": 10
+        },
+        "sector_summary": {
+          "C15酒、饮料和精制茶制造业": {
+            "dates": 694,
+            "mean_rank_ic": -0.006546928103383726,
+            "mean_stocks": 10.15850144092219
+          },
+          "C26化学原料和化学制品制造业": {
+            "dates": 352,
+            "mean_rank_ic": 0.01664660565044648,
+            "mean_stocks": 10.3125
+          },
+          "C27医药制造业": {
+            "dates": 1439,
+            "mean_rank_ic": 0.01987714751768018,
+            "mean_stocks": 15.569145239749826
+          },
+          "C32有色金属冶炼和压延加工业": {
+            "dates": 458,
+            "mean_rank_ic": 0.030335279687769175,
+            "mean_stocks": 10.072052401746724
+          },
+          "C36汽车制造业": {
+            "dates": 695,
+            "mean_rank_ic": -0.015450501260286484,
+            "mean_stocks": 10.423021582733814
+          },
+          "C38电气机械和器材制造业": {
+            "dates": 478,
+            "mean_rank_ic": 0.061409510991100945,
+            "mean_stocks": 12.725941422594142
+          },
+          "C39计算机、通信和其他电子设备制造业": {
+            "dates": 1439,
+            "mean_rank_ic": -0.010845019312541953,
+            "mean_stocks": 24.746351633078525
+          },
+          "D44电力、热力生产和供应业": {
+            "dates": 379,
+            "mean_rank_ic": 0.006796242810379338,
+            "mean_stocks": 10.0
+          },
+          "E48土木工程建筑业": {
+            "dates": 700,
+            "mean_rank_ic": 0.0355921262062113,
+            "mean_stocks": 10.884285714285713
+          },
+          "J66货币金融服务": {
+            "dates": 1439,
+            "mean_rank_ic": 0.03516574491905573,
+            "mean_stocks": 21.75538568450313
+          },
+          "J67资本市场服务": {
+            "dates": 1439,
+            "mean_rank_ic": 0.002786939921120473,
+            "mean_stocks": 24.49478804725504
+          },
+          "K70房地产业": {
+            "dates": 941,
+            "mean_rank_ic": -0.004633196228795974,
+            "mean_stocks": 13.83740701381509
+          }
+        },
+        "positive_sectors_min60dates": 8,
+        "breadth_pass": true,
+        "yearly": [
+          {
+            "year": 2018,
+            "rank_ic": {
+              "n": 243,
+              "mean": 0.00781552838959588,
+              "se": 0.008580244744396205,
+              "p_one_sided": 0.1811806824216156,
+              "ci95": [
+                -0.00900175130942068,
+                0.024632808088612443
+              ],
+              "lag": 10
+            },
+            "dates": 243
+          },
+          {
+            "year": 2019,
+            "rank_ic": {
+              "n": 238,
+              "mean": 0.013479462089895769,
+              "se": 0.010821343666771028,
+              "p_one_sided": 0.10644891347807028,
+              "ci95": [
+                -0.007730371496975447,
+                0.034689295676766985
+              ],
+              "lag": 10
+            },
+            "dates": 238
+          },
+          {
+            "year": 2020,
+            "rank_ic": {
+              "n": 243,
+              "mean": -0.0006603366873805305,
+              "se": 0.009877873416781497,
+              "p_one_sided": 0.526649475151792,
+              "ci95": [
+                -0.020020968584272266,
+                0.018700295209511202
+              ],
+              "lag": 10
+            },
+            "dates": 243
+          },
+          {
+            "year": 2021,
+            "rank_ic": {
+              "n": 237,
+              "mean": 0.01620663341738158,
+              "se": 0.008426937299679648,
+              "p_one_sided": 0.027227858927781057,
+              "ci95": [
+                -0.0003101636899905322,
+                0.03272343052475369
+              ],
+              "lag": 10
+            },
+            "dates": 237
+          },
+          {
+            "year": 2022,
+            "rank_ic": {
+              "n": 242,
+              "mean": 0.012482425209769226,
+              "se": 0.01573924927381652,
+              "p_one_sided": 0.2138666918463364,
+              "ci95": [
+                -0.018366503366911147,
+                0.0433313537864496
+              ],
+              "lag": 10
+            },
+            "dates": 242
+          },
+          {
+            "year": 2023,
+            "rank_ic": {
+              "n": 236,
+              "mean": -0.003340855481203767,
+              "se": 0.011378097546481508,
+              "p_one_sided": 0.6154764749471441,
+              "ci95": [
+                -0.025641926672307525,
+                0.01896021570989999
+              ],
+              "lag": 10
+            },
+            "dates": 236
+          }
+        ],
+        "quintile_mean_forward_returns": {
+          "q1_forward_return": -0.00043923200129041066,
+          "q2_forward_return": 0.00013619841001064197,
+          "q3_forward_return": 0.0003117881571355159,
+          "q4_forward_return": 0.00011234196738632529,
+          "q5_forward_return": 0.0007233857525422688
+        },
+        "group_returns_interpretation": "Overlapping next-open five-session adjusted-price labels, descriptive and unannualized; complete cutoff ties retained",
+        "unknown_industry_reason": "Annual snapshots may omit newly listed or newly classified members; missing groups remain unknown",
+        "control_projection": {
+          "available": true,
+          "training_start": "2008-01-01",
+          "training_end": "2017-12-31",
+          "observations": 570573,
+          "controls": [
+            "reversal5",
+            "momentum20",
+            "existing_equal_rank",
+            "liquidity_cv_abnormal"
+          ],
+          "coefficients": [
+            0.517732986795987,
+            -0.037016915363059205,
+            0.009897855769805184,
+            -0.004677943914935397,
+            0.00024723160295157614
+          ],
+          "outcomes_used": false,
+          "refit_in_validation": false
+        }
+      },
+      "sector_breadth_available": true,
+      "scored_breadth": {
+        "min": 221,
+        "median": 263.0,
+        "max": 279,
+        "sessions_below_200": 0,
+        "sessions": 1457
+      },
+      "holm_p": 1.0,
+      "qualification_failures": [
+        "Holm_5pct",
+        "two_positive_folds",
+        "incremental_account_HAC_lower_positive"
+      ]
+    },
+    {
+      "candidate_id": "NET_K20_A04",
+      "family": "cross_stock_empirical_lead_lag",
+      "leaders": 20,
+      "alpha": 0.4,
+      "complexity": 20,
+      "holding_sessions": 5,
+      "sign": 1,
+      "formula": "weighted mean of other stocks EWMA log returns; positive lag-one antisymmetric Pearson graph; expanding bimonthly refits",
+      "status": "registered",
+      "evaluable": true,
+      "distinct": true,
+      "validation_qualified": false,
+      "mean_net_active": -0.00047884227418185804,
+      "turnover": 0.2637474492809588,
+      "primary": {
+        "n": 1457,
+        "mean": -0.00047884227418185804,
+        "se": 0.00010198521298310612,
+        "p_one_sided": 0.9999986683531931,
+        "ci95": [
+          -0.000678733291628746,
+          -0.00027895125673497003
+        ],
+        "lag": 10
+      },
+      "p_one_sided": 0.9999986683531931,
+      "hac_sensitivity": {
+        "5": {
+          "n": 1457,
+          "mean": -0.00047884227418185804,
+          "se": 9.991166406510443e-05,
+          "p_one_sided": 0.9999991770630551,
+          "ci95": [
+            -0.0006746691357494627,
+            -0.0002830154126142534
+          ],
+          "lag": 5
+        },
+        "20": {
+          "n": 1457,
+          "mean": -0.00047884227418185804,
+          "se": 9.907181989209981e-05,
+          "p_one_sided": 0.9999993285061858,
+          "ci95": [
+            -0.0006730230411703737,
+            -0.0002846615071933424
+          ],
+          "lag": 20
+        }
+      },
+      "folds": [
+        {
+          "sessions": 487,
+          "first_date": "2018-01-02",
+          "last_date": "2019-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.2787964625800001,
+          "gross_same_fills_return": -0.04974740880000006,
+          "benchmark_net_return": -0.037831194795999945,
+          "relative_compounded_return": -0.2504397008931406,
+          "active": {
+            "n": 487,
+            "mean": -0.000573825703045671,
+            "se": 0.0001588600569162176,
+            "p_one_sided": 0.9998481631892512,
+            "ci95": [
+              -0.0008851914146014575,
+              -0.0002624599914898845
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.39479438614184104,
+          "mean_daily_turnover": 0.2736602264739126,
+          "fees_cny": 95266.79953999983,
+          "slippage_cny": 128900.42000000025,
+          "dividend_tax_reserve": 4881.83424,
+          "last_cash": 65335.537419999804,
+          "last_positions_value": 655868.0,
+          "last_receivables": 0.0,
+          "last_position_count": 53,
+          "failed_orders": 986,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.15559364264930398,
+            "sharpe_cash_zero": -0.7721722148516847,
+            "active_ir": -2.6630821227464287
+          }
+        },
+        {
+          "sessions": 486,
+          "first_date": "2020-01-02",
+          "last_date": "2021-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.032814588045599224,
+          "gross_same_fills_return": 0.2287292444000002,
+          "benchmark_net_return": 0.15699827668799782,
+          "relative_compounded_return": -0.16405630722022502,
+          "active": {
+            "n": 486,
+            "mean": -0.000349230848873028,
+            "se": 0.00017958963440395273,
+            "p_one_sided": 0.9740887139802092,
+            "ci95": [
+              -0.0007012265323047753,
+              2.7648345587193753e-06
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.18334845137878086,
+          "mean_daily_turnover": 0.26504529972847835,
+          "fees_cny": 108421.9535655992,
+          "slippage_cny": 145921.8700000002,
+          "dividend_tax_reserve": 7200.00888,
+          "last_cash": 125233.4119544008,
+          "last_positions_value": 841952.0,
+          "last_receivables": 0.0,
+          "last_position_count": 45,
+          "failed_orders": 1184,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.01715161013125832,
+            "sharpe_cash_zero": -0.004793236084794694,
+            "active_ir": -1.4230081293564796
+          }
+        },
+        {
+          "sessions": 484,
+          "first_date": "2022-01-04",
+          "last_date": "2023-12-29",
+          "capital": 1000000.0,
+          "net_return": -0.298397824151001,
+          "gross_same_fills_return": -0.09654820490000093,
+          "benchmark_net_return": -0.09036966072280006,
+          "relative_compounded_return": -0.2286952781208924,
+          "active": {
+            "n": 484,
+            "mean": -0.0005134171147674253,
+            "se": 0.00018947725794958597,
+            "p_one_sided": 0.9966322912828726,
+            "ci95": [
+              -0.0008847925403486139,
+              -0.00014204168918623687
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.32250434462317035,
+          "mean_daily_turnover": 0.2524700157882664,
+          "fees_cny": 82691.52023099993,
+          "slippage_cny": 111772.70000000022,
+          "dividend_tax_reserve": 7385.399020000001,
+          "last_cash": 43741.175848998944,
+          "last_positions_value": 657861.0,
+          "last_receivables": 0.0,
+          "last_position_count": 49,
+          "failed_orders": 1259,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.1684937382141477,
+            "sharpe_cash_zero": -1.1280253298319312,
+            "active_ir": -2.0465349102242687
+          }
+        }
+      ],
+      "positive_folds": 0,
+      "incremental_over_existing": {
+        "n": 1457,
+        "mean": -3.9359750389008465e-05,
+        "se": 0.000151172783821761,
+        "p_one_sided": 0.6027079843351538,
+        "ci95": [
+          -0.00033565840667966,
+          0.0002569389059016431
+        ],
+        "lag": 10
+      },
+      "mature_daily_rank_ic": {
+        "n": 1439,
+        "mean": 0.005102632785481036,
+        "se": 0.0037183499626630666,
+        "p_one_sided": 0.08498749609591688,
+        "ci95": [
+          -0.002185333141338574,
+          0.012390598712300646
+        ],
+        "lag": 10
+      },
+      "development_rank_ic": {
+        "n": 2182,
+        "mean": 0.011290156948327067,
+        "se": 0.003689330561250999,
+        "p_one_sided": 0.0011058785289993032,
+        "ci95": [
+          0.004059069048275109,
+          0.018521244848379026
+        ],
+        "lag": 10
+      },
+      "development_account": null,
+      "development_account_reason": "Pre-2017 raw action/tradability ledger not obtained; only adjusted-price ordering diagnostic",
+      "overlap": {
+        "reversal5": {
+          "median_absolute_rho": 0.05900515541827707,
+          "rho_q05": -0.15872277041829266,
+          "rho_q95": 0.12158245896366136,
+          "mean_tail_jaccard": 0.10961647142701259,
+          "matched_dates": 1457,
+          "mean_common_count": 260.66163349347977
+        },
+        "momentum20": {
+          "median_absolute_rho": 0.06513185130207863,
+          "rho_q05": -0.14617218669458815,
+          "rho_q95": 0.15745696206190204,
+          "mean_tail_jaccard": 0.11774695276215233,
+          "matched_dates": 1457,
+          "mean_common_count": 260.66163349347977
+        },
+        "weak_close": {
+          "median_absolute_rho": 0.057787618194301595,
+          "rho_q05": -0.15804436641136158,
+          "rho_q95": 0.12585956698427644,
+          "mean_tail_jaccard": 0.11158031048687382,
+          "matched_dates": 1456,
+          "mean_common_count": 260.5188743994509
+        },
+        "gap_diff4": {
+          "median_absolute_rho": 0.0531851555107369,
+          "rho_q05": -0.15394868763696587,
+          "rho_q95": 0.11462565301346625,
+          "mean_tail_jaccard": 0.11126334210019516,
+          "matched_dates": 1457,
+          "mean_common_count": 260.66163349347977
+        },
+        "gap_diff4_amount": {
+          "median_absolute_rho": 0.054306795856062635,
+          "rho_q05": -0.14910053232999562,
+          "rho_q95": 0.12591248789303136,
+          "mean_tail_jaccard": 0.1131804834908505,
+          "matched_dates": 1457,
+          "mean_common_count": 260.66163349347977
+        },
+        "pv_anti5": {
+          "median_absolute_rho": 0.05241865530982397,
+          "rho_q05": -0.1262873099461312,
+          "rho_q95": 0.12688197357249628,
+          "mean_tail_jaccard": 0.11616541346426408,
+          "matched_dates": 1457,
+          "mean_common_count": 260.6417295813315
+        },
+        "rev4_amount_highpos": {
+          "median_absolute_rho": 0.05444382697938588,
+          "rho_q05": -0.14691973663625962,
+          "rho_q95": 0.12362758179134069,
+          "mean_tail_jaccard": 0.11352590456145716,
+          "matched_dates": 1457,
+          "mean_common_count": 260.66163349347977
+        },
+        "strong_close_event": {
+          "median_absolute_rho": 0.05016825763349338,
+          "rho_q05": -0.09741549322166825,
+          "rho_q95": 0.10438250654318622,
+          "mean_tail_jaccard": 0.20155229649790596,
+          "matched_dates": 783,
+          "mean_common_count": 260.61358956760466
+        },
+        "liquidity_cv_abnormal": {
+          "median_absolute_rho": 0.060610644927750396,
+          "rho_q05": -0.1450598472050692,
+          "rho_q95": 0.15024510450712306,
+          "mean_tail_jaccard": 0.11242008139261904,
+          "matched_dates": 1457,
+          "mean_common_count": 260.66163349347977
+        },
+        "existing_equal_rank": {
+          "median_absolute_rho": 0.05422957398340267,
+          "rho_q05": -0.15413203765029113,
+          "rho_q95": 0.12123104320483503,
+          "mean_tail_jaccard": 0.1104562985270713,
+          "matched_dates": 1456,
+          "mean_common_count": 260.4989704873027
+        }
+      },
+      "ordering_diagnostics": {
+        "available": true,
+        "rank_ic": {
+          "n": 1439,
+          "mean": 0.005102632785481036,
+          "se": 0.0037183499626630666,
+          "p_one_sided": 0.08498749609591688,
+          "ci95": [
+            -0.002185333141338574,
+            0.012390598712300646
+          ],
+          "lag": 10
+        },
+        "rank_ir_unannualized": 0.053685691680578976,
+        "rank_ic_quantiles": {
+          "0.05": -0.1581297395499319,
+          "0.25": -0.05514318710238704,
+          "0.5": 0.005296053841879989,
+          "0.75": 0.07083045070401611,
+          "0.95": 0.16106154677352136
+        },
+        "industry_coverage_mean": 1.0,
+        "industry_coverage_min": 1.0,
+        "within_sector_rank_ic": {
+          "n": 1439,
+          "mean": 0.009807598904388131,
+          "se": 0.004290334184840526,
+          "p_one_sided": 0.011127845468430535,
+          "ci95": [
+            0.0013985439021007,
+            0.01821665390667556
+          ],
+          "lag": 10
+        },
+        "training_residual_rank_ic": {
+          "n": 1438,
+          "mean": 0.005447292046169971,
+          "se": 0.003683529217281144,
+          "p_one_sided": 0.06959365681066793,
+          "ci95": [
+            -0.0017724252197010718,
+            0.012667009312041014
+          ],
+          "lag": 10
+        },
+        "sector_summary": {
+          "C15酒、饮料和精制茶制造业": {
+            "dates": 694,
+            "mean_rank_ic": -0.010691734372555713,
+            "mean_stocks": 10.15850144092219
+          },
+          "C26化学原料和化学制品制造业": {
+            "dates": 352,
+            "mean_rank_ic": 0.032267451940066465,
+            "mean_stocks": 10.3125
+          },
+          "C27医药制造业": {
+            "dates": 1439,
+            "mean_rank_ic": 0.014295434985493148,
+            "mean_stocks": 15.569145239749826
+          },
+          "C32有色金属冶炼和压延加工业": {
+            "dates": 458,
+            "mean_rank_ic": 0.016999447670422576,
+            "mean_stocks": 10.072052401746724
+          },
+          "C36汽车制造业": {
+            "dates": 695,
+            "mean_rank_ic": -0.011414873855828374,
+            "mean_stocks": 10.423021582733814
+          },
+          "C38电气机械和器材制造业": {
+            "dates": 478,
+            "mean_rank_ic": 0.03392292853589925,
+            "mean_stocks": 12.725941422594142
+          },
+          "C39计算机、通信和其他电子设备制造业": {
+            "dates": 1439,
+            "mean_rank_ic": -0.00726364426179543,
+            "mean_stocks": 24.746351633078525
+          },
+          "D44电力、热力生产和供应业": {
+            "dates": 379,
+            "mean_rank_ic": -0.009688723473435041,
+            "mean_stocks": 10.0
+          },
+          "E48土木工程建筑业": {
+            "dates": 700,
+            "mean_rank_ic": 0.026194976581781677,
+            "mean_stocks": 10.884285714285713
+          },
+          "J66货币金融服务": {
+            "dates": 1439,
+            "mean_rank_ic": 0.02901868621928325,
+            "mean_stocks": 21.75538568450313
+          },
+          "J67资本市场服务": {
+            "dates": 1439,
+            "mean_rank_ic": 0.006039538088964663,
+            "mean_stocks": 24.49478804725504
+          },
+          "K70房地产业": {
+            "dates": 941,
+            "mean_rank_ic": 0.012952351928333536,
+            "mean_stocks": 13.83740701381509
+          }
+        },
+        "positive_sectors_min60dates": 8,
+        "breadth_pass": true,
+        "yearly": [
+          {
+            "year": 2018,
+            "rank_ic": {
+              "n": 243,
+              "mean": 0.004411496683699416,
+              "se": 0.008045812848551034,
+              "p_one_sided": 0.29174392368403124,
+              "ci95": [
+                -0.01135829649946061,
+                0.020181289866859443
+              ],
+              "lag": 10
+            },
+            "dates": 243
+          },
+          {
+            "year": 2019,
+            "rank_ic": {
+              "n": 238,
+              "mean": 0.009174766078505744,
+              "se": 0.010172126288254802,
+              "p_one_sided": 0.18354127649938246,
+              "ci95": [
+                -0.010762601446473667,
+                0.029112133603485156
+              ],
+              "lag": 10
+            },
+            "dates": 238
+          },
+          {
+            "year": 2020,
+            "rank_ic": {
+              "n": 243,
+              "mean": 0.0015321780365252346,
+              "se": 0.00787920034765423,
+              "p_one_sided": 0.42290841620568864,
+              "ci95": [
+                -0.013911054644877055,
+                0.016975410717927526
+              ],
+              "lag": 10
+            },
+            "dates": 243
+          },
+          {
+            "year": 2021,
+            "rank_ic": {
+              "n": 237,
+              "mean": 0.008889972484665717,
+              "se": 0.006251295603640685,
+              "p_one_sided": 0.07749849516440528,
+              "ci95": [
+                -0.003362566898470025,
+                0.02114251186780146
+              ],
+              "lag": 10
+            },
+            "dates": 237
+          },
+          {
+            "year": 2022,
+            "rank_ic": {
+              "n": 242,
+              "mean": 0.007293777064233957,
+              "se": 0.011993777016057241,
+              "p_one_sided": 0.27155058824861994,
+              "ci95": [
+                -0.016214025887238238,
+                0.03080158001570615
+              ],
+              "lag": 10
+            },
+            "dates": 242
+          },
+          {
+            "year": 2023,
+            "rank_ic": {
+              "n": 236,
+              "mean": -0.0006662552279751636,
+              "se": 0.008836013463499708,
+              "p_one_sided": 0.5300526623959126,
+              "ci95": [
+                -0.017984841616434592,
+                0.016652331160484264
+              ],
+              "lag": 10
+            },
+            "dates": 236
+          }
+        ],
+        "quintile_mean_forward_returns": {
+          "q1_forward_return": -0.000281081569269383,
+          "q2_forward_return": 0.00042317895388613693,
+          "q3_forward_return": 4.705422557656628e-05,
+          "q4_forward_return": 0.00011139787404051912,
+          "q5_forward_return": 0.0005398633052986268
+        },
+        "group_returns_interpretation": "Overlapping next-open five-session adjusted-price labels, descriptive and unannualized; complete cutoff ties retained",
+        "unknown_industry_reason": "Annual snapshots may omit newly listed or newly classified members; missing groups remain unknown",
+        "control_projection": {
+          "available": true,
+          "training_start": "2008-01-01",
+          "training_end": "2017-12-31",
+          "observations": 570573,
+          "controls": [
+            "reversal5",
+            "momentum20",
+            "existing_equal_rank",
+            "liquidity_cv_abnormal"
+          ],
+          "coefficients": [
+            0.5187307685854124,
+            -0.026902394729655423,
+            -0.000797201874814732,
+            -0.01105873563091753,
+            0.00522228337155579
+          ],
+          "outcomes_used": false,
+          "refit_in_validation": false
+        }
+      },
+      "sector_breadth_available": true,
+      "scored_breadth": {
+        "min": 221,
+        "median": 263.0,
+        "max": 279,
+        "sessions_below_200": 0,
+        "sessions": 1457
+      },
+      "holm_p": 1.0,
+      "qualification_failures": [
+        "Holm_5pct",
+        "two_positive_folds",
+        "incremental_account_HAC_lower_positive"
+      ]
+    }
+  ],
+  "final": null,
+  "final_unavailable_reason": "No frozen evaluable method yet",
+  "release_authorized": false,
+  "publication": "NOT_PUBLISHED",
+  "package_readiness": "INCOMPLETE",
+  "unused_hypotheses": 12,
+  "holm_slots": 18,
+  "selected_diagnostics": {
+    "friction_2x": {
+      "folds": [
+        {
+          "sessions": 487,
+          "first_date": "2018-01-02",
+          "last_date": "2019-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.26030443963160044,
+          "gross_same_fills_return": 0.005936212000000163,
+          "benchmark_net_return": -0.043194981791999654,
+          "relative_compounded_return": -0.22691086868066912,
+          "active": {
+            "n": 487,
+            "mean": -0.0005089366802444349,
+            "se": 0.00016118930370951102,
+            "p_one_sided": 0.9992040447712384,
+            "ci95": [
+              -0.0008248677155150764,
+              -0.00019300564497379329
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.4044369602697797,
+          "mean_daily_turnover": 0.23768863227595666,
+          "fees_cny": 120383.33323160028,
+          "slippage_cny": 140711.74000000017,
+          "dividend_tax_reserve": 5145.578400000002,
+          "last_cash": 101115.56036839954,
+          "last_positions_value": 638580.0,
+          "last_receivables": 0.0,
+          "last_position_count": 51,
+          "failed_orders": 1371,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.14445869141993772,
+            "sharpe_cash_zero": -0.6967765676522581,
+            "active_ir": -2.2988658412733702
+          }
+        },
+        {
+          "sessions": 486,
+          "first_date": "2020-01-02",
+          "last_date": "2021-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.11190683654700129,
+          "gross_same_fills_return": 0.17307130939999893,
+          "benchmark_net_return": 0.1487301758239996,
+          "relative_compounded_return": -0.2268914126714242,
+          "active": {
+            "n": 486,
+            "mean": -0.0005110586258556825,
+            "se": 0.00019295180424628382,
+            "p_one_sided": 0.9959591046931061,
+            "ci95": [
+              -0.0008892441621783987,
+              -0.0001328730895329662
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.23466788148303352,
+          "mean_daily_turnover": 0.22101287181002047,
+          "fees_cny": 123223.43406699992,
+          "slippage_cny": 155029.15000000029,
+          "dividend_tax_reserve": 6725.56188,
+          "last_cash": 145391.16345299874,
+          "last_positions_value": 742702.0,
+          "last_receivables": 0.0,
+          "last_position_count": 44,
+          "failed_orders": 1694,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.05968190893626368,
+            "sharpe_cash_zero": -0.2526055724074696,
+            "active_ir": -2.090393720478108
+          }
+        },
+        {
+          "sessions": 484,
+          "first_date": "2022-01-04",
+          "last_date": "2023-12-29",
+          "capital": 1000000.0,
+          "net_return": -0.3660833890519991,
+          "gross_same_fills_return": -0.13827803429999885,
+          "benchmark_net_return": -0.0936694449308002,
+          "relative_compounded_return": -0.3005679799688532,
+          "active": {
+            "n": 484,
+            "mean": -0.0007157249042081784,
+            "se": 0.00018962369732189512,
+            "p_one_sided": 0.9999198190257191,
+            "ci95": [
+              -0.001087387350959093,
+              -0.00034406245745726403
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.38568869668206096,
+          "mean_daily_turnover": 0.21444714214511146,
+          "fees_cny": 99873.60161199994,
+          "slippage_cny": 120254.00000000017,
+          "dividend_tax_reserve": 7677.753139999999,
+          "last_cash": 48722.610948000955,
+          "last_positions_value": 585194.0,
+          "last_receivables": 0.0,
+          "last_position_count": 49,
+          "failed_orders": 1631,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.21127461125473035,
+            "sharpe_cash_zero": -1.4798707880866344,
+            "active_ir": -2.864294800881724
+          }
+        }
+      ],
+      "pooled_active": {
+        "n": 1457,
+        "mean": -0.0005783373432269457,
+        "se": 0.00010512821055379995,
+        "p_one_sided": 0.9999999811453862,
+        "ci95": [
+          -0.0007843886359123936,
+          -0.00037228605054149785
+        ],
+        "lag": 10
+      },
+      "selection_permitted": false
+    },
+    "friction_3x": {
+      "folds": [
+        {
+          "sessions": 487,
+          "first_date": "2018-01-02",
+          "last_date": "2019-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.3376512447633988,
+          "gross_same_fills_return": -0.0042258419999988694,
+          "benchmark_net_return": -0.04928373910799977,
+          "relative_compounded_return": -0.30331605497610936,
+          "active": {
+            "n": 487,
+            "mean": -0.0007222750728577013,
+            "se": 0.00016307662953427707,
+            "p_one_sided": 0.99999526761687,
+            "ci95": [
+              -0.0010419052667448843,
+              -0.00040264487897051824
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.4333367779721884,
+          "mean_daily_turnover": 0.23708619711491913,
+          "fees_cny": 154236.4971633998,
+          "slippage_cny": 174290.76000000007,
+          "dividend_tax_reserve": 4898.145599999999,
+          "last_cash": 77062.75523660121,
+          "last_positions_value": 585286.0,
+          "last_receivables": 0.0,
+          "last_position_count": 51,
+          "failed_orders": 1410,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.19198272489085488,
+            "sharpe_cash_zero": -0.9853790403493556,
+            "active_ir": -3.0953221455373097
+          }
+        },
+        {
+          "sessions": 486,
+          "first_date": "2020-01-02",
+          "last_date": "2021-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.17952083321340218,
+          "gross_same_fills_return": 0.17370747459999736,
+          "benchmark_net_return": 0.14248473385799953,
+          "relative_compounded_return": -0.2818467131582908,
+          "active": {
+            "n": 486,
+            "mean": -0.0006632210175982889,
+            "se": 0.00019226852559177602,
+            "p_one_sided": 0.9997191370308072,
+            "ci95": [
+              -0.00104006732775817,
+              -0.0002863747074384079
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.26692159035105756,
+          "mean_daily_turnover": 0.21953625916976124,
+          "fees_cny": 153687.1628933995,
+          "slippage_cny": 193145.2300000001,
+          "dividend_tax_reserve": 6395.914919999998,
+          "last_cash": 146037.1667865978,
+          "last_positions_value": 674442.0,
+          "last_receivables": 0.0,
+          "last_position_count": 43,
+          "failed_orders": 1742,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.09750991869361947,
+            "sharpe_cash_zero": -0.4831952963302895,
+            "active_ir": -2.6755638924128156
+          }
+        },
+        {
+          "sessions": 484,
+          "first_date": "2022-01-04",
+          "last_date": "2023-12-29",
+          "capital": 1000000.0,
+          "net_return": -0.41809532141550065,
+          "gross_same_fills_return": -0.13184677510000076,
+          "benchmark_net_return": -0.09703780288039943,
+          "relative_compounded_return": -0.3555603097884462,
+          "active": {
+            "n": 484,
+            "mean": -0.0008844226738221209,
+            "se": 0.00018920378817784359,
+            "p_one_sided": 0.9999985262508945,
+            "ci95": [
+              -0.0012552620986506944,
+              -0.0005135832489935474
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.4350625666017047,
+          "mean_daily_turnover": 0.21228021509550474,
+          "fees_cny": 127798.73133549967,
+          "slippage_cny": 151082.35000000006,
+          "dividend_tax_reserve": 7367.464979999996,
+          "last_cash": 44865.67858449935,
+          "last_positions_value": 537039.0,
+          "last_receivables": 0.0,
+          "last_position_count": 49,
+          "failed_orders": 1667,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.2456593848049614,
+            "sharpe_cash_zero": -1.7681542535520771,
+            "active_ir": -3.4512283615480515
+          }
+        }
+      ],
+      "pooled_active": {
+        "n": 1457,
+        "mean": -0.0007564405965438403,
+        "se": 0.0001051783721792193,
+        "p_one_sided": 0.9999999999996807,
+        "ci95": [
+          -0.0009625902060151101,
+          -0.0005502909870725705
+        ],
+        "lag": 10
+      },
+      "selection_permitted": false
+    },
+    "delay_plus_one": {
+      "folds": [
+        {
+          "sessions": 487,
+          "first_date": "2018-01-02",
+          "last_date": "2019-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.2174033519412003,
+          "gross_same_fills_return": -0.013388772000000326,
+          "benchmark_net_return": -0.04798852018200073,
+          "relative_compounded_return": -0.17795461016036007,
+          "active": {
+            "n": 487,
+            "mean": -0.0003808176179138916,
+            "se": 0.00017325293921218457,
+            "p_one_sided": 0.9860270217902133,
+            "ci95": [
+              -0.0007203933787697733,
+              -4.1241857058009815e-05
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.39912239857612164,
+          "mean_daily_turnover": 0.23809637485140867,
+          "fees_cny": 84508.97034119969,
+          "slippage_cny": 114283.72000000036,
+          "dividend_tax_reserve": 5221.8895999999995,
+          "last_cash": 107696.64805879972,
+          "last_positions_value": 674900.0,
+          "last_receivables": 0.0,
+          "last_position_count": 50,
+          "failed_orders": 1349,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.1191320166336296,
+            "sharpe_cash_zero": -0.5396481660190903,
+            "active_ir": -1.7660983548506866
+          }
+        },
+        {
+          "sessions": 486,
+          "first_date": "2020-01-02",
+          "last_date": "2021-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.10025317611459894,
+          "gross_same_fills_return": 0.10917314860000116,
+          "benchmark_net_return": 0.14791249580999977,
+          "relative_compounded_return": -0.21618866667139636,
+          "active": {
+            "n": 486,
+            "mean": -0.0004814443956101382,
+            "se": 0.00019808782828382388,
+            "p_one_sided": 0.9924601492718041,
+            "ci95": [
+              -0.000869696539046433,
+              -9.319225217384341e-05
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.2473753482515032,
+          "mean_daily_turnover": 0.21800480587359755,
+          "fees_cny": 87369.3049945998,
+          "slippage_cny": 114702.67000000026,
+          "dividend_tax_reserve": 7354.34972,
+          "last_cash": 160348.82388540107,
+          "last_positions_value": 739398.0,
+          "last_receivables": 0.0,
+          "last_position_count": 45,
+          "failed_orders": 1705,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.05330401015966235,
+            "sharpe_cash_zero": -0.21210553724332987,
+            "active_ir": -1.9972005872573382
+          }
+        },
+        {
+          "sessions": 484,
+          "first_date": "2022-01-04",
+          "last_date": "2023-12-29",
+          "capital": 1000000.0,
+          "net_return": -0.3089423314619998,
+          "gross_same_fills_return": -0.13546473239999957,
+          "benchmark_net_return": -0.08924024552219956,
+          "relative_compounded_return": -0.24122946239073795,
+          "active": {
+            "n": 484,
+            "mean": -0.0005489605368198758,
+            "se": 0.00017301229878248855,
+            "p_one_sided": 0.9992455249275077,
+            "ci95": [
+              -0.0008880646424335533,
+              -0.00020985643120619826
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.33247687590761654,
+          "mean_daily_turnover": 0.21632501595960973,
+          "fees_cny": 71090.74554200008,
+          "slippage_cny": 94536.80000000034,
+          "dividend_tax_reserve": 7850.0535199999995,
+          "last_cash": 45996.6685380002,
+          "last_positions_value": 645061.0,
+          "last_receivables": 0.0,
+          "last_position_count": 49,
+          "failed_orders": 1625,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.17502398001005226,
+            "sharpe_cash_zero": -1.2124263348893658,
+            "active_ir": -2.2385998741612725
+          }
+        }
+      ],
+      "pooled_active": {
+        "n": 1457,
+        "mean": -0.0004702381990469542,
+        "se": 0.00010511389348574426,
+        "p_one_sided": 0.9999961544391527,
+        "ci95": [
+          -0.000676261430279013,
+          -0.0002642149678148954
+        ],
+        "lag": 10
+      },
+      "selection_permitted": false
+    },
+    "capacity_10m": {
+      "folds": [
+        {
+          "sessions": 487,
+          "first_date": "2018-01-02",
+          "last_date": "2019-12-31",
+          "capital": 10000000.0,
+          "net_return": -0.17183087282919918,
+          "gross_same_fills_return": 0.03898163080000061,
+          "benchmark_net_return": -0.03537725713567941,
+          "relative_compounded_return": -0.14145801216373843,
+          "active": {
+            "n": 487,
+            "mean": -0.00030999335632263004,
+            "se": 0.00012585345463129495,
+            "p_one_sided": 0.993113491936384,
+            "ci95": [
+              -0.0005566661273999681,
+              -6.332058524529196e-05
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.39071676700860536,
+          "mean_daily_turnover": 0.25449372161756095,
+          "fees_cny": 827315.8786919983,
+          "slippage_cny": 1222858.5200000012,
+          "dividend_tax_reserve": 57950.6376,
+          "last_cash": 103693.27170800773,
+          "last_positions_value": 8177998.0,
+          "last_receivables": 0.0,
+          "last_position_count": 53,
+          "failed_orders": 507,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.09295176104842895,
+            "sharpe_cash_zero": -0.36124534924234963,
+            "active_ir": -1.5678331087763742
+          }
+        },
+        {
+          "sessions": 486,
+          "first_date": "2020-01-02",
+          "last_date": "2021-12-31",
+          "capital": 10000000.0,
+          "net_return": -0.002272940755958852,
+          "gross_same_fills_return": 0.24074764163000117,
+          "benchmark_net_return": 0.2337370885280008,
+          "relative_compounded_return": -0.19129685852724787,
+          "active": {
+            "n": 486,
+            "mean": -0.0004287743034565864,
+            "se": 0.00018909527484789866,
+            "p_one_sided": 0.9883202744189099,
+            "ci95": [
+              -0.0007994010421584678,
+              -5.814756475470501e-05
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.19783114343511266,
+          "mean_daily_turnover": 0.24956189214601113,
+          "fees_cny": 1023378.2705995982,
+          "slippage_cny": 1329943.9700000028,
+          "dividend_tax_reserve": 76883.58326,
+          "last_cash": 336817.5924404106,
+          "last_positions_value": 9640453.0,
+          "last_receivables": 0.0,
+          "last_position_count": 48,
+          "failed_orders": 536,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.0011792074949531495,
+            "sharpe_cash_zero": 0.09485253937719357,
+            "active_ir": -1.8932296111230529
+          }
+        },
+        {
+          "sessions": 484,
+          "first_date": "2022-01-04",
+          "last_date": "2023-12-29",
+          "capital": 10000000.0,
+          "net_return": -0.3777837578232991,
+          "gross_same_fills_return": -0.20324544998999927,
+          "benchmark_net_return": -0.21238623898248044,
+          "relative_compounded_return": -0.20999825933353589,
+          "active": {
+            "n": 484,
+            "mean": -0.00047897175126150387,
+            "se": 0.00014683607888149803,
+            "p_one_sided": 0.9994467541009893,
+            "ci95": [
+              -0.0007667704658692401,
+              -0.00019117303665376774
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.3984195700662988,
+          "mean_daily_turnover": 0.2446855284777362,
+          "fees_cny": 709319.3983129967,
+          "slippage_cny": 956688.8000000004,
+          "dividend_tax_reserve": 79374.88001999998,
+          "last_cash": 44508.42176700954,
+          "last_positions_value": 6177654.0,
+          "last_receivables": 0.0,
+          "last_position_count": 49,
+          "failed_orders": 646,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.21888808675747073,
+            "sharpe_cash_zero": -1.3427376726422078,
+            "active_ir": -2.3088289897898844
+          }
+        }
+      ],
+      "pooled_active": {
+        "n": 1457,
+        "mean": -0.00040574701689745346,
+        "se": 9.029169044646399e-05,
+        "p_one_sided": 0.9999965007803758,
+        "ci95": [
+          -0.0005827187301725229,
+          -0.00022877530362238403
+        ],
+        "lag": 10
+      },
+      "selection_permitted": false
+    },
+    "transfer_higher_liquidity_half": {
+      "folds": [
+        {
+          "sessions": 487,
+          "first_date": "2018-01-02",
+          "last_date": "2019-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.12166047523599921,
+          "gross_same_fills_return": 0.07432614000000126,
+          "benchmark_net_return": -0.06130046783599952,
+          "relative_compounded_return": -0.0643017337622942,
+          "active": {
+            "n": 487,
+            "mean": -0.00011876506268250307,
+            "se": 0.0001922252325961984,
+            "p_one_sided": 0.7316606651011281,
+            "ci95": [
+              -0.0004955265185710519,
+              0.00025799639320604577
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.3732737645939085,
+          "mean_daily_turnover": 0.24947835965976428,
+          "fees_cny": 85756.81123600014,
+          "slippage_cny": 105621.42000000033,
+          "dividend_tax_reserve": 4608.384,
+          "last_cash": 95679.52476400079,
+          "last_positions_value": 782660.0,
+          "last_receivables": 0.0,
+          "last_position_count": 26,
+          "failed_orders": 630,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.06492185112892601,
+            "sharpe_cash_zero": -0.19627456711210678,
+            "active_ir": -0.4715371306636075
+          }
+        },
+        {
+          "sessions": 486,
+          "first_date": "2020-01-02",
+          "last_date": "2021-12-31",
+          "capital": 1000000.0,
+          "net_return": 0.1271965080843993,
+          "gross_same_fills_return": 0.34587216029999945,
+          "benchmark_net_return": 0.14396009723600067,
+          "relative_compounded_return": -0.014653998152649672,
+          "active": {
+            "n": 486,
+            "mean": -1.5807161377219371e-06,
+            "se": 0.00027708782492509777,
+            "p_one_sided": 0.5022758527205908,
+            "ci95": [
+              -0.0005446728529909136,
+              0.0005415114207154697
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.1778284416268715,
+          "mean_daily_turnover": 0.23491553605773013,
+          "fees_cny": 105725.55015559967,
+          "slippage_cny": 106733.17000000043,
+          "dividend_tax_reserve": 6216.93206,
+          "last_cash": 111459.50808439935,
+          "last_positions_value": 1015737.0,
+          "last_receivables": 0.0,
+          "last_position_count": 23,
+          "failed_orders": 721,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": 0.06405180692481327,
+            "sharpe_cash_zero": 0.3950488195563947,
+            "active_ir": -0.004734871187839169
+          }
+        },
+        {
+          "sessions": 484,
+          "first_date": "2022-01-04",
+          "last_date": "2023-12-29",
+          "capital": 1000000.0,
+          "net_return": -0.3761553744270002,
+          "gross_same_fills_return": -0.21937070759999988,
+          "benchmark_net_return": -0.22285352965899985,
+          "relative_compounded_return": -0.19726248605457064,
+          "active": {
+            "n": 484,
+            "mean": -0.0004209145730401532,
+            "se": 0.0002752723825869023,
+            "p_one_sided": 0.9368781790867792,
+            "ci95": [
+              -0.0009604484429104817,
+              0.00011861929683017528
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.39765473619699987,
+          "mean_daily_turnover": 0.23114983893303248,
+          "fees_cny": 67938.74834700015,
+          "slippage_cny": 80351.00000000029,
+          "dividend_tax_reserve": 8494.918479999998,
+          "last_cash": 29637.62557299987,
+          "last_positions_value": 594207.0,
+          "last_receivables": 0.0,
+          "last_position_count": 25,
+          "failed_orders": 697,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.21782440521055224,
+            "sharpe_cash_zero": -1.2668065929229442,
+            "active_ir": -1.23349055833336
+          }
+        }
+      ],
+      "pooled_active": {
+        "n": 1457,
+        "mean": -0.0001800476780513013,
+        "se": 0.00014580568354630283,
+        "p_one_sided": 0.8915562322715865,
+        "ci95": [
+          -0.00046582681780205483,
+          0.00010573146169945226
+        ],
+        "lag": 10
+      },
+      "breadth_floor": 100,
+      "selection_permitted": false
+    },
+    "ablation_reversal5": {
+      "folds": [
+        {
+          "sessions": 487,
+          "first_date": "2018-01-02",
+          "last_date": "2019-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.1319640739800001,
+          "gross_same_fills_return": 0.1345630510000002,
+          "benchmark_net_return": -0.037831194795999945,
+          "relative_compounded_return": -0.09783405850914284,
+          "active": {
+            "n": 487,
+            "mean": -0.0001751432094958839,
+            "se": 0.00022393535426782317,
+            "p_one_sided": 0.7829265169188182,
+            "ci95": [
+              -0.0006140565038608173,
+              0.0002637700848690495
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.3254206623616923,
+          "mean_daily_turnover": 0.2967377469319587,
+          "fees_cny": 112031.33877999996,
+          "slippage_cny": 151227.7200000002,
+          "dividend_tax_reserve": 3268.0662,
+          "last_cash": 80061.92601999984,
+          "last_positions_value": 787974.0,
+          "last_receivables": 0.0,
+          "last_position_count": 54,
+          "failed_orders": 575,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.0706140571827597,
+            "sharpe_cash_zero": -0.22907947523281597,
+            "active_ir": -0.4992409650886259
+          }
+        },
+        {
+          "sessions": 486,
+          "first_date": "2020-01-02",
+          "last_date": "2021-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.04927866674040149,
+          "gross_same_fills_return": 0.2164108379999985,
+          "benchmark_net_return": 0.15699827668799782,
+          "relative_compounded_return": -0.17828630135810053,
+          "active": {
+            "n": 486,
+            "mean": -0.0003701088033391828,
+            "se": 0.00025243038554487185,
+            "p_one_sided": 0.9287005990746885,
+            "ci95": [
+              -0.0008648723590071316,
+              0.000124654752328766
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.24958239257044934,
+          "mean_daily_turnover": 0.28214898039481745,
+          "fees_cny": 115823.34714039981,
+          "slippage_cny": 144738.23000000024,
+          "dividend_tax_reserve": 5127.927600000001,
+          "last_cash": 235115.33325959847,
+          "last_positions_value": 715606.0,
+          "last_receivables": 0.0,
+          "last_position_count": 42,
+          "failed_orders": 780,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.025862643567075905,
+            "sharpe_cash_zero": -0.03066577835783736,
+            "active_ir": -0.9781377804787916
+          }
+        },
+        {
+          "sessions": 484,
+          "first_date": "2022-01-04",
+          "last_date": "2023-12-29",
+          "capital": 1000000.0,
+          "net_return": -0.410559436321002,
+          "gross_same_fills_return": -0.23136103900000127,
+          "benchmark_net_return": -0.09036966072280006,
+          "relative_compounded_return": -0.3519998858576193,
+          "active": {
+            "n": 484,
+            "mean": -0.0008605134889300123,
+            "se": 0.00027812247487337587,
+            "p_one_sided": 0.9990126431013134,
+            "ci95": [
+              -0.001405633539681829,
+              -0.0003153934381781956
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.4383523676318142,
+          "mean_daily_turnover": 0.25657923323568776,
+          "fees_cny": 82098.26512100037,
+          "slippage_cny": 92541.2000000003,
+          "dividend_tax_reserve": 4558.932200000001,
+          "last_cash": 70963.56367899798,
+          "last_positions_value": 518477.0,
+          "last_receivables": 0.0,
+          "last_position_count": 47,
+          "failed_orders": 1049,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.24058873529980018,
+            "sharpe_cash_zero": -1.5091129411410842,
+            "active_ir": -2.2008092264665513
+          }
+        }
+      ],
+      "pooled_active": {
+        "n": 1457,
+        "mean": -0.00046784910781706533,
+        "se": 0.00014775251987486532,
+        "p_one_sided": 0.9992284072672404,
+        "ci95": [
+          -0.0007574440467718014,
+          -0.00017825416886232932
+        ],
+        "lag": 10
+      },
+      "selection_permitted": false
+    },
+    "ablation_momentum20": {
+      "folds": [
+        {
+          "sessions": 487,
+          "first_date": "2018-01-02",
+          "last_date": "2019-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.2887163237220006,
+          "gross_same_fills_return": -0.18033764570000044,
+          "benchmark_net_return": -0.037831194795999945,
+          "relative_compounded_return": -0.26074959775151696,
+          "active": {
+            "n": 487,
+            "mean": -0.0005856064599409875,
+            "se": 0.00023859642201555265,
+            "p_one_sided": 0.9929436263543583,
+            "ci95": [
+              -0.0010532554470914707,
+              -0.00011795747279050436
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.41621937588056557,
+          "mean_daily_turnover": 0.1367442963959683,
+          "fees_cny": 49103.58716199992,
+          "slippage_cny": 54178.800000000265,
+          "dividend_tax_reserve": 5096.29086,
+          "last_cash": 56752.67627799942,
+          "last_positions_value": 654531.0,
+          "last_receivables": 0.0,
+          "last_position_count": 53,
+          "failed_orders": 2703,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.16162367352879115,
+            "sharpe_cash_zero": -0.7131838587745684,
+            "active_ir": -1.6339050766257561
+          }
+        },
+        {
+          "sessions": 486,
+          "first_date": "2020-01-02",
+          "last_date": "2021-12-31",
+          "capital": 1000000.0,
+          "net_return": 0.21908152022999916,
+          "gross_same_fills_return": 0.34415402969999964,
+          "benchmark_net_return": 0.15699827668799782,
+          "relative_compounded_return": 0.05365889024460757,
+          "active": {
+            "n": 486,
+            "mean": 0.00016726420990641788,
+            "se": 0.00027047094601048043,
+            "p_one_sided": 0.26814978567606473,
+            "ci95": [
+              -0.0003628588442741238,
+              0.0006973872640869595
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.1528216030913797,
+          "mean_daily_turnover": 0.11994650345042027,
+          "fees_cny": 57544.3675299999,
+          "slippage_cny": 62600.670000000304,
+          "dividend_tax_reserve": 4927.471939999999,
+          "last_cash": 109900.52022999912,
+          "last_positions_value": 1109181.0,
+          "last_receivables": 0.0,
+          "last_position_count": 50,
+          "failed_orders": 2852,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": 0.10817812475700261,
+            "sharpe_cash_zero": 0.5617163791916269,
+            "active_ir": 0.3483792921393299
+          }
+        },
+        {
+          "sessions": 484,
+          "first_date": "2022-01-04",
+          "last_date": "2023-12-29",
+          "capital": 1000000.0,
+          "net_return": -0.3175376692890014,
+          "gross_same_fills_return": -0.21920449510000084,
+          "benchmark_net_return": -0.09036966072280006,
+          "relative_compounded_return": -0.24973662240280037,
+          "active": {
+            "n": 484,
+            "mean": -0.0005602885311354122,
+            "se": 0.00023340464344089924,
+            "p_one_sided": 0.9918137202266143,
+            "ci95": [
+              -0.0010177616322795747,
+              -0.00010281542999124966
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.32999523180900125,
+          "mean_daily_turnover": 0.12725721032390053,
+          "fees_cny": 42063.21320900012,
+          "slippage_cny": 50270.800000000345,
+          "dividend_tax_reserve": 5999.160980000004,
+          "last_cash": 60112.33071099866,
+          "last_positions_value": 622350.0,
+          "last_receivables": 0.0,
+          "last_position_count": 50,
+          "failed_orders": 2696,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.1803825122286855,
+            "sharpe_cash_zero": -1.0906764349358782,
+            "active_ir": -1.4801274489527367
+          }
+        }
+      ],
+      "pooled_active": {
+        "n": 1457,
+        "mean": -0.0003260669794415109,
+        "se": 0.00014609052519775964,
+        "p_one_sided": 0.9871909185573503,
+        "ci95": [
+          -0.0006124044088291197,
+          -3.9729550053902015e-05
+        ],
+        "lag": 10
+      },
+      "selection_permitted": false
+    },
+    "ablation_existing_equal_rank": {
+      "folds": [
+        {
+          "sessions": 487,
+          "first_date": "2018-01-02",
+          "last_date": "2019-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.1296984545600013,
+          "gross_same_fills_return": 0.12286063609999887,
+          "benchmark_net_return": -0.037831194795999945,
+          "relative_compounded_return": -0.09547935795374651,
+          "active": {
+            "n": 487,
+            "mean": -0.0001749701178318567,
+            "se": 0.00019378624244845342,
+            "p_one_sided": 0.8167112261639891,
+            "ci95": [
+              -0.0005547911530308254,
+              0.000204850917367112
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.3241906301763743,
+          "mean_daily_turnover": 0.28967844848905844,
+          "fees_cny": 107712.78744,
+          "slippage_cny": 140974.7200000002,
+          "dividend_tax_reserve": 3871.58322,
+          "last_cash": 54098.54543999872,
+          "last_positions_value": 816203.0,
+          "last_receivables": 0.0,
+          "last_position_count": 55,
+          "failed_orders": 772,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.06935963503502418,
+            "sharpe_cash_zero": -0.23552693491124183,
+            "active_ir": -0.5528935817799401
+          }
+        },
+        {
+          "sessions": 486,
+          "first_date": "2020-01-02",
+          "last_date": "2021-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.043078184470002,
+          "gross_same_fills_return": 0.21590697099999812,
+          "benchmark_net_return": 0.15699827668799782,
+          "relative_compounded_return": -0.17292719028997605,
+          "active": {
+            "n": 486,
+            "mean": -0.000362319650338146,
+            "se": 0.00023447239082451517,
+            "p_one_sided": 0.9388577105184295,
+            "ci95": [
+              -0.0008218855363541957,
+              9.724623567790368e-05
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.22085817239175087,
+          "mean_daily_turnover": 0.274397498740551,
+          "fees_cny": 112249.46126999967,
+          "slippage_cny": 141814.5000000003,
+          "dividend_tax_reserve": 4921.194199999999,
+          "last_cash": 259398.81552999804,
+          "last_positions_value": 697523.0,
+          "last_receivables": 0.0,
+          "last_position_count": 42,
+          "failed_orders": 1017,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.02257354810802059,
+            "sharpe_cash_zero": -0.021633858239208385,
+            "active_ir": -1.0448397221406562
+          }
+        },
+        {
+          "sessions": 484,
+          "first_date": "2022-01-04",
+          "last_date": "2023-12-29",
+          "capital": 1000000.0,
+          "net_return": -0.3861185924700016,
+          "gross_same_fills_return": -0.18893600310000114,
+          "benchmark_net_return": -0.09036966072280006,
+          "relative_compounded_return": -0.3251309009572021,
+          "active": {
+            "n": 484,
+            "mean": -0.0007831161977639023,
+            "se": 0.00023723276191597623,
+            "p_one_sided": 0.9995183741093975,
+            "ci95": [
+              -0.0012480924111192156,
+              -0.0003181399844085889
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.4150638300998536,
+          "mean_daily_turnover": 0.26837648213854337,
+          "fees_cny": 85465.3899900002,
+          "slippage_cny": 106340.00000000022,
+          "dividend_tax_reserve": 5377.199379999999,
+          "last_cash": 76441.40752999841,
+          "last_positions_value": 537440.0,
+          "last_receivables": 0.0,
+          "last_position_count": 48,
+          "failed_orders": 960,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.22435353011330406,
+            "sharpe_cash_zero": -1.4800345836633841,
+            "active_ir": -2.2819740779599726
+          }
+        }
+      ],
+      "pooled_active": {
+        "n": 1457,
+        "mean": -0.0004394825237928496,
+        "se": 0.0001306568778587675,
+        "p_one_sided": 0.999615389060882,
+        "ci95": [
+          -0.0006955700043960338,
+          -0.00018339504318966532
+        ],
+        "lag": 10
+      },
+      "selection_permitted": false
+    },
+    "ablation_permuted_leader_graph": {
+      "folds": [
+        {
+          "sessions": 487,
+          "first_date": "2018-01-02",
+          "last_date": "2019-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.2737801214300011,
+          "gross_same_fills_return": -0.0612514142000008,
+          "benchmark_net_return": -0.037831194795999945,
+          "relative_compounded_return": -0.2452261238961858,
+          "active": {
+            "n": 487,
+            "mean": -0.0005544036332102593,
+            "se": 0.00014280339666637357,
+            "p_one_sided": 0.9999482604731557,
+            "ci95": [
+              -0.0008342982906763515,
+              -0.00027450897574416707
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.36222032969407747,
+          "mean_daily_turnover": 0.24807482810016826,
+          "fees_cny": 87883.7700700001,
+          "slippage_cny": 120359.40000000023,
+          "dividend_tax_reserve": 4285.537160000001,
+          "last_cash": 45237.87856999891,
+          "last_positions_value": 680982.0,
+          "last_receivables": 0.0,
+          "last_position_count": 53,
+          "failed_orders": 1282,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.1525595743514211,
+            "sharpe_cash_zero": -0.7230097998007389,
+            "active_ir": -2.514496815996401
+          }
+        },
+        {
+          "sessions": 486,
+          "first_date": "2020-01-02",
+          "last_date": "2021-12-31",
+          "capital": 1000000.0,
+          "net_return": -0.14518725814440014,
+          "gross_same_fills_return": 0.0782622979999994,
+          "benchmark_net_return": 0.15699827668799782,
+          "relative_compounded_return": -0.26118062655843266,
+          "active": {
+            "n": 486,
+            "mean": -0.0006059774232330498,
+            "se": 0.00017613318566182335,
+            "p_one_sided": 0.9997096261637428,
+            "ci95": [
+              -0.0009511984671302235,
+              -0.00026075637933587603
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.20942099440471895,
+          "mean_daily_turnover": 0.23720873234352746,
+          "fees_cny": 92521.41654439949,
+          "slippage_cny": 124404.08000000026,
+          "dividend_tax_reserve": 6524.059600000001,
+          "last_cash": 199785.74185559977,
+          "last_positions_value": 655027.0,
+          "last_receivables": 0.0,
+          "last_position_count": 41,
+          "failed_orders": 1481,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.07812116316300455,
+            "sharpe_cash_zero": -0.37034850157785565,
+            "active_ir": -2.5933355349620464
+          }
+        },
+        {
+          "sessions": 484,
+          "first_date": "2022-01-04",
+          "last_date": "2023-12-29",
+          "capital": 1000000.0,
+          "net_return": -0.32283821902980103,
+          "gross_same_fills_return": -0.14860713290000072,
+          "benchmark_net_return": -0.09036966072280006,
+          "relative_compounded_return": -0.2555637694447642,
+          "active": {
+            "n": 484,
+            "mean": -0.0005859236021439836,
+            "se": 0.0001736763462982857,
+            "p_one_sided": 0.999629109980324,
+            "ci95": [
+              -0.0009263292408886235,
+              -0.0002455179633993436
+            ],
+            "lag": 10
+          },
+          "max_drawdown": -0.3431076061060029,
+          "mean_daily_turnover": 0.22625544460743532,
+          "fees_cny": 73202.01270980007,
+          "slippage_cny": 94368.8700000003,
+          "dividend_tax_reserve": 6660.20342,
+          "last_cash": 64650.780970198946,
+          "last_positions_value": 612511.0,
+          "last_receivables": 0.0,
+          "last_position_count": 47,
+          "failed_orders": 1544,
+          "stale_position_days": 0,
+          "annualized": {
+            "cagr": -0.1837031339347851,
+            "sharpe_cash_zero": -1.2389796478274726,
+            "active_ir": -2.2397921882144005
+          }
+        }
+      ],
+      "pooled_active": {
+        "n": 1457,
+        "mean": -0.0005820772961580965,
+        "se": 9.480484709506904e-05,
+        "p_one_sided": 0.9999999995867218,
+        "ci95": [
+          -0.0007678947964644318,
+          -0.00039625979585176116
+        ],
+        "lag": 10
+      },
+      "selection_permitted": false
+    }
+  },
+  "validation_outcome": "NO_FACTOR_PASSED",
+  "protocol_version": 2,
+  "historical_diagnostic_repair": "Suspended entry/exit quotes masked; first-run primary account returns preserved; see invalidated/v1"
+}

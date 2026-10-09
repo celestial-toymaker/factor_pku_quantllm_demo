@@ -1,0 +1,22 @@
+{
+  "recorded_date": "2026-10-09",
+  "historical_periods": "2008–2023 have extensive prior course/student exposure, including repeated selection and yearly diagnostics. Development/validation are retrospective comparisons, not pristine samples.",
+  "later_exposure": [
+    {
+      "owner": "prior_exposure_1",
+      "period": "2025",
+      "evidence": "Previously inspected material; identifying publication references omitted. Period and exposure facts are preserved below.",
+      "scope": "Saved negative final results inspected, not rerun"
+    },
+    {
+      "owner": "prior_exposure_2",
+      "period": "2026-01-01 through 2026-09-23",
+      "evidence": "Previously inspected material; identifying publication references omitted. Period and exposure facts are preserved below.",
+      "scope": "Metadata says retrieved 2026-09-24, last observation 2026-09-23; offsets audit explicitly says already viewed. This includes part of the requested September test."
+    }
+  ],
+  "final_window_independence": "A new anonymous BaoStock download is independent acquisition, not proof of an untouched sample. September 21–23 overlap inspected student study coverage. The seven-session test is a disclosed short historical check.",
+  "candidate_performance_before_protocol_freeze": false,
+  "final_prices_downloaded_before_finalist_freeze": false,
+  "publication_authorized": false
+}

@@ -1,0 +1,400 @@
+{
+  "stage": "history",
+  "created_utc": "2026-10-09T01:01:44.845454+00:00",
+  "download_complete": true,
+  "bars": 1295289,
+  "symbols": 806,
+  "first_date": "2017-01-03",
+  "last_date": "2023-12-29",
+  "duplicates": 0,
+  "invalid_ohlc": 0,
+  "unit_failures": 0,
+  "cached_member_rows_missing": 0,
+  "amount_relative_error_quantiles": {
+    "0.5": 1.0403308266132272e-10,
+    "0.99": 1.10889250845966e-08,
+    "1.0": 1.4414779956721486e-07
+  },
+  "corporate_actions": 3933,
+  "findings_count": 0,
+  "material_findings": [],
+  "warnings": [
+    {
+      "symbol": "000157.SZSE",
+      "date": "2019-08-05",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=5.95; supplied_preclose=5.72; explained_reference=5.7; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "000157.SZSE",
+      "date": "2023-07-21",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=6.98; supplied_preclose=6.68; explained_reference=6.66; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "000333.SZSE",
+      "date": "2021-06-02",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=80.17; supplied_preclose=78.6; explained_reference=78.569415; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "000333.SZSE",
+      "date": "2022-06-02",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=54.27; supplied_preclose=52.6; explained_reference=52.569106000000005; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "000333.SZSE",
+      "date": "2023-06-01",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=51.33; supplied_preclose=48.88; explained_reference=48.83; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "000538.SZSE",
+      "date": "2021-06-07",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=127.27; supplied_preclose=123.42; explained_reference=123.36999999999999; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "000651.SZSE",
+      "date": "2020-11-12",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=65.81; supplied_preclose=64.83; explained_reference=64.81; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "000651.SZSE",
+      "date": "2021-08-23",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=46.1; supplied_preclose=43.32; explained_reference=43.1; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "000651.SZSE",
+      "date": "2022-04-08",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=33.08; supplied_preclose=32.14; explained_reference=32.08; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "000651.SZSE",
+      "date": "2022-08-05",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=32.16; supplied_preclose=30.19; explained_reference=30.159999999999997; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "000728.SZSE",
+      "date": "2020-10-22",
+      "kind": "verified_rights_lapse_policy",
+      "detail": "previous_close=10.52; supplied_preclose=9.36; explained_reference=10.52; disclosed_cash_bonus=False"
+    },
+    {
+      "symbol": "001979.SZSE",
+      "date": "2019-07-11",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=21.74; supplied_preclose=20.97; explained_reference=20.950176; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "001979.SZSE",
+      "date": "2020-07-23",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=18.88; supplied_preclose=18.07; explained_reference=18.05; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "002001.SZSE",
+      "date": "2022-05-25",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=25.28; supplied_preclose=20.51; explained_reference=20.483333333333334; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "002050.SZSE",
+      "date": "2019-05-10",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=14.18; supplied_preclose=10.73; explained_reference=10.715384615384615; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "002050.SZSE",
+      "date": "2020-06-03",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=22.72; supplied_preclose=17.38; explained_reference=17.361538461538462; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "002142.SZSE",
+      "date": "2021-12-02",
+      "kind": "verified_rights_lapse_policy",
+      "detail": "previous_close=38.88; supplied_preclose=37.17; explained_reference=38.88; disclosed_cash_bonus=False"
+    },
+    {
+      "symbol": "002202.SZSE",
+      "date": "2019-03-29",
+      "kind": "verified_rights_lapse_policy",
+      "detail": "previous_close=16.05; supplied_preclose=14.62; explained_reference=16.05; disclosed_cash_bonus=False"
+    },
+    {
+      "symbol": "002304.SZSE",
+      "date": "2021-07-09",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=198.18; supplied_preclose=195.2; explained_reference=195.18; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "002410.SZSE",
+      "date": "2023-05-15",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=52.44; supplied_preclose=37.23; explained_reference=37.17142857142857; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "002466.SZSE",
+      "date": "2019-12-26",
+      "kind": "verified_rights_lapse_policy",
+      "detail": "previous_close=29.06; supplied_preclose=24.45; explained_reference=29.06; disclosed_cash_bonus=False"
+    },
+    {
+      "symbol": "002568.SZSE",
+      "date": "2022-06-16",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=39.03; supplied_preclose=27.56; explained_reference=27.521428571428572; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "002602.SZSE",
+      "date": "2019-06-06",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=17.59; supplied_preclose=11.03; explained_reference=10.931249999999999; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "002602.SZSE",
+      "date": "2020-07-13",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=17.12; supplied_preclose=14.3; explained_reference=14.266666666666667; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "002624.SZSE",
+      "date": "2022-05-26",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=14.54; supplied_preclose=13.36; explained_reference=13.34; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "002831.SZSE",
+      "date": "2019-05-13",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=50.78; supplied_preclose=22.89; explained_reference=22.80909090909091; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "300015.SZSE",
+      "date": "2021-06-24",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=85.83; supplied_preclose=66.08; explained_reference=85.68171099999999; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "300751.SZSE",
+      "date": "2023-05-25",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=277.29; supplied_preclose=172.56; explained_reference=172.36875; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "300888.SZSE",
+      "date": "2023-06-02",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=59.48; supplied_preclose=41.34; explained_reference=41.12857142857143; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "600030.SSE",
+      "date": "2022-01-27",
+      "kind": "verified_rights_lapse_policy",
+      "detail": "previous_close=25.7; supplied_preclose=24.23; explained_reference=25.7; disclosed_cash_bonus=False"
+    },
+    {
+      "symbol": "600104.SSE",
+      "date": "2022-07-15",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=17.06; supplied_preclose=16.39; explained_reference=16.378; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "600188.SSE",
+      "date": "2021-07-23",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=18.0; supplied_preclose=17.0; explained_reference=17.4; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "600188.SSE",
+      "date": "2022-07-14",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=35.94; supplied_preclose=33.94; explained_reference=34.339999999999996; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "600188.SSE",
+      "date": "2023-07-17",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=33.87; supplied_preclose=19.71; explained_reference=20.53333333333333; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "600219.SSE",
+      "date": "2018-11-01",
+      "kind": "verified_rights_lapse_policy",
+      "detail": "previous_close=2.65; supplied_preclose=2.43; explained_reference=2.65; disclosed_cash_bonus=False"
+    },
+    {
+      "symbol": "600256.SSE",
+      "date": "2018-03-28",
+      "kind": "verified_rights_lapse_policy",
+      "detail": "previous_close=4.19; supplied_preclose=3.81; explained_reference=4.19; disclosed_cash_bonus=False"
+    },
+    {
+      "symbol": "600346.SSE",
+      "date": "2019-06-27",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=16.85; supplied_preclose=11.91; explained_reference=11.821428571428573; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "600600.SSE",
+      "date": "2023-07-14",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=104.51; supplied_preclose=102.71; explained_reference=103.21000000000001; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "600732.SSE",
+      "date": "2023-06-16",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=40.39; supplied_preclose=28.5; explained_reference=28.457142857142863; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "600900.SSE",
+      "date": "2023-07-21",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=22.4; supplied_preclose=21.58; explained_reference=21.546699999999998; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "600919.SSE",
+      "date": "2020-12-17",
+      "kind": "verified_rights_lapse_policy",
+      "detail": "previous_close=5.93; supplied_preclose=5.62; explained_reference=5.93; disclosed_cash_bonus=False"
+    },
+    {
+      "symbol": "600958.SSE",
+      "date": "2022-04-29",
+      "kind": "verified_rights_lapse_policy",
+      "detail": "previous_close=9.22; supplied_preclose=9.05; explained_reference=9.22; disclosed_cash_bonus=False"
+    },
+    {
+      "symbol": "600989.SSE",
+      "date": "2021-05-20",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=15.23; supplied_preclose=14.95; explained_reference=14.90909; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "600989.SSE",
+      "date": "2022-05-12",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=14.2; supplied_preclose=13.92; explained_reference=13.9352; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "600989.SSE",
+      "date": "2022-12-27",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=12.39; supplied_preclose=12.25; explained_reference=12.2684; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "600999.SSE",
+      "date": "2020-07-20",
+      "kind": "verified_rights_lapse_policy",
+      "detail": "previous_close=28.59; supplied_preclose=23.71; explained_reference=28.59; disclosed_cash_bonus=False"
+    },
+    {
+      "symbol": "601012.SSE",
+      "date": "2019-04-17",
+      "kind": "verified_rights_lapse_policy",
+      "detail": "previous_close=27.09; supplied_preclose=21.91; explained_reference=27.09; disclosed_cash_bonus=False"
+    },
+    {
+      "symbol": "601108.SSE",
+      "date": "2022-04-12",
+      "kind": "verified_rights_lapse_policy",
+      "detail": "previous_close=8.48; supplied_preclose=8.09; explained_reference=8.48; disclosed_cash_bonus=False"
+    },
+    {
+      "symbol": "601162.SSE",
+      "date": "2020-03-19",
+      "kind": "verified_rights_lapse_policy",
+      "detail": "previous_close=7.15; supplied_preclose=6.33; explained_reference=7.15; disclosed_cash_bonus=False"
+    },
+    {
+      "symbol": "601225.SSE",
+      "date": "2021-07-09",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=10.97; supplied_preclose=10.19; explained_reference=10.17; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "601236.SSE",
+      "date": "2021-08-04",
+      "kind": "verified_rights_lapse_policy",
+      "detail": "previous_close=13.36; supplied_preclose=11.97; explained_reference=13.36; disclosed_cash_bonus=False"
+    },
+    {
+      "symbol": "601318.SSE",
+      "date": "2018-06-07",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=63.81; supplied_preclose=62.61; explained_reference=62.81; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "601318.SSE",
+      "date": "2023-06-14",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=49.63; supplied_preclose=48.15; explained_reference=48.13; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "601377.SSE",
+      "date": "2022-08-25",
+      "kind": "verified_rights_lapse_policy",
+      "detail": "previous_close=6.31; supplied_preclose=6.05; explained_reference=6.31; disclosed_cash_bonus=False"
+    },
+    {
+      "symbol": "601555.SSE",
+      "date": "2020-03-23",
+      "kind": "verified_rights_lapse_policy",
+      "detail": "previous_close=9.21; supplied_preclose=8.65; explained_reference=9.21; disclosed_cash_bonus=False"
+    },
+    {
+      "symbol": "601555.SSE",
+      "date": "2021-12-23",
+      "kind": "verified_rights_lapse_policy",
+      "detail": "previous_close=8.87; supplied_preclose=8.48; explained_reference=8.87; disclosed_cash_bonus=False"
+    },
+    {
+      "symbol": "601601.SSE",
+      "date": "2021-06-30",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=30.07; supplied_preclose=28.77; explained_reference=28.87; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "601808.SSE",
+      "date": "2022-06-17",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=15.25; supplied_preclose=15.1; explained_reference=15.23; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "601916.SSE",
+      "date": "2023-06-27",
+      "kind": "verified_rights_lapse_policy",
+      "detail": "previous_close=2.74; supplied_preclose=2.57; explained_reference=2.74; disclosed_cash_bonus=False"
+    },
+    {
+      "symbol": "603858.SSE",
+      "date": "2019-08-19",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=27.06; supplied_preclose=19.78; explained_reference=19.57384615384615; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "603858.SSE",
+      "date": "2020-07-20",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=31.53; supplied_preclose=29.97; explained_reference=29.916; disclosed_cash_bonus=True"
+    },
+    {
+      "symbol": "688065.SSE",
+      "date": "2022-07-20",
+      "kind": "unreconciled_ex_reference",
+      "detail": "previous_close=105.77; supplied_preclose=75.25; explained_reference=75.22857142857143; disclosed_cash_bonus=True"
+    }
+  ],
+  "integrity_pass": true,
+  "fingerprints_sha256": "2e1ac44fcdb8142e24e00b106d6bba35325a591902a7a172cea55e32c298fdb0",
+  "raw_prices": "BaoStock adjustflag=3; CNY per share; volume shares; amount CNY",
+  "redistribution": "Unverified: raw inputs withheld from release; anonymous noncommercial research access only",
+  "final_outcomes_read": false
+}

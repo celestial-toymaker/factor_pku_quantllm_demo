@@ -1,0 +1,29 @@
+{
+  "run_id": "verify-reconcile-01",
+  "started_utc": "2026-10-09T05:11:09.645150+00:00",
+  "finished_utc": "2026-10-09T05:11:10.435857+00:00",
+  "cwd": "$WORK",
+  "argv": [
+    "$WORK/release-env/bin/ctp-assignment",
+    "verify",
+    "$WORK/logs/simnow-reconcile-01.json"
+  ],
+  "exit_code": 0,
+  "source_sha256": {
+    "projects/ctp_assignment/scripts/build_native.py": "26db61f8b60224ec18ef92495e243259c8d0e28531e2fb1ce6e2c408c120494a",
+    "projects/ctp_assignment/scripts/fetch_sources.py": "4829219d7f9862f1f895885537e9967b733023f1420147e242ecd7ed207c417a",
+    "projects/ctp_assignment/scripts/query_receipts.py": "0868b213be2573f73c97b35f1482055fab687fd7158eb4067f6246006a62f32e",
+    "projects/ctp_assignment/src/ctp_assignment/__init__.py": "19e0b94a150b336c106356a85be5b7b136c7f72b67e6948dad7121370865b61f",
+    "projects/ctp_assignment/src/ctp_assignment/cli.py": "824f368f5ca84c022e79993494268e32bb461f46cd050d6c99cd11c0d6e1e0cf",
+    "projects/ctp_assignment/src/ctp_assignment/core.py": "51f6b83eb5a7a3a00a871c0e42c73c7816262d5655bf2c750b0d020cfbbbcf89",
+    "projects/ctp_assignment/src/ctp_assignment/market.py": "c81f3012bd2ebcbf3a7a365240a3a34da92c6d764778ab2ef2f3468d08b6cc7d",
+    "projects/ctp_assignment/src/ctp_assignment/native.py": "932bc220f950c098f91580bf667e8548c05d3c77cf3622523a471d0de79f327a",
+    "projects/ctp_assignment/src/ctp_assignment/runner.py": "9c46dc8945f061996ea9e1723210ce078d0d7c757a6c3da316510e8d4d316bae",
+    "projects/ctp_assignment/src/ctp_assignment/security.py": "d70f43f5e247852dd71d5d662daeede360eda11d336b7241845dd7cd09bed333",
+    "projects/ctp_assignment/tests/test_adapter.py": "41996ea0a122b9eb24108d8eba01b23af6a3ef0d0a0dd49c5d85455767ed36da",
+    "projects/ctp_assignment/tests/test_lifecycle.py": "8d25a34503059c24424f9f3e1c269b64339a1cbb21858f2ec892dd9cb953afd9",
+    "projects/ctp_assignment/tests/test_market.py": "4d2305c524c40be19a22059947e8c1f149f603627555e69c063cae9de0aad0f7",
+    "projects/ctp_assignment/tests/test_runner.py": "114d3432ac3fb9bcb1482e5a937501060d6b8b9a6e38c049251ff29b1ddd2d68"
+  },
+  "raw_output": "private; excluded from publication"
+}

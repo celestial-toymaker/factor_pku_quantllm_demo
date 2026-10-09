@@ -1,0 +1,20 @@
+{
+  "mode": "SIMNOW",
+  "orders_sent": 0,
+  "status": "BLOCKED",
+  "reason": "CTP_REQUEST_TIMEOUT",
+  "last_completed_or_pending_stage": "MD_reqUserLogin",
+  "callback_trace": [
+    {
+      "api": "MD",
+      "event": "onFrontConnected"
+    },
+    {
+      "api": "MD",
+      "event": "onRspUserLogin",
+      "request_id": 0,
+      "last": true,
+      "error_code": 0
+    }
+  ]
+}

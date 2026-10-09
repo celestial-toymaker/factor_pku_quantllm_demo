@@ -1,0 +1,94 @@
+{
+  "captured_on": "2026-10-09",
+  "sources": [
+    {
+      "repository": "vnpy/vnpy",
+      "commit": "c6e231caf32b7fc97e6459817fff66458cf7e7c4",
+      "path": "vnpy/event/engine.py",
+      "sha256": "570058908186cbe80ba3407a5682bfb6748cea3242ce94f63fe8b15a0ea7cdc2",
+      "url": "https://github.com/vnpy/vnpy/blob/c6e231caf32b7fc97e6459817fff66458cf7e7c4/vnpy/event/engine.py"
+    },
+    {
+      "repository": "vnpy/vnpy",
+      "commit": "c6e231caf32b7fc97e6459817fff66458cf7e7c4",
+      "path": "vnpy/trader/engine.py",
+      "sha256": "099fcf893d9c829561df48fa8b5662d40798d3f4e8cc236760169553b874deac",
+      "url": "https://github.com/vnpy/vnpy/blob/c6e231caf32b7fc97e6459817fff66458cf7e7c4/vnpy/trader/engine.py"
+    },
+    {
+      "repository": "vnpy/vnpy",
+      "commit": "c6e231caf32b7fc97e6459817fff66458cf7e7c4",
+      "path": "vnpy/trader/object.py",
+      "sha256": "8647fff38edbf4ab3e42e4310d7af9fb76c7cc87078c17eb076199c560e4fb7f",
+      "url": "https://github.com/vnpy/vnpy/blob/c6e231caf32b7fc97e6459817fff66458cf7e7c4/vnpy/trader/object.py"
+    },
+    {
+      "repository": "vnpy/vnpy",
+      "commit": "c6e231caf32b7fc97e6459817fff66458cf7e7c4",
+      "path": "vnpy/trader/gateway.py",
+      "sha256": "6b2821d7c9d35f51c0266aeed9314217f207cf026a173c7f8c3458244a24d0d0",
+      "url": "https://github.com/vnpy/vnpy/blob/c6e231caf32b7fc97e6459817fff66458cf7e7c4/vnpy/trader/gateway.py"
+    },
+    {
+      "repository": "vnpy/vnpy",
+      "commit": "c6e231caf32b7fc97e6459817fff66458cf7e7c4",
+      "path": "vnpy/trader/converter.py",
+      "sha256": "c5e263152b622c988b2552d965e1c948bcc46ad2bb58dea008300259b4cc33d6",
+      "url": "https://github.com/vnpy/vnpy/blob/c6e231caf32b7fc97e6459817fff66458cf7e7c4/vnpy/trader/converter.py"
+    },
+    {
+      "repository": "vnpy/vnpy_ctp",
+      "commit": "1be9bfb5292208e5c258cc769c90be4abe83f9a9",
+      "path": "vnpy_ctp/gateway/ctp_gateway.py",
+      "sha256": "7064f5782c6c57cb917e9e3b069f174d8968c384480e03f9406d4b450b861a80",
+      "url": "https://github.com/vnpy/vnpy_ctp/blob/1be9bfb5292208e5c258cc769c90be4abe83f9a9/vnpy_ctp/gateway/ctp_gateway.py"
+    },
+    {
+      "repository": "vnpy/vnpy_ctp",
+      "commit": "1be9bfb5292208e5c258cc769c90be4abe83f9a9",
+      "path": "vnpy_ctp/api/vnctp/vnctp.h",
+      "sha256": "3aafacd727064e6e110bef94ca37b5aef49709c5c8629477d622358f3d87dad7",
+      "url": "https://github.com/vnpy/vnpy_ctp/blob/1be9bfb5292208e5c258cc769c90be4abe83f9a9/vnpy_ctp/api/vnctp/vnctp.h"
+    },
+    {
+      "repository": "vnpy/vnpy_ctp",
+      "commit": "1be9bfb5292208e5c258cc769c90be4abe83f9a9",
+      "path": "vnpy_ctp/api/vnctp/vnctpmd/vnctpmd.cpp",
+      "sha256": "d8641a540e210cb57a30db06f218b74ddf66738811f8cb311cef59805f1e0e3d",
+      "url": "https://github.com/vnpy/vnpy_ctp/blob/1be9bfb5292208e5c258cc769c90be4abe83f9a9/vnpy_ctp/api/vnctp/vnctpmd/vnctpmd.cpp"
+    },
+    {
+      "repository": "vnpy/vnpy_ctp",
+      "commit": "1be9bfb5292208e5c258cc769c90be4abe83f9a9",
+      "path": "vnpy_ctp/api/vnctp/vnctptd/vnctptd.cpp",
+      "sha256": "cc1d80b613c7c19b029f8367be69a28950e298b35178d17982e559f1f1cb6ac2",
+      "url": "https://github.com/vnpy/vnpy_ctp/blob/1be9bfb5292208e5c258cc769c90be4abe83f9a9/vnpy_ctp/api/vnctp/vnctptd/vnctptd.cpp"
+    },
+    {
+      "repository": "vnpy/vnpy_ctastrategy",
+      "commit": "7a8768de9784dda35a7b261a7ade1dbfbff50919",
+      "path": "vnpy_ctastrategy/engine.py",
+      "sha256": "f4d70334efd0a8c748e9ebd02c8a0273c57ec38a85c54cd86a1d2132e4835d56",
+      "url": "https://github.com/vnpy/vnpy_ctastrategy/blob/7a8768de9784dda35a7b261a7ade1dbfbff50919/vnpy_ctastrategy/engine.py"
+    },
+    {
+      "repository": "vnpy/vnpy_ctastrategy",
+      "commit": "7a8768de9784dda35a7b261a7ade1dbfbff50919",
+      "path": "vnpy_ctastrategy/template.py",
+      "sha256": "6fd1d64133ccde02a527adc4a0865c5cf96defa035ae254e18f2c6242e81737e",
+      "url": "https://github.com/vnpy/vnpy_ctastrategy/blob/7a8768de9784dda35a7b261a7ade1dbfbff50919/vnpy_ctastrategy/template.py"
+    },
+    {
+      "repository": "vnpy/vnpy_ctastrategy",
+      "commit": "7a8768de9784dda35a7b261a7ade1dbfbff50919",
+      "path": "vnpy_ctastrategy/backtesting.py",
+      "sha256": "e8743c2310777f91eba121557ebac1036cd5843afbbd7cdeb54dc6ed8dff155e",
+      "url": "https://github.com/vnpy/vnpy_ctastrategy/blob/7a8768de9784dda35a7b261a7ade1dbfbff50919/vnpy_ctastrategy/backtesting.py"
+    }
+  ],
+  "archive_sha256": {
+    "vnpy": "1f123301bfc04170894c78e2df93cb20bb6c53bf1cc17dbef94340627f0812cc",
+    "vnpy_ctp": "0225d2523f0b57529bf3b26df1b7dce8d79235096ceb2dd509a465241d41fad6",
+    "vnpy_ctastrategy": "b3aca4f20a33abe3be34c3041044d2da0b9343c27bb18f092cd41df22b11c563"
+  }
+}

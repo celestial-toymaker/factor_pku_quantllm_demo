@@ -1,0 +1,186 @@
+{
+  "mode": "SIMNOW",
+  "orders_sent": 0,
+  "status": "QUOTES_RECEIVED",
+  "login": "PASS",
+  "trading_day": "20261009",
+  "contract_queries": {
+    "rb2701": {
+      "returned_rows": 33,
+      "exact_match": true
+    },
+    "m2701": {
+      "returned_rows": 47,
+      "exact_match": true
+    },
+    "al2612": {
+      "returned_rows": 103,
+      "exact_match": true
+    }
+  },
+  "ticks": {
+    "rb2701": 1,
+    "m2701": 1,
+    "al2612": 1
+  },
+  "last_quotes": {
+    "rb2701": {
+      "instrument": "rb2701",
+      "last": 3079.0,
+      "bid": 3079.0,
+      "ask": 3080.0,
+      "fresh": false,
+      "tick": 1.0
+    },
+    "m2701": {
+      "instrument": "m2701",
+      "last": 3392.0,
+      "bid": 3392.0,
+      "ask": 3393.0,
+      "fresh": false,
+      "tick": 1.0
+    },
+    "al2612": {
+      "instrument": "al2612",
+      "last": 23430.0,
+      "bid": 23425.0,
+      "ask": 23430.0,
+      "fresh": false,
+      "tick": 5.0
+    }
+  },
+  "subscription_callbacks": 3,
+  "all_last_quotes_fresh": false,
+  "last_completed_or_pending_stage": "TD_reqQryInstrument",
+  "callback_trace": [
+    {
+      "api": "MD",
+      "event": "onFrontConnected",
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRspUserLogin",
+      "request_id": 0,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onFrontConnected",
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspAuthenticate",
+      "request_id": 2,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspUserLogin",
+      "request_id": 3,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspSettlementInfoConfirm",
+      "request_id": 4,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInstrument",
+      "request_id": 5,
+      "last": false,
+      "error_code": 0,
+      "count": 32
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInstrument",
+      "request_id": 5,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInstrument",
+      "request_id": 6,
+      "last": false,
+      "error_code": 0,
+      "count": 46
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInstrument",
+      "request_id": 6,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInstrument",
+      "request_id": 7,
+      "last": false,
+      "error_code": 0,
+      "count": 102
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInstrument",
+      "request_id": 7,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRspSubMarketData",
+      "request_id": 0,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRtnDepthMarketData",
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRspSubMarketData",
+      "request_id": 0,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRtnDepthMarketData",
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRspSubMarketData",
+      "request_id": 0,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRtnDepthMarketData",
+      "count": 1
+    }
+  ]
+}

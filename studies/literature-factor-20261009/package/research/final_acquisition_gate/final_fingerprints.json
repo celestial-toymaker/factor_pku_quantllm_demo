@@ -1,0 +1,4532 @@
+[
+  {
+    "path": "private/downloads/final/000001.SZSE/adjustments.csv",
+    "sha256": "a2264e8524babe416ef83d5477f0ce42244f5c5e543853260320aadfc9774a2a",
+    "bytes": 1201
+  },
+  {
+    "path": "private/downloads/final/000001.SZSE/bars.csv",
+    "sha256": "e3b9d0c7d270a0b79f261a7c379c60dacef82f9a5a5c8c37615966db33f22522",
+    "bytes": 497944
+  },
+  {
+    "path": "private/downloads/final/000001.SZSE/dividends_2026.csv",
+    "sha256": "5de1a9aaf3b68872b07f093e81987d8ef4a02052a8d858c1c323547026d6518e",
+    "bytes": 541
+  },
+  {
+    "path": "private/downloads/final/000002.SZSE/adjustments.csv",
+    "sha256": "fd2928def8a7cff6aac4b57aa1ef292f45da64045d8f28c625878b7c4871b81c",
+    "bytes": 1143
+  },
+  {
+    "path": "private/downloads/final/000002.SZSE/bars.csv",
+    "sha256": "a5b021031334189a6f08d57e38a3675037ecf26c9ec745a1fb81f2fcb15e94cc",
+    "bytes": 489967
+  },
+  {
+    "path": "private/downloads/final/000002.SZSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/000063.SZSE/adjustments.csv",
+    "sha256": "3d61474157201d03564550f183df54a44058f4f32f2c2ce426576c780b3182b5",
+    "bytes": 813
+  },
+  {
+    "path": "private/downloads/final/000063.SZSE/bars.csv",
+    "sha256": "49fcf290be01f6d4e9432d546e07a98a4a40ca39f9ce4d1580eae661680c3b23",
+    "bytes": 499188
+  },
+  {
+    "path": "private/downloads/final/000063.SZSE/dividends_2026.csv",
+    "sha256": "f26fc832393c8f4e49d2be10157bcc568931066a96b3ab59967eeadfe422f6f2",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/000100.SZSE/adjustments.csv",
+    "sha256": "553d3a23c306546f939124324b4396445857309a9b11a005fda1792d9f49f9b2",
+    "bytes": 837
+  },
+  {
+    "path": "private/downloads/final/000100.SZSE/bars.csv",
+    "sha256": "a00e2c52e9afadcfe5b532a8f4e9809a4274353981d8a962d075cc9db46c34db",
+    "bytes": 474751
+  },
+  {
+    "path": "private/downloads/final/000100.SZSE/dividends_2026.csv",
+    "sha256": "d9207ea13799113d8eb848aad5bb6e02d165c66aed8ab0995368c2aec059fa1d",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/000157.SZSE/adjustments.csv",
+    "sha256": "0c20680ca91035e68f40c3c01999c1a0e28fb49df9a91593fee1ba130c5bd15d",
+    "bytes": 1169
+  },
+  {
+    "path": "private/downloads/final/000157.SZSE/bars.csv",
+    "sha256": "dc14a20feddaa690ebde68007e34f83efec85aa5b9401fbc45c17d1096110112",
+    "bytes": 480324
+  },
+  {
+    "path": "private/downloads/final/000157.SZSE/dividends_2026.csv",
+    "sha256": "ffcd6c65fcbc565cfe68a14169d0d5017b38e9f13b8f5a48d73844f399c508d3",
+    "bytes": 529
+  },
+  {
+    "path": "private/downloads/final/000166.SZSE/adjustments.csv",
+    "sha256": "8fc2b37165996fda30e5c01721bd1b946e8f5b348e304666981f9feb138d6ed8",
+    "bytes": 789
+  },
+  {
+    "path": "private/downloads/final/000166.SZSE/bars.csv",
+    "sha256": "7e476859f9cb8198b91cc50a8402589fe027ac8b2e5bafd3b960cb5c46f3b5ff",
+    "bytes": 297675
+  },
+  {
+    "path": "private/downloads/final/000166.SZSE/dividends_2026.csv",
+    "sha256": "fbda1c720dde53aaf27ff200b621fdba82c5c30531d3444b6d5b53f9f42a3ea8",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/000301.SZSE/adjustments.csv",
+    "sha256": "5d187617af22b7b2360c0f613bf5f8d1e0ac2495d3340c425cc09e652edd1605",
+    "bytes": 789
+  },
+  {
+    "path": "private/downloads/final/000301.SZSE/bars.csv",
+    "sha256": "6b0ac71ed9680ca3e47bf3ed08febd505e5289afc593f130265f57560d5375ff",
+    "bytes": 472857
+  },
+  {
+    "path": "private/downloads/final/000301.SZSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/000333.SZSE/adjustments.csv",
+    "sha256": "e2ab347a1aba36f095fc0de56aa18331648c7e826fe7e1bc8885b3fa297affb7",
+    "bytes": 837
+  },
+  {
+    "path": "private/downloads/final/000333.SZSE/bars.csv",
+    "sha256": "7c73073b38d03fdc1ac7f4128dc25ff532ff1c0fe558676a5b73aa9eda1f8c89",
+    "bytes": 347637
+  },
+  {
+    "path": "private/downloads/final/000333.SZSE/dividends_2026.csv",
+    "sha256": "d8a9c694db15509e04566c7b06e4d9a3fc93416dae53b3074a794ab91a26f069",
+    "bytes": 385
+  },
+  {
+    "path": "private/downloads/final/000338.SZSE/adjustments.csv",
+    "sha256": "f0aa25a05d3d8e58f4093e9d9ebdfb5da4069689fae62ba4136d82ed6590d950",
+    "bytes": 1787
+  },
+  {
+    "path": "private/downloads/final/000338.SZSE/bars.csv",
+    "sha256": "9fb0bc65507391f0a87dee6fea7bca3a73722f371cbf2793e6d7658b25f4a190",
+    "bytes": 494352
+  },
+  {
+    "path": "private/downloads/final/000338.SZSE/dividends_2026.csv",
+    "sha256": "463ede7009bc05d9c178c1b6c07ff678bae960cd8df1f37c9c61c499148679ef",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/000408.SZSE/adjustments.csv",
+    "sha256": "6b8b72036ba101fe66f614b68992ffea54958608f7e69c1ed624c562d39d14bd",
+    "bytes": 549
+  },
+  {
+    "path": "private/downloads/final/000408.SZSE/bars.csv",
+    "sha256": "c5177b1d42774b9acd881d6f3a62cd2235bac8f6de2d0a034cb20565cf09b34c",
+    "bytes": 474814
+  },
+  {
+    "path": "private/downloads/final/000408.SZSE/dividends_2026.csv",
+    "sha256": "7300c1915df7c7667a21891c7ecbeb9155a86c22de83369d6cb6ef631986304e",
+    "bytes": 527
+  },
+  {
+    "path": "private/downloads/final/000425.SZSE/adjustments.csv",
+    "sha256": "b3bd3f1f352e7ce8ca2946c6d256371cd0c59b169087b7b8d49f4ad6b7ed28ae",
+    "bytes": 1005
+  },
+  {
+    "path": "private/downloads/final/000425.SZSE/bars.csv",
+    "sha256": "2c0ee78085fcbe56e1a9865e906433d6604939b558b0f9f33cb06608655c21d2",
+    "bytes": 481550
+  },
+  {
+    "path": "private/downloads/final/000425.SZSE/dividends_2026.csv",
+    "sha256": "c1dc5cf4680981d74f3df03ef02d0139500383d2d8262ef0d48371e83ea42686",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/000538.SZSE/adjustments.csv",
+    "sha256": "d3dfe28b55bdbf68754bda681613c29732b782ba6d41561cecf6edb884cb3de1",
+    "bytes": 1207
+  },
+  {
+    "path": "private/downloads/final/000538.SZSE/bars.csv",
+    "sha256": "5a060270a945ba14040b97c651f92d62cd0f09b220ca469b2277a113d1fd17f8",
+    "bytes": 492784
+  },
+  {
+    "path": "private/downloads/final/000538.SZSE/dividends_2026.csv",
+    "sha256": "a63c0913fcd6cf947a0f84d579367ca5e0204b5ae490cc1b62015ea68ac52fa2",
+    "bytes": 399
+  },
+  {
+    "path": "private/downloads/final/000568.SZSE/adjustments.csv",
+    "sha256": "4c96a7c042459fd646eb3faf539f0bba3aa1b68dd8918f6c48965588c5dffdfe",
+    "bytes": 1118
+  },
+  {
+    "path": "private/downloads/final/000568.SZSE/bars.csv",
+    "sha256": "3fb7c7fc60b55385c3be2256e48a9893db622aa02aea6f548796b9de18612c79",
+    "bytes": 504198
+  },
+  {
+    "path": "private/downloads/final/000568.SZSE/dividends_2026.csv",
+    "sha256": "1f7b2d2f9e0e252e830d4b72b206e74cddaefeabedc129c20f0201cce4112112",
+    "bytes": 574
+  },
+  {
+    "path": "private/downloads/final/000596.SZSE/adjustments.csv",
+    "sha256": "95f168162da52e5400b08ae0adcf1339df3af49f65cf4152c7f5b24053cf4417",
+    "bytes": 981
+  },
+  {
+    "path": "private/downloads/final/000596.SZSE/bars.csv",
+    "sha256": "530ff2d47393dc2bffb1056dabf5e7119455634c03c5c9c1c502e2db2e6c567d",
+    "bytes": 500145
+  },
+  {
+    "path": "private/downloads/final/000596.SZSE/dividends_2026.csv",
+    "sha256": "e18c31b43a0cfa46b782c21edd463887c3a8d05bd00945ed019a384f1eb0f03f",
+    "bytes": 517
+  },
+  {
+    "path": "private/downloads/final/000617.SZSE/adjustments.csv",
+    "sha256": "d05e5128b49202e5457aab6aa9bfcfcacfdb9714d53e89a55102d1983fc4e87c",
+    "bytes": 789
+  },
+  {
+    "path": "private/downloads/final/000617.SZSE/bars.csv",
+    "sha256": "b56407d483645edd4d44fab133ca2cf2d40069ae223ee16cdd89c7ea4d96c60b",
+    "bytes": 478664
+  },
+  {
+    "path": "private/downloads/final/000617.SZSE/dividends_2026.csv",
+    "sha256": "4e87eac7cca9bdf53c5e20a73138599097d4100919f34165e3eac1ebf9548a07",
+    "bytes": 557
+  },
+  {
+    "path": "private/downloads/final/000625.SZSE/adjustments.csv",
+    "sha256": "d012a70ec10d20a674ededa6f627047c12ee8c63b0aeb92ce26af757e8f61078",
+    "bytes": 993
+  },
+  {
+    "path": "private/downloads/final/000625.SZSE/bars.csv",
+    "sha256": "a6ede1e22d61c6e6aef67746c09c293be331966633d779e1c038287edbef7b62",
+    "bytes": 488364
+  },
+  {
+    "path": "private/downloads/final/000625.SZSE/dividends_2026.csv",
+    "sha256": "58c13243a1d129375dcba31c798903bfe567cf2b531da1faa82638450572436c",
+    "bytes": 414
+  },
+  {
+    "path": "private/downloads/final/000630.SZSE/adjustments.csv",
+    "sha256": "5b03de28be797d4b4ea6b219bf6970539937414a545b6b3e2cc5d88d4c3c31ec",
+    "bytes": 1053
+  },
+  {
+    "path": "private/downloads/final/000630.SZSE/bars.csv",
+    "sha256": "6bf6e79965b878969140d15dd1a89c38cac2ea9dde24f8980b00fb37eaad4301",
+    "bytes": 480302
+  },
+  {
+    "path": "private/downloads/final/000630.SZSE/dividends_2026.csv",
+    "sha256": "1f10c778828d7cb6cec535c72c742d0075b5c8ed45fd2ae37a76dd9bebd164e6",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/000651.SZSE/adjustments.csv",
+    "sha256": "6f6689263ab4603e6bbdc44b31e97e329aa399d65702a43d38d2b9fb2cbf7b4a",
+    "bytes": 1407
+  },
+  {
+    "path": "private/downloads/final/000651.SZSE/bars.csv",
+    "sha256": "f30b17d674371d37a670015354e961f896c661d4570dd45d1ea34b57c04177ce",
+    "bytes": 497070
+  },
+  {
+    "path": "private/downloads/final/000651.SZSE/dividends_2026.csv",
+    "sha256": "7e03316f731c22e4ed1895b38d84ed97ea4de104ab1486e3db2e8cf0ba4a8231",
+    "bytes": 520
+  },
+  {
+    "path": "private/downloads/final/000657.SZSE/adjustments.csv",
+    "sha256": "4afc3faffd35888580e635bbdc2e0a568d5707b78edd6ebff8fd617c32eacb1b",
+    "bytes": 405
+  },
+  {
+    "path": "private/downloads/final/000657.SZSE/bars.csv",
+    "sha256": "3112192712843a16ab17740478ee38986639d07a2b14efcd69042de0278d07fe",
+    "bytes": 462123
+  },
+  {
+    "path": "private/downloads/final/000657.SZSE/dividends_2026.csv",
+    "sha256": "82540503c57bfeba8d8a7f1773d9eb540119038f7a563179c5a99c2271a4be8d",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/000708.SZSE/adjustments.csv",
+    "sha256": "597700936895dfe0663ee1accfe8f98696e0632696ff959f2032ea6fdba955a8",
+    "bytes": 1029
+  },
+  {
+    "path": "private/downloads/final/000708.SZSE/bars.csv",
+    "sha256": "0f8755a707a9a0d03c3a35c026878f857a08e8d3d44e13ff00b9cf7f92407a45",
+    "bytes": 483837
+  },
+  {
+    "path": "private/downloads/final/000708.SZSE/dividends_2026.csv",
+    "sha256": "cb303c12ca45efbc847f8334d35aaa5863ba469c41a46f0b476840935a4a47aa",
+    "bytes": 554
+  },
+  {
+    "path": "private/downloads/final/000725.SZSE/adjustments.csv",
+    "sha256": "81a993b76865d417e2a360a30ca36177a4d9396cf858c3456089ea0c3b925600",
+    "bytes": 693
+  },
+  {
+    "path": "private/downloads/final/000725.SZSE/bars.csv",
+    "sha256": "0c87d3476f002fac3676e69977bd7aca9cac412e487fb6a66574b3e37897d921",
+    "bytes": 481298
+  },
+  {
+    "path": "private/downloads/final/000725.SZSE/dividends_2026.csv",
+    "sha256": "a9e8a746c87061957d89d8d8c6661149c854b6eb656d498fb2c65ff9ba001030",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/000768.SZSE/adjustments.csv",
+    "sha256": "9eb73f38d1a345b398637bd09af6a9b373f2ef971318b56f9657575bce82fcec",
+    "bytes": 885
+  },
+  {
+    "path": "private/downloads/final/000768.SZSE/bars.csv",
+    "sha256": "3301942f32d264ba09ba728594224fb8fe44b34ae0726b5e5b2e09a8cb166e22",
+    "bytes": 494071
+  },
+  {
+    "path": "private/downloads/final/000768.SZSE/dividends_2026.csv",
+    "sha256": "09d775e212f14408a287115a10903edb151e716ed2fdb10647fc9aa6ef5e9182",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/000776.SZSE/adjustments.csv",
+    "sha256": "2981d2dc1d021edebd94a6d8077cda73facb6b2de0266e18d5ece58dea8b55b7",
+    "bytes": 981
+  },
+  {
+    "path": "private/downloads/final/000776.SZSE/bars.csv",
+    "sha256": "be28e5da98306d87a8f8a071031ad3d07913a6e85f980ff8c54afc105c8c0807",
+    "bytes": 487384
+  },
+  {
+    "path": "private/downloads/final/000776.SZSE/dividends_2026.csv",
+    "sha256": "33157b68d1a7457dcea23087bdab0956dc50529f2459a4a85ee53f94322cb870",
+    "bytes": 527
+  },
+  {
+    "path": "private/downloads/final/000792.SZSE/adjustments.csv",
+    "sha256": "15b7857369fe43978f42fd37012f3da75cfab886cc81af80e07235c658e98060",
+    "bytes": 501
+  },
+  {
+    "path": "private/downloads/final/000792.SZSE/bars.csv",
+    "sha256": "9da17e15f74f9dce0423df735af0ff0b45f99f48954db427e278440a9f95e482",
+    "bytes": 482024
+  },
+  {
+    "path": "private/downloads/final/000792.SZSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/000807.SZSE/adjustments.csv",
+    "sha256": "bcee0c21ee9b58f7cdc0c02887cfd2c557535c1e9a12ee2e7ead1a1374d5dc4f",
+    "bytes": 789
+  },
+  {
+    "path": "private/downloads/final/000807.SZSE/bars.csv",
+    "sha256": "77ba875390478205378d07b52036e3a093d43f940ef45e99b849cf968fab6703",
+    "bytes": 482025
+  },
+  {
+    "path": "private/downloads/final/000807.SZSE/dividends_2026.csv",
+    "sha256": "3dd8d6ace92063a4e124d65e32359ec574573fd1e89f40b29fab2ccb11bd62ca",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/000858.SZSE/adjustments.csv",
+    "sha256": "01a89d88704e69c1a0ec522563bba0948ae40412e5c02e996d5cc1c2e78cf8e7",
+    "bytes": 1118
+  },
+  {
+    "path": "private/downloads/final/000858.SZSE/bars.csv",
+    "sha256": "ebe83314c4b1411e958384843f970f5ee9e21b4f7617f99db816ee7f0eb2c0bf",
+    "bytes": 508425
+  },
+  {
+    "path": "private/downloads/final/000858.SZSE/dividends_2026.csv",
+    "sha256": "60809d2c927bc599972470de0c02c2d22f7e9cd25dbc3cf60be06e863b6bc903",
+    "bytes": 420
+  },
+  {
+    "path": "private/downloads/final/000895.SZSE/adjustments.csv",
+    "sha256": "2c15c113bd124f3270f0ff058fd4515f6daef636dcb75cb395e203f67656aaa6",
+    "bytes": 1405
+  },
+  {
+    "path": "private/downloads/final/000895.SZSE/bars.csv",
+    "sha256": "228010ce036e83244e92561870bd86f9ed7d3d9ccee72490b071be3fbecda2c5",
+    "bytes": 490769
+  },
+  {
+    "path": "private/downloads/final/000895.SZSE/dividends_2026.csv",
+    "sha256": "5fbb9c50e38cce3b5b04fc4185c39511603a0138ad97a0d86b5c367d4e994d00",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/000938.SZSE/adjustments.csv",
+    "sha256": "53f45658282f09b01392ec1e211b55e3913ef5a8e4d100c991628a44cb55c6b7",
+    "bytes": 885
+  },
+  {
+    "path": "private/downloads/final/000938.SZSE/bars.csv",
+    "sha256": "b71b43c6287c90d71be408a9b9909a493938272697b4b5331cae271e854cf8dd",
+    "bytes": 491498
+  },
+  {
+    "path": "private/downloads/final/000938.SZSE/dividends_2026.csv",
+    "sha256": "44de7b9c599612cf01b4fe1bde34f25ffc968962af1c49208471846402bf72f6",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/000963.SZSE/adjustments.csv",
+    "sha256": "55f218704d41825e44ebb70f9d5b262ce8eccf1729d3ab40af67cd8af016cb62",
+    "bytes": 933
+  },
+  {
+    "path": "private/downloads/final/000963.SZSE/bars.csv",
+    "sha256": "d2a77759c6b13db6131bcafa94b0147a8cc498c6416eb0b8a5f4d2771dd05a80",
+    "bytes": 492560
+  },
+  {
+    "path": "private/downloads/final/000963.SZSE/dividends_2026.csv",
+    "sha256": "d1c89a0423dbee62b6346b5417490342bd23585eeb760d622a7fcbf0114375ad",
+    "bytes": 545
+  },
+  {
+    "path": "private/downloads/final/000975.SZSE/adjustments.csv",
+    "sha256": "1841d9cfb47bc842801640cfe8bffbe463041e453254130ccd860d6a557cdf2a",
+    "bytes": 849
+  },
+  {
+    "path": "private/downloads/final/000975.SZSE/bars.csv",
+    "sha256": "2a9bd440797e2bed07c89a487d53ae3210db5fccf032d4fe4b5ba14fd4d93e50",
+    "bytes": 477704
+  },
+  {
+    "path": "private/downloads/final/000975.SZSE/dividends_2026.csv",
+    "sha256": "419789e7092bf31fcc479b21d7bb43f282489c0f655baca6dc1bb2a6c0eaff0f",
+    "bytes": 417
+  },
+  {
+    "path": "private/downloads/final/000977.SZSE/adjustments.csv",
+    "sha256": "2eadeec54cd68b9b924134137bffd9dce3a3090af6e5983ec9c46a3e0b380e64",
+    "bytes": 1029
+  },
+  {
+    "path": "private/downloads/final/000977.SZSE/bars.csv",
+    "sha256": "1ac1b8fee045bc38e23b091a0380333fb5ac75ff1b35b20eb60b833f37070381",
+    "bytes": 494084
+  },
+  {
+    "path": "private/downloads/final/000977.SZSE/dividends_2026.csv",
+    "sha256": "7bea949cf278bac15414d25d93dd60b7c13240cbb58767ef280ccdec2764df2b",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/000988.SZSE/adjustments.csv",
+    "sha256": "2dfd203b56319d73367c69393ccb85d3032c030c5a244288e4208d27891f59d7",
+    "bytes": 1029
+  },
+  {
+    "path": "private/downloads/final/000988.SZSE/bars.csv",
+    "sha256": "f993be3609677eddb700468ad1d39b9fc785ec34974505931200dfc3133f0af6",
+    "bytes": 494138
+  },
+  {
+    "path": "private/downloads/final/000988.SZSE/dividends_2026.csv",
+    "sha256": "ec3565689d0c9616d2cc71dae0e89c2f255420b07aacc59496921e9c9bcf450a",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/000999.SZSE/adjustments.csv",
+    "sha256": "22c50791d31edd11bd9fb263728f366be5ac770f930ba359f2fea011cca02185",
+    "bytes": 1029
+  },
+  {
+    "path": "private/downloads/final/000999.SZSE/bars.csv",
+    "sha256": "791b75df2f8359f03a09c5e6bac13685505a059ce6c7155d81c439dd65f229e9",
+    "bytes": 490051
+  },
+  {
+    "path": "private/downloads/final/000999.SZSE/dividends_2026.csv",
+    "sha256": "f95d121f38e21e3c010a88d4f80a87001e31e2815869d8545ab5cf487f961ba6",
+    "bytes": 551
+  },
+  {
+    "path": "private/downloads/final/001280.SZSE/adjustments.csv",
+    "sha256": "498144b1860fdcd08e3a7ef68d321ddd4e1c60c94b456784a93dcef9e7639c31",
+    "bytes": 165
+  },
+  {
+    "path": "private/downloads/final/001280.SZSE/bars.csv",
+    "sha256": "925162a17a7413ecbdd1380c2a7dab21dabd8f394a639a78f8af4ee585a04ae4",
+    "bytes": 22278
+  },
+  {
+    "path": "private/downloads/final/001280.SZSE/dividends_2026.csv",
+    "sha256": "999032b046622578ea98acdcd59225f4efa9365ac2cc2b6e0a9ea57aeade8808",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/001391.SZSE/adjustments.csv",
+    "sha256": "8d15aa1027130d58a2f225f4b58c1eeb23d503c206e60d5b6f26f909fb5b01df",
+    "bytes": 213
+  },
+  {
+    "path": "private/downloads/final/001391.SZSE/bars.csv",
+    "sha256": "51ced49c99bd2a61b9c3f97c337f1cebe42c44caf5375981679e8338f37a5b94",
+    "bytes": 44568
+  },
+  {
+    "path": "private/downloads/final/001391.SZSE/dividends_2026.csv",
+    "sha256": "e7d0008eb60ec78a9fdf4db189467e0dfc7153463bcb9eb1e5e7de1b20c5bb6c",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/001965.SZSE/adjustments.csv",
+    "sha256": "b64e68549da37a223894f234f91f843faa416337b0af2492270dcffba05cfd9b",
+    "bytes": 549
+  },
+  {
+    "path": "private/downloads/final/001965.SZSE/bars.csv",
+    "sha256": "17973b4f96656e716208b3577841e1b790bb577bcf6e69d784bdd1e7324c7cf0",
+    "bytes": 222397
+  },
+  {
+    "path": "private/downloads/final/001965.SZSE/dividends_2026.csv",
+    "sha256": "cc4bf6247d683cc4e8eb39c14d4d498aba802e6be0615f823d86b04e030b904b",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/001979.SZSE/adjustments.csv",
+    "sha256": "52a492ab3799a65e21581a5014fa44c9d9e22226509fcb23c2198cc6e7cbba88",
+    "bytes": 645
+  },
+  {
+    "path": "private/downloads/final/001979.SZSE/bars.csv",
+    "sha256": "82af43c36ece8e5f52a5b810c70977b3d60552916a063ab98a03a98e3cf5abae",
+    "bytes": 282921
+  },
+  {
+    "path": "private/downloads/final/001979.SZSE/dividends_2026.csv",
+    "sha256": "c2e71499edaa9c5ab8beee6e9f2a972765f17fc9fe41ff89a2b76fa3a5453874",
+    "bytes": 402
+  },
+  {
+    "path": "private/downloads/final/002001.SZSE/adjustments.csv",
+    "sha256": "bb46e19624b7050b67d0a6c17b7aba532fda131effdaf77387c83ec7daeb2412",
+    "bytes": 1203
+  },
+  {
+    "path": "private/downloads/final/002001.SZSE/bars.csv",
+    "sha256": "502397fa7715c8989778490cc14b3e1fb753bc95d41e69c22e409c0a4babb3c3",
+    "bytes": 496112
+  },
+  {
+    "path": "private/downloads/final/002001.SZSE/dividends_2026.csv",
+    "sha256": "883b047ac5d6b2f9ce9dce3fc4914130500a84b28c2c998c03a217f600d4c666",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/002027.SZSE/adjustments.csv",
+    "sha256": "7658983d8e113f12f4e5d57f0ddfc2d4ee236700cdaae5ef75e2c36570816a80",
+    "bytes": 909
+  },
+  {
+    "path": "private/downloads/final/002027.SZSE/bars.csv",
+    "sha256": "6400f5911bd6a133bd5c3865defec4cacf9b6d08159ec5511b2fb3d4f3199eea",
+    "bytes": 476215
+  },
+  {
+    "path": "private/downloads/final/002027.SZSE/dividends_2026.csv",
+    "sha256": "85744a55dbf51201f5574104df43d93663586bd19882646e4d3cf9149309db16",
+    "bytes": 545
+  },
+  {
+    "path": "private/downloads/final/002028.SZSE/adjustments.csv",
+    "sha256": "1812a2e8a12aadd80564576bbe94e99e5c052c01ae8249bc3e407e115e9f22a4",
+    "bytes": 1057
+  },
+  {
+    "path": "private/downloads/final/002028.SZSE/bars.csv",
+    "sha256": "df05fbd930365b452ae299d5155d58caac69a3f0c7d94b20ca6a9ff897e8a659",
+    "bytes": 495149
+  },
+  {
+    "path": "private/downloads/final/002028.SZSE/dividends_2026.csv",
+    "sha256": "fc789b8c9f7c93d60b41676224a13ec486cae6291d5b300caec5248199b5c2b1",
+    "bytes": 417
+  },
+  {
+    "path": "private/downloads/final/002049.SZSE/adjustments.csv",
+    "sha256": "ecbe6386780802c4f018a98227524608e1f1fdb6dec83ec08e402c2500471a67",
+    "bytes": 981
+  },
+  {
+    "path": "private/downloads/final/002049.SZSE/bars.csv",
+    "sha256": "d9d1f936c1e18c160523d181f23cb90d55dd897016a6aadddcf86340b11ade82",
+    "bytes": 490601
+  },
+  {
+    "path": "private/downloads/final/002049.SZSE/dividends_2026.csv",
+    "sha256": "05d09ee09a95943518fa79f5e12aa830c9cb4d83afd50fe54cce09e97bb47036",
+    "bytes": 417
+  },
+  {
+    "path": "private/downloads/final/002050.SZSE/adjustments.csv",
+    "sha256": "a880d9aa865004256175f95f7e4cdb886bdc98e8380b7657f08b6d8f4ed3ec8f",
+    "bytes": 1343
+  },
+  {
+    "path": "private/downloads/final/002050.SZSE/bars.csv",
+    "sha256": "097b44fdadbe5aeb75308a5d55b7e837c6f095da5c5410e3c36d36014256af7e",
+    "bytes": 490504
+  },
+  {
+    "path": "private/downloads/final/002050.SZSE/dividends_2026.csv",
+    "sha256": "7ee27403c00d1711107d6ec3e37cdaa38df1e3a58383bb29f6844a06c9f26036",
+    "bytes": 700
+  },
+  {
+    "path": "private/downloads/final/002074.SZSE/adjustments.csv",
+    "sha256": "d7c68cd197db6ece7e7d95e8e6cca7d8cfe6fc0b716e1caa9d37828aabf5fad2",
+    "bytes": 837
+  },
+  {
+    "path": "private/downloads/final/002074.SZSE/bars.csv",
+    "sha256": "32dc46706deb0b275f1d827179f0c87bc60e1facf147c7f906a10be125440138",
+    "bytes": 486376
+  },
+  {
+    "path": "private/downloads/final/002074.SZSE/dividends_2026.csv",
+    "sha256": "47ace621f3b2937257f3ff93607328602897ccab31abdabce50471233884fbd0",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/002142.SZSE/adjustments.csv",
+    "sha256": "60483950a243c48a9b67701ff96554ca1d0db0dea304a59c1b8c03269487253c",
+    "bytes": 1077
+  },
+  {
+    "path": "private/downloads/final/002142.SZSE/bars.csv",
+    "sha256": "aca915eb33ac17d49f3410415c681d67b4806bd1cd6add833fa52c2dbea7a4e1",
+    "bytes": 494463
+  },
+  {
+    "path": "private/downloads/final/002142.SZSE/dividends_2026.csv",
+    "sha256": "8b856e0eef2771a4b62d0e70cb7abf92085c57ebdcd47745063389390780a2b7",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/002179.SZSE/adjustments.csv",
+    "sha256": "a88b1779cb1a8f758d6f72945ae5711c69f5d031dea133ec3704867e1c0b2c42",
+    "bytes": 991
+  },
+  {
+    "path": "private/downloads/final/002179.SZSE/bars.csv",
+    "sha256": "544cf17a91c3b75ae1860017412abffc8ce23fa5e071a4bf3f2260f3c84ade40",
+    "bytes": 493789
+  },
+  {
+    "path": "private/downloads/final/002179.SZSE/dividends_2026.csv",
+    "sha256": "a16c130a5bb6b9d42abe34e3d83ce49a01dc4cf8f3a219cf78bb43c76af51c48",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/002202.SZSE/adjustments.csv",
+    "sha256": "28415628a00561513995eb2d879822b79ba0ba2fbbc96d233cfc50de5bc4a9f1",
+    "bytes": 1077
+  },
+  {
+    "path": "private/downloads/final/002202.SZSE/bars.csv",
+    "sha256": "f52be81a869fd1ace66d04359d11344457882db48efb7d2b2ed504c261ce6f18",
+    "bytes": 493223
+  },
+  {
+    "path": "private/downloads/final/002202.SZSE/dividends_2026.csv",
+    "sha256": "604aeb2f097d5cf2e891d6cf0e0fd4f294a4a6250e534a73efd1e59c25f9e7bb",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/002230.SZSE/adjustments.csv",
+    "sha256": "f169e045f0100bc25bdb6ebe87c207768a6797a045b2afcc13cd448d18fa2f48",
+    "bytes": 999
+  },
+  {
+    "path": "private/downloads/final/002230.SZSE/bars.csv",
+    "sha256": "c3c708ec8ac23f032a8bd5a7096e2850c9ea0720a6aaaa9bcaf27dbe28612696",
+    "bytes": 486990
+  },
+  {
+    "path": "private/downloads/final/002230.SZSE/dividends_2026.csv",
+    "sha256": "e642a786af2d9eda4e9e574868493c05669fb369fce97c6ad10289011c52e0cb",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/002236.SZSE/adjustments.csv",
+    "sha256": "745be12fe1a5872cff445b4c4da76dc9a33857b4506453d510a0b01121b3f512",
+    "bytes": 1259
+  },
+  {
+    "path": "private/downloads/final/002236.SZSE/bars.csv",
+    "sha256": "ad2957f2e88dd00a5d959f496ad1fe07e7ebb4339818ccdda9e20995d69e1dce",
+    "bytes": 486116
+  },
+  {
+    "path": "private/downloads/final/002236.SZSE/dividends_2026.csv",
+    "sha256": "45995162827b40389af557a530e6ed9d710fd1e537f308bf682c423471d863ca",
+    "bytes": 551
+  },
+  {
+    "path": "private/downloads/final/002241.SZSE/adjustments.csv",
+    "sha256": "1db2db6bb6d7de4032ce594cc75b7cac61b7e20761cf033e100b277578e7f8ac",
+    "bytes": 1209
+  },
+  {
+    "path": "private/downloads/final/002241.SZSE/bars.csv",
+    "sha256": "3692fc9b41e2f4177586424d8b969b4274ca5a8296163421780d89635001f6b5",
+    "bytes": 486651
+  },
+  {
+    "path": "private/downloads/final/002241.SZSE/dividends_2026.csv",
+    "sha256": "e006c4dd71dba1f09e1a1d67f6de699a1ba70029b8cf71caeae1e5b1a217b312",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/002304.SZSE/adjustments.csv",
+    "sha256": "46d67da35b7201be1ca169996c14a3f5f0dbce3d3fe8271899e4b1628a53505e",
+    "bytes": 981
+  },
+  {
+    "path": "private/downloads/final/002304.SZSE/bars.csv",
+    "sha256": "d954928139f16aea7f8cd6d2fde9b7d061488fa0854d95ddd0338e7ea1780988",
+    "bytes": 456620
+  },
+  {
+    "path": "private/downloads/final/002304.SZSE/dividends_2026.csv",
+    "sha256": "12827e230db9423e00cf1ed27a458e2e6854a95dbf51e0b1ba5e64fdd0c5c3b8",
+    "bytes": 393
+  },
+  {
+    "path": "private/downloads/final/002311.SZSE/adjustments.csv",
+    "sha256": "89349f7c6e6b46e7053e45cf232b8132acfb9f7aeb1fa0f3c7c0f6dd847cc748",
+    "bytes": 1125
+  },
+  {
+    "path": "private/downloads/final/002311.SZSE/bars.csv",
+    "sha256": "2148a9194c16aecee6a66027805daa3df38932154fcc3c75524931e32a56f9f7",
+    "bytes": 441964
+  },
+  {
+    "path": "private/downloads/final/002311.SZSE/dividends_2026.csv",
+    "sha256": "cfe82774931d1abb527d846550cadf7cf593f3ded4780ed668e4ab3c57844387",
+    "bytes": 539
+  },
+  {
+    "path": "private/downloads/final/002352.SZSE/adjustments.csv",
+    "sha256": "19f735d7eb80e9a40a5580a6e2a4384bfd5897c388578ce8a27116c6d00b680e",
+    "bytes": 1317
+  },
+  {
+    "path": "private/downloads/final/002352.SZSE/bars.csv",
+    "sha256": "ea59a316dc0b614bb85db5b15b06a8dc070e8bede4ad875da841938a5c4e374b",
+    "bytes": 437012
+  },
+  {
+    "path": "private/downloads/final/002352.SZSE/dividends_2026.csv",
+    "sha256": "80f689a56809c72cd41b26e9822446586a57c3b5058ee3cf204e653589f25fc4",
+    "bytes": 535
+  },
+  {
+    "path": "private/downloads/final/002353.SZSE/adjustments.csv",
+    "sha256": "27c59ab97afa33456db7b833ac0a9be94242bdbf041ee7bd75139783429865e6",
+    "bytes": 1077
+  },
+  {
+    "path": "private/downloads/final/002353.SZSE/bars.csv",
+    "sha256": "8ffc0d2fb32ab395ed921d97247ae4c41ed54bf65fa81ef2568ccec8f9f3f336",
+    "bytes": 438115
+  },
+  {
+    "path": "private/downloads/final/002353.SZSE/dividends_2026.csv",
+    "sha256": "13297d5f703d1441421f91b40917f8a01f2632db2a4779774863cd0f8deb0b6b",
+    "bytes": 527
+  },
+  {
+    "path": "private/downloads/final/002371.SZSE/adjustments.csv",
+    "sha256": "9a2acd22ea3aaed2632f2a3a8a5f86f5c959d605a615207c8fd4cdf9f414dbe8",
+    "bytes": 837
+  },
+  {
+    "path": "private/downloads/final/002371.SZSE/bars.csv",
+    "sha256": "c9c69ad677c3ccf1413c1f049d6f2229e4e2dc79e13762fd8e5a51dc535c4b97",
+    "bytes": 442966
+  },
+  {
+    "path": "private/downloads/final/002371.SZSE/dividends_2026.csv",
+    "sha256": "72978f9bd8dc9a8c4a7019563097e248e05042ef418cc21fd257066d292c313a",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/002384.SZSE/adjustments.csv",
+    "sha256": "7d1ef4a09dad5a9c4a8d9d531ae2bc93a821eabebe57ea77afb04f9053197af2",
+    "bytes": 789
+  },
+  {
+    "path": "private/downloads/final/002384.SZSE/bars.csv",
+    "sha256": "41739d6ff03de8fd5e731b9f548e44cf244be2199f12fb2f40af57d3ffa53f36",
+    "bytes": 431810
+  },
+  {
+    "path": "private/downloads/final/002384.SZSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/002415.SZSE/adjustments.csv",
+    "sha256": "9b912696837830f1788490dcc46356cb2e8fd6733bfe6faf15f22844bc2360e2",
+    "bytes": 1105
+  },
+  {
+    "path": "private/downloads/final/002415.SZSE/bars.csv",
+    "sha256": "31587a0ac232936709c0b63543b1471fb94bf5f8d0cbb1d0cfdba9f7bbf17dbb",
+    "bytes": 433886
+  },
+  {
+    "path": "private/downloads/final/002415.SZSE/dividends_2026.csv",
+    "sha256": "c7b12d1a8434357b559cf89ef3dda58c56a1144f49022fcd73a7f72cff568f5d",
+    "bytes": 545
+  },
+  {
+    "path": "private/downloads/final/002422.SZSE/adjustments.csv",
+    "sha256": "474a05584e329934c6851d2ff59158a079fdbd8ef79ffc2d7cc2786db99b03d5",
+    "bytes": 981
+  },
+  {
+    "path": "private/downloads/final/002422.SZSE/bars.csv",
+    "sha256": "cd83c8eab25954a830283f6e753273cccc62b7188d7ef74390a5ee4b5f75a6dc",
+    "bytes": 431518
+  },
+  {
+    "path": "private/downloads/final/002422.SZSE/dividends_2026.csv",
+    "sha256": "7eecd9251dd0bfe571752b9409362dbe8123345c62d6d7dc204516880de320c1",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/002460.SZSE/adjustments.csv",
+    "sha256": "3b52df137058d9c6df3f221298c00a2260ac75a1259b6337851b0c4390ac3932",
+    "bytes": 895
+  },
+  {
+    "path": "private/downloads/final/002460.SZSE/bars.csv",
+    "sha256": "57576c1264a65bdce40c0778132bde3619d6024f2f7045181a2b373af157eef5",
+    "bytes": 429442
+  },
+  {
+    "path": "private/downloads/final/002460.SZSE/dividends_2026.csv",
+    "sha256": "8ea65c7359a267e67ae11585f756290c2addcdb180a15781bcc3505959f66da8",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/002463.SZSE/adjustments.csv",
+    "sha256": "9baaea76435c5d57c4ff7f8b222a99afc61f5b4708aa32ae7fe77ef3fec3d8e1",
+    "bytes": 789
+  },
+  {
+    "path": "private/downloads/final/002463.SZSE/bars.csv",
+    "sha256": "09a0778b84b9f70b5fbb59b2e935dd58538b77f4ccf4d8f936239fa9c9ca1777",
+    "bytes": 418731
+  },
+  {
+    "path": "private/downloads/final/002463.SZSE/dividends_2026.csv",
+    "sha256": "f241c05ca03445c277d9232abc9ae3595011556dadb1bccfcfa2499d07ae8584",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/002466.SZSE/adjustments.csv",
+    "sha256": "7d83af4252227a34f24c7d657962947e252f1df431782ef8dd15e03c625a5eba",
+    "bytes": 693
+  },
+  {
+    "path": "private/downloads/final/002466.SZSE/bars.csv",
+    "sha256": "4643d2c9c001cfd68e7a3b4864e67ec8bdd91ab22b7ee9feed76a41f3a34733c",
+    "bytes": 425583
+  },
+  {
+    "path": "private/downloads/final/002466.SZSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/002475.SZSE/adjustments.csv",
+    "sha256": "06c6f1c0a43fbd0767380fb8c7775275d8fde1a9fde2e64f0d639bfe382f3926",
+    "bytes": 1006
+  },
+  {
+    "path": "private/downloads/final/002475.SZSE/bars.csv",
+    "sha256": "f60f90a79c88beda3eaecf0291150fbde96fdb08dfb82b87731bb0a2f85021f1",
+    "bytes": 425664
+  },
+  {
+    "path": "private/downloads/final/002475.SZSE/dividends_2026.csv",
+    "sha256": "dbf9110eb0225458c02e3ed6e68d4768d482cb92898704003433462900324b48",
+    "bytes": 599
+  },
+  {
+    "path": "private/downloads/final/002493.SZSE/adjustments.csv",
+    "sha256": "afd9c9585ba403ecdaab86a255b06f807c7968466e4244616a9bbf6c6582cb8d",
+    "bytes": 945
+  },
+  {
+    "path": "private/downloads/final/002493.SZSE/bars.csv",
+    "sha256": "33860dad6dc2cee10a076bafb5bb149448a2aee7e8c0a3072ded7fe97277e32c",
+    "bytes": 415850
+  },
+  {
+    "path": "private/downloads/final/002493.SZSE/dividends_2026.csv",
+    "sha256": "22c738e026f2c6f6ca913f4f15486f2bac476cba25b3cc2933112a9bac824b17",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/002532.SZSE/adjustments.csv",
+    "sha256": "9429efdc460c481fe74280258b3e0f4e7d4c55b76fd10fbce76d446f576181c6",
+    "bytes": 1077
+  },
+  {
+    "path": "private/downloads/final/002532.SZSE/bars.csv",
+    "sha256": "8acf2e2a9e7d8bf7b86742be98a3382cc78414e9f476bc8d8abf45d0c5d15f1a",
+    "bytes": 402631
+  },
+  {
+    "path": "private/downloads/final/002532.SZSE/dividends_2026.csv",
+    "sha256": "1b7e6e053ca99375c9c66948013c3cc3b51fd0d51a9f76bef2432d6cd3be2895",
+    "bytes": 684
+  },
+  {
+    "path": "private/downloads/final/002558.SZSE/adjustments.csv",
+    "sha256": "feb4e4fbd85f25c95489043e7daa44b3b9e22922154b3eff23af62334a74f13b",
+    "bytes": 1029
+  },
+  {
+    "path": "private/downloads/final/002558.SZSE/bars.csv",
+    "sha256": "1da832416bfee3644a20049b1ea7a7e9f70f9efc3b92c600fd4ee5b8de9dac23",
+    "bytes": 401161
+  },
+  {
+    "path": "private/downloads/final/002558.SZSE/dividends_2026.csv",
+    "sha256": "1aea5600e72fbf84b2c1a0c81c69de598d3148dd2fd1c94257d54922620e08e6",
+    "bytes": 537
+  },
+  {
+    "path": "private/downloads/final/002594.SZSE/adjustments.csv",
+    "sha256": "408a2b450df2b2413eb638722e7b9dd5f2550954a3535c2154238fb6aac83955",
+    "bytes": 693
+  },
+  {
+    "path": "private/downloads/final/002594.SZSE/bars.csv",
+    "sha256": "30e9cd7c98ee9e3ddeab44e14deb544806d7dcd8cf7fabc1f6ca2c9f84c33d0a",
+    "bytes": 412294
+  },
+  {
+    "path": "private/downloads/final/002594.SZSE/dividends_2026.csv",
+    "sha256": "d18afc67f32d76ec014e9b6a8eee531b5183eac11c83e709c45db10400505375",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/002600.SZSE/adjustments.csv",
+    "sha256": "5c640cf9532df7f4dcd84443351dd0b845d232a240a72a104790dfcc53f24d9e",
+    "bytes": 789
+  },
+  {
+    "path": "private/downloads/final/002600.SZSE/bars.csv",
+    "sha256": "2b358d2a26613967608a9272d6efa6f84893fe75830f7962c8b8b6e5e69ea8a1",
+    "bytes": 389426
+  },
+  {
+    "path": "private/downloads/final/002600.SZSE/dividends_2026.csv",
+    "sha256": "b33dd6ada43a9561d3734db77f9f575fe6540c8b5c9ce8eb966dd5cefa2d0968",
+    "bytes": 535
+  },
+  {
+    "path": "private/downloads/final/002602.SZSE/adjustments.csv",
+    "sha256": "f13ed5639e9f8e5eea17ab885c0dbcf46326b5d5c07efec5898bb45932174b70",
+    "bytes": 597
+  },
+  {
+    "path": "private/downloads/final/002602.SZSE/bars.csv",
+    "sha256": "df67bb3738f1c6a7f08efc5b554fa26307ac7feb007e040e4ff28b3d50ec42ae",
+    "bytes": 383094
+  },
+  {
+    "path": "private/downloads/final/002602.SZSE/dividends_2026.csv",
+    "sha256": "2b28a756b339d12397517dab6ab45358ab23765e1253a03f0b07b74187dba570",
+    "bytes": 545
+  },
+  {
+    "path": "private/downloads/final/002625.SZSE/adjustments.csv",
+    "sha256": "b54557a4a6c175c0d6562f9fa296bc3d4099542b6a4999c74eaf3168fde77726",
+    "bytes": 597
+  },
+  {
+    "path": "private/downloads/final/002625.SZSE/bars.csv",
+    "sha256": "d1fef46d9a4d7b7203b59218d8c8eac1d9fc5cb8072a90b11e57639e81bfb322",
+    "bytes": 383810
+  },
+  {
+    "path": "private/downloads/final/002625.SZSE/dividends_2026.csv",
+    "sha256": "5191e8a56bfd7b49e02efcd69d28f6c15f80ce34680af6daeac88a042ce263c3",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/002648.SZSE/adjustments.csv",
+    "sha256": "7bfbd8760ca81cb8ab582fb98d5ab9b6cf9f2ee442b0c12dce098997dca2e671",
+    "bytes": 749
+  },
+  {
+    "path": "private/downloads/final/002648.SZSE/bars.csv",
+    "sha256": "f7e2756d1455807df79cf02854f6f36b7c28f0393297fbd7a2b97a5a8f57cb0d",
+    "bytes": 388489
+  },
+  {
+    "path": "private/downloads/final/002648.SZSE/dividends_2026.csv",
+    "sha256": "78bf3f7d0fc11affab99e5c924441710fc67c569fee1b90be41ae6ec27fa2ad2",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/002709.SZSE/adjustments.csv",
+    "sha256": "c32743c42961c5b3911e84bad1489cfce08d541e97743dd8545887cbae0fc30e",
+    "bytes": 851
+  },
+  {
+    "path": "private/downloads/final/002709.SZSE/bars.csv",
+    "sha256": "703c1e1d8d0d5a6abbdaf16aa8fdcd10e5a43abe6f59a66c079728a5a91fb229",
+    "bytes": 337809
+  },
+  {
+    "path": "private/downloads/final/002709.SZSE/dividends_2026.csv",
+    "sha256": "50461f3913ddd1b6b675651f386095a654791f9c9afcc58b8230e2b586382e31",
+    "bytes": 694
+  },
+  {
+    "path": "private/downloads/final/002714.SZSE/adjustments.csv",
+    "sha256": "fd05dcbaf8f3210af9cba934d12b4579130c27c6505fb09a564776d57f29376e",
+    "bytes": 805
+  },
+  {
+    "path": "private/downloads/final/002714.SZSE/bars.csv",
+    "sha256": "cd61b882a4ca2d5d2d10e47a5df7cd49765738af286579b6e10c3c99c4e148c0",
+    "bytes": 337630
+  },
+  {
+    "path": "private/downloads/final/002714.SZSE/dividends_2026.csv",
+    "sha256": "6f5c18cfd94f61b9fe4d9f266438f4413ba5ccf411987c61f7b7536477e5be0a",
+    "bytes": 414
+  },
+  {
+    "path": "private/downloads/final/002736.SZSE/adjustments.csv",
+    "sha256": "a38f570e665f79dc6e2de31fb14526e628bfa2707c8ad147907918752be05ea3",
+    "bytes": 741
+  },
+  {
+    "path": "private/downloads/final/002736.SZSE/bars.csv",
+    "sha256": "306b013489cd946c6fec126fddbfee55288a3a8ce5584998725a3595f8766358",
+    "bytes": 307557
+  },
+  {
+    "path": "private/downloads/final/002736.SZSE/dividends_2026.csv",
+    "sha256": "cfcbc62e3658c285af821b0f77f2961e273cdd01bc307e9cd4d1489cb668f34d",
+    "bytes": 537
+  },
+  {
+    "path": "private/downloads/final/002837.SZSE/adjustments.csv",
+    "sha256": "31c3931305b2e9252f7a6aaef702e88687afb3d144799991cae1633dca8487cb",
+    "bytes": 601
+  },
+  {
+    "path": "private/downloads/final/002837.SZSE/bars.csv",
+    "sha256": "5b32c3f20e64936d68a5fd4d8ecabbd208ea443b2fe8428c6fe5a66cafe2e351",
+    "bytes": 256632
+  },
+  {
+    "path": "private/downloads/final/002837.SZSE/dividends_2026.csv",
+    "sha256": "e9ecfb7c7d525fe6dd1e75db10dc7ed73f88a6b493b431354634e94f425e2fc7",
+    "bytes": 412
+  },
+  {
+    "path": "private/downloads/final/002916.SZSE/adjustments.csv",
+    "sha256": "2171d9f37b6a0cbe79b9ab7dd3495b742de6e42958ccab57c78f73ad84a388ba",
+    "bytes": 549
+  },
+  {
+    "path": "private/downloads/final/002916.SZSE/bars.csv",
+    "sha256": "6974fca657c85cc3d9b85c5340f57dbd2084ff357b0f3db7bdf3b3f87b73e497",
+    "bytes": 238361
+  },
+  {
+    "path": "private/downloads/final/002916.SZSE/dividends_2026.csv",
+    "sha256": "dae9c06650dcacddcfa1db4e4fce1682b525f742968f4a20b952f699c60d9d09",
+    "bytes": 385
+  },
+  {
+    "path": "private/downloads/final/002920.SZSE/adjustments.csv",
+    "sha256": "e5f536296644a6590c6936aa3fc317c61765ec3f1cfc265799caf399308d4b56",
+    "bytes": 549
+  },
+  {
+    "path": "private/downloads/final/002920.SZSE/bars.csv",
+    "sha256": "0e90604e924018224b8fcaada05a7d8f995dc7139527f2197a9939e713f18cb3",
+    "bytes": 236486
+  },
+  {
+    "path": "private/downloads/final/002920.SZSE/dividends_2026.csv",
+    "sha256": "ce367b7efc335884bff38ace6ce639c82b3d1fcf174757781af03467f109bf80",
+    "bytes": 393
+  },
+  {
+    "path": "private/downloads/final/002938.SZSE/adjustments.csv",
+    "sha256": "204e3e8197660128343fe58160c9a6ba4ca7920352d5650cb00faec7efb84572",
+    "bytes": 501
+  },
+  {
+    "path": "private/downloads/final/002938.SZSE/bars.csv",
+    "sha256": "f26c48181404f3ec883bdfb2e7ffddc37185a95f88451748d13be1be84499c94",
+    "bytes": 213288
+  },
+  {
+    "path": "private/downloads/final/002938.SZSE/dividends_2026.csv",
+    "sha256": "eb2edd2a9b3ac967a28827fddbe3fe5252028ef57ac96fc2dbe3bed260a208d1",
+    "bytes": 377
+  },
+  {
+    "path": "private/downloads/final/003816.SZSE/adjustments.csv",
+    "sha256": "f533eeb246b19252a0afd39bfed84dc1a9ca6e50d67324a99515bffe9cf03aa0",
+    "bytes": 453
+  },
+  {
+    "path": "private/downloads/final/003816.SZSE/bars.csv",
+    "sha256": "2c73d1e7415aafebe0b30b1ee3697d40df809fcbfd3ffa26ee511abf23147729",
+    "bytes": 180770
+  },
+  {
+    "path": "private/downloads/final/003816.SZSE/dividends_2026.csv",
+    "sha256": "8fe0cdcf5292318c65b5cebe534cdb75cc437c854ca65b3c152401e5ebc047ec",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/300014.SZSE/adjustments.csv",
+    "sha256": "74fb8c0d55e04e7e90c2a185370ee212e48a84b40fdff03b32b9363da42a6ad2",
+    "bytes": 999
+  },
+  {
+    "path": "private/downloads/final/300014.SZSE/bars.csv",
+    "sha256": "c660d7590f23aecf6a42b6462061a4bc36fd63865117b52483f6185d46526e85",
+    "bytes": 449130
+  },
+  {
+    "path": "private/downloads/final/300014.SZSE/dividends_2026.csv",
+    "sha256": "33bc04921649e0f42846b4b622e0e404368d1deaf3337b2b04ee4990630f2220",
+    "bytes": 571
+  },
+  {
+    "path": "private/downloads/final/300015.SZSE/adjustments.csv",
+    "sha256": "55481d99110e88c2399731157f5664905fbbff1eee5e36af26ff5cb1702dd87f",
+    "bytes": 1100
+  },
+  {
+    "path": "private/downloads/final/300015.SZSE/bars.csv",
+    "sha256": "29c915f049cdf9ea8b777ad71bc10f3bf3394b659ba2464368118d3846e53a5e",
+    "bytes": 446607
+  },
+  {
+    "path": "private/downloads/final/300015.SZSE/dividends_2026.csv",
+    "sha256": "a66e60e82a223d63036e8a847e01a2a945654f00e4da66f6fbc5a7bc3c5ec738",
+    "bytes": 537
+  },
+  {
+    "path": "private/downloads/final/300033.SZSE/adjustments.csv",
+    "sha256": "936d58220aeb86eb897fea1cbb9722a0bf73357189297a9a73800624436f6c4c",
+    "bytes": 1081
+  },
+  {
+    "path": "private/downloads/final/300033.SZSE/bars.csv",
+    "sha256": "8652d04798914bad15a41cb6a361c04ff523406c0d9069725d748189f7f3edac",
+    "bytes": 449970
+  },
+  {
+    "path": "private/downloads/final/300033.SZSE/dividends_2026.csv",
+    "sha256": "6ebe81bb77ddb2ec94dbb68e8edec1b96284d99a10025316942b2fedf78758b2",
+    "bytes": 564
+  },
+  {
+    "path": "private/downloads/final/300059.SZSE/adjustments.csv",
+    "sha256": "e9ccebf565af80d70f86db8f6c4a2fc54aec80edd724dd1981744148f270ae46",
+    "bytes": 1007
+  },
+  {
+    "path": "private/downloads/final/300059.SZSE/bars.csv",
+    "sha256": "1c741294f142885a3e8c352b82e72ecc24ec2650f705580658ddfdbceef49d14",
+    "bytes": 441877
+  },
+  {
+    "path": "private/downloads/final/300059.SZSE/dividends_2026.csv",
+    "sha256": "d0179060e8de9e39b6027d89cd1ec334a444559138e2a69d8a0dfc5cb71978da",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/300122.SZSE/adjustments.csv",
+    "sha256": "a4b5963e460182d39b334b07cfc798d63f8e8a61b36d9c17060c3bdf62561d39",
+    "bytes": 837
+  },
+  {
+    "path": "private/downloads/final/300122.SZSE/bars.csv",
+    "sha256": "330cb2dcf38036a328314fc24dc6a10933775229efc51780dc854498b4a4260a",
+    "bytes": 422963
+  },
+  {
+    "path": "private/downloads/final/300122.SZSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/300124.SZSE/adjustments.csv",
+    "sha256": "d8a4d34ad513f42717419944f7104fe5f744abd3b0a30488add03fbafafbe9b8",
+    "bytes": 957
+  },
+  {
+    "path": "private/downloads/final/300124.SZSE/bars.csv",
+    "sha256": "1de791f91ee34f9ff6520b54831fd8d7c5dabbeef262bc335625f3bdc77419c3",
+    "bytes": 423636
+  },
+  {
+    "path": "private/downloads/final/300124.SZSE/dividends_2026.csv",
+    "sha256": "e840962fb61cbe231a1fb593a82a256e68c13a62a5f1ee54f78ebd85f616b385",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/300251.SZSE/adjustments.csv",
+    "sha256": "da583ba1ca2ffcb4d886ade3abf9c260b61135c174a3dec21887804720c0a72a",
+    "bytes": 911
+  },
+  {
+    "path": "private/downloads/final/300251.SZSE/bars.csv",
+    "sha256": "15199a7fe8b2e2ffb82802f9344216a8e0cc53a648f98d0f5fd14a48178bc92c",
+    "bytes": 393420
+  },
+  {
+    "path": "private/downloads/final/300251.SZSE/dividends_2026.csv",
+    "sha256": "924a6b46429d97f94761ea136dc41fc8db8f029ab6d8231b1abde49238cc042b",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/300274.SZSE/adjustments.csv",
+    "sha256": "3df1ad7f5de9b3b48473b5784eb83048e7f0becac6d27cc8a0cb930ac3470bcc",
+    "bytes": 933
+  },
+  {
+    "path": "private/downloads/final/300274.SZSE/bars.csv",
+    "sha256": "490ea27d9cf20b524e281dd9e05d6cbc66522a17748d322a7bed43b52b159a02",
+    "bytes": 398046
+  },
+  {
+    "path": "private/downloads/final/300274.SZSE/dividends_2026.csv",
+    "sha256": "e1ba9ef72254331d7e2835ed60e263f4b2ad83e004bf9458a67010573ad9c004",
+    "bytes": 545
+  },
+  {
+    "path": "private/downloads/final/300308.SZSE/adjustments.csv",
+    "sha256": "c3b4ca62cf2e2f9a84b75bde1e60bdb6f133db64655876a3a87d7f58651fa6d4",
+    "bytes": 981
+  },
+  {
+    "path": "private/downloads/final/300308.SZSE/bars.csv",
+    "sha256": "1dd71717f6485ce829c4a31ff45b8274b7ecd98315f36db8a8fb8fb5c2f9d318",
+    "bytes": 382188
+  },
+  {
+    "path": "private/downloads/final/300308.SZSE/dividends_2026.csv",
+    "sha256": "563044a28a5e4944556a1910d195b496005b5bf9d37da66a126961987d2fe596",
+    "bytes": 527
+  },
+  {
+    "path": "private/downloads/final/300316.SZSE/adjustments.csv",
+    "sha256": "29a16485cc17e9157e6fdfd5e6f362ebe9150140362c7a78996b0cf6463614a7",
+    "bytes": 885
+  },
+  {
+    "path": "private/downloads/final/300316.SZSE/bars.csv",
+    "sha256": "a288ea6b3ff70c7af9a12ed03255a31483372f6e056344b01e6170ca7df93b7b",
+    "bytes": 378325
+  },
+  {
+    "path": "private/downloads/final/300316.SZSE/dividends_2026.csv",
+    "sha256": "3bf0a736e27f8eb52180601ec64df13c80761348fb5002acd783ea535914bb6b",
+    "bytes": 555
+  },
+  {
+    "path": "private/downloads/final/300394.SZSE/adjustments.csv",
+    "sha256": "765550bf2a77a8cff187606129f877a73d8ac4a174a1e4c75591f86ff8381625",
+    "bytes": 841
+  },
+  {
+    "path": "private/downloads/final/300394.SZSE/bars.csv",
+    "sha256": "4b969e965a3bc3c093b6dd8b6c3f1ce38a48b07273b217488f400b06a2e3de07",
+    "bytes": 309664
+  },
+  {
+    "path": "private/downloads/final/300394.SZSE/dividends_2026.csv",
+    "sha256": "6938c3d65970ef208448ccca4225a3a2381df578541ffdeb3081d072d858ab7e",
+    "bytes": 551
+  },
+  {
+    "path": "private/downloads/final/300408.SZSE/adjustments.csv",
+    "sha256": "916491f2bebff917d68b32bb6a592cb2d23ad25d01b52781ef7bd85fb914f043",
+    "bytes": 693
+  },
+  {
+    "path": "private/downloads/final/300408.SZSE/bars.csv",
+    "sha256": "d0a85ae4b074e80feb0da18d4bd0fdac9af5db27a48823627bd993218e9aadb0",
+    "bytes": 314207
+  },
+  {
+    "path": "private/downloads/final/300408.SZSE/dividends_2026.csv",
+    "sha256": "d9b0369c0a5dc5202591c9da36d7d3468376526307170dc787e43772fb10f7eb",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/300413.SZSE/adjustments.csv",
+    "sha256": "ea4f9ef132a80a4e296b11364267be4e013c4dc8f4d6e0b54de2e54409e91b76",
+    "bytes": 693
+  },
+  {
+    "path": "private/downloads/final/300413.SZSE/bars.csv",
+    "sha256": "be6f1e08f32d6f3ebf16de05f1f238c564cdaa44785b3848bdbe105e54e5f6bd",
+    "bytes": 304348
+  },
+  {
+    "path": "private/downloads/final/300413.SZSE/dividends_2026.csv",
+    "sha256": "2f2bac398c8e28122f1146807bafcc4e575c54613f25b1d19a7ab4664508a7c6",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/300418.SZSE/adjustments.csv",
+    "sha256": "084eb3fb1111f34e3e200d102f36db4adf231fbfcd0946905efef7b4b369d1df",
+    "bytes": 549
+  },
+  {
+    "path": "private/downloads/final/300418.SZSE/bars.csv",
+    "sha256": "cdd225c8c7fc59908878aab4e6ce613c9e2ac81b81b1f43107b0b8a87bd7ae16",
+    "bytes": 311412
+  },
+  {
+    "path": "private/downloads/final/300418.SZSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/300433.SZSE/adjustments.csv",
+    "sha256": "e95ec57bb32b9267a89549bbe7c5e028bb089762e04e7f47fc47c221604d6769",
+    "bytes": 693
+  },
+  {
+    "path": "private/downloads/final/300433.SZSE/bars.csv",
+    "sha256": "028706ba150a7006ea2fd7e91c583067bc274de95e6a1471fb24b5e1167c547d",
+    "bytes": 306224
+  },
+  {
+    "path": "private/downloads/final/300433.SZSE/dividends_2026.csv",
+    "sha256": "5c7ddfcb37f1c9d7322a6f7b889bd83a19ec341b5b14d2987eeee4f5245a997c",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/300442.SZSE/adjustments.csv",
+    "sha256": "4fe86f12e7a0b3f541e85cbd47b3e1c54131edbd774eb5d5cb14bdf246cf2d5c",
+    "bytes": 741
+  },
+  {
+    "path": "private/downloads/final/300442.SZSE/bars.csv",
+    "sha256": "7ee36502067b625ca8f258349d5110dcef7b96c14e244f2f7ed48f4586ef3d26",
+    "bytes": 299725
+  },
+  {
+    "path": "private/downloads/final/300442.SZSE/dividends_2026.csv",
+    "sha256": "d0f27652011dd3c489b48f6c9f16df89866adbc84e9b03d16655cbd79c93d8fb",
+    "bytes": 569
+  },
+  {
+    "path": "private/downloads/final/300450.SZSE/adjustments.csv",
+    "sha256": "dd0e55d5d47dd923638cb3e93f7e3a701a428b943ea78f62775eb44fa5c51eb6",
+    "bytes": 761
+  },
+  {
+    "path": "private/downloads/final/300450.SZSE/bars.csv",
+    "sha256": "a97e7da16a42fea987d39905ac84cf87032385e83b48d1fdd2de745efc2d446c",
+    "bytes": 299929
+  },
+  {
+    "path": "private/downloads/final/300450.SZSE/dividends_2026.csv",
+    "sha256": "47ad9424aebdeda52cf0603351c7b6ad081bf776c0ba285b30fe961f4947de81",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/300476.SZSE/adjustments.csv",
+    "sha256": "90583814a97bd6d34c6717c54c29a5c6a7969c7a5f59508f25460ec5081a1fa9",
+    "bytes": 645
+  },
+  {
+    "path": "private/downloads/final/300476.SZSE/bars.csv",
+    "sha256": "0133fa974627caa403440dca7fdab1168aa3fa61abbf0f9a21d007d6a11ebfe7",
+    "bytes": 301876
+  },
+  {
+    "path": "private/downloads/final/300476.SZSE/dividends_2026.csv",
+    "sha256": "bf925ca452cf36786bdd1123644389586ed28f02afe41256787c06de5d1edb15",
+    "bytes": 420
+  },
+  {
+    "path": "private/downloads/final/300498.SZSE/adjustments.csv",
+    "sha256": "877015e5969b29d032b8566abf8ce55feae6ef2e8a12b889e06a086b1e787362",
+    "bytes": 885
+  },
+  {
+    "path": "private/downloads/final/300498.SZSE/bars.csv",
+    "sha256": "8973113f189cebc0d34e48c28ff723581a373626cd91f8e3f23cc6f3e6a0f4d1",
+    "bytes": 290605
+  },
+  {
+    "path": "private/downloads/final/300498.SZSE/dividends_2026.csv",
+    "sha256": "1a94a10689bd5d6e7039a3142843d75815eb6fd6dc4257481b4b000d9c0f7c2c",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/300502.SZSE/adjustments.csv",
+    "sha256": "6a31414265152eb6bb8d240f66ae74391c567e6eccfee7fd712d6168e735352d",
+    "bytes": 601
+  },
+  {
+    "path": "private/downloads/final/300502.SZSE/bars.csv",
+    "sha256": "f92e9c7d7e8b21dd83c18c6e6fef33398872616658f8721e27db709a572fa0ed",
+    "bytes": 284755
+  },
+  {
+    "path": "private/downloads/final/300502.SZSE/dividends_2026.csv",
+    "sha256": "c801d07a1a24bb91e1c3b963f5a70e478c6a78aefd882b4c75beb9e3c4e71a6d",
+    "bytes": 399
+  },
+  {
+    "path": "private/downloads/final/300628.SZSE/adjustments.csv",
+    "sha256": "fe995906584dc73eb85b99e648480e510d3fc75250b1eae3963528a699f68591",
+    "bytes": 908
+  },
+  {
+    "path": "private/downloads/final/300628.SZSE/bars.csv",
+    "sha256": "5925948bd693159d8947d53c4edc6fd963c62899841ba207f1bc551b32afac1d",
+    "bytes": 253067
+  },
+  {
+    "path": "private/downloads/final/300628.SZSE/dividends_2026.csv",
+    "sha256": "5299e75c1ec625551c4262a85dca114fac6ba44c16de027256d6abee3c7a8b4c",
+    "bytes": 532
+  },
+  {
+    "path": "private/downloads/final/300661.SZSE/adjustments.csv",
+    "sha256": "a5de0a79ce8e9a6b90a8d860db73363cef872408965c8b62a7844d3dd0b99082",
+    "bytes": 549
+  },
+  {
+    "path": "private/downloads/final/300661.SZSE/bars.csv",
+    "sha256": "ae9b347d159d751665e9a817f84e10b6193d5a15ccc0b0fc58888d0e03c01522",
+    "bytes": 251788
+  },
+  {
+    "path": "private/downloads/final/300661.SZSE/dividends_2026.csv",
+    "sha256": "6a4d40407729306735854abf83906a969a3cf4ce12ec0e528e59313626af89d3",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/300750.SZSE/adjustments.csv",
+    "sha256": "98fe1b3d88cb6ca46873d9b33b7a02faaec83a017d5907e44a681bfb071c2c6f",
+    "bytes": 645
+  },
+  {
+    "path": "private/downloads/final/300750.SZSE/bars.csv",
+    "sha256": "1b5e18742a11b475e36e452003d5302f4c14f5967b5798499e612af2f3003b51",
+    "bytes": 230986
+  },
+  {
+    "path": "private/downloads/final/300750.SZSE/dividends_2026.csv",
+    "sha256": "9e4bfc8e5ba37cec938e99268cbf17f503810a066c7e1df534543d957c7d46f6",
+    "bytes": 563
+  },
+  {
+    "path": "private/downloads/final/300760.SZSE/adjustments.csv",
+    "sha256": "2eee15dfea848672006ae336c65d24783d7b00e495756ba87aa18542faa89e70",
+    "bytes": 789
+  },
+  {
+    "path": "private/downloads/final/300760.SZSE/bars.csv",
+    "sha256": "b33fcbf7f3c1dbf6972e8451803d4c9965a85f69ae5103419df8fd6e7dd2426a",
+    "bytes": 220896
+  },
+  {
+    "path": "private/downloads/final/300760.SZSE/dividends_2026.csv",
+    "sha256": "e8b7a8d6727e25dc4a9e7cb206c06fa3843dc0297a6a33ac2ebc4f95dc88a4c8",
+    "bytes": 696
+  },
+  {
+    "path": "private/downloads/final/300803.SZSE/adjustments.csv",
+    "sha256": "35446cba2006affd33a97a4e6da16b5d5e8aed43ff9a564b4edfe4e391feefa0",
+    "bytes": 357
+  },
+  {
+    "path": "private/downloads/final/300803.SZSE/bars.csv",
+    "sha256": "318f97e9768034385c97fff9d625b0220fddd68b6bbce725c4879fc8e2a07b86",
+    "bytes": 183557
+  },
+  {
+    "path": "private/downloads/final/300803.SZSE/dividends_2026.csv",
+    "sha256": "16192329a8e9ea4cd02551a0e8c4022ec2fde34f68f1f55ce3437973a88ba87f",
+    "bytes": 497
+  },
+  {
+    "path": "private/downloads/final/300832.SZSE/adjustments.csv",
+    "sha256": "d8df96173a068bca79f069bded80ca379ed277572a3af0f9a91089df308dfb71",
+    "bytes": 453
+  },
+  {
+    "path": "private/downloads/final/300832.SZSE/bars.csv",
+    "sha256": "74ec5a32c9859c937f3e8ab3c915fe5739a1674a16697cbce3e7e58b97d20ef7",
+    "bytes": 169592
+  },
+  {
+    "path": "private/downloads/final/300832.SZSE/dividends_2026.csv",
+    "sha256": "bc7b0f71ae7bb677cd69dbb1f0cb65b8c3078f1a55b5ef1e8a06262d54e574e6",
+    "bytes": 385
+  },
+  {
+    "path": "private/downloads/final/300866.SZSE/adjustments.csv",
+    "sha256": "b4a2f26be91b8464ab23eeb81ac56379a470cc369241389293bcc6c361c3265d",
+    "bytes": 549
+  },
+  {
+    "path": "private/downloads/final/300866.SZSE/bars.csv",
+    "sha256": "e2ff739beec4ac5967cd146c53201c77c4c0e65654d7243c2c58bbba65306b92",
+    "bytes": 164050
+  },
+  {
+    "path": "private/downloads/final/300866.SZSE/dividends_2026.csv",
+    "sha256": "2447431f301de2f2335b8e648a376d6fb66ae581bd2814a42ff5e7df65102528",
+    "bytes": 532
+  },
+  {
+    "path": "private/downloads/final/300896.SZSE/adjustments.csv",
+    "sha256": "1fdda95bdd898b02e4f9b60608b1118f9d76b7d45e9790bc85b49c3b837917dd",
+    "bytes": 597
+  },
+  {
+    "path": "private/downloads/final/300896.SZSE/bars.csv",
+    "sha256": "404a83ab8d8d4b323977376817fac86937df7185ed6f7140284fbccac4b83a75",
+    "bytes": 165472
+  },
+  {
+    "path": "private/downloads/final/300896.SZSE/dividends_2026.csv",
+    "sha256": "70d7d16a93c342c54e8c05fcf1b123b9eae852602e38db963262f1c2d9045847",
+    "bytes": 514
+  },
+  {
+    "path": "private/downloads/final/300999.SZSE/adjustments.csv",
+    "sha256": "f61f449153ddbf19aa48814f027f21e85d593acdeb6d1eea5806e19c9b921aec",
+    "bytes": 405
+  },
+  {
+    "path": "private/downloads/final/300999.SZSE/bars.csv",
+    "sha256": "27e8d746b3729d1b8dbde25dbd2cc7bcca344170338b77045c90987701246a8d",
+    "bytes": 158490
+  },
+  {
+    "path": "private/downloads/final/300999.SZSE/dividends_2026.csv",
+    "sha256": "ad7581cea2c83f734a95c4a9ba758a7696dd5d8bef85671852f70248e961fced",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/301165.SZSE/adjustments.csv",
+    "sha256": "068ea55537d6c896ce5a27b0cc57dede16f5252be44a95796e080d5d07b2e373",
+    "bytes": 309
+  },
+  {
+    "path": "private/downloads/final/301165.SZSE/bars.csv",
+    "sha256": "691a24f3ef5395b3631a2d4b088c45bb0c309cc21524edb4a5df05bdcd209965",
+    "bytes": 102809
+  },
+  {
+    "path": "private/downloads/final/301165.SZSE/dividends_2026.csv",
+    "sha256": "5b36a749ee0e87e29cfdabd936ee416479bd9653d6b75d83430670f674653e81",
+    "bytes": 418
+  },
+  {
+    "path": "private/downloads/final/301236.SZSE/adjustments.csv",
+    "sha256": "a80a03c02390cdc518c7108a96da27eb05a1122a5f7a94f64d8bd9638b9c80eb",
+    "bytes": 405
+  },
+  {
+    "path": "private/downloads/final/301236.SZSE/bars.csv",
+    "sha256": "b1e8c080c4ab50c37d1503dcd095677ec6ada992931922240759240730eb1a71",
+    "bytes": 121524
+  },
+  {
+    "path": "private/downloads/final/301236.SZSE/dividends_2026.csv",
+    "sha256": "6d035bd4a3c84093c44fb3f07b1dc7b1099ccf119096e8bcdf13c35393ea2df1",
+    "bytes": 417
+  },
+  {
+    "path": "private/downloads/final/301269.SZSE/adjustments.csv",
+    "sha256": "6ab3a8fa0890f29a161de78ceb960169d0368c5b60dda2b89dcd3f3499c4d88f",
+    "bytes": 309
+  },
+  {
+    "path": "private/downloads/final/301269.SZSE/bars.csv",
+    "sha256": "97ed423f084d6d72f7978e14b1ec7b730b971c76bcfca9e33e23d1db29f24855",
+    "bytes": 113019
+  },
+  {
+    "path": "private/downloads/final/301269.SZSE/dividends_2026.csv",
+    "sha256": "6375dc67fccddd2b326eb6a4d722451ce34603288d5b8b12a447dac251ce25b6",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/301308.SZSE/adjustments.csv",
+    "sha256": "8fa8b22516002f8b85ea917c8c4ffb3d2c11dd0a7d18b77cd33c1d4cf8174fc7",
+    "bytes": 261
+  },
+  {
+    "path": "private/downloads/final/301308.SZSE/bars.csv",
+    "sha256": "a62301e3eae99f6fd09614b329b309bbce7f783b4899d08cbfe54f9b5580519e",
+    "bytes": 112184
+  },
+  {
+    "path": "private/downloads/final/301308.SZSE/dividends_2026.csv",
+    "sha256": "1de58c84e722bfbae6c77a009d14cf842531310c0c1610061992b594fcfa04d6",
+    "bytes": 598
+  },
+  {
+    "path": "private/downloads/final/302132.SZSE/adjustments.csv",
+    "sha256": "781bdb98125ec0e9c6d7adacfbebcc0cd08056db3d2bc71acacffbf8b04dabcc",
+    "bytes": 309
+  },
+  {
+    "path": "private/downloads/final/302132.SZSE/bars.csv",
+    "sha256": "36528ca57d73e1ef26fbbd43d61eff8bb8311831bfa3451d868184f4dadb9192",
+    "bytes": 417243
+  },
+  {
+    "path": "private/downloads/final/302132.SZSE/dividends_2026.csv",
+    "sha256": "82da6bd1b1a5da590b3895a919a504bc07d7bcb4944d4780cf5b8e75a7b0f69b",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/600000.SSE/adjustments.csv",
+    "sha256": "6588abad4889dc6e27c730088e4c987582c29f434a03267e6962e3989bdda14b",
+    "bytes": 995
+  },
+  {
+    "path": "private/downloads/final/600000.SSE/bars.csv",
+    "sha256": "a5fa401edb600d2a77a3cbe62aa26e395b558d165e63fa6e06d5bb7a45b10359",
+    "bytes": 491074
+  },
+  {
+    "path": "private/downloads/final/600000.SSE/dividends_2026.csv",
+    "sha256": "a58eadba658235462699e738e707d17610f4e8f16a679da94a7583bf90290b05",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/600009.SSE/adjustments.csv",
+    "sha256": "23158792403808c8a78eceb1a95fc1c5220119c8e3d701dddfa59fb40293371f",
+    "bytes": 981
+  },
+  {
+    "path": "private/downloads/final/600009.SSE/bars.csv",
+    "sha256": "4a046de166b84b44ae7e3f44e5f8066059c78538229336308d942416dccd25db",
+    "bytes": 495828
+  },
+  {
+    "path": "private/downloads/final/600009.SSE/dividends_2026.csv",
+    "sha256": "455cd62060d3eabcf2dbf819118d468451d8eb80e74d692cec7a66099f217e15",
+    "bytes": 545
+  },
+  {
+    "path": "private/downloads/final/600010.SSE/adjustments.csv",
+    "sha256": "b0ed43eb35b81f2a282865dbb883c59a416fbd7cc24f2681ac69355722dab950",
+    "bytes": 645
+  },
+  {
+    "path": "private/downloads/final/600010.SSE/bars.csv",
+    "sha256": "5174f5efd1098a0a342e929d598645ff840df090308e2fa9a9021ef0109417a1",
+    "bytes": 477855
+  },
+  {
+    "path": "private/downloads/final/600010.SSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/600011.SSE/adjustments.csv",
+    "sha256": "18ee42418e41e754f758493823dc30a952510979029da46849e84146a38273d3",
+    "bytes": 885
+  },
+  {
+    "path": "private/downloads/final/600011.SSE/bars.csv",
+    "sha256": "d45d1909fef9349248d5826146f6b2a2f0e8c16da2b550b3e311d9c338d2eed8",
+    "bytes": 474863
+  },
+  {
+    "path": "private/downloads/final/600011.SSE/dividends_2026.csv",
+    "sha256": "db618f0efb0ad814fd4845d60af09707838bdde0fb1a665e71e37a72dffc1388",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/600015.SSE/adjustments.csv",
+    "sha256": "e3d8558fed4db4d8ec427ece090caf8f6dd96cb1f29799c665536b5856248fc1",
+    "bytes": 1077
+  },
+  {
+    "path": "private/downloads/final/600015.SSE/bars.csv",
+    "sha256": "80b527f10a634f1d66c458c86e942c200531977a948063ddf8f4bc3313f83374",
+    "bytes": 483554
+  },
+  {
+    "path": "private/downloads/final/600015.SSE/dividends_2026.csv",
+    "sha256": "2dd3235abe49724806e0bf8836f3e0d5b034ca1901e366b938f60d30375605f2",
+    "bytes": 537
+  },
+  {
+    "path": "private/downloads/final/600016.SSE/adjustments.csv",
+    "sha256": "90141f22ad86e2c36d5b2e4bd1bad2a515ed309ace5aa5b64318deb538be2071",
+    "bytes": 1564
+  },
+  {
+    "path": "private/downloads/final/600016.SSE/bars.csv",
+    "sha256": "abf90937202a3b4f90e90db054423c8d9a829d17a1befbc074149dec1cab0516",
+    "bytes": 480314
+  },
+  {
+    "path": "private/downloads/final/600016.SSE/dividends_2026.csv",
+    "sha256": "515bc4124ac7e328a5839cde4b03ae87f6d85311f612d6961d10a209cd3a86cd",
+    "bytes": 547
+  },
+  {
+    "path": "private/downloads/final/600018.SSE/adjustments.csv",
+    "sha256": "adf49b46a4598c7917337eb3177431c6a68b447470f94dab9e493fc8b3e1e5f4",
+    "bytes": 1119
+  },
+  {
+    "path": "private/downloads/final/600018.SSE/bars.csv",
+    "sha256": "89156cc315b740f89724822012a6f82a03cb0f4e79ede0c4e06763ad53bf0d1e",
+    "bytes": 472623
+  },
+  {
+    "path": "private/downloads/final/600018.SSE/dividends_2026.csv",
+    "sha256": "2ec3f85adf91809dd80ef71f5bddc1e4ff37ae3d24a97a047572530a7a28df7e",
+    "bytes": 696
+  },
+  {
+    "path": "private/downloads/final/600019.SSE/adjustments.csv",
+    "sha256": "ee8fbdba6ac1268a0033a9337bb6185d6dbb3855d8cfce7a93d881bd5bcc29d0",
+    "bytes": 1269
+  },
+  {
+    "path": "private/downloads/final/600019.SSE/bars.csv",
+    "sha256": "e7cfabbb86b86db2fbc6fa773a69240be78ebfb26e9ef76e4a21c9698ab313ec",
+    "bytes": 475908
+  },
+  {
+    "path": "private/downloads/final/600019.SSE/dividends_2026.csv",
+    "sha256": "d4dbd4a8979a2d319029370b3e2fad6124ad7aa6c0f529a37f329d49bbc62178",
+    "bytes": 535
+  },
+  {
+    "path": "private/downloads/final/600023.SSE/adjustments.csv",
+    "sha256": "626acc458c1aad9089ff12a80ae872437ccb7536c204348a62de3e6583a9a4b7",
+    "bytes": 693
+  },
+  {
+    "path": "private/downloads/final/600023.SSE/bars.csv",
+    "sha256": "3568a60c9bf14300666aa7c1cdd648d19f884f6df30f1c0f29d06c6da0ecbaef",
+    "bytes": 323938
+  },
+  {
+    "path": "private/downloads/final/600023.SSE/dividends_2026.csv",
+    "sha256": "1e27af1a4d8e38cd13c5bbbc43047c22a75cd2c19d004c90e94b56e84d4c40a1",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/600025.SSE/adjustments.csv",
+    "sha256": "9f8cff35a3cd74fde430a7a0d7faaf1cb4773b68ef724d4f55708190c83adc2d",
+    "bytes": 549
+  },
+  {
+    "path": "private/downloads/final/600025.SSE/bars.csv",
+    "sha256": "b1c85be800a52ec8fdd3608264dd40cce22e9412ad1ec96d6bd83311a25b73b3",
+    "bytes": 223543
+  },
+  {
+    "path": "private/downloads/final/600025.SSE/dividends_2026.csv",
+    "sha256": "88e00482e22d166b14ab67ba5927f37f52840c9101cfd2167ad8aa9e066e082e",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/600026.SSE/adjustments.csv",
+    "sha256": "059ee015a01dcb3cdb35ac2ed5b7e3d0eb06913461fdbf8b93c6b8ed5bb8c6b9",
+    "bytes": 885
+  },
+  {
+    "path": "private/downloads/final/600026.SSE/bars.csv",
+    "sha256": "038b34c68467b52420874dd19eb6db57fd855bf7c0d46204923dbb1b5b0f3145",
+    "bytes": 480030
+  },
+  {
+    "path": "private/downloads/final/600026.SSE/dividends_2026.csv",
+    "sha256": "4a42a632f7b012f4d5dcabd8d83b76811d2b0066e4e90f12795ae979b9a2b911",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/600027.SSE/adjustments.csv",
+    "sha256": "c46bd1f9144b56b573f01f197054889ee86ea573b372baa993409ed4e0df2068",
+    "bytes": 933
+  },
+  {
+    "path": "private/downloads/final/600027.SSE/bars.csv",
+    "sha256": "efcdbadc6a03118f59aa42fe67e4f983f092311f522022ed258035cc1806b982",
+    "bytes": 473454
+  },
+  {
+    "path": "private/downloads/final/600027.SSE/dividends_2026.csv",
+    "sha256": "bd09d345f9cbe137c11218065b38b705f286f2399c8728c9bbe8df99c4db32f8",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/600028.SSE/adjustments.csv",
+    "sha256": "20f7e8b5dc75498a594e4b813d58cc029a8c324a64595ac40ac53aecd48d496e",
+    "bytes": 2037
+  },
+  {
+    "path": "private/downloads/final/600028.SSE/bars.csv",
+    "sha256": "ba75311582af76353f828af794ff984a3aa9a03cf8767282e3190fb29bc65a9e",
+    "bytes": 481344
+  },
+  {
+    "path": "private/downloads/final/600028.SSE/dividends_2026.csv",
+    "sha256": "9ad1b3fd4a43d51a6cf89180f33996dcc4faf6cf426a5ea3177dfb43528ea63b",
+    "bytes": 547
+  },
+  {
+    "path": "private/downloads/final/600029.SSE/adjustments.csv",
+    "sha256": "3eb0a116f0564f1f5bd8a311a15938b3edfebe6c683d0a11c770c968467a54b9",
+    "bytes": 501
+  },
+  {
+    "path": "private/downloads/final/600029.SSE/bars.csv",
+    "sha256": "992e32d9a36adf52116de17a7229cd7f2a386a738b42f96113cda83c2f0409b8",
+    "bytes": 477667
+  },
+  {
+    "path": "private/downloads/final/600029.SSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/600030.SSE/adjustments.csv",
+    "sha256": "80711071046bfc85a775778b6fb49bd542b2d50a462848ef25c93010628dae15",
+    "bytes": 1125
+  },
+  {
+    "path": "private/downloads/final/600030.SSE/bars.csv",
+    "sha256": "21b1fb5c805462d1345de2da692565dd00a681cbf0234d6a70d447ddd13bb379",
+    "bytes": 503753
+  },
+  {
+    "path": "private/downloads/final/600030.SSE/dividends_2026.csv",
+    "sha256": "1ab6bd13d167591b9806a905d44810d5e1a7012eea2a7ae0baea1887e52c6627",
+    "bytes": 545
+  },
+  {
+    "path": "private/downloads/final/600031.SSE/adjustments.csv",
+    "sha256": "4610f924e92d58bec133939de843b34d00f7e7884315617623f5cdf55f74255d",
+    "bytes": 1212
+  },
+  {
+    "path": "private/downloads/final/600031.SSE/bars.csv",
+    "sha256": "baf23cd9e6b51d06460f995a9e6b28b65cb6877482e9e7c12c760dfaaa852ca6",
+    "bytes": 493234
+  },
+  {
+    "path": "private/downloads/final/600031.SSE/dividends_2026.csv",
+    "sha256": "4046470b61870df0eba799a0aedd322228ddc822f67c134fd29dbac69727f26a",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/600036.SSE/adjustments.csv",
+    "sha256": "2738b523eaf30ff3ab34b30f72b56a1c674679e308a2526a94dbd131951f62fc",
+    "bytes": 1125
+  },
+  {
+    "path": "private/downloads/final/600036.SSE/bars.csv",
+    "sha256": "79154ce1bcde8d570e9bbec8971ea0e96a7e7c1c4d9cca5758d997c0bdd4871f",
+    "bytes": 501926
+  },
+  {
+    "path": "private/downloads/final/600036.SSE/dividends_2026.csv",
+    "sha256": "d2f371da7b833615f1801aedc1ff46a21681421b40a211ad8722960e159e5a48",
+    "bytes": 551
+  },
+  {
+    "path": "private/downloads/final/600039.SSE/adjustments.csv",
+    "sha256": "5431c8b4bcb827875898cefdacc929017cdad9e3cd8fe777654429e7d28df19e",
+    "bytes": 945
+  },
+  {
+    "path": "private/downloads/final/600039.SSE/bars.csv",
+    "sha256": "360055dba38770cdc5b4699c6d018a3853d89e048232b6098c55f41e7e8f8fe2",
+    "bytes": 473758
+  },
+  {
+    "path": "private/downloads/final/600039.SSE/dividends_2026.csv",
+    "sha256": "b38dd3fd90dde092b507b20f7e0bb573e8961f26bc9620f11f0630efe2211df6",
+    "bytes": 551
+  },
+  {
+    "path": "private/downloads/final/600048.SSE/adjustments.csv",
+    "sha256": "346a44d4cbc3cc03d770576e1cc404de01260303b0d14a850bf0e95d731bea24",
+    "bytes": 1061
+  },
+  {
+    "path": "private/downloads/final/600048.SSE/bars.csv",
+    "sha256": "f5d49872607dc3394148e481882ec361680621d0af7a1f53a5293045ae474b61",
+    "bytes": 494270
+  },
+  {
+    "path": "private/downloads/final/600048.SSE/dividends_2026.csv",
+    "sha256": "f3fde9d8211bd0b7c41bf5c060b05dedcac2044797efc81287c181a056c64d2e",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/600050.SSE/adjustments.csv",
+    "sha256": "17139b3e415ce0d562fc628462d2bd6f6d2582e3d4ffc8628a9791d6aab5eca3",
+    "bytes": 1173
+  },
+  {
+    "path": "private/downloads/final/600050.SSE/bars.csv",
+    "sha256": "3b2214cc42df4d2094194b043698116073b69d03a685407898653b4fd3ab7d8c",
+    "bytes": 478257
+  },
+  {
+    "path": "private/downloads/final/600050.SSE/dividends_2026.csv",
+    "sha256": "ee0738313d7e7e84ba927aba50c2fe1265ea2d7e1dc236dba8b573ee51529a17",
+    "bytes": 402
+  },
+  {
+    "path": "private/downloads/final/600061.SSE/adjustments.csv",
+    "sha256": "25a3f8c1afde01d2e98a78c8458255ec4e7ffb26dad238efbe9c1f322b9b2900",
+    "bytes": 597
+  },
+  {
+    "path": "private/downloads/final/600061.SSE/bars.csv",
+    "sha256": "d764ee4b974f5c07ca9bf8b23f598f196c5fe2ee4623a22cd45bd12dd3ad400b",
+    "bytes": 478953
+  },
+  {
+    "path": "private/downloads/final/600061.SSE/dividends_2026.csv",
+    "sha256": "613f6497e6640e97f5319f631e74b931629a3bc4d5b11a4d45a67734f245b4af",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/600066.SSE/adjustments.csv",
+    "sha256": "a6e2ecd00ca5533cfbf2aadcafa90bb53b422129095e8d35c13fb97f9ea9b1b0",
+    "bytes": 1211
+  },
+  {
+    "path": "private/downloads/final/600066.SSE/bars.csv",
+    "sha256": "81d877430eb8d2daad41b42fe6bcc90be6c5e1cb839fb1edf69d53fb21fa3145",
+    "bytes": 493408
+  },
+  {
+    "path": "private/downloads/final/600066.SSE/dividends_2026.csv",
+    "sha256": "50e7ac47d6b894defc77c55d688e3ed71f37b99bbea194b160a21b663d1edc92",
+    "bytes": 378
+  },
+  {
+    "path": "private/downloads/final/600085.SSE/adjustments.csv",
+    "sha256": "e9b0917032c2675f3f5e97e11149db94272f6028b8de1f245f45af5b86a35d5b",
+    "bytes": 1077
+  },
+  {
+    "path": "private/downloads/final/600085.SSE/bars.csv",
+    "sha256": "9085112e0777ea230a845b02758a78229f5143682feda35e1c6410b4acb9a4ae",
+    "bytes": 495350
+  },
+  {
+    "path": "private/downloads/final/600085.SSE/dividends_2026.csv",
+    "sha256": "7f45aa6dc1d5656410b622640410c8aa92b9814c5fdb536b97d0fff3d5233c37",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/600089.SSE/adjustments.csv",
+    "sha256": "c7426b40c83e0c095e77f2844f9d088eedbf6ba8ea8c81ca019113cc52c80535",
+    "bytes": 1119
+  },
+  {
+    "path": "private/downloads/final/600089.SSE/bars.csv",
+    "sha256": "adc46db3750c5530685dc0e1256fca248d1177ad017db8bc95513b618ff012b7",
+    "bytes": 490771
+  },
+  {
+    "path": "private/downloads/final/600089.SSE/dividends_2026.csv",
+    "sha256": "446e1a6f6701dffac00735836d4efb635e536bf81c4cb0a8293097c19a4d2f2c",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/600104.SSE/adjustments.csv",
+    "sha256": "7d69086fef8c3055c43fbf6f699907c538474a03af8517c4aec85b1c308f53dd",
+    "bytes": 1029
+  },
+  {
+    "path": "private/downloads/final/600104.SSE/bars.csv",
+    "sha256": "02a99b71bfa147d12a42f9bc6744e74e0a0ed38b585466235dfa11a7eda2edc9",
+    "bytes": 496904
+  },
+  {
+    "path": "private/downloads/final/600104.SSE/dividends_2026.csv",
+    "sha256": "edf8c890b7407ecde4ce0b198b2d2abf0b5893f2a8f12017f77ef416a3021f84",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/600111.SSE/adjustments.csv",
+    "sha256": "b5574d996d4afc8fc8ab46c491db0614f9576a29af99500b03e15b52891bf381",
+    "bytes": 1006
+  },
+  {
+    "path": "private/downloads/final/600111.SSE/bars.csv",
+    "sha256": "646a430531efb2625d6c403ba5cf012a6744838b6153a6fe4443a33be108f67e",
+    "bytes": 500281
+  },
+  {
+    "path": "private/downloads/final/600111.SSE/dividends_2026.csv",
+    "sha256": "de524acaa87d2409a28e908fdaac30568b637354aeb40c0e983a8978592cc002",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/600115.SSE/adjustments.csv",
+    "sha256": "b773dc57f75cd8a7d6b855d6b0a8cc46442b1cd8474292c660543ac495333c50",
+    "bytes": 261
+  },
+  {
+    "path": "private/downloads/final/600115.SSE/bars.csv",
+    "sha256": "6a947926a02f8c4859bce4cea260dee2c0b948841fa5b3bc1876122b8317b74f",
+    "bytes": 474769
+  },
+  {
+    "path": "private/downloads/final/600115.SSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/600118.SSE/adjustments.csv",
+    "sha256": "0df45da1c1c6abf132245ba6ab86925e86382d01f69b99a58f6f28b435128848",
+    "bytes": 1111
+  },
+  {
+    "path": "private/downloads/final/600118.SSE/bars.csv",
+    "sha256": "b9820959b952f65c46bdb81fe5ec5497368bf9f3b50fb11826af936ec209a647",
+    "bytes": 496467
+  },
+  {
+    "path": "private/downloads/final/600118.SSE/dividends_2026.csv",
+    "sha256": "7469314c31fccde2a0f72af0c3bb6b577f5106052e88a2e4cd80faf338b95752",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/600150.SSE/adjustments.csv",
+    "sha256": "da2776ceb3b3fb3b5d67509f6331e76b663d77d58ade029984e726d0c0774479",
+    "bytes": 837
+  },
+  {
+    "path": "private/downloads/final/600150.SSE/bars.csv",
+    "sha256": "f199fb327c78faf9cb60e7f6824d05469c5a897a4a74fd34f67346cd556d9769",
+    "bytes": 494694
+  },
+  {
+    "path": "private/downloads/final/600150.SSE/dividends_2026.csv",
+    "sha256": "6f1a15335926df89b2ebad9bc4162388efe15e12e6e36663673ae7e965b20882",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/600160.SSE/adjustments.csv",
+    "sha256": "c252437f131830eee85d81f5cf2ac4d88df43aa39414251b4305fd8373fb3221",
+    "bytes": 1173
+  },
+  {
+    "path": "private/downloads/final/600160.SSE/bars.csv",
+    "sha256": "b54ba4b1d2d61101c9236322b728ec1bc95031f8a65984557be0f21eea120751",
+    "bytes": 486827
+  },
+  {
+    "path": "private/downloads/final/600160.SSE/dividends_2026.csv",
+    "sha256": "0d4b0b64a624351100d8b012642411318941d18edfcca212ebf8ca75f5411d1b",
+    "bytes": 700
+  },
+  {
+    "path": "private/downloads/final/600176.SSE/adjustments.csv",
+    "sha256": "b775e89c1a9412066e445379aa383aa4a3aee9eba8635128d07652e51da82c5b",
+    "bytes": 857
+  },
+  {
+    "path": "private/downloads/final/600176.SSE/bars.csv",
+    "sha256": "5047d43575eb3e664a38c477a84958fcc2c01208e2d01153e553deaa6547b1ab",
+    "bytes": 490791
+  },
+  {
+    "path": "private/downloads/final/600176.SSE/dividends_2026.csv",
+    "sha256": "9e97de346ea64f64ad383f462ab0e01863b2a4d27f62459c519bfdbf191f8afc",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/600183.SSE/adjustments.csv",
+    "sha256": "0f7bd6c93b8d5e53756f16a203d74842c93215475c595d78accc7978ed6e43bc",
+    "bytes": 1085
+  },
+  {
+    "path": "private/downloads/final/600183.SSE/bars.csv",
+    "sha256": "85c758232f9e4dca55fea58eb8a35b6d499f147152a97d44c804c31fa9f35cac",
+    "bytes": 488509
+  },
+  {
+    "path": "private/downloads/final/600183.SSE/dividends_2026.csv",
+    "sha256": "8b5d97a62405eb7bf7692037c0d404997ce73b915d53a63bb0be4490355ca275",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/600188.SSE/adjustments.csv",
+    "sha256": "d248eccfe2b736c5ac61675742909278e919d434b8557895dd87d75b7e408f54",
+    "bytes": 1173
+  },
+  {
+    "path": "private/downloads/final/600188.SSE/bars.csv",
+    "sha256": "46742a597678f0fd81cdc777223fb8ede0cb551eb002f7a0ff0a320f18f70d12",
+    "bytes": 493071
+  },
+  {
+    "path": "private/downloads/final/600188.SSE/dividends_2026.csv",
+    "sha256": "2db056d6b920c1da11f818cde6261931ef45d6ea9065633a64fbaa09fe130b6d",
+    "bytes": 527
+  },
+  {
+    "path": "private/downloads/final/600196.SSE/adjustments.csv",
+    "sha256": "aad89e922be598a6c553663083e13708ef9731de4cafd229c8a0c5019ea03af6",
+    "bytes": 1014
+  },
+  {
+    "path": "private/downloads/final/600196.SSE/bars.csv",
+    "sha256": "41846983045b8f15e4608e1e19813a3458afe550b9ec41b5264966cc977cdcf7",
+    "bytes": 496459
+  },
+  {
+    "path": "private/downloads/final/600196.SSE/dividends_2026.csv",
+    "sha256": "4f4f484cab5a5a96cb9a921604ef3f970a36639b9a8975093a8bc70a19229177",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/600219.SSE/adjustments.csv",
+    "sha256": "10c05c322af3e02c4d384f35081a5b5d83047697586882796170aea23ea704d3",
+    "bytes": 1221
+  },
+  {
+    "path": "private/downloads/final/600219.SSE/bars.csv",
+    "sha256": "58642bde97d638b67de74dc585fc342773dc86eda797028ca35415689cc011d3",
+    "bytes": 475898
+  },
+  {
+    "path": "private/downloads/final/600219.SSE/dividends_2026.csv",
+    "sha256": "6ec7abb90b0bcefa359734aff617631a96ee3cc46128e6be194c7eef0833587e",
+    "bytes": 557
+  },
+  {
+    "path": "private/downloads/final/600221.SSE/adjustments.csv",
+    "sha256": "fd1d1eeecf74c02ea6e5b8d6cae7a5f56aeacff504b03a7358b4f19c6e8523e5",
+    "bytes": 357
+  },
+  {
+    "path": "private/downloads/final/600221.SSE/bars.csv",
+    "sha256": "012f1a734f2375c56ef81b952bdf937ddf4ac417139a0ef63d05845d166d6de9",
+    "bytes": 472399
+  },
+  {
+    "path": "private/downloads/final/600221.SSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/600233.SSE/adjustments.csv",
+    "sha256": "8f237cb1f9351363cbd77aa2b29587b9548cb4d849fed1f1cbe1b6e3bc4fa01d",
+    "bytes": 1029
+  },
+  {
+    "path": "private/downloads/final/600233.SSE/bars.csv",
+    "sha256": "2e5b5519b70908fd29168b19f29248f1384f349fb6930800a849957b6a6ded26",
+    "bytes": 487356
+  },
+  {
+    "path": "private/downloads/final/600233.SSE/dividends_2026.csv",
+    "sha256": "3bfff4e1b02b25b771cbb80faeb0783dc6dc3a34827dc051265a989f25e820e3",
+    "bytes": 545
+  },
+  {
+    "path": "private/downloads/final/600276.SSE/adjustments.csv",
+    "sha256": "6658f8746d1a98ee2b168f6311964b7c63a580c29bc2ab2883640660a2da386e",
+    "bytes": 1108
+  },
+  {
+    "path": "private/downloads/final/600276.SSE/bars.csv",
+    "sha256": "3f362666a6eab43a4ca0cb6e6bd5faeb7f8f3b0718ca5bd5c74b93d8cdf29d29",
+    "bytes": 497744
+  },
+  {
+    "path": "private/downloads/final/600276.SSE/dividends_2026.csv",
+    "sha256": "73d3dad59802a5fbe2fef14217300a111b69a0c2a83c85cfd62b8d15841a34b5",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/600309.SSE/adjustments.csv",
+    "sha256": "8e5b4a4d9a008653d1988dd7907e9e1e880e95ab0d93480323edf9e9e6472a32",
+    "bytes": 1119
+  },
+  {
+    "path": "private/downloads/final/600309.SSE/bars.csv",
+    "sha256": "293484ea6d0524067d24816d61896ca529df92bcfea00944d6fe76f75f349b4e",
+    "bytes": 496668
+  },
+  {
+    "path": "private/downloads/final/600309.SSE/dividends_2026.csv",
+    "sha256": "7d13d96111e1532afc64c5461c0f7471abd3f4d915f83293492a7c56a4ee7125",
+    "bytes": 548
+  },
+  {
+    "path": "private/downloads/final/600346.SSE/adjustments.csv",
+    "sha256": "21550f0dcf17d123c01b1f45c280cdfc3542ab51fed6df7c1185fda2f326895f",
+    "bytes": 789
+  },
+  {
+    "path": "private/downloads/final/600346.SSE/bars.csv",
+    "sha256": "da5f12a9b99c489c64ef24f610720aa9d4646fd10e7a95fbb89900b7be903afa",
+    "bytes": 478463
+  },
+  {
+    "path": "private/downloads/final/600346.SSE/dividends_2026.csv",
+    "sha256": "60c8c6c289dd92c6acfec3bf2ed65a29fcd061fce2410f72c3554bb79a5b2f86",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/600362.SSE/adjustments.csv",
+    "sha256": "7b0a3e39d4585ebf26c4c1c973087dc43a0a92a97de9cf96f47e26089fdd9b9d",
+    "bytes": 1077
+  },
+  {
+    "path": "private/downloads/final/600362.SSE/bars.csv",
+    "sha256": "7eb62ed0ccb462e5144f15e3443384c219eb21aa8fbe79797654c26916219d7d",
+    "bytes": 498229
+  },
+  {
+    "path": "private/downloads/final/600362.SSE/dividends_2026.csv",
+    "sha256": "30dbd116af023d256f3e632588f9f9af80ab58d86122d06fbbb79bcd6f01d30d",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/600372.SSE/adjustments.csv",
+    "sha256": "6d23a098ea78a558c1cc5d87b0bf56aa99a04c9272671054f8bfa7c031f4f3a4",
+    "bytes": 981
+  },
+  {
+    "path": "private/downloads/final/600372.SSE/bars.csv",
+    "sha256": "364633fbd382b93d7dfa3d2738e1ab681e5ddbb4361e1ea63c13c5b7bede73c8",
+    "bytes": 482120
+  },
+  {
+    "path": "private/downloads/final/600372.SSE/dividends_2026.csv",
+    "sha256": "b1d907cb4bd2d49de2871063378dd8a4ca65e0b6a76841fe7b8531a9236166f8",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/600406.SSE/adjustments.csv",
+    "sha256": "5668b78cf85e02e890ef2ced5bb82392ac92957faaa6ab1911db215b4627a2d2",
+    "bytes": 1211
+  },
+  {
+    "path": "private/downloads/final/600406.SSE/bars.csv",
+    "sha256": "064e8f30064fd637ea945a04512bf75a1a30a1a3684fbf1a109394e03d0ac97f",
+    "bytes": 493942
+  },
+  {
+    "path": "private/downloads/final/600406.SSE/dividends_2026.csv",
+    "sha256": "3e039a4ae9d79a1ce8e03a48e6b0961dfbe46136f9d941f7ca02eb7e11a5be80",
+    "bytes": 547
+  },
+  {
+    "path": "private/downloads/final/600415.SSE/adjustments.csv",
+    "sha256": "33e75c144de10b5397d2f48e2c0481455d4292a670de90d5f2a5a77188caa6f7",
+    "bytes": 1063
+  },
+  {
+    "path": "private/downloads/final/600415.SSE/bars.csv",
+    "sha256": "54e8ea640213309d10f4550f76a49e90f28753e082570bbe092acd7b6539882b",
+    "bytes": 480607
+  },
+  {
+    "path": "private/downloads/final/600415.SSE/dividends_2026.csv",
+    "sha256": "8bc9cf5bf63f1885d83455de5466ca5edb125cf41f279d2824b16ef284b5c1c6",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/600426.SSE/adjustments.csv",
+    "sha256": "b057382b22cfca063be5da79412eb83adf9e5bb4292a88797624d864c3e5241c",
+    "bytes": 983
+  },
+  {
+    "path": "private/downloads/final/600426.SSE/bars.csv",
+    "sha256": "9ff1f348aacfff3b2e87547f6745f8b5451cd39cd52705527fa91cea5c490cef",
+    "bytes": 491903
+  },
+  {
+    "path": "private/downloads/final/600426.SSE/dividends_2026.csv",
+    "sha256": "eb3fb6e7e97180d92c035bbce21b98a1b1ceb13a3317b9379540e6b4d70ab738",
+    "bytes": 412
+  },
+  {
+    "path": "private/downloads/final/600436.SSE/adjustments.csv",
+    "sha256": "4d96ee030ab96df3ac49ad1b3d5003850fcc391454a8665217e5b0e3f7c74be1",
+    "bytes": 1125
+  },
+  {
+    "path": "private/downloads/final/600436.SSE/bars.csv",
+    "sha256": "36ce9a5c119e5d76a722bff310328e14cae78c57548308a0608944a949cf20be",
+    "bytes": 503395
+  },
+  {
+    "path": "private/downloads/final/600436.SSE/dividends_2026.csv",
+    "sha256": "645a03215e12d175979caf94b2712762a48f0270dd20a29ed7bbb52a2838b201",
+    "bytes": 393
+  },
+  {
+    "path": "private/downloads/final/600438.SSE/adjustments.csv",
+    "sha256": "867484e8ac1159c398e6a6a4e4e1178f9e3893b829897b8ec755063b833ff849",
+    "bytes": 697
+  },
+  {
+    "path": "private/downloads/final/600438.SSE/bars.csv",
+    "sha256": "4c08c33a040b682746080bc6a29eb22b6d385c88d1edc73c530c3c5912ef5cb4",
+    "bytes": 484108
+  },
+  {
+    "path": "private/downloads/final/600438.SSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/600460.SSE/adjustments.csv",
+    "sha256": "4f59c310e2c1ae4663a803368950f7bbe6f5eac30cd2b88f4d0851e86bc1f0b2",
+    "bytes": 812
+  },
+  {
+    "path": "private/downloads/final/600460.SSE/bars.csv",
+    "sha256": "8f6edfab86b240dfe794215ede801cd16659918dc3c8e113dab8e25e67c17ce7",
+    "bytes": 486101
+  },
+  {
+    "path": "private/downloads/final/600460.SSE/dividends_2026.csv",
+    "sha256": "e5463c06b3220842698ee4f953a3567f1207c590dffcb1a7e7f34d0b5ac2a85f",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/600482.SSE/adjustments.csv",
+    "sha256": "1f96ab52db8bfaff6a254cecb63c711e34ec8de60c41ae100fd42a245a7599b7",
+    "bytes": 741
+  },
+  {
+    "path": "private/downloads/final/600482.SSE/bars.csv",
+    "sha256": "3f57c1b3c588bd0297cf48bf0bc218e17f5e46f9c262c9f41149526fcfaaa1ab",
+    "bytes": 488122
+  },
+  {
+    "path": "private/downloads/final/600482.SSE/dividends_2026.csv",
+    "sha256": "5888ace353072722f282253bbaf93cc5da9d8aed670f610a89bd9ab0a80995b7",
+    "bytes": 406
+  },
+  {
+    "path": "private/downloads/final/600489.SSE/adjustments.csv",
+    "sha256": "bcd5db39e9e9d306af1b12f1d119e235f1245dd2bef3e65559dbb92eb230b969",
+    "bytes": 987
+  },
+  {
+    "path": "private/downloads/final/600489.SSE/bars.csv",
+    "sha256": "28cd75a16ba70b23815ddd796750d3cbe20f41e6770c6d19e33558c7ba3ed811",
+    "bytes": 490090
+  },
+  {
+    "path": "private/downloads/final/600489.SSE/dividends_2026.csv",
+    "sha256": "177fffc48d539f54521a768648e40f8f7130620a5cb9ecaa49953bd35dc07d5d",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/600515.SSE/adjustments.csv",
+    "sha256": "4516021cbcdf68cbd56dd6bdb013f63109617f7ef642ad02db40128d7483cef6",
+    "bytes": 213
+  },
+  {
+    "path": "private/downloads/final/600515.SSE/bars.csv",
+    "sha256": "1e98c232cef9dcb8ab75a79c8cdd9c85b22f46101d06aeb2007874d000c5fd99",
+    "bytes": 467762
+  },
+  {
+    "path": "private/downloads/final/600515.SSE/dividends_2026.csv",
+    "sha256": "0237552c96d895acbd9b0c1cdb6035b75e9e98b01d553b05ac8243b8590396ca",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/600519.SSE/adjustments.csv",
+    "sha256": "5e707c0801f9298d299d88f30d0260f45fc6955ba53462f710f5d79688908335",
+    "bytes": 1221
+  },
+  {
+    "path": "private/downloads/final/600519.SSE/bars.csv",
+    "sha256": "28d0315dc8dce5c2263e32996fe79388086c23d59cb30670d652701c3fb54e21",
+    "bytes": 528453
+  },
+  {
+    "path": "private/downloads/final/600519.SSE/dividends_2026.csv",
+    "sha256": "696fd69495126a23b459d4029fbadd5ca86f037a786ba68eb7acff12beb7e4ef",
+    "bytes": 415
+  },
+  {
+    "path": "private/downloads/final/600522.SSE/adjustments.csv",
+    "sha256": "deebe296a27dfb74b096e70715319eed93f70c4cdd91db497855f1b16caf1f3d",
+    "bytes": 885
+  },
+  {
+    "path": "private/downloads/final/600522.SSE/bars.csv",
+    "sha256": "5651e1e3c6ab8ccaa2f8d98416f143116a4215d0bf1eabe4f758768e199baa4b",
+    "bytes": 491921
+  },
+  {
+    "path": "private/downloads/final/600522.SSE/dividends_2026.csv",
+    "sha256": "9cff85cad6ca41860d8a8ca1d753d76739c0b22b8b52bf03f6ddca6a9e260642",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/600547.SSE/adjustments.csv",
+    "sha256": "3d2c893115acee4b6f4e9bd8e0ba43e579fe4ebf2fe4df82dffe87cef0233650",
+    "bytes": 1194
+  },
+  {
+    "path": "private/downloads/final/600547.SSE/bars.csv",
+    "sha256": "00530c5cb4f9da1e9b8e83a162b8ffdd36a949ca0765fd51d2a909325476d1c7",
+    "bytes": 495317
+  },
+  {
+    "path": "private/downloads/final/600547.SSE/dividends_2026.csv",
+    "sha256": "cfcefc1a3faf339eff7e60ef2dda46f92614e7f7f7a188202eb6f46795d75ed6",
+    "bytes": 537
+  },
+  {
+    "path": "private/downloads/final/600549.SSE/adjustments.csv",
+    "sha256": "5c0f4514f23f41452185690569ff25facfa5749278f8a77677eb8144341f535a",
+    "bytes": 1099
+  },
+  {
+    "path": "private/downloads/final/600549.SSE/bars.csv",
+    "sha256": "b3462c7aeac2abf60d54dce9f33b7bd16d87f83be01b509737d178456dae2a8a",
+    "bytes": 496154
+  },
+  {
+    "path": "private/downloads/final/600549.SSE/dividends_2026.csv",
+    "sha256": "3fedff68121c7778e6b96592b84bb52ea154cb8500b83a77a09fc324917299b6",
+    "bytes": 537
+  },
+  {
+    "path": "private/downloads/final/600570.SSE/adjustments.csv",
+    "sha256": "d74561d8d800bccf8a9bc520a9365912a63f0ecbe31acbd91135994aa13e6e27",
+    "bytes": 1059
+  },
+  {
+    "path": "private/downloads/final/600570.SSE/bars.csv",
+    "sha256": "9edf5ff6b7f376d87ec48b6175460b32f29e89fe2ad96bd709a538ce0a01c764",
+    "bytes": 496268
+  },
+  {
+    "path": "private/downloads/final/600570.SSE/dividends_2026.csv",
+    "sha256": "80a01bbbe9d155363f0cf1010637899ef238811e701073514de054450de022b0",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/600584.SSE/adjustments.csv",
+    "sha256": "09327daa5db14bf62269b4798fc4ec142dca2e15c2c17f1014e6d1fe00c1b597",
+    "bytes": 885
+  },
+  {
+    "path": "private/downloads/final/600584.SSE/bars.csv",
+    "sha256": "a824fc1b26a45902dd03bd4fe342de626ba54bc0982ede54e2530e4555bae1f2",
+    "bytes": 487179
+  },
+  {
+    "path": "private/downloads/final/600584.SSE/dividends_2026.csv",
+    "sha256": "c4568a9a338d7947e9bb87bb94e94131c402916cfd70ec141c7718739b3d5960",
+    "bytes": 537
+  },
+  {
+    "path": "private/downloads/final/600585.SSE/adjustments.csv",
+    "sha256": "b039e36bf6b59e73480db28b6864da562150328aa92efa23c7bbd460da83147e",
+    "bytes": 1077
+  },
+  {
+    "path": "private/downloads/final/600585.SSE/bars.csv",
+    "sha256": "f0fa09e8ef3c5e975a4976614a356e0e07ee3ac5e159f1beae54aabf41f09947",
+    "bytes": 499006
+  },
+  {
+    "path": "private/downloads/final/600585.SSE/dividends_2026.csv",
+    "sha256": "e17b8390a5c95fa36167f9741186e5624a9a7f5dba2a356e024029bdde6e07c0",
+    "bytes": 545
+  },
+  {
+    "path": "private/downloads/final/600588.SSE/adjustments.csv",
+    "sha256": "adb154be923fc27c98ddef94d0f99a223e8872b50f7e1a4b30e3e529384860b4",
+    "bytes": 911
+  },
+  {
+    "path": "private/downloads/final/600588.SSE/bars.csv",
+    "sha256": "1d1c208dfc77ea58b8593ef65c4ed4f7a84ddca531d9851f5ab5dde95a35e6ad",
+    "bytes": 495547
+  },
+  {
+    "path": "private/downloads/final/600588.SSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/600600.SSE/adjustments.csv",
+    "sha256": "ee9f93f66d780e2e4f36566d2b41eb695f9e0bc38c5ff6aceefee3976cc26774",
+    "bytes": 981
+  },
+  {
+    "path": "private/downloads/final/600600.SSE/bars.csv",
+    "sha256": "64792d129fe2497af209287f7edee6eb926a2dbfa507cdd6aa25a0abecda17b2",
+    "bytes": 494646
+  },
+  {
+    "path": "private/downloads/final/600600.SSE/dividends_2026.csv",
+    "sha256": "cdf4050e1108699c240c68015969bfba759326c7626b14c2b22e2496eb797275",
+    "bytes": 393
+  },
+  {
+    "path": "private/downloads/final/600660.SSE/adjustments.csv",
+    "sha256": "9d521e08934b525e570cb92cc10f41034fc4620366aa3313aac2984e278ac6cc",
+    "bytes": 1218
+  },
+  {
+    "path": "private/downloads/final/600660.SSE/bars.csv",
+    "sha256": "46c6db9562356e29a7317bc387bae9ab06e9ced91e27b8e20e2c3255dd108033",
+    "bytes": 491397
+  },
+  {
+    "path": "private/downloads/final/600660.SSE/dividends_2026.csv",
+    "sha256": "cf345ff16143fe0695db12c645b758a230df198218ba8185126fe0c0768a2267",
+    "bytes": 517
+  },
+  {
+    "path": "private/downloads/final/600674.SSE/adjustments.csv",
+    "sha256": "019dbcd62b178a582f632baf9716cfce5eef23164a4ef313a37a07e5a3e17aa5",
+    "bytes": 1105
+  },
+  {
+    "path": "private/downloads/final/600674.SSE/bars.csv",
+    "sha256": "c77341c0434a6df1c858c7f1b8f9044699c166cb70e682a8c404be67d99cb52b",
+    "bytes": 487280
+  },
+  {
+    "path": "private/downloads/final/600674.SSE/dividends_2026.csv",
+    "sha256": "872a4375371aeb0fce31d38a21d8e0a48e0fdfdc760cb0bd117ae1b674966cb6",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/600690.SSE/adjustments.csv",
+    "sha256": "c12d47c9065952558c20b853bbae8af9339a19105b437fbd8e50ac19551ef89f",
+    "bytes": 1112
+  },
+  {
+    "path": "private/downloads/final/600690.SSE/bars.csv",
+    "sha256": "cdfb07eb2f9cc9e9585aee881644fd1f38270155ad2fab7a3186573d5d0c43b0",
+    "bytes": 493827
+  },
+  {
+    "path": "private/downloads/final/600690.SSE/dividends_2026.csv",
+    "sha256": "1547872da11d0dc38ba2d26efd2f36a7f121114dc698d344c831339810874312",
+    "bytes": 406
+  },
+  {
+    "path": "private/downloads/final/600741.SSE/adjustments.csv",
+    "sha256": "ee17690d753154cb70a24294c69bd8a5f72e050e011508dabf2580fae843c67d",
+    "bytes": 1067
+  },
+  {
+    "path": "private/downloads/final/600741.SSE/bars.csv",
+    "sha256": "24ef9992505fcd7c00cfc8c24be64be2ea3a184fb32ad1cea363308ad27a504d",
+    "bytes": 489609
+  },
+  {
+    "path": "private/downloads/final/600741.SSE/dividends_2026.csv",
+    "sha256": "8ba3cabbede7bd3482b2374948d3f101a5ca7b22b82cf4ee893b1844f88e8f33",
+    "bytes": 377
+  },
+  {
+    "path": "private/downloads/final/600760.SSE/adjustments.csv",
+    "sha256": "71d7cda7ebf93a67e515fe5f32322c81329640646b059fb132b96ab9afe59de2",
+    "bytes": 549
+  },
+  {
+    "path": "private/downloads/final/600760.SSE/bars.csv",
+    "sha256": "35d99f9ae71b56d15ca2f96021b4c9658244af657ccfe0ff09e813a8ea80ac14",
+    "bytes": 484759
+  },
+  {
+    "path": "private/downloads/final/600760.SSE/dividends_2026.csv",
+    "sha256": "0799a893c6203998a7fdebba1f1bf60df9c4e8d3eb558491a8c9522f091b5b72",
+    "bytes": 551
+  },
+  {
+    "path": "private/downloads/final/600795.SSE/adjustments.csv",
+    "sha256": "d722cf3775896d4b9181c865ee63ce95d792b361277942e44fa3b1c235c5a723",
+    "bytes": 1259
+  },
+  {
+    "path": "private/downloads/final/600795.SSE/bars.csv",
+    "sha256": "3fda5aacaa25cc8bf7f841697806aa4fe7ea91575d731ea98d9ed4bf18865e91",
+    "bytes": 475132
+  },
+  {
+    "path": "private/downloads/final/600795.SSE/dividends_2026.csv",
+    "sha256": "c9ce8c4b78c549b4d8c33e0cf10317a3221e86c748d8da049f61e7fdf0029932",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/600803.SSE/adjustments.csv",
+    "sha256": "c2092e19d691831ec4388deb05e985b80ea6780f9dd17eb42d3ddead6e158796",
+    "bytes": 741
+  },
+  {
+    "path": "private/downloads/final/600803.SSE/bars.csv",
+    "sha256": "47e84268293468705236e7d6c67142ed7fd90d797b72b8f4673508002a1f134b",
+    "bytes": 485822
+  },
+  {
+    "path": "private/downloads/final/600803.SSE/dividends_2026.csv",
+    "sha256": "faa7a4974947ffca95de50629708e36d70e6bca90202f31191bbb5638538bf07",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/600809.SSE/adjustments.csv",
+    "sha256": "c64be0b0940eb9e0589b00bd63fe77802adb755fb8768ad7da8296aa9c29cb9d",
+    "bytes": 981
+  },
+  {
+    "path": "private/downloads/final/600809.SSE/bars.csv",
+    "sha256": "27f444cd2ce86d55584d44ebfa00119a96ab171a80858cc342550fde0fdf2438",
+    "bytes": 502326
+  },
+  {
+    "path": "private/downloads/final/600809.SSE/dividends_2026.csv",
+    "sha256": "6000a03d01187ee89b3cc114f7f63ce9d944a1ad99e7d953b157b014bc15dad3",
+    "bytes": 393
+  },
+  {
+    "path": "private/downloads/final/600845.SSE/adjustments.csv",
+    "sha256": "6625d83a86017e8e064855eada50af99aace92888511ca594eedcfd28064f648",
+    "bytes": 1083
+  },
+  {
+    "path": "private/downloads/final/600845.SSE/bars.csv",
+    "sha256": "56c5eaa38a74b898c7b49fde2480fb1fd155f2b17c73f5aa27ab5229ddd5cb0c",
+    "bytes": 489691
+  },
+  {
+    "path": "private/downloads/final/600845.SSE/dividends_2026.csv",
+    "sha256": "e39f1ada88ee88109cdbde53c12bffd148c8571fbdea2e8941d309af195decbf",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/600875.SSE/adjustments.csv",
+    "sha256": "ce081b04eca7bf9241513a5497f60c3edec07bd73b74cf97dfa0f716fa883a5d",
+    "bytes": 885
+  },
+  {
+    "path": "private/downloads/final/600875.SSE/bars.csv",
+    "sha256": "0f4bb565ab0734f521e9220ab967b7a1d188ae1d77bec11e2b33635888eacbca",
+    "bytes": 491987
+  },
+  {
+    "path": "private/downloads/final/600875.SSE/dividends_2026.csv",
+    "sha256": "470dd9a35646cceea5d3502c9aa87863e313829d46348867b62ea8e1f39e38c8",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/600886.SSE/adjustments.csv",
+    "sha256": "d434e44081d1c1e850700ec0e5ede5f127d6999097e4754f2e627bf35f1cfd8a",
+    "bytes": 1117
+  },
+  {
+    "path": "private/downloads/final/600886.SSE/bars.csv",
+    "sha256": "fd1d764a51f40687bbcbd15696baad31b414a3c46418cb33f60380211b87114f",
+    "bytes": 478801
+  },
+  {
+    "path": "private/downloads/final/600886.SSE/dividends_2026.csv",
+    "sha256": "5ca081d31e77f8455363d9c5b66a479ef1366fd5c4ef9dda04a03e5ff6262c75",
+    "bytes": 402
+  },
+  {
+    "path": "private/downloads/final/600887.SSE/adjustments.csv",
+    "sha256": "19f4640e359493af15f4f0e7758406c0fb4cf3a924ff066caa47c3e04a2e536c",
+    "bytes": 1017
+  },
+  {
+    "path": "private/downloads/final/600887.SSE/bars.csv",
+    "sha256": "f95a7902ef543bdb071adbd5833a14dd59bbb686a10d33d448d901780095ea2f",
+    "bytes": 499067
+  },
+  {
+    "path": "private/downloads/final/600887.SSE/dividends_2026.csv",
+    "sha256": "d250681d8c0bb77a50fd4bf067e905ee3031b69cb3a028bf40472338b9ccb088",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/600893.SSE/adjustments.csv",
+    "sha256": "65465ad65540706b9b460297ff9dbbf9e2a41dba3ab33ac0cf5c758153f0f7e7",
+    "bytes": 933
+  },
+  {
+    "path": "private/downloads/final/600893.SSE/bars.csv",
+    "sha256": "44a7e13c3255448ae2b444f8a51cf1a19c4b4449de0ec18f4106d086eed77638",
+    "bytes": 488731
+  },
+  {
+    "path": "private/downloads/final/600893.SSE/dividends_2026.csv",
+    "sha256": "875445ddabdac9837c22105cd1c55f3cfa85e7661454ab23f159a3e42360b34b",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/600900.SSE/adjustments.csv",
+    "sha256": "995ca694069cdf143ae1d182038fe7590ce66a86e4b387f87326c996ed101333",
+    "bytes": 1077
+  },
+  {
+    "path": "private/downloads/final/600900.SSE/bars.csv",
+    "sha256": "7f07ebd39862a7917c49c4e7c716e5741c7e4e2590986ce4141281e88ee58c4c",
+    "bytes": 485348
+  },
+  {
+    "path": "private/downloads/final/600900.SSE/dividends_2026.csv",
+    "sha256": "f8de99040b5e094ea8b537cddcd05e0fe109259b0c7c94323452dfe2f0bb7ca0",
+    "bytes": 535
+  },
+  {
+    "path": "private/downloads/final/600905.SSE/adjustments.csv",
+    "sha256": "87e3df7c63df8cd79fd83242f3d8fd8e23a85f2406fb6ff8e28c1f7c554b56b2",
+    "bytes": 405
+  },
+  {
+    "path": "private/downloads/final/600905.SSE/bars.csv",
+    "sha256": "6d1757235d96814586037ea6c747b9ca6c90acb64e4771d2684be0a080af60dd",
+    "bytes": 135943
+  },
+  {
+    "path": "private/downloads/final/600905.SSE/dividends_2026.csv",
+    "sha256": "554714fba2d2135c2877657f7db0bbd697a6c8eb441b83a898fd62dcb01be60a",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/600918.SSE/adjustments.csv",
+    "sha256": "e7d28cdf6ee4f51c9465753bc3c7c24286327169c3d5801920514c0f40567900",
+    "bytes": 453
+  },
+  {
+    "path": "private/downloads/final/600918.SSE/bars.csv",
+    "sha256": "6a88d7d855c8e2a02399c62f3b017d56e48d9982e522e689be79098ac7130aae",
+    "bytes": 162265
+  },
+  {
+    "path": "private/downloads/final/600918.SSE/dividends_2026.csv",
+    "sha256": "b4022228b15056a9ef030183c80be7563de59a26df3fe9b6602ddfe8b86d0596",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/600919.SSE/adjustments.csv",
+    "sha256": "caa1dc3af224806efc53e848a204527fbf0e00231bfb4bb8bb4d0e5605825827",
+    "bytes": 741
+  },
+  {
+    "path": "private/downloads/final/600919.SSE/bars.csv",
+    "sha256": "a101365f7ca643f9d738e0dbb0b61457554e52525c87faf74b132a25c13e1473",
+    "bytes": 261495
+  },
+  {
+    "path": "private/downloads/final/600919.SSE/dividends_2026.csv",
+    "sha256": "c54ddd11bde6da3e852ade7b705704d0e38b8a6389a9514b602e34cde4a9a387",
+    "bytes": 559
+  },
+  {
+    "path": "private/downloads/final/600926.SSE/adjustments.csv",
+    "sha256": "695fca59010c5cccc254256714cdb62a6561807dc52d7c0a5bd87da7f514a6c8",
+    "bytes": 741
+  },
+  {
+    "path": "private/downloads/final/600926.SSE/bars.csv",
+    "sha256": "0b79aa3c44c8519b4bc9c2a9973561475f5efafa466bcd593e920b064211dc7a",
+    "bytes": 261402
+  },
+  {
+    "path": "private/downloads/final/600926.SSE/dividends_2026.csv",
+    "sha256": "fe9edca5ec616bb9febfcf9ac5faecbc9f46eef9b7536df164d530b1ee03a455",
+    "bytes": 535
+  },
+  {
+    "path": "private/downloads/final/600930.SSE/adjustments.csv",
+    "sha256": "5318acae398d64b0b62ab6201c38b7ddeabf7d0e89508f55e34d5c72f912366b",
+    "bytes": 213
+  },
+  {
+    "path": "private/downloads/final/600930.SSE/bars.csv",
+    "sha256": "d32215df8f74d7b00e1f91095404318bb049123fb55575e2a96487fd07293cb1",
+    "bytes": 31332
+  },
+  {
+    "path": "private/downloads/final/600930.SSE/dividends_2026.csv",
+    "sha256": "3aeb1d291c3bfdb94441e3712f76ba3053000749df94c4a4a9d45f7f18e99521",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/600938.SSE/adjustments.csv",
+    "sha256": "7e8c39dcaa37c9c1ce180f0bb8ad423e20ddcfac731ef410069a548f31f40d57",
+    "bytes": 597
+  },
+  {
+    "path": "private/downloads/final/600938.SSE/bars.csv",
+    "sha256": "e1a0c6512eb5bc4ebbbefb30c5ee44e8f1f4c41bc02b5811c9463dcdc9edd00e",
+    "bytes": 119007
+  },
+  {
+    "path": "private/downloads/final/600938.SSE/dividends_2026.csv",
+    "sha256": "a548d16e5ab1493308c6177f8ca4343fb7fb1d1515f1885e3f1a38d6eeb37c62",
+    "bytes": 567
+  },
+  {
+    "path": "private/downloads/final/600941.SSE/adjustments.csv",
+    "sha256": "1cab5dd77652ba6140950ffbb8e11ebc8ef3d1ef97bfd49d685c861e4a49537a",
+    "bytes": 597
+  },
+  {
+    "path": "private/downloads/final/600941.SSE/bars.csv",
+    "sha256": "2c9de5302d01a430cb9daaaa55b2ca1b652ad71daa12fbe58351d587fc1e82bb",
+    "bytes": 128272
+  },
+  {
+    "path": "private/downloads/final/600941.SSE/dividends_2026.csv",
+    "sha256": "486fc6b17baa0021a98c78820819820001e854d3142e2a243cffd325f4685526",
+    "bytes": 553
+  },
+  {
+    "path": "private/downloads/final/600958.SSE/adjustments.csv",
+    "sha256": "7c4cd6565910966b644eb8fd67798bc503b6d98b18954ada7d259f9a9433df91",
+    "bytes": 885
+  },
+  {
+    "path": "private/downloads/final/600958.SSE/bars.csv",
+    "sha256": "b5b910efd98ef50cc25627990c94f3d393a490fd1e3f9e859686b6044b02c493",
+    "bytes": 301648
+  },
+  {
+    "path": "private/downloads/final/600958.SSE/dividends_2026.csv",
+    "sha256": "a0fa3f3cf9c2af1018b00dc56a11a96dd9ca6881e74ffef0a3eaf874690dc151",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/600989.SSE/adjustments.csv",
+    "sha256": "c95a32f9fb060cc6c54c74ca62139cdf776cd0ae39f4a6578feda074f8f2158f",
+    "bytes": 645
+  },
+  {
+    "path": "private/downloads/final/600989.SSE/bars.csv",
+    "sha256": "327ebfc1411b6e8d7e69a2299da202449b17dc74a9093dc560044cb856b9691f",
+    "bytes": 195644
+  },
+  {
+    "path": "private/downloads/final/600989.SSE/dividends_2026.csv",
+    "sha256": "c5ace43577d5c404225a35b009d9bceeb1eaee641538dc2f571a657b38e51fab",
+    "bytes": 535
+  },
+  {
+    "path": "private/downloads/final/600999.SSE/adjustments.csv",
+    "sha256": "e0ae669b4c846668c26ca950e08f3fdc817dd07b0c65da67806e9029ad6903c1",
+    "bytes": 1221
+  },
+  {
+    "path": "private/downloads/final/600999.SSE/bars.csv",
+    "sha256": "38066d8bb1f89058e49b1c0a29ba0e287c1c15bd1cebecaf3fcb75c71cfb619b",
+    "bytes": 447428
+  },
+  {
+    "path": "private/downloads/final/600999.SSE/dividends_2026.csv",
+    "sha256": "0e4157a2667a837cf4115e3b6a6e940ff4216210f95bd9e24dc13c4103f70467",
+    "bytes": 547
+  },
+  {
+    "path": "private/downloads/final/601006.SSE/adjustments.csv",
+    "sha256": "fbbef3d83c849f9489dce6387e91ec1d614b08d4b2833e657013b43e5d8dd0c1",
+    "bytes": 1077
+  },
+  {
+    "path": "private/downloads/final/601006.SSE/bars.csv",
+    "sha256": "b0a63553acf537849d596ad4ebdf361e6e58f0898e47a5b35edbc76cb480f937",
+    "bytes": 479066
+  },
+  {
+    "path": "private/downloads/final/601006.SSE/dividends_2026.csv",
+    "sha256": "94d6c9bd06e6d3254b91c94b0b194b40c84c749c0692e390bc48f1b76d3eafab",
+    "bytes": 406
+  },
+  {
+    "path": "private/downloads/final/601009.SSE/adjustments.csv",
+    "sha256": "67282f2352a6751462bc8a8533d10a0da584aa168c0dd3b7f97c42ae98828c0f",
+    "bytes": 1125
+  },
+  {
+    "path": "private/downloads/final/601009.SSE/bars.csv",
+    "sha256": "29cf289202f2f642698b9e0b9eb17b37bded93f71318e5b3196c3a0c41bb1b58",
+    "bytes": 486082
+  },
+  {
+    "path": "private/downloads/final/601009.SSE/dividends_2026.csv",
+    "sha256": "55ee5c2956ab36cd4a225accecf1b2fb5e05f1f9aee36871924d85df3fc29da6",
+    "bytes": 406
+  },
+  {
+    "path": "private/downloads/final/601012.SSE/adjustments.csv",
+    "sha256": "7fbe474a4efb2ca9fbf0cee9bf7f53c3a56b344e3e155f824963dac0a2bfe0aa",
+    "bytes": 797
+  },
+  {
+    "path": "private/downloads/final/601012.SSE/bars.csv",
+    "sha256": "3ffe365b96e0a47a52399e042eb19382f7df9c1d06d9b519d2e653eff9f8b127",
+    "bytes": 384664
+  },
+  {
+    "path": "private/downloads/final/601012.SSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/601018.SSE/adjustments.csv",
+    "sha256": "b8d91736dd990a053c06f9a4e21a83889d1cf07df9a4f4a568dd4dca61ca8007",
+    "bytes": 1029
+  },
+  {
+    "path": "private/downloads/final/601018.SSE/bars.csv",
+    "sha256": "f50f287c0bd34e4ae2dc5b402776e76a3530d329c61c4f83f6ea6763cf81475c",
+    "bytes": 400791
+  },
+  {
+    "path": "private/downloads/final/601018.SSE/dividends_2026.csv",
+    "sha256": "3e85bb5b0ca2046fa6cb5b16fb7d207b32ce91d21a26b022fee435d47a833720",
+    "bytes": 551
+  },
+  {
+    "path": "private/downloads/final/601021.SSE/adjustments.csv",
+    "sha256": "5fc6e26cf4c572636e1ee30c79cc2d7aaf47f721e32c889b5976aec56a17e448",
+    "bytes": 693
+  },
+  {
+    "path": "private/downloads/final/601021.SSE/bars.csv",
+    "sha256": "4ca4ca4f5fb498c018146bfb7e619fc3dfef7c7c31425d246f379b0bb1a1cfd8",
+    "bytes": 308209
+  },
+  {
+    "path": "private/downloads/final/601021.SSE/dividends_2026.csv",
+    "sha256": "6f8a549534468380bc74e2b027759189f9bd4c0fff26cf3139a0a2114183e585",
+    "bytes": 535
+  },
+  {
+    "path": "private/downloads/final/601058.SSE/adjustments.csv",
+    "sha256": "3252c7b84f8592233cd6312f0534e3187e3a6495630d1d46aaabae4e6e6205ba",
+    "bytes": 981
+  },
+  {
+    "path": "private/downloads/final/601058.SSE/bars.csv",
+    "sha256": "7f160b2f0305cbc50a691ab7a3ed09d1d773d14e54463adb34c3d98e76cbab77",
+    "bytes": 392326
+  },
+  {
+    "path": "private/downloads/final/601058.SSE/dividends_2026.csv",
+    "sha256": "b7f59afe8169034008350aaa9100fd134fd98d074b6889d6cf3252a188ff261d",
+    "bytes": 535
+  },
+  {
+    "path": "private/downloads/final/601059.SSE/adjustments.csv",
+    "sha256": "fcb5810110790dd6d380b22cdf0c9cc3758313b1e9c5897c5037f088806c0fc2",
+    "bytes": 405
+  },
+  {
+    "path": "private/downloads/final/601059.SSE/bars.csv",
+    "sha256": "f08d63106e17f4add9151b88ff35045aa999dbd5705cbb5ab5d256bc395cb731",
+    "bytes": 96804
+  },
+  {
+    "path": "private/downloads/final/601059.SSE/dividends_2026.csv",
+    "sha256": "dcad8155962513a12822fada5b5eeb4512d82164d4bbd316183225e30387390e",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/601066.SSE/adjustments.csv",
+    "sha256": "e0f2375006ac193fa77ab5fc06ef520aba4770624cc339034efd82ccde0c6300",
+    "bytes": 645
+  },
+  {
+    "path": "private/downloads/final/601066.SSE/bars.csv",
+    "sha256": "60db5701c13d8d287c81e18b4893165b34d671ab82e4eb6f0f79ad41da54b6ef",
+    "bytes": 220338
+  },
+  {
+    "path": "private/downloads/final/601066.SSE/dividends_2026.csv",
+    "sha256": "20ff9515d860bb7cb89aceb6d5c376ba82d1ac613086cd0a69bce199b65cb808",
+    "bytes": 557
+  },
+  {
+    "path": "private/downloads/final/601077.SSE/adjustments.csv",
+    "sha256": "3e9ad1b334046a4a151be8b5c1680582b3a6d3b977f3008367af08e62ead43af",
+    "bytes": 549
+  },
+  {
+    "path": "private/downloads/final/601077.SSE/bars.csv",
+    "sha256": "e8188865981914c2e7c29f82cecb5d7c2e4ab3b041bc144b0f21cdaf06d0ae2f",
+    "bytes": 175755
+  },
+  {
+    "path": "private/downloads/final/601077.SSE/dividends_2026.csv",
+    "sha256": "2af4bf347199913ca72c42a2e57baac8ce6085f9642da62d7424d83b9dd1bd5a",
+    "bytes": 565
+  },
+  {
+    "path": "private/downloads/final/601088.SSE/adjustments.csv",
+    "sha256": "ffad47d9e215b459f0f84ba212fa8c57b790596e7b0dcbb2fd9a3dd8a83b95ad",
+    "bytes": 1029
+  },
+  {
+    "path": "private/downloads/final/601088.SSE/bars.csv",
+    "sha256": "f6278796e5fc4e3b0a04d2f01fb298fabfee6bb369d0f0f7be0debe8b5f3653f",
+    "bytes": 497847
+  },
+  {
+    "path": "private/downloads/final/601088.SSE/dividends_2026.csv",
+    "sha256": "143af56c141a725d56fa0695812e17985a9515c97d62ebf067d377fd3d30e0ed",
+    "bytes": 392
+  },
+  {
+    "path": "private/downloads/final/601100.SSE/adjustments.csv",
+    "sha256": "76de7fe429de4dd132eb2736ee628b0cae971b59b042fecdc09dbb56d9fe10d3",
+    "bytes": 885
+  },
+  {
+    "path": "private/downloads/final/601100.SSE/bars.csv",
+    "sha256": "4d3456584c6425aade4f600ddbd33143c823c8eff39a4f3f4254d454e183facc",
+    "bytes": 391839
+  },
+  {
+    "path": "private/downloads/final/601100.SSE/dividends_2026.csv",
+    "sha256": "19154d750f5c69d4b3ab86ab365a0aa8b8b1470051281899bb0a9f5a36372114",
+    "bytes": 527
+  },
+  {
+    "path": "private/downloads/final/601111.SSE/adjustments.csv",
+    "sha256": "141563513b9d712768d28c436676565a5e1497ff4e38963b3910f4cae1f11243",
+    "bytes": 597
+  },
+  {
+    "path": "private/downloads/final/601111.SSE/bars.csv",
+    "sha256": "86b6587e6c89695ba961ecb8dc98c4f7c007461cd6121c62c5eede4eaff12d08",
+    "bytes": 479533
+  },
+  {
+    "path": "private/downloads/final/601111.SSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/601117.SSE/adjustments.csv",
+    "sha256": "6bb14749293ec6fb25514207a67fbb5f629120cb91785ce4cb880d8b20200d3a",
+    "bytes": 933
+  },
+  {
+    "path": "private/downloads/final/601117.SSE/bars.csv",
+    "sha256": "9cb3a12e2fcf0c7588553da7f532e19f66358d780128a3c10eb5a8bae588cef4",
+    "bytes": 426043
+  },
+  {
+    "path": "private/downloads/final/601117.SSE/dividends_2026.csv",
+    "sha256": "f1056b8e4365f1e3619974fa4f5798e29eb42aa59e5d1884e5f22f0cd2ac6163",
+    "bytes": 543
+  },
+  {
+    "path": "private/downloads/final/601127.SSE/adjustments.csv",
+    "sha256": "aca0dc88862f9d431d8a28d6716c6e139cdc25fa8beb7fa3cf213838a9b0abab",
+    "bytes": 501
+  },
+  {
+    "path": "private/downloads/final/601127.SSE/bars.csv",
+    "sha256": "0ee75bd3b39eaa1614493bc21f4fabcd37ebefd935a3141eb74a3501e9116f4e",
+    "bytes": 273687
+  },
+  {
+    "path": "private/downloads/final/601127.SSE/dividends_2026.csv",
+    "sha256": "300a23f2f836a109cea6717ce3ffcd3947926d276092ffdebc1a708ea7e97b3a",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/601136.SSE/adjustments.csv",
+    "sha256": "ccfdafd9f7219a8d542b53dd697c7cb22b30592fb5908c1b7ee30ece8f38ab5b",
+    "bytes": 405
+  },
+  {
+    "path": "private/downloads/final/601136.SSE/bars.csv",
+    "sha256": "39993131bd0e99dc7fa015c7b42f1dec3ba0a0fd2a859a20f77a17ea0f1fb24b",
+    "bytes": 100739
+  },
+  {
+    "path": "private/downloads/final/601136.SSE/dividends_2026.csv",
+    "sha256": "af4f077063743953edc42984d2407c417df8cfd326a65e94733d687957835e5b",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/601138.SSE/adjustments.csv",
+    "sha256": "e7b8439b41342972990f79f94126cd4eb6b6bb045d5f22895c616f067d009e85",
+    "bytes": 549
+  },
+  {
+    "path": "private/downloads/final/601138.SSE/bars.csv",
+    "sha256": "73236bbf82672417e8ad491f5320fc81caddcfa1f7689c9addd068ce9417585a",
+    "bytes": 222041
+  },
+  {
+    "path": "private/downloads/final/601138.SSE/dividends_2026.csv",
+    "sha256": "0e2e2eb0040ce29037f967325175ed69dfb5e224862c4c438b16a6c613a294f8",
+    "bytes": 545
+  },
+  {
+    "path": "private/downloads/final/601166.SSE/adjustments.csv",
+    "sha256": "5321c07b46fa95a380ac511789eb2173facc2af4b55044268854ccd82614fcf0",
+    "bytes": 1077
+  },
+  {
+    "path": "private/downloads/final/601166.SSE/bars.csv",
+    "sha256": "ca41377eb7a91da8a2d6811f79d1e8bd7016afd172fb7896e033de0ff1582bea",
+    "bytes": 501449
+  },
+  {
+    "path": "private/downloads/final/601166.SSE/dividends_2026.csv",
+    "sha256": "41fe12895d2202cc40c979ea58c7fa9945fa893fa627c3abb002ada24c2a76df",
+    "bytes": 557
+  },
+  {
+    "path": "private/downloads/final/601169.SSE/adjustments.csv",
+    "sha256": "03a834bb381069fb017a76883f132be65bc9d6171ea7e5d1f9c3d8e9e5581955",
+    "bytes": 1029
+  },
+  {
+    "path": "private/downloads/final/601169.SSE/bars.csv",
+    "sha256": "951348ec6202676a971cf717970a0842c23d0ff4fcbbcaf35377f968ca762789",
+    "bytes": 481358
+  },
+  {
+    "path": "private/downloads/final/601169.SSE/dividends_2026.csv",
+    "sha256": "9f409d308c67ca8ccba91c3ce18a99e926e660122ad685f954692a45b8263ce1",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/601186.SSE/adjustments.csv",
+    "sha256": "2fffff904c8a555150273f31d238fd2f08e79da3f6a38f280139c6fff0a3b19d",
+    "bytes": 1077
+  },
+  {
+    "path": "private/downloads/final/601186.SSE/bars.csv",
+    "sha256": "6df693021759e31203d1fb0323896331a4ae54224c6bef71961cb311ccd21880",
+    "bytes": 478018
+  },
+  {
+    "path": "private/downloads/final/601186.SSE/dividends_2026.csv",
+    "sha256": "5dc2564064f2166019ce7520d70af31bb15b4e72643ff2a4516187618f7724bd",
+    "bytes": 475
+  },
+  {
+    "path": "private/downloads/final/601211.SSE/adjustments.csv",
+    "sha256": "61b8efa9a250a3e9c0038ebd676b3b75e9c7f5edc3330e211ce944ab3cf87db4",
+    "bytes": 789
+  },
+  {
+    "path": "private/downloads/final/601211.SSE/bars.csv",
+    "sha256": "13fbc9e5fe4ecf4f6404c323db7f008aeb3cabe8d298f87eb5c571d2d63bdd45",
+    "bytes": 300243
+  },
+  {
+    "path": "private/downloads/final/601211.SSE/dividends_2026.csv",
+    "sha256": "60d5ad3cd29abfc4d38f347cdbf08edfb9ba066a56a654d6688f27fbbdc41dd4",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/601225.SSE/adjustments.csv",
+    "sha256": "95e4c7b0c507890450d142c1bb6a20eb745a96dcd28481fa244d6bf47b6dcab9",
+    "bytes": 837
+  },
+  {
+    "path": "private/downloads/final/601225.SSE/bars.csv",
+    "sha256": "0dd23494a0ca9924e675d62c976725dbd0d7a49d60a36ab4b22c94abab20ffc4",
+    "bytes": 329903
+  },
+  {
+    "path": "private/downloads/final/601225.SSE/dividends_2026.csv",
+    "sha256": "f1aca87ec671516dafd47cbff28863f8abcf4069c8503557f9c5c6abf7c77be6",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/601229.SSE/adjustments.csv",
+    "sha256": "95fe0b764dcb4ddef84f650c3c89a8a5354d60a97dc3cc21e0f5aff0c96737bf",
+    "bytes": 693
+  },
+  {
+    "path": "private/downloads/final/601229.SSE/bars.csv",
+    "sha256": "a9df4e40a5bea8ef985d6ff3295d20e47ad42f45c32ad4d5c4f59ac86940e7a9",
+    "bytes": 254433
+  },
+  {
+    "path": "private/downloads/final/601229.SSE/dividends_2026.csv",
+    "sha256": "c26f6ae457866dd93797cafbdd7e1af80274e4c644c86d69fb0ff8429c6233d8",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/601238.SSE/adjustments.csv",
+    "sha256": "36b36e40cd58d992d39a2019a25c0017aafd149e9c2b3e318b0e6b3e9c8a2f9f",
+    "bytes": 1413
+  },
+  {
+    "path": "private/downloads/final/601238.SSE/bars.csv",
+    "sha256": "28d579ca0e298fd07a36fe788e3dff8722d28b562bad9af6b7e737cdf8c89239",
+    "bytes": 375570
+  },
+  {
+    "path": "private/downloads/final/601238.SSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/601288.SSE/adjustments.csv",
+    "sha256": "6a1827e0c9618d68a90940aa6fdb7ee7b1826190740027834ba3e2b545973953",
+    "bytes": 981
+  },
+  {
+    "path": "private/downloads/final/601288.SSE/bars.csv",
+    "sha256": "28ccf53578e2e3ebf391b6ca5c17e69db78cdf759e0f699e8652248c4b337410",
+    "bytes": 415966
+  },
+  {
+    "path": "private/downloads/final/601288.SSE/dividends_2026.csv",
+    "sha256": "d31f49bb0d2e7208c3ef00ed4bbf239b65f0f55c605d0a079ab48fb7af0028a9",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/601318.SSE/adjustments.csv",
+    "sha256": "ce93e658506dd7d11ee5d2b61180b98028b6f8acf0e63b8e06bd45ae0ac712d1",
+    "bytes": 1845
+  },
+  {
+    "path": "private/downloads/final/601318.SSE/bars.csv",
+    "sha256": "2809a8e3620ae2f9bb4ef5491ef124fc00b5d137906880e25f4f4a9dcf03070f",
+    "bytes": 502264
+  },
+  {
+    "path": "private/downloads/final/601318.SSE/dividends_2026.csv",
+    "sha256": "36aa6389157d9e168df90bdefc3ca17495af8210c5ed9c2fd0aff2fdece2cd31",
+    "bytes": 711
+  },
+  {
+    "path": "private/downloads/final/601319.SSE/adjustments.csv",
+    "sha256": "8c671c9760299a73ebb6cd32a86748bceda1c01853b9fdf51cea0cf2f45dac6f",
+    "bytes": 693
+  },
+  {
+    "path": "private/downloads/final/601319.SSE/bars.csv",
+    "sha256": "3c10689b534956324fa8a64589221556bc4fa7547c11966913b6ddd0d396da14",
+    "bytes": 200345
+  },
+  {
+    "path": "private/downloads/final/601319.SSE/dividends_2026.csv",
+    "sha256": "e261f0b1290ca6182da66ed28494bfe058fd2cddd31b5bc43eee66727f374cb9",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/601328.SSE/adjustments.csv",
+    "sha256": "4b6061d5490dca9645a54263ca9588a854f778e13036bda3d4789dc6b8c3785b",
+    "bytes": 1269
+  },
+  {
+    "path": "private/downloads/final/601328.SSE/bars.csv",
+    "sha256": "5e206794ee66295d6c7c9165bfd6a8faa89596e4b519c2b4acb2686ff0914ac5",
+    "bytes": 478654
+  },
+  {
+    "path": "private/downloads/final/601328.SSE/dividends_2026.csv",
+    "sha256": "8e9ad88556757bc3ec7b91b0477af0ca755c4af4234a8fd165297b22b151d057",
+    "bytes": 402
+  },
+  {
+    "path": "private/downloads/final/601336.SSE/adjustments.csv",
+    "sha256": "f17ed9480d866d02fb6ac7377dfe316bf9d869e1c5aaa668ce6c3a477eb666ff",
+    "bytes": 933
+  },
+  {
+    "path": "private/downloads/final/601336.SSE/bars.csv",
+    "sha256": "3a7f37e57cebe188f133db36ed975944fc16b0a1023057a770795e969368c178",
+    "bytes": 392161
+  },
+  {
+    "path": "private/downloads/final/601336.SSE/dividends_2026.csv",
+    "sha256": "19dec197be1ea3742a2b4316ee3fc5a8dfea3813d64d0a1e756b3156090b4c42",
+    "bytes": 393
+  },
+  {
+    "path": "private/downloads/final/601360.SSE/adjustments.csv",
+    "sha256": "d78f8002daa48159553a88d16a4252c5f1a2a103e313db75ab36621d9b6a452f",
+    "bytes": 837
+  },
+  {
+    "path": "private/downloads/final/601360.SSE/bars.csv",
+    "sha256": "37ca5ba3577a94edc2a14e85593177481d435b499eea67b0a47457f085f56706",
+    "bytes": 380578
+  },
+  {
+    "path": "private/downloads/final/601360.SSE/dividends_2026.csv",
+    "sha256": "2c7be9842c65c69cb165dfe1445bb67ca9015e442e2c5ac81e61b99b306c2055",
+    "bytes": 537
+  },
+  {
+    "path": "private/downloads/final/601377.SSE/adjustments.csv",
+    "sha256": "599cb5eea5a3725cb7d695949ab341dd903dfcb212f34fdf91fcd85508e6f846",
+    "bytes": 1125
+  },
+  {
+    "path": "private/downloads/final/601377.SSE/bars.csv",
+    "sha256": "d92159caa5d0b5f2c4754cf1ed8079fc5bf5dd3a36619547c1a47794040fb855",
+    "bytes": 410828
+  },
+  {
+    "path": "private/downloads/final/601377.SSE/dividends_2026.csv",
+    "sha256": "4e1fa47caf553992c0388cb5d97efdbb72af9cabfd48794eb1019f49a1825ff5",
+    "bytes": 537
+  },
+  {
+    "path": "private/downloads/final/601390.SSE/adjustments.csv",
+    "sha256": "f4278b0da0f56d8d49ca7fbe9e066188a6b9b32e2988df786fb4df99136dd4cf",
+    "bytes": 933
+  },
+  {
+    "path": "private/downloads/final/601390.SSE/bars.csv",
+    "sha256": "61f4aa60c6bfddb51a89b0ff55e990375ab8ba9585a452f567edd4aef7950ce0",
+    "bytes": 476714
+  },
+  {
+    "path": "private/downloads/final/601390.SSE/dividends_2026.csv",
+    "sha256": "9a8182454c2c019c3216f07d0c6708335df3b5a6260fe47e8683f413b3628355",
+    "bytes": 767
+  },
+  {
+    "path": "private/downloads/final/601398.SSE/adjustments.csv",
+    "sha256": "951d60c8c0ae72cdef63432253b50b724a958ce462f93bce81a79dd9e5c528ad",
+    "bytes": 1125
+  },
+  {
+    "path": "private/downloads/final/601398.SSE/bars.csv",
+    "sha256": "cb05d6f9d39c82d2a8d5435eaf903c1e33a346ec07b8e58b41ddd54fe534ef6c",
+    "bytes": 480590
+  },
+  {
+    "path": "private/downloads/final/601398.SSE/dividends_2026.csv",
+    "sha256": "400f251b7f7006d1766374630bd8a4d8ded7c5c00980e13077fda1c27bcbbb80",
+    "bytes": 402
+  },
+  {
+    "path": "private/downloads/final/601456.SSE/adjustments.csv",
+    "sha256": "a978a7aa52f1c6f5b1d3ffa477278df98e3969316a3a798a2aabe3faa867a054",
+    "bytes": 357
+  },
+  {
+    "path": "private/downloads/final/601456.SSE/bars.csv",
+    "sha256": "366f09b180128445d8188c9786385f2b46dad8f8d84dc973d1ec0da38a3e21f6",
+    "bytes": 162021
+  },
+  {
+    "path": "private/downloads/final/601456.SSE/dividends_2026.csv",
+    "sha256": "55e7e30e59dd6d33bbbd834cb1344b89d19abe55b75d75c4b2c4d9d4506d27aa",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/601600.SSE/adjustments.csv",
+    "sha256": "7db70f3a7c5ccfa3375a3ebc6b361d079e806b3e48c14da6eaf703001f738429",
+    "bytes": 549
+  },
+  {
+    "path": "private/downloads/final/601600.SSE/bars.csv",
+    "sha256": "9c4955db7b9c0b1d6305c2654b72a7a943cfaa584dbc0cc791d662266b0fa041",
+    "bytes": 479710
+  },
+  {
+    "path": "private/downloads/final/601600.SSE/dividends_2026.csv",
+    "sha256": "0ee1c427776e2a006a7ecfe534f3a797af3abd2297dd86bcc3ece7e405fad7a6",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/601601.SSE/adjustments.csv",
+    "sha256": "9f7487d60deff3289f94cb08190358ecd3bee5340543c740364d9c323bf40486",
+    "bytes": 1029
+  },
+  {
+    "path": "private/downloads/final/601601.SSE/bars.csv",
+    "sha256": "21a91a1857f3399e251943ee2bc4d3417ac73c6f2ac106cadec90d6c632d3c32",
+    "bytes": 500029
+  },
+  {
+    "path": "private/downloads/final/601601.SSE/dividends_2026.csv",
+    "sha256": "af09e8ce1e661f3dac7173b506e140744899b0a4b8e38d9991158b521151b4df",
+    "bytes": 393
+  },
+  {
+    "path": "private/downloads/final/601607.SSE/adjustments.csv",
+    "sha256": "b46c77fcc201c915358bb6e3d3f0985894171ff56743c6b7cb29b095cd35019b",
+    "bytes": 1320
+  },
+  {
+    "path": "private/downloads/final/601607.SSE/bars.csv",
+    "sha256": "d7226543f28949ec70641ba4b1c806231c592a4878f639124f0cad68c8918759",
+    "bytes": 492900
+  },
+  {
+    "path": "private/downloads/final/601607.SSE/dividends_2026.csv",
+    "sha256": "6972697bc622a22a9ef4cde0fae30848cee2a97496c7a24bfa92443a16d23fc4",
+    "bytes": 692
+  },
+  {
+    "path": "private/downloads/final/601618.SSE/adjustments.csv",
+    "sha256": "8b9e1d7ad07828b06308c83d885074f3c38445fb7d6d11cc2b7b55e91db6f32a",
+    "bytes": 741
+  },
+  {
+    "path": "private/downloads/final/601618.SSE/bars.csv",
+    "sha256": "90bb0aef52213b2dc90b3bd87c0cfe2db1708336e25c3a722db9ede67b14d1e3",
+    "bytes": 430881
+  },
+  {
+    "path": "private/downloads/final/601618.SSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/601628.SSE/adjustments.csv",
+    "sha256": "968aea020b83c4ef2d1275494d1af6a8ce85a0430c27776ca628830fec69476a",
+    "bytes": 1077
+  },
+  {
+    "path": "private/downloads/final/601628.SSE/bars.csv",
+    "sha256": "525e1c80fdef7b8d31d461b02f7822728414f46a38574bf53b3797a845e9c231",
+    "bytes": 498477
+  },
+  {
+    "path": "private/downloads/final/601628.SSE/dividends_2026.csv",
+    "sha256": "636e389b5ec468bc82f2cccc4a72a92e620201d0e6d190fb286b42c7cf73a33f",
+    "bytes": 484
+  },
+  {
+    "path": "private/downloads/final/601633.SSE/adjustments.csv",
+    "sha256": "1843c9a3a03f2da2ef45cb4814eccd790d25625bf878b7f452dbe618fd24e476",
+    "bytes": 933
+  },
+  {
+    "path": "private/downloads/final/601633.SSE/bars.csv",
+    "sha256": "04407cca0a7a6feb47bfef02e7d22729c08e1b3d46a88357d8fc649696b84c81",
+    "bytes": 394068
+  },
+  {
+    "path": "private/downloads/final/601633.SSE/dividends_2026.csv",
+    "sha256": "02a02964cbbcf37590f122ff9414612384dcf6fa0fe27a9797ac5725c7752cb1",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/601658.SSE/adjustments.csv",
+    "sha256": "b4ae2c7621b0c22fa96fe5b425e4b653a783dbcad88e1e1fdf2bfe1c03c3fb8a",
+    "bytes": 549
+  },
+  {
+    "path": "private/downloads/final/601658.SSE/bars.csv",
+    "sha256": "e92e7a0ace26eb736cd22e6c8f81421ab59d95e1006cb00ffc8ac8ae8d0acdab",
+    "bytes": 174136
+  },
+  {
+    "path": "private/downloads/final/601658.SSE/dividends_2026.csv",
+    "sha256": "b030a3e8f60cae62c00553b0af9aa2e1a9508b8f95360e95722801c5579260e9",
+    "bytes": 563
+  },
+  {
+    "path": "private/downloads/final/601668.SSE/adjustments.csv",
+    "sha256": "e30f8e53602143ab32b79b04804ec8aa687cb966359de2b53684b6ee333a244d",
+    "bytes": 981
+  },
+  {
+    "path": "private/downloads/final/601668.SSE/bars.csv",
+    "sha256": "33835e3f05b8b22f78a98f175dda0076270ca4cf56d43eb31eef8b7021274621",
+    "bytes": 440938
+  },
+  {
+    "path": "private/downloads/final/601668.SSE/dividends_2026.csv",
+    "sha256": "80f7cdc65d3147b3e87b61684a8dc5012cdd376885acdecea6e68d4ea168c72f",
+    "bytes": 402
+  },
+  {
+    "path": "private/downloads/final/601669.SSE/adjustments.csv",
+    "sha256": "fe63bef19eb5daa7e35997061eac3db4cb2d5cf71e01a5279559bf2a2f50675f",
+    "bytes": 837
+  },
+  {
+    "path": "private/downloads/final/601669.SSE/bars.csv",
+    "sha256": "36de2ecc313e42f76e1a6bedbb5a35e6bdedabd498eb03744a9e458a3eaec96c",
+    "bytes": 379089
+  },
+  {
+    "path": "private/downloads/final/601669.SSE/dividends_2026.csv",
+    "sha256": "beec6ccbe1603a3fda3cc6a191a288c0ddf3b49801159a9989af01eb99cae4a6",
+    "bytes": 406
+  },
+  {
+    "path": "private/downloads/final/601688.SSE/adjustments.csv",
+    "sha256": "9805f1a97ca9d641a14af49a7675a119f8345b1b95105c0217d5a25e1271f42a",
+    "bytes": 981
+  },
+  {
+    "path": "private/downloads/final/601688.SSE/bars.csv",
+    "sha256": "4c850c278280866431070d75425ea891f196fc828a1948b87343ac2dee40bd5a",
+    "bytes": 440147
+  },
+  {
+    "path": "private/downloads/final/601688.SSE/dividends_2026.csv",
+    "sha256": "39206e0e43d86fc5b0f5cad859ae9cd30cb752463f07c343feed8f629ed28dab",
+    "bytes": 478
+  },
+  {
+    "path": "private/downloads/final/601689.SSE/adjustments.csv",
+    "sha256": "7964744a9a3a8c919d357218e605b45bbb2370543fa3462318b589366a20cdc1",
+    "bytes": 597
+  },
+  {
+    "path": "private/downloads/final/601689.SSE/bars.csv",
+    "sha256": "adc526e1ee35d6ce5561938bc0e2a3a9ac23a86f806d581e5587a5b737e4c0a1",
+    "bytes": 305867
+  },
+  {
+    "path": "private/downloads/final/601689.SSE/dividends_2026.csv",
+    "sha256": "411419e8671e772974db0b3c69424714fdbfadc674612ff3603554937f322019",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/601698.SSE/adjustments.csv",
+    "sha256": "49267839d127733eb4656b925e8101296f8a056c1cc9e3d1ac7760cd329b2ebd",
+    "bytes": 501
+  },
+  {
+    "path": "private/downloads/final/601698.SSE/bars.csv",
+    "sha256": "d9521b566570dd9bd09a456bea076db73838a7f3cade5cebe05a39a00da9517b",
+    "bytes": 192969
+  },
+  {
+    "path": "private/downloads/final/601698.SSE/dividends_2026.csv",
+    "sha256": "dcafefe7970e1d712491fb0e6f23b39bb220f9d24693fc611e09772ec05a35aa",
+    "bytes": 402
+  },
+  {
+    "path": "private/downloads/final/601727.SSE/adjustments.csv",
+    "sha256": "343633f3deafd989ebc47e15d450ac297b43bb840355a0a3592929f6ceb3fa03",
+    "bytes": 693
+  },
+  {
+    "path": "private/downloads/final/601727.SSE/bars.csv",
+    "sha256": "22b89031087953394cf8b3727ca994e13510fe0d822ae98d02912a03297de60d",
+    "bytes": 446188
+  },
+  {
+    "path": "private/downloads/final/601727.SSE/dividends_2026.csv",
+    "sha256": "6596848a72968d05eccccbdae946b3f6d3d1e009ab245d493b96f1a14d19c39f",
+    "bytes": 406
+  },
+  {
+    "path": "private/downloads/final/601728.SSE/adjustments.csv",
+    "sha256": "a2b58ae785697c1011c4b23be9d309bf250ee8ffbbba3721590005d9ee45e078",
+    "bytes": 597
+  },
+  {
+    "path": "private/downloads/final/601728.SSE/bars.csv",
+    "sha256": "104ce05e3269125126537c093f2c7541a13edcf5c9bead58884529075566ae8e",
+    "bytes": 130685
+  },
+  {
+    "path": "private/downloads/final/601728.SSE/dividends_2026.csv",
+    "sha256": "bc95dfa409bacc8784933f9ff76961477d043df1e0e09d91542423332c00ec1f",
+    "bytes": 559
+  },
+  {
+    "path": "private/downloads/final/601766.SSE/adjustments.csv",
+    "sha256": "03ed61cb5f0b202b7ffbaba0a2f24cc4d80ff55f42bf5cfad9b1fc0425bc5238",
+    "bytes": 1029
+  },
+  {
+    "path": "private/downloads/final/601766.SSE/bars.csv",
+    "sha256": "ed8d561ab5b0613e6795f49720a4d8406043a20659792ded512b88bd36963992",
+    "bytes": 462452
+  },
+  {
+    "path": "private/downloads/final/601766.SSE/dividends_2026.csv",
+    "sha256": "6f8edb6f48e8edc8aad938dce1294878a1a57dbdb60b878c8c5bae681201a78b",
+    "bytes": 535
+  },
+  {
+    "path": "private/downloads/final/601788.SSE/adjustments.csv",
+    "sha256": "aba988b1c83230e68499534eceb2759b334579a4319d34f6344aa619bc5c033e",
+    "bytes": 1125
+  },
+  {
+    "path": "private/downloads/final/601788.SSE/bars.csv",
+    "sha256": "97b1d39e164270e624131b818e3296cd5fb66d573ef1d0824a4d27f4f6d2df4e",
+    "bytes": 453330
+  },
+  {
+    "path": "private/downloads/final/601788.SSE/dividends_2026.csv",
+    "sha256": "e73605c251c619b7c71c4ff54b1ffded58d6db3f9471a3b44ce6672ad4fc7d80",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/601800.SSE/adjustments.csv",
+    "sha256": "48f8bf9cdb8cec8025a9aba2f09f52cf165dc6d59210695422b4cd8d171bde0d",
+    "bytes": 933
+  },
+  {
+    "path": "private/downloads/final/601800.SSE/bars.csv",
+    "sha256": "8ab78eecf9f6249b61b378e4051532a03e1c7b43592aaf1e2db197ee92880e73",
+    "bytes": 376881
+  },
+  {
+    "path": "private/downloads/final/601800.SSE/dividends_2026.csv",
+    "sha256": "ffead0f4eaae7db74bb1663723c293e615876c42d1e97bc1cd75a1cd1c1869f1",
+    "bytes": 563
+  },
+  {
+    "path": "private/downloads/final/601816.SSE/adjustments.csv",
+    "sha256": "096a4fbecb2f64feb12b44729bb3d8afd81b1d4bdf6c8175ecee90068b364e7b",
+    "bytes": 501
+  },
+  {
+    "path": "private/downloads/final/601816.SSE/bars.csv",
+    "sha256": "579da1a34501c7ebbec9475c5d363092d5f84ca709bbb4202d0fd11dab990c1f",
+    "bytes": 170753
+  },
+  {
+    "path": "private/downloads/final/601816.SSE/dividends_2026.csv",
+    "sha256": "72727de72e019938983b2bc0e6a5a6c618f5f45dd1f6ece4feac2de567a22182",
+    "bytes": 402
+  },
+  {
+    "path": "private/downloads/final/601818.SSE/adjustments.csv",
+    "sha256": "afbd9102515cee535e1508341f0f95cece87c96fa813fce676bc56f162b0a55a",
+    "bytes": 981
+  },
+  {
+    "path": "private/downloads/final/601818.SSE/bars.csv",
+    "sha256": "e6d5890f78680b1232874a31a5d43b30a063b78cff7ff98dd26aba17ac32997c",
+    "bytes": 410808
+  },
+  {
+    "path": "private/downloads/final/601818.SSE/dividends_2026.csv",
+    "sha256": "37bd21828490492b71e8d5301f1f671c1bb2cdf6eecdbfe3d55b40725721dcbd",
+    "bytes": 551
+  },
+  {
+    "path": "private/downloads/final/601825.SSE/adjustments.csv",
+    "sha256": "592e6dafa12779bd30676395503a32c5dc21af47258c0225683aafd5c21563bc",
+    "bytes": 549
+  },
+  {
+    "path": "private/downloads/final/601825.SSE/bars.csv",
+    "sha256": "ba21fc4f6c9992135a5cfa4b72f866ef9fb3b6489f156a169426b98c10e1160d",
+    "bytes": 129091
+  },
+  {
+    "path": "private/downloads/final/601825.SSE/dividends_2026.csv",
+    "sha256": "f13002c7bf0381bce35f8596eea7cb52246b7420aecf572dbf87e9af24368974",
+    "bytes": 553
+  },
+  {
+    "path": "private/downloads/final/601838.SSE/adjustments.csv",
+    "sha256": "30ee7816c02a8af1d8a8cdf0c4909349c29fd23715cc840c53c314be868de681",
+    "bytes": 645
+  },
+  {
+    "path": "private/downloads/final/601838.SSE/bars.csv",
+    "sha256": "45c19cc12ba1c92a4f0e4186cbc4bd9d9ec72c23a0583247b91b7585424f6a10",
+    "bytes": 227291
+  },
+  {
+    "path": "private/downloads/final/601838.SSE/dividends_2026.csv",
+    "sha256": "63728ebc33ebc739db854090d0ff4c03526d20e57752eb4a445c056c303a71a1",
+    "bytes": 547
+  },
+  {
+    "path": "private/downloads/final/601857.SSE/adjustments.csv",
+    "sha256": "cf9cfec4a565916b37eea99493a0750602292dde43e85f9ac7477a858810bae5",
+    "bytes": 1941
+  },
+  {
+    "path": "private/downloads/final/601857.SSE/bars.csv",
+    "sha256": "542e0657ce9d56e07e9da1814a26bb21900dc63e58dda42a46e2ea4d77f28852",
+    "bytes": 484832
+  },
+  {
+    "path": "private/downloads/final/601857.SSE/dividends_2026.csv",
+    "sha256": "fe38305f9c8e7e98ed51775e7766aa72e03e4818f99e1acfcc6eee89b569fdc8",
+    "bytes": 535
+  },
+  {
+    "path": "private/downloads/final/601868.SSE/adjustments.csv",
+    "sha256": "b920fcbcbc514782ce798cd2ad781d1410c4909b43b05482232d230ce10aaf61",
+    "bytes": 405
+  },
+  {
+    "path": "private/downloads/final/601868.SSE/bars.csv",
+    "sha256": "b071f308dcb7d442d6663b215f08739a78e59f74463fc5afdbb678e7ae5f50e9",
+    "bytes": 128382
+  },
+  {
+    "path": "private/downloads/final/601868.SSE/dividends_2026.csv",
+    "sha256": "921b088f6ecf6da644b18ccfefe1562e801825ffdc10c88ec09befaf17696861",
+    "bytes": 402
+  },
+  {
+    "path": "private/downloads/final/601872.SSE/adjustments.csv",
+    "sha256": "af0c3511040105c5d43d40546bdf26df95bdc8c909e3ad850a2754c935e30475",
+    "bytes": 1077
+  },
+  {
+    "path": "private/downloads/final/601872.SSE/bars.csv",
+    "sha256": "c93fdb1ecce811540a82b721cff60b7bbee10deab75abdaba5a7f68769095413",
+    "bytes": 472174
+  },
+  {
+    "path": "private/downloads/final/601872.SSE/dividends_2026.csv",
+    "sha256": "3e3580390b86ebed205eafe09b4602a499f03b27fad0a001f57520c7cf148310",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/601877.SSE/adjustments.csv",
+    "sha256": "f7e105e3c435793e9eff4b842abd8b17b99d60336b7fab61cf6f3842b3c41bbf",
+    "bytes": 1269
+  },
+  {
+    "path": "private/downloads/final/601877.SSE/bars.csv",
+    "sha256": "68120bd8d6645f1c54c91ca440c5981ccc9725826af61a11d799cd7ff85f62a7",
+    "bytes": 436739
+  },
+  {
+    "path": "private/downloads/final/601877.SSE/dividends_2026.csv",
+    "sha256": "d8b3cfb561c3ec5defa5c018f7e1d029532d0b67100abc9bb2445138cabee1dd",
+    "bytes": 547
+  },
+  {
+    "path": "private/downloads/final/601878.SSE/adjustments.csv",
+    "sha256": "c62c6556db4d5c392471fee76d9deac245d055cb8a29a7c2e63869c3ea80aeec",
+    "bytes": 645
+  },
+  {
+    "path": "private/downloads/final/601878.SSE/bars.csv",
+    "sha256": "e352b95b59571b5ec6b9bcb23eafb12416913f0b42df8e848c514a0ae6dca2b7",
+    "bytes": 244295
+  },
+  {
+    "path": "private/downloads/final/601878.SSE/dividends_2026.csv",
+    "sha256": "300d8edab895b25a6b676b88c65f0e8f55afe8789a4a6ebc7daaf37844b0fa5c",
+    "bytes": 527
+  },
+  {
+    "path": "private/downloads/final/601881.SSE/adjustments.csv",
+    "sha256": "9e06ef55de8e4791f0fbdf711a1da2ac3b102bfec5935f4dadd9d9d36bd9b95d",
+    "bytes": 693
+  },
+  {
+    "path": "private/downloads/final/601881.SSE/bars.csv",
+    "sha256": "baf192371c2da3d75857f9d2f9cc1fba39ddf80b4e9b5928cd5493531fa8bc65",
+    "bytes": 255751
+  },
+  {
+    "path": "private/downloads/final/601881.SSE/dividends_2026.csv",
+    "sha256": "3986bcc9e15be5534c926c1b7c055968d93025af50ef7d46a3a5491fe1257e0a",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/601888.SSE/adjustments.csv",
+    "sha256": "2abda877fcc68cb007d193c436ef50d95278b8649dafec184e0283a04aa91fa2",
+    "bytes": 933
+  },
+  {
+    "path": "private/downloads/final/601888.SSE/bars.csv",
+    "sha256": "a23705a9b816af5e72d8d476dab0459236814aaea8e32aab234c0bf1ada3e750",
+    "bytes": 452702
+  },
+  {
+    "path": "private/downloads/final/601888.SSE/dividends_2026.csv",
+    "sha256": "f218091dedab0750bbd586743e9e72eee2c5d3e022ea399cf82c3c8d522528d4",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/601898.SSE/adjustments.csv",
+    "sha256": "c27834125ffd158c5b55bdbaa061c0fc77218ae8b4e64b6e6660d02c19916f92",
+    "bytes": 1125
+  },
+  {
+    "path": "private/downloads/final/601898.SSE/bars.csv",
+    "sha256": "1f879715cb58f6c0e5be48cc058d3c897efa4fa29ff11eba3c991eaef087900a",
+    "bytes": 478638
+  },
+  {
+    "path": "private/downloads/final/601898.SSE/dividends_2026.csv",
+    "sha256": "2037eda48469de26edcc7db3cc7ea300a81c5075143090cce89d8a3901b534af",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/601899.SSE/adjustments.csv",
+    "sha256": "b1aca978fbf854f4691581221b4d71f833fa55a61091c6645c50a47c1614e8f0",
+    "bytes": 1221
+  },
+  {
+    "path": "private/downloads/final/601899.SSE/bars.csv",
+    "sha256": "5fae81aedca0ed7bb1078a92d888ac10376d00cfe1f03e7e3582b2729764c2cd",
+    "bytes": 478643
+  },
+  {
+    "path": "private/downloads/final/601899.SSE/dividends_2026.csv",
+    "sha256": "6cf8519ea77710d08b540051a692bc39f38b4f566daf71dd462c681951fe4221",
+    "bytes": 545
+  },
+  {
+    "path": "private/downloads/final/601901.SSE/adjustments.csv",
+    "sha256": "4cd5981f4bd8a0dac2a807bcc53e803340ebd2883eb52433c7022b2072008120",
+    "bytes": 789
+  },
+  {
+    "path": "private/downloads/final/601901.SSE/bars.csv",
+    "sha256": "4f2e943ef3652ac3370ca11dc2dbdda3a0511ed53bd08646293b4e5375e9fb6d",
+    "bytes": 383662
+  },
+  {
+    "path": "private/downloads/final/601901.SSE/dividends_2026.csv",
+    "sha256": "d934d75026a6bd928c17ae49f3fd8e9145bd6d87ed856a692244ad200c613bdb",
+    "bytes": 541
+  },
+  {
+    "path": "private/downloads/final/601916.SSE/adjustments.csv",
+    "sha256": "634e1918753783f83f731607e1ad64ea43344f02052ef191cfc2428407342834",
+    "bytes": 453
+  },
+  {
+    "path": "private/downloads/final/601916.SSE/bars.csv",
+    "sha256": "a537995fa9d580f6e7ccc0796432c2efc86f5f78cedbe9fb27eaec4570035bb6",
+    "bytes": 173776
+  },
+  {
+    "path": "private/downloads/final/601916.SSE/dividends_2026.csv",
+    "sha256": "150af6109323e7b437f6f0bbcfb6587858af3d536334df7de2ffa53d25789edb",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/601919.SSE/adjustments.csv",
+    "sha256": "991060e47bfaddcbd8afdc8d7429f5de09c9866b1ca948bb71045999775bc982",
+    "bytes": 693
+  },
+  {
+    "path": "private/downloads/final/601919.SSE/bars.csv",
+    "sha256": "53068cbf0d76e1a59a81c65412ffba76c54d2c9098725c60c5d635914bbfdd12",
+    "bytes": 483781
+  },
+  {
+    "path": "private/downloads/final/601919.SSE/dividends_2026.csv",
+    "sha256": "c5d3b28a73be704029d7ba97166fa8098fb05adc9183d1c8eb7c520dd0debf1d",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/601939.SSE/adjustments.csv",
+    "sha256": "835ab7f10d6b4d170acd14eb6800afa87a15473a9f4e0a9123ffac2a0faf1c7e",
+    "bytes": 1221
+  },
+  {
+    "path": "private/downloads/final/601939.SSE/bars.csv",
+    "sha256": "3974baad16124975a72918af16a9f5441ab5ec5a07c586125f0484e62c193d2f",
+    "bytes": 478098
+  },
+  {
+    "path": "private/downloads/final/601939.SSE/dividends_2026.csv",
+    "sha256": "8448c68598ffd55b97c84b7e79ac9d14de485180dc9fbda130db9f121c533504",
+    "bytes": 402
+  },
+  {
+    "path": "private/downloads/final/601985.SSE/adjustments.csv",
+    "sha256": "d2d3c29a6da160ad398b3c665ab71b9b76836e7fbf6b6b4431085e66fafb80e3",
+    "bytes": 741
+  },
+  {
+    "path": "private/downloads/final/601985.SSE/bars.csv",
+    "sha256": "436e688f3e7e143a869727b09bd5d445abf98fe090a2ea1987f96786a936cdb3",
+    "bytes": 289583
+  },
+  {
+    "path": "private/downloads/final/601985.SSE/dividends_2026.csv",
+    "sha256": "7c1e5af3872773cb29ed6c25ed420a18b1eb241eb97d08be95a3d6ae12152978",
+    "bytes": 545
+  },
+  {
+    "path": "private/downloads/final/601988.SSE/adjustments.csv",
+    "sha256": "5446cb6d5b6f342b5b8222bc84b8a18cc761c3096a52853d78c17244aa1d7bde",
+    "bytes": 1125
+  },
+  {
+    "path": "private/downloads/final/601988.SSE/bars.csv",
+    "sha256": "2fb2d2085ca69b0bd4221757753da43bee9649bd02804205f4148110966248c9",
+    "bytes": 478325
+  },
+  {
+    "path": "private/downloads/final/601988.SSE/dividends_2026.csv",
+    "sha256": "06ce18889b6b8f42964ba905eb00f043abd7619fe0e1858e3d8627e0a1892d67",
+    "bytes": 402
+  },
+  {
+    "path": "private/downloads/final/601995.SSE/adjustments.csv",
+    "sha256": "b3a7a2210e77ed3821144c96e70a9ae0a11102298260059d0d16412e386e8ff8",
+    "bytes": 501
+  },
+  {
+    "path": "private/downloads/final/601995.SSE/bars.csv",
+    "sha256": "d51cbab223e6f7bfb32a108ecea9a17c0184296e22b1c20ae31b465b523c98b2",
+    "bytes": 156572
+  },
+  {
+    "path": "private/downloads/final/601995.SSE/dividends_2026.csv",
+    "sha256": "a07030e6cbf7d12779161408c9570d0f785c54ba43cc4f93266a3c5fa53d1d81",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/601998.SSE/adjustments.csv",
+    "sha256": "95ccc9c7c3af3c2c02d829b50b2b7578bb075dc010f3481de9493dfb8ab1d8c8",
+    "bytes": 1077
+  },
+  {
+    "path": "private/downloads/final/601998.SSE/bars.csv",
+    "sha256": "8a333c5049cdba3e0cfc50ebedd90b8dd2c8f3eac68a6b1e763965b42bd695d4",
+    "bytes": 475138
+  },
+  {
+    "path": "private/downloads/final/601998.SSE/dividends_2026.csv",
+    "sha256": "d37caf7000261eee1f9087fa0df0216bda43c371221d3e363b58ddaea296d8ac",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/603019.SSE/adjustments.csv",
+    "sha256": "40fb0f92d285726e1269c8b32a25e1fc0de4e16403631ebb61b779a32484a6ca",
+    "bytes": 837
+  },
+  {
+    "path": "private/downloads/final/603019.SSE/bars.csv",
+    "sha256": "9f5a5c889f0fd35892725de6c3f710e3f1e54a3572e82d223287510cdf722c79",
+    "bytes": 317672
+  },
+  {
+    "path": "private/downloads/final/603019.SSE/dividends_2026.csv",
+    "sha256": "0ede74d9190ee15df86460506d43f52c037157762f48a80449e6df8e0d3703c0",
+    "bytes": 545
+  },
+  {
+    "path": "private/downloads/final/603259.SSE/adjustments.csv",
+    "sha256": "7e5726ccb89912f2f2ec5ce78509e7078704d292a06aad5f6d95c6be5b17394f",
+    "bytes": 597
+  },
+  {
+    "path": "private/downloads/final/603259.SSE/bars.csv",
+    "sha256": "e2ea7f6f7b6a8a9f9b532122001d08cf64ab171567591fe56880de9f577f03e8",
+    "bytes": 228310
+  },
+  {
+    "path": "private/downloads/final/603259.SSE/dividends_2026.csv",
+    "sha256": "dbcb99fa64bb55136ccc7e99cca5369e46814a85cf6e02c8c0d54c8eb91e60ee",
+    "bytes": 564
+  },
+  {
+    "path": "private/downloads/final/603260.SSE/adjustments.csv",
+    "sha256": "9deb0027420fe87123f2e4c66cc4eb871be59427806c0497ac8d503c85195b06",
+    "bytes": 501
+  },
+  {
+    "path": "private/downloads/final/603260.SSE/bars.csv",
+    "sha256": "ebfb03738bb2a1efe0f5fc7717363695904635a352f47cda1a0746d59f5d79d6",
+    "bytes": 236881
+  },
+  {
+    "path": "private/downloads/final/603260.SSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/603288.SSE/adjustments.csv",
+    "sha256": "f1215605be3651c87aa0ccdbaf6f6c96ea0143b93a5e9d51b7c51c27e6c87a88",
+    "bytes": 837
+  },
+  {
+    "path": "private/downloads/final/603288.SSE/bars.csv",
+    "sha256": "30c19f157d6f6479481a4945158fba4179f488e2615f0a73b797ec2e1032ef69",
+    "bytes": 337182
+  },
+  {
+    "path": "private/downloads/final/603288.SSE/dividends_2026.csv",
+    "sha256": "a7f950ea1ab0fd2d4890d785701565c48a9546a9f37f31c344239ece69162ca5",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/603296.SSE/adjustments.csv",
+    "sha256": "36c8f78c15c827b588169fc2cd1ddb1b574029dedf5ae1f8be881abd6ffc04ec",
+    "bytes": 261
+  },
+  {
+    "path": "private/downloads/final/603296.SSE/bars.csv",
+    "sha256": "c6242b4585c8ca3ae37da554aebbfbb4747955ddbd8bf3e43eee2e5e6a1a7f7b",
+    "bytes": 83796
+  },
+  {
+    "path": "private/downloads/final/603296.SSE/dividends_2026.csv",
+    "sha256": "d95ddbc94ccbccb74749fe857a4bbaf88729ef564dc423c70d07486394799412",
+    "bytes": 407
+  },
+  {
+    "path": "private/downloads/final/603369.SSE/adjustments.csv",
+    "sha256": "131dedfee4c078f82ca9b638ac04791b2b66984374e2dd65c30ebcc98acb801e",
+    "bytes": 693
+  },
+  {
+    "path": "private/downloads/final/603369.SSE/bars.csv",
+    "sha256": "4072452504a9f43c125f6ec64013826e75e34534add7d090682f84c890712e5e",
+    "bytes": 323884
+  },
+  {
+    "path": "private/downloads/final/603369.SSE/dividends_2026.csv",
+    "sha256": "7eb9c1d700dd0146ad5c1aba3a9b0cefe5f9e61aa40173fc1e364c541a20662d",
+    "bytes": 385
+  },
+  {
+    "path": "private/downloads/final/603392.SSE/adjustments.csv",
+    "sha256": "76caf116fc97e6d64aa0c4f4023ce76d29a77d8a6462dc584de169327f4d8a28",
+    "bytes": 309
+  },
+  {
+    "path": "private/downloads/final/603392.SSE/bars.csv",
+    "sha256": "0ace66a03e1658403140da97ee385fefdbcd243ee788c3b9addcaab2271d57bd",
+    "bytes": 172871
+  },
+  {
+    "path": "private/downloads/final/603392.SSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/603501.SSE/adjustments.csv",
+    "sha256": "1634d68f95637c6e8f31119b2808895daf269bd6403e4e39ec35450033b00bd6",
+    "bytes": 645
+  },
+  {
+    "path": "private/downloads/final/603501.SSE/bars.csv",
+    "sha256": "c1bac6fafe2bb91e701dd79f299c11f2795caec06488fc97b2afe1933a6f4922",
+    "bytes": 252778
+  },
+  {
+    "path": "private/downloads/final/603501.SSE/dividends_2026.csv",
+    "sha256": "6d008a4af226f3b04cd794f43f95d23fc8c8f04038d1bde7dc0542beb0a36191",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/603799.SSE/adjustments.csv",
+    "sha256": "1eadfdfa8350f5e74937c2ce06b1afd17b5935a2bb62ae6737cad9a378f4afe5",
+    "bytes": 549
+  },
+  {
+    "path": "private/downloads/final/603799.SSE/bars.csv",
+    "sha256": "0622dcae46c0485f3a614c9b192b73489991a310095d5308c941449afc121e12",
+    "bytes": 312861
+  },
+  {
+    "path": "private/downloads/final/603799.SSE/dividends_2026.csv",
+    "sha256": "475b3b75c1205e3f989dbed13b8c2ecf45a3d5e36541c8847ab52048f71db869",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/603893.SSE/adjustments.csv",
+    "sha256": "80497f7753547c7988f668c2e2343d765b3ac5277cbc883ce31670de3c8a6464",
+    "bytes": 597
+  },
+  {
+    "path": "private/downloads/final/603893.SSE/bars.csv",
+    "sha256": "777e529285e7e201e2a722e63a3962981b5b403171fabaf9a180b52bbcabed14",
+    "bytes": 179290
+  },
+  {
+    "path": "private/downloads/final/603893.SSE/dividends_2026.csv",
+    "sha256": "e74909a7e95e7606e72fd88ed3dd3a3f8946bf035964d911f3855c05946ee799",
+    "bytes": 532
+  },
+  {
+    "path": "private/downloads/final/603986.SSE/adjustments.csv",
+    "sha256": "8b9d5b9aa4b1d44692612c066e318190f146671f6b44acca4d8ea07d7e527971",
+    "bytes": 549
+  },
+  {
+    "path": "private/downloads/final/603986.SSE/bars.csv",
+    "sha256": "ffca7803ec40a5db387ac2362b1ff897fd8ccbcc19af5b05b10438e97b497b8a",
+    "bytes": 274088
+  },
+  {
+    "path": "private/downloads/final/603986.SSE/dividends_2026.csv",
+    "sha256": "1b9a464d2b141b8564c0349515a5d62e5c3f6b5b3be69fadbefc08ea1c17b511",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/603993.SSE/adjustments.csv",
+    "sha256": "ba352e1c4ec3d5030d28acf0d6305782007486ae640c8028e422e26b75b3f285",
+    "bytes": 933
+  },
+  {
+    "path": "private/downloads/final/603993.SSE/bars.csv",
+    "sha256": "043b2e738a4d64a69cd55a5b87213e9a5c2bfd329a0012b90ea7ee69727720c7",
+    "bytes": 359497
+  },
+  {
+    "path": "private/downloads/final/603993.SSE/dividends_2026.csv",
+    "sha256": "f0b83816e66710fd4b4168412ea2cc8f071fa31480837586286ce3a6d9fbf335",
+    "bytes": 557
+  },
+  {
+    "path": "private/downloads/final/605117.SSE/adjustments.csv",
+    "sha256": "49e487f7dea8dfe1265409aaa2a78f6f51543ab6d03c1f57b838681efd2048aa",
+    "bytes": 501
+  },
+  {
+    "path": "private/downloads/final/605117.SSE/bars.csv",
+    "sha256": "530713b4878c2372dbeb5a4ae2a98123ef2d0ae862f74fa0b570d0554375c1c0",
+    "bytes": 147580
+  },
+  {
+    "path": "private/downloads/final/605117.SSE/dividends_2026.csv",
+    "sha256": "89e35be26da33adeb825cfbb800950d164186b7e8f71a253ca47f02ca12ab21c",
+    "bytes": 567
+  },
+  {
+    "path": "private/downloads/final/605499.SSE/adjustments.csv",
+    "sha256": "7996674b6deebe2fcfbabd3b88e89caf9e07e61b59dba6b26df8c2dae7ca8243",
+    "bytes": 549
+  },
+  {
+    "path": "private/downloads/final/605499.SSE/bars.csv",
+    "sha256": "2ea651cab92f665adc475dbf07d5f53e13dfc2b08f0e2d8eca31946fc69af19e",
+    "bytes": 146922
+  },
+  {
+    "path": "private/downloads/final/605499.SSE/dividends_2026.csv",
+    "sha256": "f34e3caacf813398df6119ba42d26e540781cab005b425153078a0bf6b2de31d",
+    "bytes": 550
+  },
+  {
+    "path": "private/downloads/final/688008.SSE/adjustments.csv",
+    "sha256": "a71ce3ddd76e1841fafee36073e64c1099b642f0a55d87653bcb2621cc3a1ffe",
+    "bytes": 501
+  },
+  {
+    "path": "private/downloads/final/688008.SSE/bars.csv",
+    "sha256": "0b307b2bfc5b96e637a0b72ddf655351c367d76172e1a7f9ca4ee4c15bd474e6",
+    "bytes": 192913
+  },
+  {
+    "path": "private/downloads/final/688008.SSE/dividends_2026.csv",
+    "sha256": "61556d32731b1fbabccb36c71a87dc9d387be3d637f09027d17a6e84792cab66",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/688009.SSE/adjustments.csv",
+    "sha256": "63f4ecfad4d6d5036a96a7aeab1822820f18ca259f71eae0f4356249074f68c8",
+    "bytes": 453
+  },
+  {
+    "path": "private/downloads/final/688009.SSE/bars.csv",
+    "sha256": "771160210239e5039d3df5ce5998214b144aa05ca79a6c9cf9117cf9a612a405",
+    "bytes": 182166
+  },
+  {
+    "path": "private/downloads/final/688009.SSE/dividends_2026.csv",
+    "sha256": "f0fbc6e25b0ce7be2880eed9e3bb6438d282029484b35fabd197b7de05f1bd41",
+    "bytes": 390
+  },
+  {
+    "path": "private/downloads/final/688012.SSE/adjustments.csv",
+    "sha256": "dc825cf93b99fc51bf510c812948ba0af692c7c365ac15221d07fbc8d97b3eb0",
+    "bytes": 309
+  },
+  {
+    "path": "private/downloads/final/688012.SSE/bars.csv",
+    "sha256": "eab54494a5be9c9f18d2c9817250f7d7a709e62a3032c49db94d4da13fd070c3",
+    "bytes": 198831
+  },
+  {
+    "path": "private/downloads/final/688012.SSE/dividends_2026.csv",
+    "sha256": "ef63c486f999b12b697f91d2c7db2a29702654b39a9b5d19597b8b9af91a7639",
+    "bytes": 414
+  },
+  {
+    "path": "private/downloads/final/688036.SSE/adjustments.csv",
+    "sha256": "75f74e8300fdca8e66e850db9e33b4df459d058ce12df7c4f6f1fe86f673524c",
+    "bytes": 645
+  },
+  {
+    "path": "private/downloads/final/688036.SSE/bars.csv",
+    "sha256": "71dece658c7ebdc1a76e0c85012888b0f865856bc809a074b7835253d4268f52",
+    "bytes": 188327
+  },
+  {
+    "path": "private/downloads/final/688036.SSE/dividends_2026.csv",
+    "sha256": "4b4ef3f03889f55ad94bfbbd34ba135b5e78bb169a575fbe7b0bbb6a7311b271",
+    "bytes": 519
+  },
+  {
+    "path": "private/downloads/final/688041.SSE/adjustments.csv",
+    "sha256": "6360156da80314cdb485e6a8babfab7018bdf1fc3795486777fbb76ab28b29c4",
+    "bytes": 357
+  },
+  {
+    "path": "private/downloads/final/688041.SSE/bars.csv",
+    "sha256": "557e5f6002766e5041e0d1a7a0e746de973aa7353fb55493bc5a1c06cb39543e",
+    "bytes": 112811
+  },
+  {
+    "path": "private/downloads/final/688041.SSE/dividends_2026.csv",
+    "sha256": "84f1c711f25896753394513253c706116d470389afb960359960eba9dbfc8da5",
+    "bytes": 545
+  },
+  {
+    "path": "private/downloads/final/688047.SSE/adjustments.csv",
+    "sha256": "4fd1884b2628555e2b3d43dabb0c5b2f4d490da0651d40ef1fe026f322207e89",
+    "bytes": 117
+  },
+  {
+    "path": "private/downloads/final/688047.SSE/bars.csv",
+    "sha256": "03bdaf1cf40efcdf3158a5cacbfc16ed4284964032b4fc97821311e77ee45374",
+    "bytes": 116362
+  },
+  {
+    "path": "private/downloads/final/688047.SSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/688072.SSE/adjustments.csv",
+    "sha256": "b97a12315f6f1260cb2905f92ea84c47352e84219c0c892b4c990de7c57a90e8",
+    "bytes": 357
+  },
+  {
+    "path": "private/downloads/final/688072.SSE/bars.csv",
+    "sha256": "3f8cc7cad51301feec03560a8d8d2cd9c5eec155078b54943af036a7d07354d0",
+    "bytes": 122726
+  },
+  {
+    "path": "private/downloads/final/688072.SSE/dividends_2026.csv",
+    "sha256": "a387737ce4226da3c212c0e4e2a1a0931275ee336be4a7feb1530668e97e93d4",
+    "bytes": 545
+  },
+  {
+    "path": "private/downloads/final/688082.SSE/adjustments.csv",
+    "sha256": "e90fc550fd5d0ad60d4fe320cb46b178e6d2399682142d554a00f5d32ebebd3b",
+    "bytes": 309
+  },
+  {
+    "path": "private/downloads/final/688082.SSE/bars.csv",
+    "sha256": "4f49390a17faf9fbbfb47a7cf29cc8de9e8e56b361a08055d0a9c2cd66a33fd9",
+    "bytes": 131958
+  },
+  {
+    "path": "private/downloads/final/688082.SSE/dividends_2026.csv",
+    "sha256": "6ec44874bc42c0d1f549fd7986efc6caabb1aae5800a10be763c00ec50e1328b",
+    "bytes": 406
+  },
+  {
+    "path": "private/downloads/final/688111.SSE/adjustments.csv",
+    "sha256": "b31d1ba8f3f2a9a8f8af6792e04dc20242b4af25ab59fbeac60324f5f506a144",
+    "bytes": 453
+  },
+  {
+    "path": "private/downloads/final/688111.SSE/bars.csv",
+    "sha256": "ede03493b57ca09c18278e35e61440a0cd9c239f3b4f1eb646d0a5301e586e92",
+    "bytes": 190239
+  },
+  {
+    "path": "private/downloads/final/688111.SSE/dividends_2026.csv",
+    "sha256": "4c62179f40aa77447cd630e2abfe1a3f1ef942765f8678f8354e571009bde3ad",
+    "bytes": 393
+  },
+  {
+    "path": "private/downloads/final/688126.SSE/adjustments.csv",
+    "sha256": "cfe17e82a3c3b98f1b91b906b48dd3ddc6db80d536d723214ed0d578bf35bf74",
+    "bytes": 165
+  },
+  {
+    "path": "private/downloads/final/688126.SSE/bars.csv",
+    "sha256": "eb4ca224e9a99544c95a9ef71c5ad6e3733765f304c2cfe9e1760be30c305318",
+    "bytes": 171320
+  },
+  {
+    "path": "private/downloads/final/688126.SSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/688183.SSE/adjustments.csv",
+    "sha256": "c7e5f9aad9c1d78b2ae86609a85059f9d59b9b2200b7bfda7a0eb19d596d77d7",
+    "bytes": 405
+  },
+  {
+    "path": "private/downloads/final/688183.SSE/bars.csv",
+    "sha256": "0508b0687d835b8df0931b5d4363d79564165dbd6d147dae859a78775dc23cb9",
+    "bytes": 147687
+  },
+  {
+    "path": "private/downloads/final/688183.SSE/dividends_2026.csv",
+    "sha256": "b75a6b56e3371be1d379738ff327d057f21e3ac96a0a85a13d02c5cbaed7f293",
+    "bytes": 382
+  },
+  {
+    "path": "private/downloads/final/688223.SSE/adjustments.csv",
+    "sha256": "0eccb11468a68447a7a333f4cbd292020d884e3fa1dbcf614e6700415c23ab63",
+    "bytes": 261
+  },
+  {
+    "path": "private/downloads/final/688223.SSE/bars.csv",
+    "sha256": "1757c3bdb9142c748613bf236b55e911d41ead16fffd99a84cc3ec114c53f7c2",
+    "bytes": 121118
+  },
+  {
+    "path": "private/downloads/final/688223.SSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/688256.SSE/adjustments.csv",
+    "sha256": "2ba11d3927af88e865fbb5e9f2222989b7b1da1dfa87fdb8d3155393f5af36c1",
+    "bytes": 165
+  },
+  {
+    "path": "private/downloads/final/688256.SSE/bars.csv",
+    "sha256": "72eca6632446f8530b091f9de5bc3307d9a89945d99d3a4dfe74e1daf5818fb3",
+    "bytes": 171705
+  },
+  {
+    "path": "private/downloads/final/688256.SSE/dividends_2026.csv",
+    "sha256": "3cf5f963f7fd557ce29cc46a820686b24a98a5e540dd873329a759c8a852fb63",
+    "bytes": 409
+  },
+  {
+    "path": "private/downloads/final/688271.SSE/adjustments.csv",
+    "sha256": "f22158ab9b2c91dc3908177b003ef5fe310b696e8ef3ee39104e7d4cf022d6b7",
+    "bytes": 453
+  },
+  {
+    "path": "private/downloads/final/688271.SSE/bars.csv",
+    "sha256": "998743726b0924d013812fed7f23e7370d98fa9f3c8564ca1806ca7e460ae3ae",
+    "bytes": 113272
+  },
+  {
+    "path": "private/downloads/final/688271.SSE/dividends_2026.csv",
+    "sha256": "f7b03c34bd95c3af66e30a806995ea98915600cbc951f563ffa31207e06fda91",
+    "bytes": 535
+  },
+  {
+    "path": "private/downloads/final/688303.SSE/adjustments.csv",
+    "sha256": "585562cbbd1135e86a3a4b2b96c342c252a55c228a72ae902b0e13c8027bc5d0",
+    "bytes": 261
+  },
+  {
+    "path": "private/downloads/final/688303.SSE/bars.csv",
+    "sha256": "6cf9dbab0ec9823f3fb76b8e5af175ddbca664b80ecd632512e7f720a8343591",
+    "bytes": 137354
+  },
+  {
+    "path": "private/downloads/final/688303.SSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/688396.SSE/adjustments.csv",
+    "sha256": "5fc63e404593a186b32d04eb32328c3c9c2ae44022966d0d37d01881eb8c8ccd",
+    "bytes": 501
+  },
+  {
+    "path": "private/downloads/final/688396.SSE/bars.csv",
+    "sha256": "aef0e96110a9ff31969d086a927940cb096f57a959e268f692baeafad0509d31",
+    "bytes": 174951
+  },
+  {
+    "path": "private/downloads/final/688396.SSE/dividends_2026.csv",
+    "sha256": "f68e5ec176d77a356fd6868cf30107b74a3000b439eeb1c64eda48743862ac85",
+    "bytes": 396
+  },
+  {
+    "path": "private/downloads/final/688472.SSE/adjustments.csv",
+    "sha256": "814a358455fe6534fd776094bc3f131ce69d9fff8ee0fa321346f46c29f63f52",
+    "bytes": 261
+  },
+  {
+    "path": "private/downloads/final/688472.SSE/bars.csv",
+    "sha256": "427329a5c410d4e61bf5be9403b22831458b990bcad133786d45bf1c5af11d5e",
+    "bytes": 87509
+  },
+  {
+    "path": "private/downloads/final/688472.SSE/dividends_2026.csv",
+    "sha256": "e07ae79c41b7d88c6e7f79656ab91e703ac302ec32cfe20fc23854fe7af42d3b",
+    "bytes": 406
+  },
+  {
+    "path": "private/downloads/final/688506.SSE/adjustments.csv",
+    "sha256": "a016c77c5c9987c8e3f8636b791228504e9ab4730c0fedb38e8df7aafcd4037d",
+    "bytes": 117
+  },
+  {
+    "path": "private/downloads/final/688506.SSE/bars.csv",
+    "sha256": "585bca39540ffe35b73fc5cd461a94299eaff511b6d74f2a79826dce15a853ec",
+    "bytes": 101363
+  },
+  {
+    "path": "private/downloads/final/688506.SSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/688521.SSE/adjustments.csv",
+    "sha256": "0f89718e012dcdee419a59ceeec00099d85971be963af333c62d9a14f27dd4f3",
+    "bytes": 117
+  },
+  {
+    "path": "private/downloads/final/688521.SSE/bars.csv",
+    "sha256": "40b93fffc04139e07aa9f6744e64ebeba5bb19f24e4793725f11685a2af2ff0e",
+    "bytes": 163315
+  },
+  {
+    "path": "private/downloads/final/688521.SSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/688981.SSE/adjustments.csv",
+    "sha256": "70a9e95ef6062f627b34fc8f35daaa6e3c368cd3fb0a0e9a5bc28c0002a179f0",
+    "bytes": 117
+  },
+  {
+    "path": "private/downloads/final/688981.SSE/bars.csv",
+    "sha256": "20ec26788b0b400c6d0a7a73a4b3de4dd054e815b2c8c909e784b4406408c8a5",
+    "bytes": 167621
+  },
+  {
+    "path": "private/downloads/final/688981.SSE/dividends_2026.csv",
+    "sha256": "681686566b230188579ff8bcfde4b0438a1efcf6f957923b138300e492254f86",
+    "bytes": 235
+  },
+  {
+    "path": "private/downloads/final/calendar.csv",
+    "sha256": "48a3805c2f40a785faaf1b2d24dd836cb829c106c0935e7917143dcfc0f98ee4",
+    "bytes": 89196
+  },
+  {
+    "path": "private/downloads/final/membership.csv",
+    "sha256": "939f6904338134bf228440a757627014242aa2f8de5fb0fdb96bea28657d6486",
+    "bytes": 120830
+  },
+  {
+    "path": "private/downloads/final/security_master.csv",
+    "sha256": "1459311f4276bfc7581a538abc36e1c57e0d53769dab9e2870d019d747468dbc",
+    "bytes": 396638
+  },
+  {
+    "path": "data/supplementary_actions.json",
+    "sha256": "68c149f320140baba817bdbb957fb31bc3095acb76033513c12e046566a1ee17",
+    "bytes": 8879
+  },
+  {
+    "path": "private/course/prices.parquet",
+    "sha256": "82453261bc2d0d5aec8b93ff237ea00bcf18d49cdb36afd83679a770e127713a",
+    "bytes": 148161920
+  },
+  {
+    "path": "private/course/membership.csv",
+    "sha256": "bcd0f662fc4d26b5358f1b934a7fb746a8b0957a66daed125e5c08d431be5730",
+    "bytes": 33255
+  }
+]

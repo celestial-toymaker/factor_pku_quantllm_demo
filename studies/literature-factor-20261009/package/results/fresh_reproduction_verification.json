@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "checks": {
+    "exact_metrics_except_provenance_metadata": true,
+    "candidate_results_identical": true,
+    "diagnostics_identical": true,
+    "same_method": true,
+    "final_data_paths_absent": true
+  },
+  "exit_code": 0,
+  "python": "3.11.11 (main, Jan  6 2025, 16:09:34) [Clang 15.0.0 (clang-1500.3.9.4)]",
+  "platform": "macOS-26.6-arm64-arm-64bit",
+  "environment": ".venv-repro",
+  "command": "OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 .venv-repro/bin/python -m factorlab.cli --root reproduction/historical validate",
+  "log": "logs/replay.log",
+  "protocol_version": 2,
+  "final_rerun": false
+}

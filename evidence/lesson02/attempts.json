@@ -1,0 +1,199 @@
+[
+  {
+    "record": "records/simnow-live-01.json",
+    "status": "RECONCILE_REQUIRED",
+    "reason": "MARGIN_OR_FEE_QUERY_INCOMPLETE",
+    "mode": "SIMNOW",
+    "fills": {
+      "OPEN": 0,
+      "CLOSE": 0
+    },
+    "live_acceptance": "NOT_PASSED",
+    "command": "commands/simnow-live-01.json",
+    "exit_code": 2,
+    "started_utc": "2026-10-09T05:02:02.469837+00:00"
+  },
+  {
+    "record": "records/simnow-live-02.json",
+    "status": "PASS",
+    "reason": null,
+    "mode": "SIMNOW",
+    "fills": {
+      "OPEN": 1,
+      "CLOSE": 1
+    },
+    "live_acceptance": "PASS",
+    "command": "commands/simnow-live-02.json",
+    "exit_code": 0,
+    "started_utc": "2026-10-09T05:04:03.574008+00:00"
+  },
+  {
+    "record": "records/simnow-reconcile-01.json",
+    "status": "PASS",
+    "reason": null,
+    "mode": "SIMNOW",
+    "fills": {
+      "OPEN": 1,
+      "CLOSE": 1
+    },
+    "live_acceptance": "PASS",
+    "command": "commands/simnow-reconcile-01.json",
+    "exit_code": 0,
+    "started_utc": "2026-10-09T05:05:08.216577+00:00"
+  },
+  {
+    "record": "records/broker-query-evidence.json",
+    "mode": "SIMNOW",
+    "orders_sent": 0,
+    "command": "commands/broker-query-01.json",
+    "exit_code": 0
+  },
+  {
+    "record": "records/cffex-quotes-01.json",
+    "status": "QUOTES_RECEIVED",
+    "mode": "SIMNOW",
+    "orders_sent": 0,
+    "command": "commands/cffex-quotes-01.json",
+    "exit_code": 0,
+    "started_utc": "2026-10-09T04:20:41.517367+00:00"
+  },
+  {
+    "record": "records/cffex-quotes-02.json",
+    "status": "QUOTES_RECEIVED",
+    "mode": "SIMNOW",
+    "orders_sent": 0,
+    "command": "commands/cffex-quotes-02.json",
+    "exit_code": 0,
+    "started_utc": "2026-10-09T05:00:43.066339+00:00"
+  },
+  {
+    "record": "records/cffex-quotes-03.json",
+    "status": "QUOTES_RECEIVED",
+    "mode": "SIMNOW",
+    "orders_sent": 0,
+    "command": "commands/cffex-quotes-03.json",
+    "exit_code": 0,
+    "started_utc": "2026-10-09T05:06:29.344728+00:00"
+  },
+  {
+    "record": "records/risk-fields-01.json",
+    "orders_sent": 0,
+    "command": "commands/risk-fields-01.json",
+    "exit_code": 0,
+    "started_utc": "2026-10-09T05:02:50.048225+00:00"
+  },
+  {
+    "record": "records/dry-run-01.json",
+    "status": "OFFLINE_PASS",
+    "mode": "DRY_RUN",
+    "fills": {
+      "OPEN": 1,
+      "CLOSE": 1
+    },
+    "live_acceptance": "NOT_PASSED",
+    "command": "commands/dry-run-01.json",
+    "exit_code": 0,
+    "started_utc": "2026-10-09T05:07:10.014214+00:00"
+  },
+  {
+    "record": "records/doctor-fresh-01.json",
+    "command": "commands/doctor-fresh-01.json",
+    "exit_code": 0,
+    "started_utc": "2026-10-09T05:07:12.576962+00:00"
+  },
+  {
+    "record": "records/quotes-01.json",
+    "status": "BLOCKED",
+    "reason": "INSTRUMENT_NOT_TRADABLE",
+    "mode": "SIMNOW",
+    "orders_sent": 0,
+    "command": null,
+    "exit_code": null,
+    "unavailable_reason": "Predates command receipt wrapper; retained evidence does not establish exact shell command or exit code."
+  },
+  {
+    "record": "records/quotes-02.json",
+    "status": "QUOTES_RECEIVED",
+    "mode": "SIMNOW",
+    "orders_sent": 0,
+    "command": "commands/quotes-02.json",
+    "exit_code": 0,
+    "started_utc": "2026-10-09T04:15:26.775268+00:00"
+  },
+  {
+    "record": "records/connection-inspect-01.json",
+    "status": "BLOCKED",
+    "reason": "CTP_REQUEST_TIMEOUT",
+    "mode": "SIMNOW",
+    "orders_sent": 0,
+    "command": null,
+    "exit_code": null,
+    "unavailable_reason": "Predates command receipt wrapper; retained evidence does not establish exact shell command or exit code."
+  },
+  {
+    "record": "records/connection-inspect-02.json",
+    "status": "BLOCKED",
+    "reason": "CTP_REQUEST_TIMEOUT",
+    "mode": "SIMNOW",
+    "orders_sent": 0,
+    "command": null,
+    "exit_code": null,
+    "unavailable_reason": "Predates command receipt wrapper; retained evidence does not establish exact shell command or exit code."
+  },
+  {
+    "record": "records/connection-inspect-03.json",
+    "status": "BLOCKED",
+    "reason": "CTP_REQUEST_TIMEOUT",
+    "mode": "SIMNOW",
+    "orders_sent": 0,
+    "command": null,
+    "exit_code": null,
+    "unavailable_reason": "Predates command receipt wrapper; retained evidence does not establish exact shell command or exit code."
+  },
+  {
+    "record": "records/connection-inspect-04.json",
+    "status": "BLOCKED",
+    "reason": "CTP_REQUEST_TIMEOUT",
+    "mode": "SIMNOW",
+    "orders_sent": 0,
+    "command": null,
+    "exit_code": null,
+    "unavailable_reason": "Predates command receipt wrapper; retained evidence does not establish exact shell command or exit code."
+  },
+  {
+    "record": "records/connection-inspect-05.json",
+    "status": "METADATA_QUERIED",
+    "mode": "SIMNOW",
+    "orders_sent": 0,
+    "command": null,
+    "exit_code": null,
+    "unavailable_reason": "Predates command receipt wrapper; retained evidence does not establish exact shell command or exit code."
+  },
+  {
+    "record": "records/risk-inspect-01.json",
+    "status": "METADATA_QUERIED",
+    "mode": "SIMNOW",
+    "orders_sent": 0,
+    "command": "commands/risk-inspect-01.json",
+    "exit_code": 0,
+    "started_utc": "2026-10-09T04:17:04.232012+00:00"
+  },
+  {
+    "record": "records/cffex-inspect-01.json",
+    "status": "METADATA_QUERIED",
+    "mode": "SIMNOW",
+    "orders_sent": 0,
+    "command": "commands/cffex-inspect-01.json",
+    "exit_code": 0,
+    "started_utc": "2026-10-09T04:19:16.187825+00:00"
+  },
+  {
+    "record": "records/open-market-scan-01.json",
+    "status": "METADATA_QUERIED",
+    "mode": "SIMNOW",
+    "orders_sent": 0,
+    "command": "commands/open-market-scan-01.json",
+    "exit_code": 0,
+    "started_utc": "2026-10-09T04:22:40.564675+00:00"
+  }
+]

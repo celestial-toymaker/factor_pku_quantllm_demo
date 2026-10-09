@@ -1,0 +1,19 @@
+{
+  "study_id": "literature-factor-20261009",
+  "candidate_ids": [
+    "NET_K05_A02",
+    "NET_K05_A04",
+    "NET_K10_A02",
+    "NET_K10_A04",
+    "NET_K20_A02",
+    "NET_K20_A04"
+  ],
+  "included": [
+    "evaluated candidate implementations",
+    "executed controls and diagnostics",
+    "measured results",
+    "reproduction evidence"
+  ],
+  "release_authorized": false,
+  "publication": "NOT_PUBLISHED"
+}

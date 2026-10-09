@@ -1,0 +1,136 @@
+{
+  "created_utc": "2026-10-09T00:17:48.583829+00:00",
+  "source": "user-supplied workshop cache",
+  "license": "research input; redistribution not established; excluded from archive",
+  "files": [
+    {
+      "role": "course_cache",
+      "path": "/Users/peter/qt/wiki/raw/workshop-bundle-2026-10-08/pku_demo/projects/alpha_mining_demo/runs/cache/base_dataset.pkl",
+      "sha256": "4248f100c5d2e5f0bbcaa6b2b1790b5f0fddeb815e65aff0cc4388eb52701465"
+    },
+    {
+      "role": "membership",
+      "path": "/Users/peter/qt/wiki/raw/workshop-bundle-2026-10-08/pku_demo/projects/alpha_mining_demo/runs/cache/filters.pkl",
+      "sha256": "e6d1c3c291cad7c7a23aee464fc15b27231d9939b43c4a2d680ab50e69a2cc24"
+    }
+  ],
+  "audit": {
+    "rows": 2668723,
+    "symbols": 819,
+    "min_date": "2007-09-24",
+    "max_date": "2024-01-10",
+    "duplicates": 0,
+    "membership_intervals": 995,
+    "member_count_min": 298,
+    "member_count_median": 300.0,
+    "member_count_max": 300,
+    "missing_by_field": {
+      "date": 0,
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "volume": 0,
+      "amount": 0,
+      "open_interest": 0,
+      "vwap": 90890,
+      "symbol": 0,
+      "eligible_member": 0
+    },
+    "nonpositive_ohlc_rows": 0,
+    "nonpositive_volume_rows": 90890,
+    "absolute_next_stored_price_jump_over_25pct": 24,
+    "ohlc_subcent_fraction": 0.9975759942114637,
+    "monetary_amount_over_volume_close_quantiles": {
+      "0.01": 0.790708899287815,
+      "0.5": 7.312326942025923,
+      "0.99": 74.67990569646878
+    }
+  },
+  "cache_original_limitations": {
+    "adjustment_convention": "unverified",
+    "raw_executable_prices": "unverified",
+    "corporate_action_cash_flows": "missing",
+    "historical_trading_status": "missing",
+    "historical_st_status": "missing",
+    "daily_limit_prices": "missing",
+    "point_in_time_industry": "missing",
+    "security_listing_delisting_dates": "missing"
+  },
+  "integrity": {
+    "raw_executable_prices": "BaoStock adjustflag=3, independently downloaded historical supplement",
+    "corporate_action_cash_flows": "Provider dividends plus issuer special dividends and exchange-confirmed optional rights; audit required",
+    "historical_trading_status": "BaoStock daily tradestatus, 2017 onward",
+    "historical_st_status": "BaoStock daily isST, 2017 onward",
+    "daily_limit_prices": "Modeled from raw exchange preclose and main-board 10%/risk-warning 5%; conservative at either opening boundary",
+    "point_in_time_industry": "Annual snapshots requested before each validation year, updateDate checked; archival revision history unavailable",
+    "security_listing_delisting_dates": "Current security master is an audit aid; dated membership and observed-history eligibility determine decisions",
+    "adjustment_convention": "Course levels are vendor-adjusted, not executable; feature return invariance checked against raw reference returns; independent final returns use close/preclose"
+  },
+  "historical_supplement": {
+    "provider": "BaoStock 0.9.4 anonymous API",
+    "start": "2017-01-01",
+    "end": "2023-12-31",
+    "audit": "results/history_data_audit.json",
+    "fingerprints": "data/history_fingerprints.json",
+    "redistribution": "Unverified raw data rights; all raw panels excluded from archive"
+  },
+  "industry_reconciliation": {
+    "annual_industry_snapshots": [
+      {
+        "path": "private/downloads/industry/2018.csv",
+        "rows": 3555,
+        "max_update": "2017-12-25",
+        "sha256": "2660bd799631ab0cb8a199bf8a6c807577840b53dd291580a8b6183ced873153"
+      },
+      {
+        "path": "private/downloads/industry/2019.csv",
+        "rows": 3665,
+        "max_update": "2018-12-24",
+        "sha256": "c3088d38a41b365712edf5dc796cf83dd4b36461a7ab5dfb5c6d957938fd7614"
+      },
+      {
+        "path": "private/downloads/industry/2020.csv",
+        "rows": 3864,
+        "max_update": "2019-12-23",
+        "sha256": "94e2c8d8072cf9ad6d14082bfa4a4bb39d38a145baca467100b200c286c99536"
+      },
+      {
+        "path": "private/downloads/industry/2021.csv",
+        "rows": 4259,
+        "max_update": "2020-12-28",
+        "sha256": "7c630030aa88a6e485d7e94f013609c33dc09676f9b07acb2b3230718d153e5b"
+      },
+      {
+        "path": "private/downloads/industry/2022.csv",
+        "rows": 4686,
+        "max_update": "2021-11-15",
+        "sha256": "9edbc6a542d0588bbf93599901e18a08816bc59ea7a8e042ade6b33f2c71590e"
+      },
+      {
+        "path": "private/downloads/industry/2023.csv",
+        "rows": 4930,
+        "max_update": "2022-08-01",
+        "sha256": "25040607fe8d61e0e2af0a681ca625b3a0a89d93c4d8790465e16993039f0abd"
+      }
+    ],
+    "breadth": {
+      "count": 1457.0,
+      "mean": 263.98490048043925,
+      "std": 11.587924388264645,
+      "min": 243.0,
+      "25%": 251.0,
+      "50%": 266.0,
+      "75%": 275.0,
+      "max": 280.0
+    },
+    "days_below_200": 0,
+    "feature_return_abs_difference_quantiles": {
+      "0.5": 1.8631426760024744e-06,
+      "0.99": 2.6446193567965375e-05,
+      "0.999": 0.0001084064947956066,
+      "1": 1.3862943611198908
+    },
+    "return_discrepancies_gt_001": 148
+  }
+}

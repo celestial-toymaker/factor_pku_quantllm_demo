@@ -1,0 +1,29 @@
+{
+  "frozen_at_utc": "2026-10-09T05:01:58.904729+00:00",
+  "plan": {
+    "instrument": "T2612",
+    "exchange": "CFFEX",
+    "trigger_price": 109.0,
+    "mode": "SIMNOW",
+    "quantity": 1,
+    "quote_age": 3.0,
+    "source_future_tolerance": 1.0,
+    "order_timeout": 10.0,
+    "cancel_timeout": 10.0,
+    "run_timeout": 120.0,
+    "max_close_attempts": 3
+  },
+  "plan_hash": "61cb0c814d202d1b52d71b182675e1f327f88b7baad0b3cc97308b2724e357f4",
+  "source_sha256": {
+    "projects/ctp_assignment/src/ctp_assignment/__init__.py": "19e0b94a150b336c106356a85be5b7b136c7f72b67e6948dad7121370865b61f",
+    "projects/ctp_assignment/src/ctp_assignment/cli.py": "824f368f5ca84c022e79993494268e32bb461f46cd050d6c99cd11c0d6e1e0cf",
+    "projects/ctp_assignment/src/ctp_assignment/core.py": "51f6b83eb5a7a3a00a871c0e42c73c7816262d5655bf2c750b0d020cfbbbcf89",
+    "projects/ctp_assignment/src/ctp_assignment/market.py": "5e5d37875dbbd0dd5ffd4810b11100de2c51912a5d5d49603593b54ee484f706",
+    "projects/ctp_assignment/src/ctp_assignment/native.py": "932bc220f950c098f91580bf667e8548c05d3c77cf3622523a471d0de79f327a",
+    "projects/ctp_assignment/src/ctp_assignment/runner.py": "9c46dc8945f061996ea9e1723210ce078d0d7c757a6c3da316510e8d4d316bae",
+    "projects/ctp_assignment/src/ctp_assignment/security.py": "d70f43f5e247852dd71d5d662daeede360eda11d336b7241845dd7cd09bed333"
+  },
+  "selection_basis": "CFFEX is open at 13:00 China time; T2612 is a tradable futures contract with observed two-sided quotes. LastPrice > 109.0 is a functional threshold demo, not a predictive return claim.",
+  "clock_rule": "Local receipt age 0..3 seconds; provider timestamp age -1..3 seconds. One-second future tolerance declared and tested before any order.",
+  "pre_order_test_receipt": "ctp-tests-08-command.json"
+}

@@ -1,0 +1,86 @@
+study_id: literature-factor-20261009
+seed: 20261009
+release_authorized: false
+publication: NOT_PUBLISHED
+splits:
+  warmup: [2007-01-01, 2007-12-31]
+  development: [2008-01-01, 2017-12-31]
+  validation: [[2018-01-01, 2019-12-31], [2020-01-01, 2021-12-31], [2022-01-01, 2023-12-31]]
+  final_request: [2026-09-20, 2026-10-07]
+  final_sessions: [2026-09-21, 2026-09-22, 2026-09-23, 2026-09-24, 2026-09-28, 2026-09-29, 2026-09-30]
+  final_valuation: 2026-09-30
+  historical_exposure: previously_viewed_course_periods
+universe:
+  historical: recovered_dated_CSI300_intervals
+  boards: [SSE_main, SZSE_main]
+  minimum_prior_observations: 252
+  minimum_20_session_median_amount_cny: 20000000
+  minimum_eligible_stocks: 200
+  exclude_ST_at_signal: true
+  final: independently_download_dated_CSI300_membership
+  transfer: main_board_members_with_lagged_amount_above_same_day_median
+features:
+  graph_fit: expanding_from_2008_01_01
+  graph_refit: first_session_of_every_second_calendar_month
+  fit_cutoff: previous_session_close
+  minimum_matched_pairs: 200
+  direction: positive_lag_one_correlation_minus_reverse
+  self_edges: false
+  missing_leader_weight_maximum: 0.2
+  score: weighted_other_stock_EWMA_log_returns
+  sign: positive_continuation
+  normalization: cross_sectional_rank_only_for_target_selection
+execution:
+  signal: after_close
+  delay_sessions: 1
+  rebalance_sessions: 5
+  holding_label_sessions: 5
+  entry: next_open
+  top_fraction: 0.2
+  cutoff_ties: include_all
+  minimum_unique_scores: 5
+  capital_cny: 1000000
+  capacity_stress_cny: 10000000
+  max_position_weight: 0.05
+  participation: 0.01
+  commission_rate: 0.0003
+  commission_minimum_cny: 5
+  slippage_rate: 0.0005
+  price_rounding: adverse_cent
+  cash_rate: 0
+  borrowing: false
+  settlement: T_plus_1_sellability
+  benchmark: equal_weight_same_signal_date_eligible_universe_same_account
+  rights: no_optional_subscription_or_sale_of_rights_requires_verified_event_type
+  dividend_tax: conservative_20_percent_reserve_for_taxable_entitlements
+  missing_close: last_mark_and_explicit_stale_flag_no_zero_delisting_return
+  unsupported_corporate_action: block_evaluation
+inference:
+  primary: pooled_validation_mean_daily_net_active_return
+  hac_lag: 10
+  sensitivity_lags: [5, 20]
+  holm_slots: 18
+  alpha: 0.05
+  minimum_positive_folds: 2
+  redundancy_median_absolute_spearman: 0.8
+  incremental: positive_mean_and_HAC_lower_bound_over_frozen_existing_rank_account
+  validation_qualification_requires_sector_breadth_evidence: true
+  sector_mean_coverage_minimum: 0.95
+  positive_sectors_minimum: 3
+  sector_minimum_dates: 60
+  sector_minimum_stocks: 10
+  positive_within_sector_ic: true
+  residual_score_fit: development_2008_2017_only
+  positive_residual_rank_ic: true
+selection:
+  qualified_first: true
+  fallback: highest_mean_net_active_among_evaluable_distinct_candidates
+  exact_ties: [complexity, turnover, candidate_id]
+  all_negative: least_negative
+diagnostics:
+  nonstatutory_friction: [1, 2, 3]
+  extra_delay_sessions: 1
+  capital: [1000000, 10000000]
+  transfer: higher_liquidity_half
+  ablations: [own_stock_reversal5, own_stock_momentum20, equal_rank_existing_controls, permuted_leader_graph]
+  final_annualized_headlines: false

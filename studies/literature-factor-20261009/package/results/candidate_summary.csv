@@ -1,0 +1,7 @@
+candidate_id,method_selected,evaluable,distinct,validation_qualified,mean_net_active_daily,holm_p,positive_folds,turnover,reason
+NET_K05_A02,False,True,True,False,-0.0004965345915809517,1.0,0,0.22018780413381472,
+NET_K05_A04,False,True,True,False,-0.000585578580642899,1.0,0,0.25698195064082247,
+NET_K10_A02,False,True,True,False,-0.0004240357189145867,1.0,0,0.2261666831130881,
+NET_K10_A04,False,True,True,False,-0.0004505888453678608,1.0,0,0.2651687257423898,
+NET_K20_A02,True,True,True,False,-0.00042177008128295787,1.0,0,0.22534102850803525,
+NET_K20_A04,False,True,True,False,-0.00047884227418185804,1.0,0,0.2637474492809588,

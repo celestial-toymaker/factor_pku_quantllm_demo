@@ -1,0 +1,90 @@
+{
+  "native_api_loaded": false,
+  "empirical_evaluations": 0,
+  "commands": [
+    {
+      "package": "ctp",
+      "python": "3.13.5",
+      "argv": [
+        "$CTP_ENV/bin/python",
+        "-m",
+        "pytest",
+        "-q"
+      ],
+      "exit_code": 0,
+      "output": "........................................................................ [ 93%]\n.....                                                                    [100%]\n77 passed in 1.47s\n"
+    },
+    {
+      "package": "ctp",
+      "python": "3.13.5",
+      "argv": [
+        "$CTP_ENV/bin/python",
+        "-m",
+        "ctp_assignment.cli",
+        "doctor"
+      ],
+      "exit_code": 0,
+      "output": "{\"python\": \"3.13.5\", \"network_connections\": 0, \"native_import\": \"NOT_REQUESTED\"}\n"
+    },
+    {
+      "package": "ctp",
+      "python": "3.13.5",
+      "argv": [
+        "$CTP_ENV/bin/python",
+        "-m",
+        "ctp_assignment.cli",
+        "run",
+        "--state",
+        "$SCRATCH/dry/state.db",
+        "--output",
+        "$SCRATCH/dry/evidence.json"
+      ],
+      "exit_code": 0,
+      "output": "{\"valid\": true, \"mode\": \"DRY_RUN\", \"status\": \"OFFLINE_PASS\", \"live_acceptance\": \"NOT_PASSED\"}\n"
+    },
+    {
+      "package": "ctp",
+      "python": "3.13.5",
+      "argv": [
+        "$CTP_ENV/bin/python",
+        "-m",
+        "ctp_assignment.cli",
+        "verify",
+        "$SCRATCH/dry/evidence.json"
+      ],
+      "exit_code": 0,
+      "output": "{\"valid\": true, \"mode\": \"DRY_RUN\", \"status\": \"OFFLINE_PASS\", \"live_acceptance\": \"NOT_PASSED\"}\n"
+    },
+    {
+      "package": "factor",
+      "python": "3.11.11",
+      "argv": [
+        "$FACTOR_ENV/bin/python",
+        "-m",
+        "pytest",
+        "-q"
+      ],
+      "exit_code": 0,
+      "output": ".................................                                        [100%]\n=============================== warnings summary ===============================\ntests/test_integrity.py::test_report_reads_only_validated_metrics\n  $FACTOR_ENV/lib/python3.11/site-packages/matplotlib/_fontconfig_pattern.py:64: PyparsingDeprecationWarning: 'oneOf' deprecated - use 'one_of'\n    prop = Group((name + Suppress(\"=\") + comma_separated(value)) | oneOf(_CONSTANTS))\n\ntests/test_integrity.py::test_report_reads_only_validated_metrics\ntests/test_integrity.py::test_report_reads_only_validated_metrics\ntests/test_integrity.py::test_report_reads_only_validated_metrics\ntests/test_integrity.py::test_report_reads_only_validated_metrics\ntests/test_integrity.py::test_report_reads_only_validated_metrics\ntests/test_integrity.py::test_report_reads_only_validated_metrics\n  $FACTOR_ENV/lib/python3.11/site-packages/matplotlib/_fontconfig_pattern.py:85: PyparsingDeprecationWarning: 'parseString' deprecated - use 'parse_string'\n    parse = parser.parseString(pattern)\n\ntests/test_integrity.py::test_report_reads_only_validated_metrics\ntests/test_integrity.py::test_report_reads_only_validated_metrics\ntests/test_integrity.py::test_report_reads_only_validated_metrics\ntests/test_integrity.py::test_report_reads_only_validated_metrics\ntests/test_integrity.py::test_report_reads_only_validated_metrics\ntests/test_integrity.py::test_report_reads_only_validated_metrics\n  $FACTOR_ENV/lib/python3.11/site-packages/matplotlib/_fontconfig_pattern.py:89: PyparsingDeprecationWarning: 'resetCache' deprecated - use 'reset_cache'\n    parser.resetCache()\n\ntests/test_integrity.py::test_report_reads_only_validated_metrics\n  $FACTOR_ENV/lib/python3.11/site-packages/matplotlib/_mathtext.py:45: PyparsingDeprecationWarning: 'enablePackrat' deprecated - use 'enable_packrat'\n    ParserElement.enablePackrat()\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n33 passed, 14 warnings in 12.89s\n"
+    },
+    {
+      "package": "factor",
+      "python": "3.11.11",
+      "argv": [
+        "$FACTOR_ENV/bin/python",
+        "-m",
+        "factorlab.cli",
+        "--root",
+        "$SCRATCH/repository/studies/literature-factor-20261009/package",
+        "verify"
+      ],
+      "exit_code": 0,
+      "output": "{\"ok\": true, \"errors\": [], \"checksums_checked\": 198, \"final_labels_read\": false, \"publication_derivation\": {\"original_freeze_verified\": true, \"scientific_modules_unchanged\": true, \"presentation_modules_changed\": [\"report.py\", \"verify.py\"], \"empirical_values_changed\": false}}\n"
+    }
+  ],
+  "offline_checks": "PASS",
+  "scope": "Disposable copies of both packages; synthetic offline checks with Python socket connections disabled.",
+  "ctp_tests": 77,
+  "factor_tests": 33,
+  "interpreters": "Existing exact-version dependency environments; package source copied from this checkout."
+}

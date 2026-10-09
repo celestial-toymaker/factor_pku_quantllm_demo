@@ -1,0 +1,21 @@
+.......F..............................................................   [100%]
+=================================== FAILURES ===================================
+__________________ test_changed_native_file_cannot_be_loaded ___________________
+
+tmp_path = PosixPath('/private/var/folders/z4/02g7z1891d17ls2k5sn1z6_c0000gn/T/pytest-of-peter/pytest-19/test_changed_native_file_canno0')
+
+    def test_changed_native_file_cannot_be_loaded(tmp_path):
+        import json
+        from ctp_assignment.native import load_native
+        native=tmp_path/'native';native.mkdir();(native/'library.so').write_text('CHANGED')
+        (tmp_path/'build_manifest.json').write_text(json.dumps({'outputs':{'library.so':'0'*64}}))
+        with pytest.raises(StopRun,match='FINGERPRINT_MISMATCH'):load_native(native)
+        for status,expected in (("2",True),("0",False),("3",False),("6",False)):
+>           n.q.put(("TD","onRtnInstrumentStatus",({"ExchangeID":"CFFEX","InstrumentID":"IF","InstrumentStatus":status},),time.monotonic()))
+            ^
+E           NameError: name 'n' is not defined
+
+tests/test_adapter.py:73: NameError
+=========================== short test summary info ============================
+FAILED tests/test_adapter.py::test_changed_native_file_cannot_be_loaded - Nam...
+1 failed, 69 passed in 1.46s

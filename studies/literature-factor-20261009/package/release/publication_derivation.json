@@ -1,0 +1,63 @@
+{
+  "original_freeze_sha256": "046e0813a1c63dacfce5a24f7106ecfc5898f5d31b7d75c1fba677340809dfef",
+  "original_module_sha256": {
+    "__init__.py": "976f239ad678c44c0f313e049a6ca2a2cf481663dd8a1ec38ec30e18c25b7a3c",
+    "account.py": "2376339fec9e49dd03dacec5569920db514332f648667c997729e1d7db9aefdc",
+    "cache.py": "7e067ce11c149c33e6404b762443793ef9d65d487d00f9e1b7229e5de3ee95cf",
+    "cli.py": "548640dc068f4a7a5d8fbfe8b9626268804a9e44ed5cb274679de90e872053af",
+    "common.py": "4353c6812a0ec114f2a013ae4f1bd19d97c05c0426a7bc9abfacd959d90e98ce",
+    "data.py": "ea8bab14b21ccfc19063393b27e741252a36fc59fa6cebb0dbfd0e35df0d76ac",
+    "diagnostics.py": "d6bb26d7b35a501910cd5a7fa20d02e6f3844a1dad1f1eacc0f113735af33b6d",
+    "evaluate.py": "5ed400399b121d0e120ad3c950b9236208a22b4504ab5fba926fc5dc78c8b656",
+    "features.py": "39588835cb7a1af3090626c3fb7a0cd79787fcda837bfb34f389cba3d86e4f4e",
+    "outcomes.py": "cdf8dc548d28c1e363ccd5c17c7af1f20d2767cd42e0c0fbb094d87b7e79b5d0",
+    "protocol.py": "db0498a9eb259844f65644549bb80df0310b250747073571b811874a1c798d0f",
+    "provider.py": "8c154da05e1d870028451a6691db2071aa189ef6967f9925aec9e88c2d249995",
+    "report.py": "bf79c7c1ee6d3387fa25ec04683821cb18eed463ac73bf0216505f7e87fe95d9",
+    "statistics.py": "be56ecbff98ce7c162f224e42b1a1ec900c3bab6922e2276e1a3f442003d829c",
+    "verify.py": "619dd23c34e6973cfbc6127d611a9b128755f4ee6439a633b76cbf06871b80be"
+  },
+  "publication_module_sha256": {
+    "__init__.py": "976f239ad678c44c0f313e049a6ca2a2cf481663dd8a1ec38ec30e18c25b7a3c",
+    "account.py": "2376339fec9e49dd03dacec5569920db514332f648667c997729e1d7db9aefdc",
+    "cache.py": "7e067ce11c149c33e6404b762443793ef9d65d487d00f9e1b7229e5de3ee95cf",
+    "cli.py": "548640dc068f4a7a5d8fbfe8b9626268804a9e44ed5cb274679de90e872053af",
+    "common.py": "4353c6812a0ec114f2a013ae4f1bd19d97c05c0426a7bc9abfacd959d90e98ce",
+    "data.py": "ea8bab14b21ccfc19063393b27e741252a36fc59fa6cebb0dbfd0e35df0d76ac",
+    "diagnostics.py": "d6bb26d7b35a501910cd5a7fa20d02e6f3844a1dad1f1eacc0f113735af33b6d",
+    "evaluate.py": "5ed400399b121d0e120ad3c950b9236208a22b4504ab5fba926fc5dc78c8b656",
+    "features.py": "39588835cb7a1af3090626c3fb7a0cd79787fcda837bfb34f389cba3d86e4f4e",
+    "outcomes.py": "cdf8dc548d28c1e363ccd5c17c7af1f20d2767cd42e0c0fbb094d87b7e79b5d0",
+    "protocol.py": "db0498a9eb259844f65644549bb80df0310b250747073571b811874a1c798d0f",
+    "provider.py": "8c154da05e1d870028451a6691db2071aa189ef6967f9925aec9e88c2d249995",
+    "report.py": "6f1bfc7f6f29f6722b715e7f7552bfbd7eb1c2d2891dbf513378c8aea289881f",
+    "statistics.py": "be56ecbff98ce7c162f224e42b1a1ec900c3bab6922e2276e1a3f442003d829c",
+    "verify.py": "606516c255c1b3d65ecc47f28d1b49003110a5083d578e9e8b9003a8eee47eeb"
+  },
+  "edited_frozen_documents": {
+    "research/method.md": {
+      "original_sha256": "17d630b85da2feb061e76981e4dd99581aeabe7ab98bc4cbe42379f3e3f584b8",
+      "publication_sha256": "76a7d06f3bf1c4fdce936cbab4ebdf6829d994f9ecfd2137c2ded8825f3ed508",
+      "reason": "Limit reference discussion to the implemented construction; clarify observed-leader numerator; link executed controls."
+    },
+    "research/exposure_ledger.json": {
+      "original_sha256": "0a5019e603c6e4dbf9166a400b4159161f592c1e98b8dc36409d59464cacb522",
+      "publication_sha256": "3009964be14c9ade029cb6c539424fefbe729755597a3c8d7586509b03a77c27",
+      "preserved_semantics_sha256": "f92ae06e76fd7b4173c76777b6583ebea9bb43b7bb6bb876cd32cc05f0046431",
+      "reason": "Omit publication identifiers and citations; all dates, exposure facts and original freeze hashes are retained."
+    }
+  },
+  "metrics_sha256": "7e359b00625178d5a9f7c7f6b54f72b5dd1c8485de2b4570b86c363e75df0426",
+  "research_rerun": false,
+  "final_outcomes_read": false,
+  "scope": "Presentation and package-integrity changes only; original scientific implementation and numeric evidence retained.",
+  "edited_archival_documents": {
+    "research/invalidated/v1/exposure_ledger.json": {
+      "original_sha256": "3ce9186336b207ddee2d1e4c6be610d8304dfcef56f80565094cc133bdbbe8e3",
+      "publication_sha256": "1b4daf7e8a3fb89e27ebf273230fa072178a2aacb55495790037c2f32a8341c5",
+      "preserved_semantics_sha256": "333164b09dfc9875434d9d035d161162c5ef394d0f8516e6b9bdc7dbf67432bd",
+      "reason": "Omit publication identifiers and citations; all dates, exposure facts and original freeze hashes are retained."
+    }
+  },
+  "archival_freeze_sha256": "f427fd693eb9563103a0fb9bef44f1fe1de82b40405f1f0d955b0af0b4594fcb"
+}

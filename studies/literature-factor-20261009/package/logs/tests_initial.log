@@ -1,0 +1,17 @@
+............F...                                                         [100%]
+=================================== FAILURES ===================================
+________________ test_holm_eighteen_and_fallback_least_negative ________________
+
+    def test_holm_eighteen_and_fallback_least_negative():
+>       assert holm({'A':.001,'B':None})=={'A':.018,'B':1.}
+E       AssertionError: assert {'A': 0.01800...002, 'B': 1.0} == {'A': 0.018, 'B': 1.0}
+E         
+E         Omitting 1 identical items, use -vv to show
+E         Differing items:
+E         {'A': 0.018000000000000002} != {'A': 0.018}
+E         Use -v to get more diff
+
+tests/test_integrity.py:113: AssertionError
+=========================== short test summary info ============================
+FAILED tests/test_integrity.py::test_holm_eighteen_and_fallback_least_negative
+1 failed, 15 passed in 32.20s

@@ -1,0 +1,272 @@
+{
+  "mode": "SIMNOW",
+  "orders_sent": 0,
+  "status": "METADATA_QUERIED",
+  "login": "PASS",
+  "trading_day": "20261009",
+  "instruments": [
+    {
+      "InstrumentID": "rb2612",
+      "ExchangeID": "SHFE",
+      "ProductID": "rb",
+      "PriceTick": 1.0,
+      "VolumeMultiple": 10,
+      "ExpireDate": "20261215"
+    },
+    {
+      "InstrumentID": "rb2701",
+      "ExchangeID": "SHFE",
+      "ProductID": "rb",
+      "PriceTick": 1.0,
+      "VolumeMultiple": 10,
+      "ExpireDate": "20270115"
+    },
+    {
+      "InstrumentID": "rb2702",
+      "ExchangeID": "SHFE",
+      "ProductID": "rb",
+      "PriceTick": 1.0,
+      "VolumeMultiple": 10,
+      "ExpireDate": "20270215"
+    },
+    {
+      "InstrumentID": "m2612",
+      "ExchangeID": "DCE",
+      "ProductID": "m",
+      "PriceTick": 1.0,
+      "VolumeMultiple": 10,
+      "ExpireDate": "20261214"
+    },
+    {
+      "InstrumentID": "m2701",
+      "ExchangeID": "DCE",
+      "ProductID": "m",
+      "PriceTick": 1.0,
+      "VolumeMultiple": 10,
+      "ExpireDate": "20270115"
+    },
+    {
+      "InstrumentID": "m2703",
+      "ExchangeID": "DCE",
+      "ProductID": "m",
+      "PriceTick": 1.0,
+      "VolumeMultiple": 10,
+      "ExpireDate": "20270312"
+    },
+    {
+      "InstrumentID": "al2612",
+      "ExchangeID": "SHFE",
+      "ProductID": "al",
+      "PriceTick": 5.0,
+      "VolumeMultiple": 5,
+      "ExpireDate": "20261215"
+    },
+    {
+      "InstrumentID": "al2701",
+      "ExchangeID": "SHFE",
+      "ProductID": "al",
+      "PriceTick": 5.0,
+      "VolumeMultiple": 5,
+      "ExpireDate": "20270115"
+    },
+    {
+      "InstrumentID": "al2702",
+      "ExchangeID": "SHFE",
+      "ProductID": "al",
+      "PriceTick": 5.0,
+      "VolumeMultiple": 5,
+      "ExpireDate": "20270215"
+    },
+    {
+      "InstrumentID": "IF2612",
+      "ExchangeID": "CFFEX",
+      "ProductID": "IF",
+      "PriceTick": 0.2,
+      "VolumeMultiple": 300,
+      "ExpireDate": "20261218"
+    },
+    {
+      "InstrumentID": "IF2703",
+      "ExchangeID": "CFFEX",
+      "ProductID": "IF",
+      "PriceTick": 0.2,
+      "VolumeMultiple": 300,
+      "ExpireDate": "20270319"
+    },
+    {
+      "InstrumentID": "T2612",
+      "ExchangeID": "CFFEX",
+      "ProductID": "T",
+      "PriceTick": 0.005,
+      "VolumeMultiple": 10000,
+      "ExpireDate": "20261211"
+    },
+    {
+      "InstrumentID": "T2703",
+      "ExchangeID": "CFFEX",
+      "ProductID": "T",
+      "PriceTick": 0.005,
+      "VolumeMultiple": 10000,
+      "ExpireDate": "20270312"
+    },
+    {
+      "InstrumentID": "T2706",
+      "ExchangeID": "CFFEX",
+      "ProductID": "T",
+      "PriceTick": 0.005,
+      "VolumeMultiple": 10000,
+      "ExpireDate": "20270611"
+    }
+  ],
+  "risk_query_checks": {
+    "IF2612": {
+      "exchange": "CFFEX",
+      "margin_instrument_ids": [
+        "IF2612"
+      ],
+      "fee_instrument_ids": [
+        "IF2612"
+      ],
+      "long": 0,
+      "short": 0
+    },
+    "T2612": {
+      "exchange": "CFFEX",
+      "margin_instrument_ids": [
+        "T2612"
+      ],
+      "fee_instrument_ids": [
+        "T2612"
+      ],
+      "long": 0,
+      "short": 0
+    }
+  },
+  "one_cny_account_returned": true,
+  "active_orders": 0,
+  "last_completed_or_pending_stage": "TD_reqQryOrder",
+  "callback_trace": [
+    {
+      "api": "MD",
+      "event": "onFrontConnected",
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRspUserLogin",
+      "request_id": 0,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onFrontConnected",
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspAuthenticate",
+      "request_id": 2,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspUserLogin",
+      "request_id": 3,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspSettlementInfoConfirm",
+      "request_id": 4,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInstrument",
+      "request_id": 5,
+      "last": false,
+      "error_code": 0,
+      "count": 16737
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInstrument",
+      "request_id": 5,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInstrumentMarginRate",
+      "request_id": 6,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInstrumentCommissionRate",
+      "request_id": 7,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInvestorPosition",
+      "request_id": 8,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInstrumentMarginRate",
+      "request_id": 9,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInstrumentCommissionRate",
+      "request_id": 10,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInvestorPosition",
+      "request_id": 11,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryTradingAccount",
+      "request_id": 12,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryOrder",
+      "request_id": 13,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    }
+  ]
+}

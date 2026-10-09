@@ -1,0 +1,69 @@
+{
+  "mode": "SIMNOW",
+  "orders_sent": 0,
+  "status": "BLOCKED",
+  "login": "PASS",
+  "trading_day": "20261009",
+  "reason": "INSTRUMENT_NOT_TRADABLE",
+  "last_completed_or_pending_stage": "TD_reqQryInstrument",
+  "callback_trace": [
+    {
+      "api": "MD",
+      "event": "onFrontConnected",
+      "count": 1
+    },
+    {
+      "api": "MD",
+      "event": "onRspUserLogin",
+      "request_id": 0,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onFrontConnected",
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspAuthenticate",
+      "request_id": 2,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspUserLogin",
+      "request_id": 3,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspSettlementInfoConfirm",
+      "request_id": 4,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInstrument",
+      "request_id": 5,
+      "last": false,
+      "error_code": 0,
+      "count": 32
+    },
+    {
+      "api": "TD",
+      "event": "onRspQryInstrument",
+      "request_id": 5,
+      "last": true,
+      "error_code": 0,
+      "count": 1
+    }
+  ]
+}

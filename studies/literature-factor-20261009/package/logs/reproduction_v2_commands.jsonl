@@ -1,0 +1,1 @@
+{"started": "2026-10-09T01:14:28.050056+00:00", "finished": "2026-10-09T01:19:39.451646+00:00", "argv": ["/Users/peter/qt/work/factor-discovery/20261009/src/factorlab/cli.py", "--root", "reproduction/historical", "validate"], "command": "validate", "exit_code": 0, "summary": {"research_outcome": "NO_FACTOR_PASSED", "method_selected": "NET_K20_A02", "validation_qualified": false}}
